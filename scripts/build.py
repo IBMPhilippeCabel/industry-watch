@@ -23,9 +23,9 @@ SOURCES_FILE = ROOT / "sources.json"
 MAX_PER_SOURCE = 15
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "openai/gpt-oss-20b"   # free plan: 30 RPM, 1K RPD, 8K TPM, 200K TPD
-BATCH_SIZE = 8                      # keeps each call well under the 8K tokens/minute limit
-PAUSE_SECONDS = 25                  # between batches
+GROQ_MODEL = "openai/gpt-oss-20b"   # free plan (console.groq.com/docs/rate-limits): 30 RPM, 1K RPD, 8K TPM, 200K TPD
+BATCH_SIZE = 6                      # small batches keep each call well under 8K tokens/minute
+PAUSE_SECONDS = 20                  # spreads batches over the minute
 BRIEFING_MAX_HEADLINES = 40
 
 SOURCES = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
@@ -122,7 +122,10 @@ def groq_chat(system, user, max_tokens):
     body = json.dumps({
         "model": GROQ_MODEL,
         "temperature": 0.2,
-        "max_tokens": max_tokens,
+        "max_completion_tokens": max_tokens,
+        "reasoning_effort": "low",      # gpt-oss: keep the hidden reasoning short
+        "include_reasoning": False,     # reasoning must not end up in the answer
+        "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": user},
@@ -153,10 +156,11 @@ def groq_chat(system, user, max_tokens):
 
 
 SUMMARY_SYSTEM = (
-    "You write for pet food industry consultants. For each numbered article, write a summary "
-    "of exactly two short sentences in English. Use ONLY the title and description given: "
-    "do not add facts, figures, names or speculation. "
-    'Reply with JSON only, in this form: {"summaries": ["...", "..."]} with one entry per article, in order.'
+    "You write for pet food industry consultants. "
+    "For each numbered article below, write a summary of exactly two short sentences in English. "
+    "Use ONLY the title and description given — do not add facts, figures, names or speculation. "
+    'Return ONLY a JSON object with this exact structure: {"summaries": ["two-sentence summary 1", "two-sentence summary 2", ...]} '
+    "with one string entry per article, in the same order."
 )
 
 
@@ -171,12 +175,12 @@ def summarize(articles):
         if n:
             time.sleep(PAUSE_SECONDS)
         lines = [f"{i}. {a['title']} — {a['summary']}" for i, a in enumerate(batch, 1)]
-        text = groq_chat(SUMMARY_SYSTEM, "\n".join(lines), max_tokens=1500)
+        text = groq_chat(SUMMARY_SYSTEM, "\n".join(lines), max_tokens=2500)
         try:
-            payload = json.loads(text[text.index("{"):text.rindex("}") + 1])
+            payload = json.loads(text)
             summaries = payload["summaries"]
         except Exception:
-            print(f"WARN batch {n + 1}/{len(batches)}: unusable Groq reply", file=sys.stderr)
+            print(f"WARN batch {n + 1}/{len(batches)}: unusable Groq reply: {str(text)[:120]}", file=sys.stderr)
             continue
         if len(summaries) != len(batch):
             print(f"WARN batch {n + 1}/{len(batches)}: expected {len(batch)} summaries, got {len(summaries)}", file=sys.stderr)
@@ -191,13 +195,19 @@ def summarize(articles):
 BRIEFING_SYSTEM = (
     "You write a daily briefing for pet food industry consultants, in English, 4 to 6 sentences, "
     "grouping the headlines by theme. Use ONLY the headlines given: do not add facts, figures, "
-    "names or speculation. Plain text, no bullet points, no title."
+    "names or speculation. Plain text, no bullet points, no title. "
+    'Return ONLY a JSON object: {"briefing": "your text here"}'
 )
 
 
 def briefing(articles):
     headlines = [f"- [{a['category']}] {a['title']} ({a['source']})" for a in articles[:BRIEFING_MAX_HEADLINES]]
-    return groq_chat(BRIEFING_SYSTEM, "\n".join(headlines), max_tokens=700)
+    text = groq_chat(BRIEFING_SYSTEM, "\n".join(headlines), max_tokens=2000)
+    try:
+        return json.loads(text)["briefing"]
+    except Exception:
+        print(f"WARN briefing parse failed: {str(text)[:120]}", file=sys.stderr)
+        return None
 
 
 # ---------------------------------------------------------------- main

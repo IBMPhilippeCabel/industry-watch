@@ -31,8 +31,14 @@ jobs:
 
       # Step 1: fetch RSS feeds -> data/YYYY/MM/DD.json, stored on main
       - name: Fetch RSS feeds
-        shell: bash   # enables pipefail so a script failure is not masked by tee
-        run: python scripts/build.py 2>&1 | tee /tmp/build.log
+        shell: bash
+        run: |
+          python scripts/build.py 2>&1 | tee /tmp/build.log
+          # extract metrics for the job summary
+          grep -oE 'Wrote [0-9]+ new articles' /tmp/build.log | grep -oE '[0-9]+' > /tmp/articles.txt   || true
+          grep -oE '\([0-9]+ summarized'       /tmp/build.log | grep -oE '[0-9]+' > /tmp/summarized.txt || true
+          grep -oE 'Wrote .+\.briefing\.txt'   /tmp/build.log                     > /tmp/briefing.txt   || true
+          grep 'WARN'                          /tmp/build.log                     > /tmp/warnings.txt   || true
 
       - name: Commit data to main
         id: data
@@ -71,18 +77,36 @@ jobs:
       - name: Write Job Summary
         if: always()
         run: |
+          ARTICLES=$([ -s /tmp/articles.txt ] && cat /tmp/articles.txt || echo "0")
+          SUMMARIZED=$([ -s /tmp/summarized.txt ] && cat /tmp/summarized.txt || echo "0")
+          BRIEFING=$([ -s /tmp/briefing.txt ] && echo "✅ yes" || echo "—")
+          WARNINGS=$(cat /tmp/warnings.txt    2>/dev/null || true)
+          RENDER=$(cat /tmp/render.log        2>/dev/null || echo "No render log")
           {
             echo "## Petfood Watch — nightly update $(date -u +'%Y-%m-%d %H:%M UTC')"
             echo ""
-            echo "### 1. RSS fetch"
-            echo '```'
-            cat /tmp/build.log 2>/dev/null || echo "No fetch log (step did not run)"
-            echo '```'
-            echo "Data committed to **main**: ${{ steps.data.outputs.committed || 'n/a' }}"
+            echo "| | |"
+            echo "|---|---|"
+            echo "| 📰 New articles fetched | $ARTICLES |"
+            echo "| 🤖 AI summaries written | $SUMMARIZED |"
+            echo "| ✦ Daily briefing | $BRIEFING |"
+            echo "| 💾 Data committed to main | ${{ steps.data.outputs.committed || 'n/a' }} |"
+            echo "| 🌐 Site published to SiteWeb | ${{ steps.push.outputs.published || 'n/a' }} |"
             echo ""
-            echo "### 2. Site render"
+            if [ -n "$WARNINGS" ]; then
+              echo "### ⚠️ Warnings"
+              echo '```'
+              echo "$WARNINGS"
+              echo '```'
+            fi
+            echo "### RSS fetch log"
             echo '```'
-            cat /tmp/render.log 2>/dev/null || echo "No render log (step did not run)"
+            cat /tmp/build.log 2>/dev/null || echo "No fetch log"
+            echo '```'
+            echo ""
+            echo "### Site render log"
+            echo '```'
+            echo "$RENDER"
             echo '```'
             echo ""
             if [ "${{ job.status }}" != "success" ]; then
