@@ -34,7 +34,9 @@ CSS = """
   /* briefing */
   .briefing { background:var(--card); border:1px solid var(--border); border-left:4px solid var(--ai); border-radius:8px; padding:16px 20px; margin:20px 0 4px; }
   .briefing-label { font-size:11px; font-weight:600; text-transform:uppercase; letter-spacing:.06em; color:var(--ai); margin-bottom:6px; }
-  .briefing p { margin:0; font-size:14px; line-height:1.6; }
+  .briefing p { margin:0 0 6px; font-size:14px; line-height:1.6; }
+  .briefing .briefing-hook { font-size:15px; font-weight:600; margin-bottom:10px; }
+  .briefing .briefing-cat { color:var(--text); }
   .briefing-meta { font-size:12px; color:var(--muted); margin-top:8px; }
   /* filters */
   nav.filters { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }
@@ -109,11 +111,23 @@ def shell(title, nav_links, body, updated, script=""):
 def briefing_block(briefing):
     if not briefing:
         return ""
-    day, text = briefing
+    day, data = briefing
+    hook = data.get("hook", "")
+    cats = data.get("categories", {})
+    # hook line
+    parts = [f'<p class="briefing-hook">{esc(hook)}</p>'] if hook else []
+    # one line per category that has content
+    for cat in ("📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"):
+        v = cats.get(cat)
+        if v:
+            parts.append(f'<p class="briefing-cat"><strong>{esc(cat)}</strong> — {esc(v)}</p>')
+    if not parts:
+        return ""
+    inner = "\n".join(parts)
     return (
         f'<div class="briefing">'
         f'<div class="briefing-label">✦ Daily Briefing — AI-generated</div>'
-        f'<p>{esc(text)}</p>'
+        f'{inner}'
         f'<div class="briefing-meta">{day}</div>'
         f'</div>'
     )
@@ -169,9 +183,12 @@ def load_all():
     files = sorted(DATA_DIR.glob("*/*/*.briefing.txt"))
     if files:
         f = files[-1]
-        text = f.read_text(encoding="utf-8").strip()
-        if text:
-            briefing = (f"{f.parent.parent.name}-{f.parent.name}-{f.name.split('.')[0]}", text)
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError:
+            data = None   # old plain-text format (title dump): ignored
+        if isinstance(data, dict) and (data.get("hook") or data.get("categories")):
+            briefing = (f"{f.parent.parent.name}-{f.parent.name}-{f.name.split('.')[0]}", data)
     return articles, briefing
 
 

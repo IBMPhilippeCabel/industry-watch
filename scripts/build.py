@@ -192,22 +192,78 @@ def summarize(articles):
     return done
 
 
-BRIEFING_SYSTEM = (
-    "You write a daily briefing for pet food industry consultants, in English, 4 to 6 sentences, "
-    "grouping the headlines by theme. Use ONLY the headlines given: do not add facts, figures, "
-    "names or speculation. Plain text, no bullet points, no title. "
-    'Return ONLY a JSON object: {"briefing": "your text here"}'
-)
+# Fallback briefing: pure stats, no AI
+def briefing_fallback(articles):
+    from collections import Counter
+    counts = Counter(a["category"] for a in articles)
+    parts = ", ".join(f"{counts[c]} {c}" for c in ("📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation") if c in counts)
+    return f"{len(articles)} new articles today — {parts}."
+
+
+BRIEFING_SYSTEM = """You write a structured daily briefing for pet food industry consultants.
+
+From the article summaries below (grouped by category), produce EXACTLY this JSON — no extra keys:
+{
+  "hook": "One compelling sentence summarising the overall day (max 25 words).",
+  "categories": {
+    "📈 Market": "1-2 sentences on the most important market signals (or null if none).",
+    "🤝 M&A": "1-2 sentences on deals, investments, expansions (or null if none).",
+    "⚖️ Regulation": "1-2 sentences on regulatory developments (or null if none).",
+    "💡 Innovation": "1-2 sentences on product or technology innovations (or null if none)."
+  }
+}
+
+Rules:
+- Use ONLY what is in the summaries. Do not add names, figures, or facts not present.
+- Each value is a plain prose string or null — no lists, no semicolons separating titles.
+- Total output must be valid JSON and nothing else."""
+
+
+def _is_valid_briefing(data):
+    """Return True only if the AI reply looks like real prose, not a title dump."""
+    if not isinstance(data, dict):
+        return False
+    hook = data.get("hook", "")
+    cats = data.get("categories", {})
+    if not isinstance(hook, str) or len(hook) < 20 or not isinstance(cats, dict):
+        return False
+    values = [hook] + [v for v in cats.values() if v]
+    if any(not isinstance(v, str) for v in values):
+        return False
+    # Reject title dumps: too many semicolons, or too long overall
+    if any(v.count(";") > 3 for v in values):
+        return False
+    if sum(len(v) for v in values) > 900:
+        return False
+    return True
 
 
 def briefing(articles):
-    headlines = [f"- [{a['category']}] {a['title']} ({a['source']})" for a in articles[:BRIEFING_MAX_HEADLINES]]
-    text = groq_chat(BRIEFING_SYSTEM, "\n".join(headlines), max_tokens=2000)
-    try:
-        return json.loads(text)["briefing"]
-    except Exception:
-        print(f"WARN briefing parse failed: {str(text)[:120]}", file=sys.stderr)
-        return None
+    # Input: up to 6 ai_summary per category → 24 items max, ~3K tokens
+    cats = {}
+    for a in articles:
+        if a.get("ai_summary"):
+            cats.setdefault(a["category"], []).append(a)
+    input_lines = []
+    for cat, items in cats.items():
+        input_lines.append(f"\n## {cat}")
+        for a in items[:6]:
+            input_lines.append(f"- {a['ai_summary']}")
+    if not input_lines:
+        # fall back to titles if no ai_summary yet
+        for a in articles[:BRIEFING_MAX_HEADLINES]:
+            input_lines.append(f"- [{a['category']}] {a['title']}")
+
+    for attempt in range(2):
+        text = groq_chat(BRIEFING_SYSTEM, "\n".join(input_lines), max_tokens=800)
+        try:
+            data = json.loads(text)
+            if _is_valid_briefing(data):
+                return data
+            print(f"WARN briefing attempt {attempt+1}: output failed quality check", file=sys.stderr)
+        except Exception:
+            print(f"WARN briefing attempt {attempt+1}: JSON parse failed: {str(text)[:120]}", file=sys.stderr)
+    return None
 
 
 # ---------------------------------------------------------------- main
@@ -250,12 +306,16 @@ def main():
     out.write_text(json.dumps(new, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {len(new)} new articles to {out.relative_to(ROOT)} ({n_sum} summarized by Groq)")
 
-    text = briefing(new) if os.environ.get("GROQ_API_KEY") else None
-    if text:
-        briefing_file.write_text(text, encoding="utf-8")
-        print(f"Wrote {briefing_file.relative_to(ROOT)}")
-    elif os.environ.get("GROQ_API_KEY"):
-        print("WARN no briefing generated", file=sys.stderr)
+    if os.environ.get("GROQ_API_KEY"):
+        data = briefing(new)
+        if data:
+            briefing_file.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            print(f"Wrote {briefing_file.relative_to(ROOT)}")
+        else:
+            # AI failed quality check: write a stats-only fallback
+            fb = briefing_fallback(new)
+            briefing_file.write_text(json.dumps({"hook": fb, "categories": {}}, ensure_ascii=False), encoding="utf-8")
+            print(f"WARN briefing AI failed, wrote fallback to {briefing_file.relative_to(ROOT)}", file=sys.stderr)
     return 0
 
 
