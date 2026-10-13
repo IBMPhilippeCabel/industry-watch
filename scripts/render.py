@@ -8,6 +8,7 @@ Writes into <site_dir>:
   archive/YYYY-MM.html    all articles first seen in that month
   archive/index.html      list of monthly archive pages
 """
+import hashlib
 import html
 import json
 import sys
@@ -18,6 +19,11 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 SOURCES = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
 ROLLING_DAYS = 30
+SITE_URL = "https://ibmphilippecabel.github.io/petfood-watch/"
+SITE_NAME = "Petfood Watch"
+SITE_DESC = ("Daily AI-assisted intelligence on the pet food industry: market, M&A, "
+             "regulation and innovation news from trade press, with per-article summaries "
+             "and a daily briefing.")
 CATEGORIES = ["📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"]
 
 CSS = """
@@ -84,28 +90,58 @@ def esc(v):
     return html.escape(v or "", quote=True)
 
 
-def shell(title, nav_links, body, updated, script=""):
+def art_id(a):
+    return "a-" + hashlib.sha1(a["link"].encode("utf-8")).hexdigest()[:10]
+
+
+def art_day(a):
+    return (a.get("date") or "")[:10] or a["first_seen"].isoformat()
+
+
+def jsonld_tag(obj):
+    if not obj:
+        return ""
+    raw = json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")
+    return f'<script type="application/ld+json">{raw}</script>'
+
+
+def shell(title, nav_links, body, updated, script="", path="", description=SITE_DESC, jsonld=None):
+    url = SITE_URL + path
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
+<meta name="description" content="{esc(description)}">
+<link rel="canonical" href="{esc(url)}">
+<link rel="alternate" type="application/atom+xml" title="{SITE_NAME} feed" href="{SITE_URL}feed.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(description)}">
+<meta property="og:url" content="{esc(url)}">
+<meta name="twitter:card" content="summary">
+{jsonld_tag(jsonld)}
 <style>{CSS}</style>
 </head>
 <body>
 <header>
-  <h1>Petfood Watch</h1>
+  <h1>{SITE_NAME}</h1>
   <nav>{nav_links}</nav>
 </header>
-<div class="wrap">
+<main class="wrap">
 {body}
-</div>
-<footer>Last updated: {updated}</footer>
+</main>
+<footer>Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></footer>
 <script>{script}</script>
 </body>
 </html>
 """
+
+
+def updated_iso(updated):
+    return updated.replace(" UTC", "").replace(" ", "T") + ":00Z"
 
 
 def briefing_block(briefing):
@@ -128,7 +164,7 @@ def briefing_block(briefing):
         f'<div class="briefing">'
         f'<div class="briefing-label">✦ Daily Briefing — AI-generated</div>'
         f'{inner}'
-        f'<div class="briefing-meta">{day}</div>'
+        f'<div class="briefing-meta"><time datetime="{day}">{day}</time></div>'
         f'</div>'
     )
 
@@ -139,19 +175,136 @@ def cards_section(articles):
     ]
     rows = []
     for a in articles:
-        d = (a.get("date") or "")[:10]
+        d = art_day(a)
         ai = a.get("ai_summary", "")
         ai_html = f'<div class="ai-summary">{esc(ai)}</div>' if ai else ""
         rows.append(
-            f'<article class="card" data-cat="{esc(a["category"])}">'
+            f'<article class="card" id="{art_id(a)}" data-cat="{esc(a["category"])}">'
             f'<div class="meta"><span class="tag">{esc(a["category"])}</span>'
-            f'<span>{esc(a["source"])}</span><span>{d}</span></div>'
+            f'<span>{esc(a["source"])}</span><time datetime="{d}">{d}</time></div>'
             f'{ai_html}'
             f'<h2><a href="{esc(a["link"])}" target="_blank" rel="noopener">{esc(a["title"])}</a></h2>'
             f'<p>{esc(a["summary"])}</p></article>'
         )
     grid = "".join(rows) or '<p class="muted">No articles.</p>'
     return f'<nav class="filters">{"".join(buttons)}</nav><div class="grid">{grid}</div>'
+
+
+def item_list_jsonld(articles, limit=50):
+    items = []
+    for i, a in enumerate(articles[:limit], 1):
+        items.append({
+            "@type": "ListItem",
+            "position": i,
+            "item": {
+                "@type": "NewsArticle",
+                "headline": a["title"],
+                "url": a["link"],
+                "datePublished": art_day(a),
+                "description": a.get("ai_summary") or a.get("summary", ""),
+                "articleSection": a["category"],
+                "publisher": {"@type": "Organization", "name": a["source"]},
+            },
+        })
+    return items
+
+
+def page_jsonld(name, path, description, articles):
+    return {
+        "@context": "https://schema.org",
+        "@graph": [
+            {"@type": "WebSite", "name": SITE_NAME, "url": SITE_URL,
+             "description": SITE_DESC, "inLanguage": "en"},
+            {"@type": "CollectionPage", "name": name, "url": SITE_URL + path,
+             "description": description, "inLanguage": "en",
+             "isPartOf": {"@type": "WebSite", "url": SITE_URL},
+             "mainEntity": {"@type": "ItemList", "itemListElement": item_list_jsonld(articles)}},
+        ],
+    }
+
+
+def write_machine_files(site, articles, recent, briefing, now):
+    # robots.txt
+    (site / "robots.txt").write_text(
+        "User-agent: *\nAllow: /\n\n"
+        + "".join(f"User-agent: {bot}\nAllow: /\n\n" for bot in (
+            "GPTBot", "OAI-SearchBot", "ChatGPT-User", "PerplexityBot",
+            "ClaudeBot", "Google-Extended", "CCBot"))
+        + f"Sitemap: {SITE_URL}sitemap.xml\n",
+        encoding="utf-8",
+    )
+
+    # sitemap.xml
+    months = sorted({f"{a['first_seen']:%Y-%m}" for a in articles}, reverse=True)
+    today = f"{now:%Y-%m-%d}"
+    urls = [("", today), ("archive/index.html", today)] + [
+        (f"archive/{ym}.html", today if ym == months[0] else f"{ym}-28") for ym in months
+    ]
+    (site / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "".join(f"  <url><loc>{esc(SITE_URL + p)}</loc><lastmod>{lm}</lastmod></url>\n" for p, lm in urls)
+        + "</urlset>\n",
+        encoding="utf-8",
+    )
+
+    # feed.xml (Atom, 50 latest)
+    entries = "".join(
+        f'  <entry>\n    <title>{esc(a["title"])}</title>\n'
+        f'    <id>{esc(a["link"])}</id>\n'
+        f'    <link href="{esc(a["link"])}"/>\n'
+        f'    <updated>{art_day(a)}T00:00:00Z</updated>\n'
+        f'    <category term="{esc(a["category"])}"/>\n'
+        f'    <author><name>{esc(a["source"])}</name></author>\n'
+        f'    <summary>{esc(a.get("ai_summary") or a.get("summary", ""))}</summary>\n  </entry>\n'
+        for a in recent[:50]
+    )
+    (site / "feed.xml").write_text(
+        '<?xml version="1.0" encoding="utf-8"?>\n'
+        '<feed xmlns="http://www.w3.org/2005/Atom">\n'
+        f'  <title>{SITE_NAME}</title>\n  <subtitle>{esc(SITE_DESC)}</subtitle>\n'
+        f'  <link href="{SITE_URL}feed.xml" rel="self"/>\n  <link href="{SITE_URL}"/>\n'
+        f'  <id>{SITE_URL}</id>\n  <updated>{updated_iso(f"{now:%Y-%m-%d %H:%M UTC}")}</updated>\n'
+        + entries + "</feed>\n",
+        encoding="utf-8",
+    )
+
+    # data.json (machine-readable copy of the home page)
+    (site / "data.json").write_text(
+        json.dumps({
+            "site": SITE_URL,
+            "updated": updated_iso(f"{now:%Y-%m-%d %H:%M UTC}"),
+            "briefing": ({"date": briefing[0], **briefing[1]} if briefing else None),
+            "articles": [
+                {"title": a["title"], "url": a["link"], "source": a["source"],
+                 "category": a["category"], "date": art_day(a),
+                 "ai_summary": a.get("ai_summary", ""), "excerpt": a.get("summary", "")}
+                for a in recent
+            ],
+        }, ensure_ascii=False, indent=1),
+        encoding="utf-8",
+    )
+
+    # llms.txt
+    (site / "llms.txt").write_text(
+        f"# {SITE_NAME}\n\n"
+        f"> {SITE_DESC}\n\n"
+        "Content is in English. Articles are collected nightly from public RSS feeds of pet food "
+        "trade publications; summaries and the daily briefing are AI-generated, and each item "
+        "links to its original source.\n\n"
+        "## Main pages\n\n"
+        f"- [Home]({SITE_URL}): articles of the last {ROLLING_DAYS} days with the daily briefing\n"
+        f"- [Archive]({SITE_URL}archive/index.html): one page per month, all articles\n\n"
+        "## Machine-readable\n\n"
+        f"- [Atom feed]({SITE_URL}feed.xml): 50 latest articles\n"
+        f"- [JSON data]({SITE_URL}data.json): briefing and articles from the last {ROLLING_DAYS} days\n"
+        f"- [Sitemap]({SITE_URL}sitemap.xml)\n\n"
+        "## Categories\n\n"
+        + "".join(f"- {c}\n" for c in CATEGORIES)
+        + "\n## Sources\n\n"
+        + "".join(f"- [{s['name']}]({s['url']}): {s['description']}\n" for s in SOURCES),
+        encoding="utf-8",
+    )
 
 
 def sources_section():
@@ -210,8 +363,11 @@ def main():
     recent = [a for a in articles if a["first_seen"] >= cutoff]
     body = briefing_block(briefing) + cards_section(recent) + sources_section()
     nav = '<a href="index.html">🏠 Home</a><a href="archive/index.html">📚 Archive</a>'
+    home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
     (site / "index.html").write_text(
-        shell("Petfood Watch", nav, body, updated, FILTER_JS),
+        shell("Petfood Watch — pet food industry news, market, M&A, regulation", nav, body, updated,
+              FILTER_JS, path="", description=home_desc,
+              jsonld=page_jsonld(SITE_NAME, "", home_desc, recent)),
         encoding="utf-8",
     )
 
@@ -224,8 +380,11 @@ def main():
     for ym, items in months.items():
         nav = '<a href="../index.html">🏠 Home</a><a href="index.html">📚 Archive</a>'
         body = cards_section(items)
+        desc = f"Pet food industry news archive for {ym}: {len(items)} articles."
         (archive / f"{ym}.html").write_text(
-            shell(f"Petfood Watch — {ym}", nav, body, updated, FILTER_JS),
+            shell(f"Petfood Watch — Archive {ym}", nav, body, updated, FILTER_JS,
+                  path=f"archive/{ym}.html", description=desc,
+                  jsonld=page_jsonld(f"Petfood Watch archive {ym}", f"archive/{ym}.html", desc, items)),
             encoding="utf-8",
         )
 
@@ -236,9 +395,12 @@ def main():
     )
     nav = '<a href="../index.html">🏠 Home</a><a href="index.html">📚 Archive</a>'
     (archive / "index.html").write_text(
-        shell("Petfood Watch — Archive", nav, f'<ul class="months">{rows}</ul>', updated),
+        shell("Petfood Watch — Archive", nav, f'<ul class="months">{rows}</ul>', updated,
+              path="archive/index.html", description="Monthly archive of Petfood Watch articles."),
         encoding="utf-8",
     )
+
+    write_machine_files(site, articles, recent, briefing, now)
 
     print(
         f"index.html: {len(recent)} articles (last {ROLLING_DAYS} days); "
