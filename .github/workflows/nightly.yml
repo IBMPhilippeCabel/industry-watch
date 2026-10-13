@@ -1,0 +1,44 @@
+name: Nightly site update
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # every night at 03:00 UTC
+  workflow_dispatch:       # manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main (script + sources.json)
+        uses: actions/checkout@v4
+
+      - name: Checkout SiteWeb (published branch)
+        uses: actions/checkout@v4
+        with:
+          ref: SiteWeb
+          path: site
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build index.html from RSS feeds
+        run: python scripts/build.py
+
+      - name: Commit and push to SiteWeb
+        run: |
+          cp index.html site/index.html
+          cd site
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "No change to publish"
+          else
+            git commit -m "Nightly update $(date -u +%Y-%m-%d)"
+            git push origin SiteWeb
+          fi
