@@ -1,0 +1,17 @@
+# Bob workspace cache
+.bob/
+
+# Generated site files (live on SiteWeb branch, not main)
+index.html
+archive/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
