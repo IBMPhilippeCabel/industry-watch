@@ -204,38 +204,49 @@ BRIEFING_SYSTEM = """You write a structured daily briefing for pet food industry
 
 From the article summaries below (grouped by category), produce EXACTLY this JSON — no extra keys:
 {
-  "hook": "One compelling sentence summarising the overall day (max 25 words).",
+  "hook": "One sentence on the overall day (max 150 characters).",
   "categories": {
-    "📈 Market": "1-2 sentences on the most important market signals (or null if none).",
-    "🤝 M&A": "1-2 sentences on deals, investments, expansions (or null if none).",
-    "⚖️ Regulation": "1-2 sentences on regulatory developments (or null if none).",
-    "💡 Innovation": "1-2 sentences on product or technology innovations (or null if none)."
+    "📈 Market": "ONE sentence (max 250 characters) on the main market signal, or null if none.",
+    "🤝 M&A": "ONE sentence (max 250 characters) on deals, investments or expansions, or null if none.",
+    "⚖️ Regulation": "ONE sentence (max 250 characters) on regulatory developments, or null if none.",
+    "💡 Innovation": "ONE sentence (max 250 characters) on product or technology innovation, or null if none."
   }
 }
 
-Rules:
+Hard limits:
+- Each category value: 250 characters maximum, including spaces. The hook: 150 characters maximum.
+- ONE sentence per category, never more. Synthesise the theme; do not enumerate articles.
 - Use ONLY what is in the summaries. Do not add names, figures, or facts not present.
-- Each value is a plain prose string or null — no lists, no semicolons separating titles.
-- Total output must be valid JSON and nothing else."""
+- Plain prose only: no lists, no semicolons, no copied titles.
+- Reply with valid JSON and nothing else."""
 
 
-def _is_valid_briefing(data):
-    """Return True only if the AI reply looks like real prose, not a title dump."""
+MAX_HOOK_CHARS = 200        # prompt asks for 150 / 250; these margins avoid rejecting a good
+MAX_CATEGORY_CHARS = 320    # briefing that is only a few words over
+
+
+def _briefing_problem(data):
+    """Return None if the reply looks like real prose, else a short reason for the rejection."""
     if not isinstance(data, dict):
-        return False
+        return "reply is not a JSON object"
     hook = data.get("hook", "")
     cats = data.get("categories", {})
-    if not isinstance(hook, str) or len(hook) < 20 or not isinstance(cats, dict):
-        return False
+    if not isinstance(hook, str) or len(hook) < 20:
+        return f"hook missing or too short ({hook!r})"
+    if not isinstance(cats, dict):
+        return "categories is not an object"
     values = [hook] + [v for v in cats.values() if v]
     if any(not isinstance(v, str) for v in values):
-        return False
-    # Reject title dumps: too many semicolons, or too long overall
+        return "a category value is not a string"
+    # A title dump is a long run of ';'-separated headlines
     if any(v.count(";") > 3 for v in values):
-        return False
-    if sum(len(v) for v in values) > 900:
-        return False
-    return True
+        return "too many ';' (looks like a list of titles)"
+    if len(hook) > MAX_HOOK_CHARS:
+        return f"hook too long ({len(hook)} > {MAX_HOOK_CHARS} characters)"
+    for name, v in cats.items():
+        if v and len(v) > MAX_CATEGORY_CHARS:
+            return f"{name} too long ({len(v)} > {MAX_CATEGORY_CHARS} characters)"
+    return None
 
 
 def briefing(articles):
@@ -255,14 +266,17 @@ def briefing(articles):
             input_lines.append(f"- [{a['category']}] {a['title']}")
 
     for attempt in range(2):
-        text = groq_chat(BRIEFING_SYSTEM, "\n".join(input_lines), max_tokens=800)
+        text = groq_chat(BRIEFING_SYSTEM, "\n".join(input_lines), max_tokens=1200)
         try:
             data = json.loads(text)
-            if _is_valid_briefing(data):
-                return data
-            print(f"WARN briefing attempt {attempt+1}: output failed quality check", file=sys.stderr)
         except Exception:
-            print(f"WARN briefing attempt {attempt+1}: JSON parse failed: {str(text)[:120]}", file=sys.stderr)
+            print(f"WARN briefing attempt {attempt+1}: JSON parse failed: {str(text)[:200]}", file=sys.stderr)
+            continue
+        problem = _briefing_problem(data)
+        if problem is None:
+            return data
+        print(f"WARN briefing attempt {attempt+1} rejected: {problem}", file=sys.stderr)
+        print(f"     reply was: {text[:300]}", file=sys.stderr)
     return None
 
 

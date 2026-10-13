@@ -209,7 +209,7 @@ def main():
     # ── index.html (rolling 30 days) ─────────────────────────────────
     recent = [a for a in articles if a["first_seen"] >= cutoff]
     body = briefing_block(briefing) + cards_section(recent) + sources_section()
-    nav = '<a href="index.html">Latest</a><a href="archive/index.html">Archive</a>'
+    nav = '<a href="index.html">🏠 Home</a><a href="archive/index.html">📚 Archive</a>'
     (site / "index.html").write_text(
         shell("Petfood Watch", nav, body, updated, FILTER_JS),
         encoding="utf-8",
@@ -222,7 +222,7 @@ def main():
     for a in articles:
         months.setdefault(f"{a['first_seen']:%Y-%m}", []).append(a)
     for ym, items in months.items():
-        nav = '<a href="../index.html">Latest</a><a href="index.html">Archive</a>'
+        nav = '<a href="../index.html">🏠 Home</a><a href="index.html">📚 Archive</a>'
         body = cards_section(items)
         (archive / f"{ym}.html").write_text(
             shell(f"Petfood Watch — {ym}", nav, body, updated, FILTER_JS),
@@ -234,7 +234,7 @@ def main():
         f'<li><a href="{ym}.html">{ym}</a><span class="muted">{len(months[ym])} articles</span></li>'
         for ym in sorted(months, reverse=True)
     )
-    nav = '<a href="../index.html">Latest</a>'
+    nav = '<a href="../index.html">🏠 Home</a><a href="index.html">📚 Archive</a>'
     (archive / "index.html").write_text(
         shell("Petfood Watch — Archive", nav, f'<ul class="months">{rows}</ul>', updated),
         encoding="utf-8",
