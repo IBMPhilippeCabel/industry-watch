@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """Render the static site from data/YYYY/MM/DD.json and DD.briefing.txt.
 
-Usage: python scripts/render.py <site_dir>
+Usage: python scripts/render.py [--site <id>] <output_dir>
 
-Writes into <site_dir>:
-  index.html              articles first seen in the last ROLLING_DAYS days
-  archive/YYYY-MM.html    all articles first seen in that month
+For a given site id, writes into <output_dir>/<id>/:
+  index.html              articles of the last ROLLING_DAYS days
+  archive/YYYY-MM.html    all articles for that month
   archive/index.html      list of monthly archive pages
+
+Also writes <output_dir>/index.html  (portal entry page listing all sites).
 """
 import hashlib
 import html
@@ -16,14 +18,38 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
-SOURCES = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
-ROLLING_DAYS = 30
-SITE_URL = "https://ibmphilippecabel.github.io/petfood-watch/"
-SITE_NAME = "Petfood Watch"
-SITE_DESC = ("Daily AI-assisted intelligence on the pet food industry: market, M&A, "
-             "regulation and innovation news from trade press, with per-article summaries "
-             "and a daily briefing.")
+
+
+def _load_config():
+    return json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+
+
+def _load_site_cfg(cfg, site_id=None):
+    sites = cfg["sites"]
+    if site_id:
+        matches = [s for s in sites if s["id"] == site_id]
+        if not matches:
+            raise SystemExit(f"ERROR: site id {site_id!r} not found in config.json")
+        return matches[0]
+    return sites[0]
+
+
+# Resolved from CLI arg --site <id>, or first site in config.
+_site_id = None
+for _i, _arg in enumerate(sys.argv[1:]):
+    if _arg == "--site" and _i + 1 < len(sys.argv) - 1:
+        _site_id = sys.argv[_i + 2]
+        break
+
+_GLOBAL_CFG = _load_config()
+_CFG = _load_site_cfg(_GLOBAL_CFG, _site_id)
+
+DATA_DIR   = ROOT / _CFG["data_dir"]
+SOURCES    = json.loads((ROOT / _CFG["sources_file"]).read_text(encoding="utf-8"))
+ROLLING_DAYS = int(_CFG.get("rolling_days", 30))
+SITE_NAME  = _CFG["site_name"]
+SITE_DESC  = _CFG["site_description"]
+SITE_URL   = _GLOBAL_CFG["site_root_url"].rstrip("/") + "/" + _CFG["id"] + "/"
 CATEGORIES = ["📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"]
 
 CSS = """
@@ -32,7 +58,8 @@ CSS = """
   body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); }
   /* header */
   header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
-  header h1 { margin:0; font-size:20px; }
+  header h1 { margin:0; font-size:20px; display:flex; align-items:center; gap:10px; }
+  header h1 img { width:28px; height:28px; object-fit:contain; border-radius:4px; }
   header nav a { color:var(--accent); text-decoration:none; font-size:14px; margin-left:20px; }
   /* sources dropdown */
   .src-btn { border:1px solid var(--border); background:var(--card); color:var(--text); padding:5px 12px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; margin-left:20px; }
@@ -108,6 +135,7 @@ FILTER_JS = """
   }
   initDropdown('src-btn', 'src-dropdown');
   initDropdown('arc-btn', 'arc-dropdown');
+  initDropdown('sites-btn', 'sites-dropdown');
 """
 
 
@@ -130,8 +158,58 @@ def jsonld_tag(obj):
     return f'<script type="application/ld+json">{raw}</script>'
 
 
-def shell(title, nav_links, body, updated, script="", path="", description=SITE_DESC, jsonld=None, sources_html="", archive_html=""):
+def _icon_src(icon_cfg):
+    """Resolve icon src in order: local path (if file exists) → url → None.
+    Returns a URL/path string usable in HTML, or None."""
+    if not isinstance(icon_cfg, dict):
+        return None
+    local = icon_cfg.get("path", "").strip()
+    if local and (ROOT / local).exists():
+        # Just the filename — icon is copied into site/<id>/ at render time
+        return Path(local).name
+    url = icon_cfg.get("url", "").strip()
+    return url or None
+
+
+def _site_header_icon():
+    """Return an <img> tag (path→url resolution), no fallback to emoji."""
+    icon_cfg = _CFG.get("site_icon")
+    src = _icon_src(icon_cfg)
+    if not src:
+        return ""
+    name = esc(_CFG.get("site_name", ""))
+    return f'<img src="{esc(src)}" alt="{name}" onerror="this.style.display=\'none\'">'
+
+
+def _sites_dropdown_html(depth=1):
+    """List all sites as links for the header dropdown. depth=1 for site pages, 2 for archive pages."""
+    prefix = "../" * depth
+    root_url = _GLOBAL_CFG["site_root_url"].rstrip("/") + "/"
+    items = ""
+    for s in _GLOBAL_CFG["sites"]:
+        sid = s["id"]
+        status = s.get("status", "live")
+        name = esc(s["site_name"])
+        icon_cfg = s.get("site_icon")
+        src = _icon_src(icon_cfg)
+        img = (
+            f'<img src="{esc(src)}" alt="" onerror="this.style.display=\'none\'" '
+            f'style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">'
+        ) if src else ""
+        wip = " 🚧" if status == "under_construction" else ""
+        active = " style=\"font-weight:700;color:var(--text);\"" if sid == _CFG["id"] else ""
+        items += f'<li><a href="{esc(prefix)}{esc(sid)}/index.html"{active}>{img}{name}{wip}</a></li>'
+    return f'<ul class="sources" style="min-width:200px">{items}</ul>'
+
+
+def shell(title, nav_links, body, updated, script="", path="", description=SITE_DESC, jsonld=None, sources_html="", archive_html="", depth=1):
     url = SITE_URL + path
+    sites_btn = (
+        f'<div class="src-wrap">'
+        f'<button class="src-btn" id="sites-btn">🗂️ Sites</button>'
+        f'<div class="src-dropdown" id="sites-dropdown">{_sites_dropdown_html(depth)}</div>'
+        f'</div>'
+    )
     src_btn = (
         f'<div class="src-wrap">'
         f'<button class="src-btn" id="src-btn">📡 Sources</button>'
@@ -164,8 +242,8 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 </head>
 <body>
 <header>
-  <h1>{SITE_NAME}</h1>
-  <nav>{nav_links}{arc_btn}{src_btn}</nav>
+  <h1>{_site_header_icon()}{esc(SITE_NAME)}</h1>
+  <nav>{nav_links}{sites_btn}{arc_btn}{src_btn}</nav>
 </header>
 <main class="wrap">
 {body}
@@ -402,19 +480,166 @@ def load_all():
     return articles, briefing
 
 
+def _resolve_icon(icon_cfg, default_emoji="🌐"):
+    """Return HTML for an icon: path→url→default emoji fallback.
+    icon_cfg: plain string (emoji) or {"default":"🐾","url":"...","path":"..."}.
+    """
+    if not icon_cfg:
+        return esc(default_emoji)
+    if isinstance(icon_cfg, str):
+        return esc(icon_cfg)
+    emoji = esc(icon_cfg.get("default") or default_emoji)
+    src = _icon_src(icon_cfg)
+    if not src:
+        return emoji
+    return (
+        f'<img src="{esc(src)}" alt="{emoji}" style="width:20px;height:20px;object-fit:contain;border-radius:3px;vertical-align:middle;" '
+        f'onerror="this.replaceWith(document.createTextNode(\'{emoji}\'))">'
+    )
+
+
+def render_under_construction(site, updated, portal_url="../index.html"):
+    """Write a single index.html under-construction page for a site."""
+    name = esc(SITE_NAME)
+    img_tag = _site_header_icon()
+    site.mkdir(parents=True, exist_ok=True)
+    html_out = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{name} — Under Construction</title>
+<style>
+  body {{ margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }}
+  .wrap {{ max-width:520px; margin:100px auto; padding:0 24px; text-align:center; }}
+  .icon {{ font-size:56px; margin-bottom:16px; display:flex; justify-content:center; align-items:center; gap:12px; }}
+  .icon img {{ width:56px; height:56px; object-fit:contain; border-radius:8px; }}
+  h1 {{ font-size:24px; margin-bottom:8px; }}
+  p {{ color:#57606a; margin-bottom:32px; }}
+  .badge {{ display:inline-block; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:4px 14px; font-size:13px; font-weight:600; margin-bottom:24px; }}
+  .btn {{ display:inline-block; background:#3b82d4; color:#fff; border-radius:8px; padding:10px 24px; text-decoration:none; font-size:14px; font-weight:600; }}
+  .btn:hover {{ background:#2563b0; }}
+  footer {{ text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:60px; }}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="icon">{img_tag} 🚧</div>
+  <h1>{name}</h1>
+  <div class="badge">Under Construction</div>
+  <p>This site is currently being set up. Check back soon!</p>
+  <a href="{esc(portal_url)}" class="btn">← Back to portal</a>
+</div>
+<footer>Last updated: <time>{updated}</time></footer>
+</body>
+</html>
+"""
+    (site / "index.html").write_text(html_out, encoding="utf-8")
+    print(f"[{_CFG['id']}] under-construction page written")
+
+
+def render_portal(output_dir, updated):
+    """Generate the portal entry page listing all sites."""
+    cfg = _GLOBAL_CFG
+    portal_name = cfg.get("portal_name", "Industry Watch")
+    portal_desc = cfg.get("portal_description", "")
+    root_url = cfg["site_root_url"].rstrip("/") + "/"
+
+    cards = ""
+    for s in cfg["sites"]:
+        sid = s["id"]
+        status = s.get("status", "live")
+        icon = _resolve_icon(s.get("site_icon"), "🌐")
+        name = esc(s["site_name"])
+        desc = esc(s["site_description"])
+        url = esc(sid + "/index.html")
+        badge = '<span class="portal-badge">🚧 Under construction</span>' if status == "under_construction" else ""
+        extra_cls = " portal-card--wip" if status == "under_construction" else ""
+        cards += (
+            f'<a href="{url}" class="portal-card{extra_cls}">'
+            f'<div class="portal-icon">{icon}</div>'
+            f'<div class="portal-name">{name}{badge}</div>'
+            f'<div class="portal-desc">{desc}</div>'
+            f'</a>'
+        )
+
+    portal_css = """
+  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }
+  .portal-wrap { max-width:800px; margin:80px auto; padding:0 24px; text-align:center; }
+  .portal-wrap h1 { font-size:28px; margin-bottom:8px; }
+  .portal-wrap p { color:#57606a; margin-bottom:40px; }
+  .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
+  .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
+  .portal-card:hover { border-color:#3b82d4; }
+  .portal-card--wip { background:#fffbeb; border-color:#fde68a; }
+  .portal-card--wip:hover { border-color:#f59e0b; }
+  .portal-icon { font-size:32px; margin-bottom:12px; display:flex; align-items:center; }
+  .portal-icon img { width:40px; height:40px; object-fit:contain; border-radius:6px; }
+  .portal-name { font-size:18px; font-weight:600; margin-bottom:6px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .portal-badge { font-size:11px; font-weight:600; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:2px 8px; }
+  .portal-desc { font-size:13px; color:#57606a; line-height:1.5; }
+  footer { text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:40px; }
+"""
+    html_out = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{esc(portal_name)}</title>
+<meta name="description" content="{esc(portal_desc)}">
+<style>{portal_css}</style>
+</head>
+<body>
+<div class="portal-wrap">
+  <h1>{esc(portal_name)}</h1>
+  <p>{esc(portal_desc)}</p>
+  <div class="portal-grid">{cards}</div>
+</div>
+<footer>Last updated: <time>{updated}</time></footer>
+</body>
+</html>
+"""
+    (output_dir / "index.html").write_text(html_out, encoding="utf-8")
+    print(f"Portal index.html written ({len(cfg['sites'])} sites)")
+
+
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: render.py <site_dir>", file=sys.stderr)
+    # Parse args: render.py [--site <id>] <output_dir>
+    args = [a for a in sys.argv[1:] if a != "--site" and a != _site_id]
+    if not args:
+        print("Usage: render.py [--site <id>] <output_dir>", file=sys.stderr)
         return 2
-    site = Path(sys.argv[1]).resolve()
+    output_dir = Path(args[0]).resolve()
+
+    # Site output goes into output_dir/<id>/
+    site = output_dir / _CFG["id"]
+    site.mkdir(parents=True, exist_ok=True)
+
+    # Copy local icon into site dir so relative src works after deploy.
+    icon_cfg = _CFG.get("site_icon")
+    if isinstance(icon_cfg, dict):
+        local = icon_cfg.get("path", "").strip()
+        if local:
+            src_icon = ROOT / local
+            if src_icon.exists():
+                import shutil
+                shutil.copy2(src_icon, site / src_icon.name)
+
+    now = datetime.now(timezone.utc)
+    updated = f"{now:%Y-%m-%d %H:%M UTC}"
+    portal_url = _GLOBAL_CFG["site_root_url"].rstrip("/") + "/"
+
+    # If under construction: write placeholder page and skip full render.
+    if _CFG.get("status") == "under_construction":
+        render_under_construction(site, updated)
+        render_portal(output_dir, updated)
+        return 0
+
     articles, briefing = load_all()
     if not articles:
         print("ERROR: no data found in data/", file=sys.stderr)
         return 1
 
-    now = datetime.now(timezone.utc)
-    updated = f"{now:%Y-%m-%d %H:%M UTC}"
-    # first_seen now equals the publication date (build.py files articles by pub date).
     cutoff = now.date() - timedelta(days=ROLLING_DAYS)
 
     # ── build months dict (by publication date = first_seen path) ────
@@ -431,53 +656,58 @@ def main():
     }
     all_months_keys = sorted(set(months) | existing_months, reverse=True)
 
-    # ── index.html (rolling 30 days) ─────────────────────────────────
+    # ── <id>/index.html (rolling N days) ─────────────────────────────
     recent = [a for a in articles if a["first_seen"] >= cutoff]
     body = briefing_block(briefing) + cards_section(recent)
-    nav = '<a href="index.html">🏠 Home</a>'
+    nav = f'<a href="../index.html">🏠 Portal</a>'
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
     (site / "index.html").write_text(
-        shell("Petfood Watch — pet food industry news, market, M&A, regulation", nav, body, updated,
-              FILTER_JS, path="", description=home_desc,
-              jsonld=page_jsonld(SITE_NAME, "", home_desc, recent),
+        shell(f"{SITE_NAME} — news", nav, body, updated,
+              FILTER_JS, path=f"{_CFG['id']}/", description=home_desc,
+              jsonld=page_jsonld(SITE_NAME, f"{_CFG['id']}/", home_desc, recent),
               sources_html=sources_dropdown_html(),
               archive_html=archive_dropdown_html(all_months_keys, months)),
         encoding="utf-8",
     )
 
-    # ── archive/YYYY-MM.html (one per month) ─────────────────────────
-
+    # ── <id>/archive/YYYY-MM.html ─────────────────────────────────────
     for ym, items in months.items():
-        nav = '<a href="../index.html">🏠 Home</a>'
+        nav = f'<a href="../../index.html">🏠 Portal</a>'
         body = cards_section(items)
-        desc = f"Pet food industry news archive for {ym}: {len(items)} articles."
+        desc = f"{SITE_NAME} archive {ym}: {len(items)} articles."
         (archive / f"{ym}.html").write_text(
-            shell(f"Petfood Watch — Archive {ym}", nav, body, updated, FILTER_JS,
-                  path=f"archive/{ym}.html", description=desc,
-                  jsonld=page_jsonld(f"Petfood Watch archive {ym}", f"archive/{ym}.html", desc, items),
-                  archive_html=archive_dropdown_html(all_months_keys, months)),
+            shell(f"{SITE_NAME} — Archive {ym}", nav, body, updated, FILTER_JS,
+                  path=f"{_CFG['id']}/archive/{ym}.html", description=desc,
+                  jsonld=page_jsonld(f"{SITE_NAME} archive {ym}", f"{_CFG['id']}/archive/{ym}.html", desc, items),
+                  archive_html=archive_dropdown_html(all_months_keys, months),
+                  depth=2),
             encoding="utf-8",
         )
 
-    # ── archive/index.html ───────────────────────────────────────────
+    # ── <id>/archive/index.html ───────────────────────────────────────
     rows = "".join(
         f'<li><a href="{ym}.html">{ym}</a>'
         + (f'<span class="muted">{len(months[ym])} articles</span>' if ym in months else '<span class="muted">—</span>')
         + '</li>'
         for ym in all_months_keys
     )
-    nav = '<a href="../index.html">🏠 Home</a>'
+    nav = f'<a href="../../index.html">🏠 Portal</a>'
     (archive / "index.html").write_text(
-        shell("Petfood Watch — Archive", nav, f'<ul class="months">{rows}</ul>', updated,
-              path="archive/index.html", description="Monthly archive of Petfood Watch articles.",
-              archive_html=archive_dropdown_html(all_months_keys, months)),
+        shell(f"{SITE_NAME} — Archive", nav, f'<ul class="months">{rows}</ul>', updated,
+              path=f"{_CFG['id']}/archive/index.html",
+              description=f"Monthly archive of {SITE_NAME} articles.",
+              archive_html=archive_dropdown_html(all_months_keys, months),
+              depth=2),
         encoding="utf-8",
     )
 
     write_machine_files(site, articles, recent, briefing, now)
 
+    # ── portal index.html (always regenerated, lists all sites) ──────
+    render_portal(output_dir, updated)
+
     print(
-        f"index.html: {len(recent)} articles (last {ROLLING_DAYS} days); "
+        f"[{_CFG['id']}] index.html: {len(recent)} articles (last {ROLLING_DAYS} days); "
         f"{len(months)} monthly archive page(s); briefing={'yes' if briefing else 'no'}"
     )
     return 0

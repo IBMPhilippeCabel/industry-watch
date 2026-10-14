@@ -12,16 +12,73 @@ env:
   GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
 jobs:
-  update-site:
+  # ── Step 1: build matrix of site ids from config.json ────────────────────
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.read.outputs.matrix }}
+      site_branch: ${{ steps.read.outputs.site_branch }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: Read config.json
+        id: read
+        run: |
+          python -c "
+          import json, os
+          cfg = json.load(open('config.json'))
+          ids = [s['id'] for s in cfg['sites']]
+          print('matrix=' + json.dumps({'id': ids}))
+          print('site_branch=' + cfg['site_branch'])
+          " >> $GITHUB_OUTPUT
+
+  # ── Step 2: fetch data for each site in parallel ──────────────────────────
+  fetch:
+    needs: setup
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(needs.setup.outputs.matrix) }}
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Fetch RSS feeds
+        shell: bash
+        run: |
+          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee /tmp/build-${{ matrix.id }}.log
+          grep -oE 'Wrote [0-9]+ new articles' /tmp/build-${{ matrix.id }}.log | grep -oE '[0-9]+' > /tmp/articles.txt || true
+          grep 'WARN' /tmp/build-${{ matrix.id }}.log > /tmp/warnings.txt || true
+
+      - name: Commit data to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web_sites/
+          if git diff --cached --quiet; then
+            echo "No new data for ${{ matrix.id }}"
+          else
+            git commit -m "Data ${{ matrix.id }} $(date -u +%Y-%m-%d)"
+            git push origin HEAD:main
+          fi
+
+  # ── Step 3: render all sites + portal, push to site branch ───────────────
+  render:
+    needs: [setup, fetch]
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main (scripts, sources.json, data/)
-        uses: actions/checkout@v5
-
-      - name: Checkout SiteWeb (published branch)
+      - name: Checkout main
         uses: actions/checkout@v5
         with:
-          ref: SiteWeb
+          ref: main   # pull latest data committed by fetch jobs
+
+      - name: Checkout site branch
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ needs.setup.outputs.site_branch }}
           path: site
 
       - name: Set up Python
@@ -29,98 +86,53 @@ jobs:
         with:
           python-version: "3.12"
 
-      # Step 1: fetch RSS feeds -> data/YYYY/MM/DD.json, stored on main
-      - name: Fetch RSS feeds
+      - name: Render all sites
         shell: bash
         run: |
-          python scripts/build.py 2>&1 | tee /tmp/build.log
-          # extract metrics for the job summary
-          grep -oE 'Wrote [0-9]+ new articles' /tmp/build.log | grep -oE '[0-9]+' > /tmp/articles.txt   || true
-          grep -oE '\([0-9]+ summarized'       /tmp/build.log | grep -oE '[0-9]+' > /tmp/summarized.txt || true
-          grep -oE 'Wrote .+\.briefing\.txt'   /tmp/build.log                     > /tmp/briefing.txt   || true
-          grep 'WARN'                          /tmp/build.log                     > /tmp/warnings.txt   || true
+          python -c "
+          import json
+          cfg = json.load(open('config.json'))
+          print(' '.join(s['id'] for s in cfg['sites']))
+          " | tr ' ' '\n' | while read site_id; do
+            echo "--- Rendering $site_id ---"
+            python scripts/render.py --site "$site_id" site 2>&1 | tee -a /tmp/render.log
+          done
 
-      - name: Commit data to main
-        id: data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data   # includes JSON + .briefing.txt
-          if git diff --cached --quiet; then
-            echo "committed=false" >> $GITHUB_OUTPUT
-          else
-            git commit -m "Data $(date -u +%Y-%m-%d)"
-            git push origin HEAD:main
-            echo "committed=true" >> $GITHUB_OUTPUT
-          fi
-
-      # Step 2: render rolling 30-day index + monthly archive pages -> SiteWeb
-      - name: Render site
-        shell: bash
-        run: python scripts/render.py site 2>&1 | tee /tmp/render.log
-
-      - name: Commit and push to SiteWeb
+      - name: Commit and push to site branch
         id: push
         run: |
           cd site
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Stage all files: index, all archive pages (new + existing), and machine files.
-          # Using 'git add .' so that previously generated archive pages that are no longer
-          # regenerated (because their source data rolled off) are NOT deleted — they stay
-          # as committed files in SiteWeb and git will simply leave them untouched.
-          git add index.html archive robots.txt sitemap.xml feed.xml data.json llms.txt
+          git add index.html */index.html */archive robots.txt sitemap.xml feed.xml data.json llms.txt 2>/dev/null || true
+          git add . 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "published=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Nightly update $(date -u +%Y-%m-%d)"
-            git push origin SiteWeb
+            git push origin ${{ needs.setup.outputs.site_branch }}
             echo "published=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Write Job Summary
         if: always()
         run: |
-          ARTICLES=$([ -s /tmp/articles.txt ] && cat /tmp/articles.txt || echo "0")
-          SUMMARIZED=$([ -s /tmp/summarized.txt ] && cat /tmp/summarized.txt || echo "0")
-          BRIEFING=$([ -s /tmp/briefing.txt ] && echo "✅ yes" || echo "—")
-          WARNINGS=$(cat /tmp/warnings.txt    2>/dev/null || true)
-          RENDER=$(cat /tmp/render.log        2>/dev/null || echo "No render log")
+          RENDER=$(cat /tmp/render.log 2>/dev/null || echo "No render log")
           {
-            echo "## Petfood Watch — nightly update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            echo "## Industry Watch — nightly update $(date -u +'%Y-%m-%d %H:%M UTC')"
             echo ""
             echo "| | |"
             echo "|---|---|"
-            echo "| 📰 New articles fetched | $ARTICLES |"
-            echo "| 🤖 AI summaries written | $SUMMARIZED |"
-            echo "| ✦ Daily briefing | $BRIEFING |"
-            echo "| 💾 Data committed to main | ${{ steps.data.outputs.committed || 'n/a' }} |"
-            echo "| 🌐 Site published to SiteWeb | ${{ steps.push.outputs.published || 'n/a' }} |"
+            echo "| 🌐 Site branch | ${{ needs.setup.outputs.site_branch }} |"
+            echo "| 🌐 Published | ${{ steps.push.outputs.published || 'n/a' }} |"
             echo ""
-            if [ -n "$WARNINGS" ]; then
-              echo "### ⚠️ Warnings"
-              echo '```'
-              echo "$WARNINGS"
-              echo '```'
-            fi
-            echo "### RSS fetch log"
-            echo '```'
-            cat /tmp/build.log 2>/dev/null || echo "No fetch log"
-            echo '```'
-            echo ""
-            echo "### Site render log"
+            echo "### Render log"
             echo '```'
             echo "$RENDER"
             echo '```'
-            echo ""
-            if [ "${{ job.status }}" != "success" ]; then
-              echo "### ❌ Failed"
-              echo "See the step logs above."
-            elif [ "${{ steps.push.outputs.published }}" = "true" ]; then
+            if [ "${{ steps.push.outputs.published }}" = "true" ]; then
               echo "### ✅ Published"
-              echo "Site pushed to branch **SiteWeb**: https://ibmphilippecabel.github.io/petfood-watch/"
             else
               echo "### ℹ️ No change"
-              echo "Nothing changed — nothing was pushed to SiteWeb."
             fi
           } >> $GITHUB_STEP_SUMMARY

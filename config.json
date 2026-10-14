@@ -1,0 +1,36 @@
+{
+  "site_branch": "SiteWeb",
+  "site_root_url": "https://ibmphilippecabel.github.io/petfood-watch/",
+  "portal_name": "Industry Watch",
+  "portal_description": "AI-assisted daily intelligence portals.",
+  "sites": [
+    {
+      "id": "petfood-watch",
+      "status": "live",
+      "site_name": "Petfood Watch",
+      "site_description": "Daily AI-assisted intelligence on the pet food industry: market, M&A, regulation and innovation news from trade press, with per-article summaries and a daily briefing.",
+      "site_icon": {
+        "default": "🐾",
+        "url": "https://www.petfoodindustry.com/favicon.ico",
+        "path": "web_sites/mars/Mars-inc.png"
+      },
+      "rolling_days": 30,
+      "sources_file": "web_sites/petfood_watch/sources.json",
+      "data_dir": "web_sites/petfood_watch/data"
+    },
+    {
+      "id": "mars",
+      "status": "under_construction",
+      "site_name": "Mars Watch",
+      "site_description": "Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.",
+      "site_icon": {
+        "default": "🔴",
+        "url": "https://www.mars.com/favicon.ico",
+        "path": "web_sites/mars/icon.ico"
+      },
+      "rolling_days": 30,
+      "sources_file": "web_sites/mars/sources.json",
+      "data_dir": "web_sites/mars/data"
+    }
+  ]
+}

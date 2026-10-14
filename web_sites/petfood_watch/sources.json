@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Petfood Industry",
+    "url": "https://www.petfoodindustry.com/",
+    "rss": "https://www.petfoodindustry.com/rss",
+    "description": "Global reference media: trends, investments, innovations.",
+    "score": "9.5",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "GlobalPETS",
+    "url": "https://globalpets.org/",
+    "rss": null,
+    "description": "Distributors, retailers, international markets.",
+    "score": "9",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "FEDIAF",
+    "url": "https://europeanpetfood.org/",
+    "rss": "https://europeanpetfood.org/feed/",
+    "description": "European regulation, nutrition, statistics, sustainability.",
+    "score": "9",
+    "default_category": "⚖️ Regulation"
+  },
+  {
+    "name": "Pet Food Processing",
+    "url": "https://www.petfoodprocessing.net/",
+    "rss": "https://www.petfoodprocessing.net/rss/articles",
+    "description": "Plants, automation, CAPEX, supply chain.",
+    "score": "8.5",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "All Pet Food",
+    "url": "https://en.allpetfood.net/",
+    "rss": null,
+    "description": "Manufacturing technologies, ingredients, processes.",
+    "score": "8",
+    "default_category": "💡 Innovation"
+  },
+  {
+    "name": "Waltham Petcare Science Institute",
+    "url": "https://www.waltham.com/",
+    "rss": null,
+    "description": "Scientific reference of Mars Petcare.",
+    "score": "8",
+    "default_category": "💡 Innovation"
+  },
+  {
+    "name": "Global Pet Industry",
+    "url": "https://www.globalpetindustry.com/",
+    "rss": "https://www.globalpetindustry.com/rss",
+    "description": "Global news: consumer trends, M&A, retail.",
+    "score": "8",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Mars Petcare",
+    "url": "https://www.mars.com/petcare",
+    "rss": null,
+    "description": "Official announcements, investments, ESG.",
+    "score": "7",
+    "default_category": "🤝 M&A"
+  },
+  {
+    "name": "Royal Canin",
+    "url": "https://www.royalcanin.com/",
+    "rss": null,
+    "description": "New products, ESG commitments, digital initiatives.",
+    "score": "7",
+    "default_category": "💡 Innovation"
+  },
+  {
+    "name": "Purina",
+    "url": "https://www.purina.com/",
+    "rss": null,
+    "description": "New products, research, AI initiatives.",
+    "score": "7",
+    "default_category": "💡 Innovation"
+  },
+  {
+    "name": "Hill's Pet Nutrition",
+    "url": "https://www.hillspet.com/",
+    "rss": null,
+    "description": "New products, pet nutrition science.",
+    "score": "7",
+    "default_category": "💡 Innovation"
+  },
+  {
+    "name": "Freshpet",
+    "url": "https://www.freshpet.com/",
+    "rss": null,
+    "description": "Fresh pet food, growth, expansion.",
+    "score": "7",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Mars Petcare (Google News)",
+    "url": "https://www.mars.com/petcare",
+    "rss": "https://news.google.com/rss/search?q=%22Mars+Petcare%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Press review: announcements, investments, ESG, Mars Petcare innovations.",
+    "score": "7",
+    "default_category": "🤝 M&A"
+  },
+  {
+    "name": "Royal Canin (Google News)",
+    "url": "https://www.royalcanin.com/",
+    "rss": "https://news.google.com/rss/search?q=%22Royal+Canin%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Press review: new products, research, Royal Canin digital initiatives.",
+    "score": "7",
+    "default_category": "💡 Innovation"
+  }
+]
+

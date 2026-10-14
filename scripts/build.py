@@ -18,8 +18,6 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
-SOURCES_FILE = ROOT / "sources.json"
 MAX_PER_SOURCE = 15
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
@@ -28,7 +26,52 @@ BATCH_SIZE = 6                      # small batches keep each call well under 8K
 PAUSE_SECONDS = 20                  # spreads batches over the minute
 BRIEFING_MAX_HEADLINES = 40
 
+
+def _load_site_cfg(site_id=None):
+    cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+    sites = cfg["sites"]
+    if site_id:
+        matches = [s for s in sites if s["id"] == site_id]
+        if not matches:
+            raise SystemExit(f"ERROR: site id {site_id!r} not found in config.json")
+        return matches[0]
+    return sites[0]
+
+# Resolved from CLI arg --site <id>, or first site in config.
+_site_id = None
+for _i, _arg in enumerate(sys.argv[1:]):
+    if _arg == "--site" and _i + 1 < len(sys.argv) - 1:
+        _site_id = sys.argv[_i + 2]
+        break
+
+_CFG = _load_site_cfg(_site_id)
+DATA_DIR = ROOT / _CFG["data_dir"]
+SOURCES_FILE = ROOT / _CFG["sources_file"]
+
 SOURCES = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+
+
+def fetch_site_icon():
+    """Download the site icon from config url and store at config path. Skip if already exists."""
+    icon_cfg = _CFG.get("site_icon")
+    if not isinstance(icon_cfg, dict):
+        return
+    url = icon_cfg.get("url", "").strip()
+    path = icon_cfg.get("path", "").strip()
+    if not url or not path:
+        return
+    dest = ROOT / path
+    if dest.exists():
+        return  # already downloaded
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (petfood-watch bot)"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = resp.read()
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_bytes(data)
+        print(f"Icon downloaded: {dest.relative_to(ROOT)}")
+    except Exception as exc:
+        print(f"WARN icon download failed ({url}): {exc}", file=sys.stderr)
 
 KEYWORDS = {
     "🤝 M&A": [
@@ -294,6 +337,7 @@ def main():
     now = datetime.now(timezone.utc)
     today_str = f"{now:%Y-%m-%d}"
 
+    fetch_site_icon()
     fetched = load_articles()
     if not fetched:
         print("ERROR: no article fetched, nothing written", file=sys.stderr)
