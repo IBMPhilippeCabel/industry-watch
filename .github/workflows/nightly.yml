@@ -78,11 +78,26 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout site branch
-        uses: actions/checkout@v5
-        with:
-          ref: ${{ needs.setup.outputs.site_branch }}
-          path: site
-          token: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          BRANCH="${{ needs.setup.outputs.site_branch }}"
+          git clone --branch "$BRANCH" --depth=1 \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
+            site || {
+            # Branch doesn't exist yet: create an empty one
+            mkdir -p site
+            cd site
+            git init
+            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+            git checkout --orphan "$BRANCH"
+            git reset --hard
+            echo "# $BRANCH" > README.md
+            git add README.md
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                commit -m "init $BRANCH"
+            git push origin "$BRANCH"
+          }
 
       - name: Set up Python
         uses: actions/setup-python@v6
