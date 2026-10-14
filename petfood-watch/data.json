@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-14T08:50:00Z",
+ "updated": "2026-10-14T13:36:00Z",
  "briefing": {
   "date": "2026-10-14",
-  "hook": "Investors eye Romanian pet food, spurring operational revamps and new capital inflows.",
+  "hook": "Today highlights regulatory prep, a new weight supplement, clean‑label accolades, and an upcoming industry event.",
   "categories": {
-   "📈 Market": null,
-   "🤝 M&A": "The Romanian pet food industry is drawing external and domestic investments, with companies like Kormotech revamping their operations.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": null
+   "📈 Market": "Smalls receives Clean Label Project awards for nine products and PSC announces its Impact Unleashed 2026 agenda.",
+   "🤝 M&A": null,
+   "⚖️ Regulation": "Austin Therrell discusses evolving pet food regulatory requirements.",
+   "💡 Innovation": "Fera Pets launches a supplement targeting muscle protein synthesis, fat metabolism, cellular hydration and metabolic function for healthy dog weight."
   }
  },
  "articles": [
+  {
+   "title": "Preparing for pet food regulations",
+   "url": "https://www.petfoodprocessing.net/articles/20987-preparing-for-pet-food-regulations",
+   "source": "Pet Food Processing",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-14",
+   "ai_summary": "Preparing for pet food regulations — Austin Therrell of the Association of American Feed Control Officials shared insights on evolving regulatory requirements.",
+   "excerpt": "Austin Therrell of the Association of American Feed Control Officials shared insights on evolving regulatory requirements."
+  },
+  {
+   "title": "Fera Pets introduces Healthy Weight & Muscles for Dogs",
+   "url": "https://www.petfoodprocessing.net/articles/20986-fera-pets-introduces-healthy-weight-and-muscles-for-dogs",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-14",
+   "ai_summary": "Fera Pets introduces Healthy Weight & Muscles for Dogs — The supplement addresses body composition through muscle protein synthesis, fat metabolism, cellular hydration and metabolic function.",
+   "excerpt": "The supplement addresses body composition through muscle protein synthesis, fat metabolism, cellular hydration and metabolic function."
+  },
+  {
+   "title": "Smalls earns Clean Label Project recognition for 9 products",
+   "url": "https://www.petfoodprocessing.net/articles/20985-smalls-earns-clean-label-project-recognition-for-9-products",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-14",
+   "ai_summary": "Smalls earns Clean Label Project recognition for 9 products — Eight products received the Clean Label Project Purity Award, while one product achieved Clean Label Project Certification.",
+   "excerpt": "Eight products received the Clean Label Project Purity Award, while one product achieved Clean Label Project Certification."
+  },
+  {
+   "title": "PSC releases full agenda for Impact Unleashed 2026",
+   "url": "https://www.petfoodprocessing.net/articles/20983-psc-releases-full-agenda-for-impact-unleashed-2026",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-14",
+   "ai_summary": "PSC releases full agenda for Impact Unleashed 2026 — The event will be held Nov. 9 to 11 in Boulder, Colo.",
+   "excerpt": "The event will be held Nov. 9 to 11 in Boulder, Colo."
+  },
   {
    "title": "Granovit expands Swiss pet nutrition concepts for global retail",
    "url": "https://globalpetindustry.com/news/granovit-expands-swiss-pet-nutrition-concepts-for-global-retail/",
