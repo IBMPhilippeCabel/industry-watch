@@ -34,6 +34,15 @@ CSS = """
   header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
   header h1 { margin:0; font-size:20px; }
   header nav a { color:var(--accent); text-decoration:none; font-size:14px; margin-left:20px; }
+  /* sources dropdown */
+  .src-btn { border:1px solid var(--border); background:var(--card); color:var(--text); padding:5px 12px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; margin-left:20px; }
+  .src-btn:hover { border-color:var(--accent); color:var(--accent); }
+  .src-dropdown { display:none; position:absolute; right:0; top:calc(100% + 6px); background:var(--card); border:1px solid var(--border); border-radius:8px; padding:12px 16px; min-width:380px; max-width:520px; box-shadow:0 4px 16px rgba(0,0,0,.08); z-index:100; }
+  .src-dropdown.open { display:block; }
+  .src-dropdown h3 { margin:0 0 8px; font-size:14px; }
+  .src-dropdown ul { padding-left:16px; margin:0; }
+  .src-dropdown li { font-size:13px; line-height:1.8; }
+  .src-wrap { position:relative; display:inline-flex; align-items:center; }
   /* layout */
   .wrap { max-width:1100px; margin:0 auto; padding:0 24px; }
   a { color:var(--accent); text-decoration:none; }
@@ -62,7 +71,7 @@ CSS = """
   .hidden { display:none; }
   /* sources list */
   h3 { font-size:16px; margin:8px 0; }
-  ul.sources { padding-left:20px; margin:0 0 32px; }
+  ul.sources { padding-left:20px; margin:0; }
   /* archive list */
   ul.months { list-style:none; padding:0; margin:20px 0 32px; max-width:600px; }
   ul.months li { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:10px 16px; margin-bottom:8px; display:flex; justify-content:space-between; }
@@ -83,6 +92,21 @@ FILTER_JS = """
       });
     });
   });
+  function initDropdown(btnId, dropId) {
+    var btn = document.getElementById(btnId);
+    var drop = document.getElementById(dropId);
+    if (!btn || !drop) return;
+    btn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      drop.classList.toggle('open');
+    });
+    document.addEventListener('click', function() {
+      drop.classList.remove('open');
+    });
+    drop.addEventListener('click', function(e) { e.stopPropagation(); });
+  }
+  initDropdown('src-btn', 'src-dropdown');
+  initDropdown('arc-btn', 'arc-dropdown');
 """
 
 
@@ -105,8 +129,20 @@ def jsonld_tag(obj):
     return f'<script type="application/ld+json">{raw}</script>'
 
 
-def shell(title, nav_links, body, updated, script="", path="", description=SITE_DESC, jsonld=None):
+def shell(title, nav_links, body, updated, script="", path="", description=SITE_DESC, jsonld=None, sources_html="", archive_html=""):
     url = SITE_URL + path
+    src_btn = (
+        f'<div class="src-wrap">'
+        f'<button class="src-btn" id="src-btn">📡 Sources</button>'
+        f'<div class="src-dropdown" id="src-dropdown">{sources_html}</div>'
+        f'</div>'
+    ) if sources_html else ""
+    arc_btn = (
+        f'<div class="src-wrap">'
+        f'<button class="src-btn" id="arc-btn">📚 Archive</button>'
+        f'<div class="src-dropdown" id="arc-dropdown">{archive_html}</div>'
+        f'</div>'
+    ) if archive_html else ""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -128,7 +164,7 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 <body>
 <header>
   <h1>{SITE_NAME}</h1>
-  <nav>{nav_links}</nav>
+  <nav>{nav_links}{arc_btn}{src_btn}</nav>
 </header>
 <main class="wrap">
 {body}
@@ -316,6 +352,24 @@ def sources_section():
     return f'<h3>Tracked sources</h3><ul class="sources">{items}</ul>'
 
 
+def archive_dropdown_html(months):
+    items = "".join(
+        f'<li><a href="archive/{esc(ym)}.html">{esc(ym)}</a>'
+        f' <span class="muted">({len(months[ym])} articles)</span></li>'
+        for ym in sorted(months, reverse=True)
+    )
+    return f'<h3>Archive</h3><ul class="sources">{items}</ul>'
+
+
+def sources_dropdown_html():
+    items = "".join(
+        f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])}</a>'
+        f' — {esc(s["description"])}</li>'
+        for s in SOURCES
+    )
+    return f'<h3>Tracked sources</h3><ul class="sources">{items}</ul>'
+
+
 def load_all():
     """Return (articles deduplicated by link, latest briefing as (YYYY-MM-DD, text) or None)."""
     seen = {}
@@ -359,32 +413,37 @@ def main():
     updated = f"{now:%Y-%m-%d %H:%M UTC}"
     cutoff = now.date() - timedelta(days=ROLLING_DAYS)
 
+    # ── build months dict first (needed for archive dropdown) ────────
+    months: dict[str, list] = {}
+    for a in articles:
+        months.setdefault(f"{a['first_seen']:%Y-%m}", []).append(a)
+
     # ── index.html (rolling 30 days) ─────────────────────────────────
     recent = [a for a in articles if a["first_seen"] >= cutoff]
-    body = briefing_block(briefing) + cards_section(recent) + sources_section()
-    nav = '<a href="index.html">🏠 Home</a><a href="archive/index.html">📚 Archive</a>'
+    body = briefing_block(briefing) + cards_section(recent)
+    nav = '<a href="index.html">🏠 Home</a>'
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
     (site / "index.html").write_text(
         shell("Petfood Watch — pet food industry news, market, M&A, regulation", nav, body, updated,
               FILTER_JS, path="", description=home_desc,
-              jsonld=page_jsonld(SITE_NAME, "", home_desc, recent)),
+              jsonld=page_jsonld(SITE_NAME, "", home_desc, recent),
+              sources_html=sources_dropdown_html(),
+              archive_html=archive_dropdown_html(months)),
         encoding="utf-8",
     )
 
     # ── archive/YYYY-MM.html (one per month) ─────────────────────────
     archive = site / "archive"
     archive.mkdir(parents=True, exist_ok=True)
-    months: dict[str, list] = {}
-    for a in articles:
-        months.setdefault(f"{a['first_seen']:%Y-%m}", []).append(a)
     for ym, items in months.items():
-        nav = '<a href="../index.html">🏠 Home</a><a href="index.html">📚 Archive</a>'
+        nav = '<a href="../index.html">🏠 Home</a>'
         body = cards_section(items)
         desc = f"Pet food industry news archive for {ym}: {len(items)} articles."
         (archive / f"{ym}.html").write_text(
             shell(f"Petfood Watch — Archive {ym}", nav, body, updated, FILTER_JS,
                   path=f"archive/{ym}.html", description=desc,
-                  jsonld=page_jsonld(f"Petfood Watch archive {ym}", f"archive/{ym}.html", desc, items)),
+                  jsonld=page_jsonld(f"Petfood Watch archive {ym}", f"archive/{ym}.html", desc, items),
+                  archive_html=archive_dropdown_html(months)),
             encoding="utf-8",
         )
 
@@ -393,10 +452,11 @@ def main():
         f'<li><a href="{ym}.html">{ym}</a><span class="muted">{len(months[ym])} articles</span></li>'
         for ym in sorted(months, reverse=True)
     )
-    nav = '<a href="../index.html">🏠 Home</a><a href="index.html">📚 Archive</a>'
+    nav = '<a href="../index.html">🏠 Home</a>'
     (archive / "index.html").write_text(
         shell("Petfood Watch — Archive", nav, f'<ul class="months">{rows}</ul>', updated,
-              path="archive/index.html", description="Monthly archive of Petfood Watch articles."),
+              path="archive/index.html", description="Monthly archive of Petfood Watch articles.",
+              archive_html=archive_dropdown_html(months)),
         encoding="utf-8",
     )
 
