@@ -290,43 +290,76 @@ def read_day(path):
 
 
 def main():
+    from datetime import date as date_type
     now = datetime.now(timezone.utc)
-    out = DATA_DIR / f"{now:%Y}" / f"{now:%m}" / f"{now:%d}.json"
-    briefing_file = out.with_name(f"{now:%d}.briefing.txt")
+    today_str = f"{now:%Y-%m-%d}"
 
     fetched = load_articles()
     if not fetched:
         print("ERROR: no article fetched, nothing written", file=sys.stderr)
         return 1
 
-    # Articles already stored on previous days are not stored again.
-    prior = {a["link"] for f in DATA_DIR.glob("*/*/*.json") if f != out for a in read_day(f)}
-    previous_today = {a["link"]: a for a in read_day(out)}
-    new = [a for a in fetched if a["link"] not in prior]
-    # Re-run on the same day: keep earlier results (and their summaries).
-    for a in new:
-        if previous_today.get(a["link"], {}).get("ai_summary"):
-            a["ai_summary"] = previous_today[a["link"]]["ai_summary"]
-    fetched_links = {a["link"] for a in new}
-    new += [a for link, a in previous_today.items() if link not in fetched_links and link not in prior]
-    new.sort(key=lambda a: a["date"] or "", reverse=True)
+    # Load all articles already stored, keyed by link → (path, article).
+    stored: dict[str, tuple[Path, dict]] = {}
+    for f in DATA_DIR.glob("*/*/*.json"):
+        for a in read_day(f):
+            if a["link"] not in stored:
+                stored[a["link"]] = (f, a)
 
+    # Keep only articles not yet stored (truly new).
+    new = [a for a in fetched if a["link"] not in stored]
     if not new:
-        print("No new article since previous days, nothing written")
+        print("No new article since previous runs, nothing written")
         return 0
 
-    n_sum = summarize(new)
-    out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(new, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Wrote {len(new)} new articles to {out.relative_to(ROOT)} ({n_sum} summarized by Groq)")
+    # Carry over ai_summary from any same-day re-run that already processed them.
+    for a in new:
+        existing = stored.get(a["link"])
+        if existing and existing[1].get("ai_summary"):
+            a["ai_summary"] = existing[1]["ai_summary"]
 
+    # Articles without a publication date get the run date as first_seen fallback.
+    for a in new:
+        if not a.get("date"):
+            a["date"] = today_str
+
+    # Summarize new articles.
+    n_sum = summarize(new)
+
+    # Group new articles by their publication date.
+    by_day: dict[str, list] = {}
+    for a in new:
+        by_day.setdefault(a["date"][:10], []).append(a)
+
+    # Write/merge each day file.
+    written_files = []
+    for day_str, arts in by_day.items():
+        try:
+            d = date_type.fromisoformat(day_str)
+        except ValueError:
+            d = now.date()
+        out = DATA_DIR / f"{d:%Y}" / f"{d:%m}" / f"{d:%d}.json"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        # Merge with any articles already in that file (e.g. from a previous run).
+        existing_in_file = {a["link"]: a for a in read_day(out)}
+        for a in arts:
+            existing_in_file[a["link"]] = a
+        merged = sorted(existing_in_file.values(), key=lambda a: a.get("date") or "", reverse=True)
+        out.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
+        written_files.append((out, len(arts)))
+        print(f"Wrote {len(arts)} new articles to {out.relative_to(ROOT)}")
+
+    print(f"Total: {len(new)} new articles ({n_sum} summarized by Groq)")
+
+    # Briefing is written for today's run date (summary of what was fetched today).
+    briefing_file = DATA_DIR / f"{now:%Y}" / f"{now:%m}" / f"{now:%d}.briefing.txt"
+    briefing_file.parent.mkdir(parents=True, exist_ok=True)
     if os.environ.get("GROQ_API_KEY"):
         data = briefing(new)
         if data:
             briefing_file.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
             print(f"Wrote {briefing_file.relative_to(ROOT)}")
         else:
-            # AI failed quality check: write a stats-only fallback
             fb = briefing_fallback(new)
             briefing_file.write_text(json.dumps({"hook": fb, "categories": {}}, ensure_ascii=False), encoding="utf-8")
             print(f"WARN briefing AI failed, wrote fallback to {briefing_file.relative_to(ROOT)}", file=sys.stderr)

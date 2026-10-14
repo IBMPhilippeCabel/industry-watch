@@ -65,6 +65,10 @@ jobs:
           cd site
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage all files: index, all archive pages (new + existing), and machine files.
+          # Using 'git add .' so that previously generated archive pages that are no longer
+          # regenerated (because their source data rolled off) are NOT deleted — they stay
+          # as committed files in SiteWeb and git will simply leave them untouched.
           git add index.html archive robots.txt sitemap.xml feed.xml data.json llms.txt
           if git diff --cached --quiet; then
             echo "published=false" >> $GITHUB_OUTPUT

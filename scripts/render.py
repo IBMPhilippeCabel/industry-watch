@@ -353,11 +353,13 @@ def sources_section():
     return f'<h3>Tracked sources</h3><ul class="sources">{items}</ul>'
 
 
-def archive_dropdown_html(months):
+def archive_dropdown_html(keys, months=None):
+    """keys: ordered list of YYYY-MM strings. months: dict with article counts (optional)."""
     items = "".join(
         f'<li><a href="archive/{esc(ym)}.html">{esc(ym)}</a>'
-        f' <span class="muted">({len(months[ym])} articles)</span></li>'
-        for ym in sorted(months, reverse=True)
+        + (f' <span class="muted">({len(months[ym])} articles)</span>' if months and ym in months else '')
+        + '</li>'
+        for ym in keys
     )
     return f'<h3>Archive</h3><ul class="sources">{items}</ul>'
 
@@ -412,20 +414,25 @@ def main():
 
     now = datetime.now(timezone.utc)
     updated = f"{now:%Y-%m-%d %H:%M UTC}"
-    # Base the rolling window on publication date (art_day), not first_seen,
-    # so articles published months ago don't appear on the home page just
-    # because they were collected in the same crawl batch.
-    latest_pub = max(date.fromisoformat(art_day(a)) for a in articles)
-    ref_date = max(now.date(), latest_pub)
-    cutoff = ref_date - timedelta(days=ROLLING_DAYS)
+    # first_seen now equals the publication date (build.py files articles by pub date).
+    cutoff = now.date() - timedelta(days=ROLLING_DAYS)
 
-    # ── build months dict first (needed for archive dropdown) ────────
+    # ── build months dict (by publication date = first_seen path) ────
     months: dict[str, list] = {}
     for a in articles:
-        months.setdefault(art_day(a)[:7], []).append(a)
+        months.setdefault(f"{a['first_seen']:%Y-%m}", []).append(a)
+
+    # ── compute full month list (data + already-published pages) ─────
+    archive = site / "archive"
+    archive.mkdir(parents=True, exist_ok=True)
+    existing_months = {
+        p.stem for p in archive.glob("????-??.html")
+        if p.stem not in months
+    }
+    all_months_keys = sorted(set(months) | existing_months, reverse=True)
 
     # ── index.html (rolling 30 days) ─────────────────────────────────
-    recent = [a for a in articles if date.fromisoformat(art_day(a)) >= cutoff]
+    recent = [a for a in articles if a["first_seen"] >= cutoff]
     body = briefing_block(briefing) + cards_section(recent)
     nav = '<a href="index.html">🏠 Home</a>'
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
@@ -434,13 +441,12 @@ def main():
               FILTER_JS, path="", description=home_desc,
               jsonld=page_jsonld(SITE_NAME, "", home_desc, recent),
               sources_html=sources_dropdown_html(),
-              archive_html=archive_dropdown_html(months)),
+              archive_html=archive_dropdown_html(all_months_keys, months)),
         encoding="utf-8",
     )
 
     # ── archive/YYYY-MM.html (one per month) ─────────────────────────
-    archive = site / "archive"
-    archive.mkdir(parents=True, exist_ok=True)
+
     for ym, items in months.items():
         nav = '<a href="../index.html">🏠 Home</a>'
         body = cards_section(items)
@@ -449,20 +455,22 @@ def main():
             shell(f"Petfood Watch — Archive {ym}", nav, body, updated, FILTER_JS,
                   path=f"archive/{ym}.html", description=desc,
                   jsonld=page_jsonld(f"Petfood Watch archive {ym}", f"archive/{ym}.html", desc, items),
-                  archive_html=archive_dropdown_html(months)),
+                  archive_html=archive_dropdown_html(all_months_keys, months)),
             encoding="utf-8",
         )
 
     # ── archive/index.html ───────────────────────────────────────────
     rows = "".join(
-        f'<li><a href="{ym}.html">{ym}</a><span class="muted">{len(months[ym])} articles</span></li>'
-        for ym in sorted(months, reverse=True)
+        f'<li><a href="{ym}.html">{ym}</a>'
+        + (f'<span class="muted">{len(months[ym])} articles</span>' if ym in months else '<span class="muted">—</span>')
+        + '</li>'
+        for ym in all_months_keys
     )
     nav = '<a href="../index.html">🏠 Home</a>'
     (archive / "index.html").write_text(
         shell("Petfood Watch — Archive", nav, f'<ul class="months">{rows}</ul>', updated,
               path="archive/index.html", description="Monthly archive of Petfood Watch articles.",
-              archive_html=archive_dropdown_html(months)),
+              archive_html=archive_dropdown_html(all_months_keys, months)),
         encoding="utf-8",
     )
 
