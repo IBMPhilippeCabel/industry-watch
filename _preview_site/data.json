@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/petfood-watch/",
- "updated": "2026-10-14T06:24:00Z",
+ "updated": "2026-10-14T06:31:00Z",
  "briefing": {
-  "date": "2026-10-13",
-  "hook": "Healthspan focus, innovation in supplements, and global expansion shape today's pet food landscape.",
+  "date": "2026-10-14",
+  "hook": "Today, Romanian pet food sector sees fresh investment inflows.",
   "categories": {
-   "📈 Market": "The market is pivoting from lifespan to healthspan, with nutrition and wellness driving longer, healthier pet lives and Gen X leading monthly spending.",
-   "🤝 M&A": "Early‑stage startups receive new funding and mentorship, while Foppers, Umios, and Mars Petcare expand facilities, stakes, and programs to support growth.",
-   "⚖️ Regulation": "Regulatory focus centers on labeling clarity, food safety incident preparedness, and new leadership in animal food safety research.",
-   "💡 Innovation": "Innovation trends highlight feline biology, palatability, postbiotics, and alternative proteins as key drivers for next‑generation pet supplements."
+   "📈 Market": null,
+   "🤝 M&A": "Investors are entering Romania’s pet food market, signaling confidence in its growth prospects.",
+   "⚖️ Regulation": null,
+   "💡 Innovation": null
   }
  },
  "articles": [
+  {
+   "title": "Romanian pet food industry attracts new investments",
+   "url": "https://www.petfoodindustry.com/regions/europe/article/15837397/romanian-pet-food-industry-attracts-new-investments",
+   "source": "Petfood Industry",
+   "category": "🤝 M&A",
+   "date": "2026-10-13",
+   "ai_summary": "",
+   "excerpt": "The country’s pet food sector is attracting investments from outside companies as well as domestic players; plus, Kormotech revamps..."
+  },
   {
    "title": "Nutrition, health and wellness for more good years",
    "url": "https://www.petfoodindustry.com/blogs-columns/something-to-chew-on/article/15831096/nutrition-health-and-wellness-for-more-good-years",
@@ -443,195 +452,6 @@
    "date": "2026-09-29",
    "ai_summary": "Big Idea Ventures and Mars Petcare select three startups for the 2026 Next Generation Pet Food Program, as announced by PR Newswire. The program targets next-generation pet food innovation.",
    "excerpt": "Big Idea Ventures and Mars Petcare select three startups for the 2026 Next Generation Pet Food Program PR Newswire"
-  },
-  {
-   "title": "Mars Petcare slated to close in June - hendersondispatch.com",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHdJcGNvaWF6WWdqVUZUQ282MlVwNVJMNHRNalZieGdHWWhBRDV2RjBSMXZ6T1JZdWphTDZBZmxBZU53UVVhSng0WG9tLV9WSnhYS21HQXZCX2N3TWZpb0MwT1Jza2FPQkc2QWJtaFY0dDZFUkwxMFQ3LTEtWlZrVTBTWWxlQzdidDFUOUQyQVEtZVU0eURXalNYUk1KbDdDZzVUeDNLNU1VTEEtRGttcWxlQkV1UnFsRFVUOTFJR0EyRmd2b0xLVQ?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "🤝 M&A",
-   "date": "2026-08-29",
-   "ai_summary": "Mars Petcare is scheduled to close operations in June. The closure will affect the company's pet nutrition business.",
-   "excerpt": "Mars Petcare slated to close in June hendersondispatch.com"
-  },
-  {
-   "title": "Royal Canin targets precision pet nutrition and ingredient science with breed-specific formulation - Nutrition Insight",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb05Ia1RvNGdYYm8tczBnVTlYMF9YNmNyN1pacjdXV1A0dGF1eUlQVk5WdVJNb3ZOc2NES1hLRVJxdDNVb2JYUXVfTHVQZjA3ZUtKcFpWSUQxTHB6ekhEeXFhdzBXYXY3RjJzLURXckNjXzdKUTFFVU1LSU9tclZfcFA1WDZJN1VQVGVTWWs2RFVmV3JL?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-08-12",
-   "ai_summary": "Royal Canin focuses on precision pet nutrition and ingredient science. The approach includes breed-specific formulations.",
-   "excerpt": "Royal Canin targets precision pet nutrition and ingredient science with breed-specific formulation Nutrition Insight"
-  },
-  {
-   "title": "Royal Canin Expands Access to Therapeutic Nutrition in Amazon's Stores - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkJaYWN0LS12MHN4WlVYZkcwYTVya1pYaDh6eWt1bUtCMThNc0hPbC1ZSVQxT1EtVmNfdFQ5cXZxU1lHbmxtYkNsa1JGT0R1MzNLckZTRkx4cXFtNXZjbld5OEtybm1XdXNSeWx6dnhjSkhocktsQWFoTGN3R0owQTBONVNMSHlhbm5pWkFTYXdXbW9pTnJNa2taUkZJYWs4eVd2YWxKSTJ5LVJHLWpGUjNZR0NJTlFOMzBqRVd0N0tvNE0?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-07-28",
-   "ai_summary": "Royal Canin expands access to therapeutic nutrition through Amazon's stores. This move increases availability for pet owners.",
-   "excerpt": "Royal Canin Expands Access to Therapeutic Nutrition in Amazon's Stores PR Newswire"
-  },
-  {
-   "title": "Mars appoints Christina Ruggiero as North America Regional President for Pet Nutrition business - Mars, Incorporated",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmhqS0ppTkZzb3RoUmJGUXRPN21uVXNZaFV5NlpLWnppdnotM2FYUXdUZVZtWFpqa2hmQ0NMVG0xN1NmaGNHRzB0UUxKc18yT1hpN0stUzhHRGljSzJhbDlKVHBPcVpCUXNjWi1zS19xdXpTRGZZdmtHRmt2MXU1bHNRdVR5Z3d6NU1BU0xaUGYza0JGTi1QMXppZElaTHRSM3pnM0Q3UG5HTnZ3UUJRRG5aY2pwajdHZk5fZG1Oc2JMVUVWSzRvZ3F6YW5iQ1JtbExkdGxB?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "🤝 M&A",
-   "date": "2026-07-21",
-   "ai_summary": "Mars appoints Christina Ruggiero as North America Regional President for its pet nutrition business. The appointment reflects leadership changes.",
-   "excerpt": "Mars appoints Christina Ruggiero as North America Regional President for Pet Nutrition business Mars, Incorporated"
-  },
-  {
-   "title": "Mars Petcare recalls Pedigree dog food due to foreign materials in fraudulent resales - Top Class Actions",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3M1OXpSYlU0OHR6d3dzc2ktN3RwaHlETEk1SkZSWXlBWm5rblpiZi1JUThBM09pcXJpOTBDSTVPeXBSMV9SVl9OMEtXWVBNNEJQeGEtTTBUMTd6d05oQ3RETnhZdG9iR3ljdUZualpVMEVXR0w5R09INGl4N2RQUlJ3RUxFV3NZR3pSVVg3cHc1cTZzRXR0dC10c2xReEJ6WV9SSVRuWnAtV1F1WHJRZEh2X21hSDhZMXVlWnN1QnJ0c0VGRlFQaUdHVXB2VFpsS0ZaemU0VEhtamo5YVRxVQ?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "⚖️ Regulation",
-   "date": "2026-07-17",
-   "ai_summary": "Mars Petcare recalls Pedigree dog food because of foreign materials found in fraudulent resales. The recall addresses safety concerns.",
-   "excerpt": "Mars Petcare recalls Pedigree dog food due to foreign materials in fraudulent resales Top Class Actions"
-  },
-  {
-   "title": "Royal Canin introduces Fresh Veterinary Diets line - Pet Food Processing",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWlVdGJ6aER6MDd5OU9hdGtsaDRhTzR0cHYwQkU5eTMyem5TT1FBS2FaOG5QZTRuX3Bmd1FXeWRiZWIydW9XSWF0QWlUX004UndjbGE4V2oyMlMyUFRVWFlKaDg4cEJSY2hCaG00ZFNjNlByZ0FWc0Q5MGRPTU1KMS1xRGQ3U1Rnc1lWdlJZa1Z2N0wzdzFWaDZhWmktU0lO?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-07-16",
-   "ai_summary": "Royal Canin introduces a Fresh Veterinary Diets line. The line offers fresh options for pet health.",
-   "excerpt": "Royal Canin introduces Fresh Veterinary Diets line Pet Food Processing"
-  },
-  {
-   "title": "Royal Canin launches its first fresh therapeutic diet line for dogs, available only through veterinarians - DVM360",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZCSU00LVZJU0hhRzhVZmtnX2FvV3ZvLWVyVDNFZGUtZThuZk5lTlBzdm9lMWg5NWdrRjIteS0xbTNPUUVMbHpfREFvV1ppdGpPOERHTVZUU2xORi1lZjlOWVotZGJoaW1vaDBuWlBHdXJKVURSZ0IwbmpVajdqU3hTNUFHV1dmTzVnTUNweDRwTzRYVW0xeGdRMjJxRExMZEhTbzRmTWR2aWVzQTJ6bWFmcWtVdmVxQTFtT0ZyZ0dUZUhfYnBV?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-07-15",
-   "ai_summary": "Royal Canin launches its first fresh therapeutic diet line for dogs. The line is available exclusively through veterinarians.",
-   "excerpt": "Royal Canin launches its first fresh therapeutic diet line for dogs, available only through veterinarians DVM360"
-  },
-  {
-   "title": "Royal Canin® Launches Its First Fresh Therapeutic Diet Portfolio Available Exclusively Through Veterinarians - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUl9oSXZCV1ZmaDZ1OGZzaTRKQXQ5ZUU0c2Z3XzBzQTlvc1Q3Sl9oRVU4RktiTWw1blVLOVhMbEN3NkJEeHViU0pBeHNTVHNObDl1MlZNVXQ4SG9NLUZ3S2NKc3J1enhpYl9FZk9mcHpTQ01pZ2NTTkF2WFF6YnZSclZxNFUyNlQxY1RvYjFVaVZ1Rks0UGZxTGJITTNtZG9td2lVOC1EakZSX2EzTTd1SndVeThva3drMm11cFRlWmRRVmZXZDN4NjRKalJFTmZIcGtvazR0d3h2bHpic1QycDBoMXBBc2JuMEJud0hKdFNfZEhBaFE?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-07-14",
-   "ai_summary": "Royal Canin launches its first fresh therapeutic diet portfolio. It is available exclusively through veterinarians.",
-   "excerpt": "Royal Canin® Launches Its First Fresh Therapeutic Diet Portfolio Available Exclusively Through Veterinarians PR Newswire"
-  },
-  {
-   "title": "Royal Canin launches fresh therapeutic diets for dogs - PetfoodIndustry",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3lzZE1DRnVOTzlBaHVUcmtOMnRSNlZueXRWRG9odHFuMmhoNTNDR1BwU2ZseFlKX3NSeXVpNlJYWDBHVThKSGtIaHB5MDNoOHBaNWJEMVlCYVN1N2ozRlV4ZUd5amNicm5FY1h0YndTbnRoSnQ5YjVTZ1I4TjV6d2lYVEdXcDdNZWg4NGhObExQR2pscUVtTHlLUGdsa29pX21PUFE4aWZoVzM5cU5LMVN5ZllEMW1YSUU4WV9MYm9lMHd2aUlUOVh5eDY?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-07-14",
-   "ai_summary": "Royal Canin introduces fresh therapeutic diets for dogs. The launch focuses on specialized nutrition.",
-   "excerpt": "Royal Canin launches fresh therapeutic diets for dogs PetfoodIndustry"
-  },
-  {
-   "title": "Royal Canin names new manager of veterinary business - Pet Food Processing",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHBiQzVGUVhPUThybGpIY0xGT2VNNWEyakdDaGtfUDMxUW5wM0RGa3FTX0s3d1pvM0xmdDNqc3hOM2FYNW1tWm1CM2RwSnc5RWNBTjEwVFNqMzBNSzh2MEV1bjNZUHExQmhXTlkxNnhDcks3UkJ4eGZVS18tMXNpeTdtODRhUnk4UVplX2cwNFFfYnJWUFFYaDIzV2R6cmFYcnlz?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-07-13",
-   "ai_summary": "Royal Canin appoints a new manager for its veterinary business. The move aims to strengthen veterinary services.",
-   "excerpt": "Royal Canin names new manager of veterinary business Pet Food Processing"
-  },
-  {
-   "title": "Mars recalls Pedigree dog food after allegedly diverted product reaches consumers amid foreign material risk - DVM360",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcW1vRkRFME9HLXF0RHJlT2lVdG1KTWctZjR0TEJSajdsd3BDT0h3cFd5X3pjMnVMc0hBeExfN2FvazBLNUkyWHAxc3BFZVZCYXZvZ29jbHpxamQ5RTZ4NmpVRE9JMzRGMzJJN3F0YjJFb3hLYXdhcXl5WmE3ajBhczZTSzRITWozWXg4ZEdkTk5kOFhlUUlxVWpVNTl4RU55WHZjdDZWODNoSWMxMm5vWXNUOUJCdkh4TXQ4cUkzbjJRc2YxQzhNYzFCT0wtaHBBdnc?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "⚖️ Regulation",
-   "date": "2026-07-06",
-   "ai_summary": "Mars recalls Pedigree dog food due to foreign material concerns. The recall follows reports of diverted product reaching consumers.",
-   "excerpt": "Mars recalls Pedigree dog food after allegedly diverted product reaches consumers amid foreign material risk DVM360"
-  },
-  {
-   "title": "Royal Canin Dog Food Review 2026 – Pros, Cons, Recalls & FAQ - Dogster",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VU0NSUW13TVk0RWtEc1hzVFhLdnAyYWcxSGJWUmViYXBycUFURHFPMU9RT3dTbDM2NVhFMlFmUFJfeDJNUmRhOTN1S2NMTDc1Wl9wSUFZY3JJcTRCWlBjSWpVa0lYQnhaYzhvdDljaHRLYXVm?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "⚖️ Regulation",
-   "date": "2026-06-27",
-   "ai_summary": "A review of Royal Canin dog food covers pros, cons, recalls, and FAQs. The article provides an overview of the brand's offerings.",
-   "excerpt": "Royal Canin Dog Food Review 2026 – Pros, Cons, Recalls & FAQ Dogster"
-  },
-  {
-   "title": "Fernando Mendoza extends Royal Canin deal into NFL career - Sports Business Journal",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTlN3S1QySVppYVlxSGZhREJFMDlNM19TZFpKU2FpM3RQOWR3UzMxLTJ6cFlxY1RCbmZoUklVYmdUVTRuZWdEcXludWJYVVBZOWJpUzJHY0cwZjFYOU5zR19kcmVBLTVXUUdQUFVDLWVDUDlDNnhpTnFsRU0yNHNRZkRjVkl2RWxDTUZDMVFmRENtRThiTU5fR3Q1emNCZ3Jsa1dQZVNORnVQUTZIN3dybm8xVlpQNDA?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-06-16",
-   "ai_summary": "Fernando Mendoza extends his Royal Canin partnership into his NFL career. The deal highlights continued collaboration.",
-   "excerpt": "Fernando Mendoza extends Royal Canin deal into NFL career Sports Business Journal"
-  },
-  {
-   "title": "Blue Buffalo vs. Royal Canin: Who Wins? [2026] - iHeartDogs.com",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYa0FnWGlvcU9ydDFRVmhGeDNGUXM1WDA5dmhac0JCYzBEU0NaejlmZG5KaUNCTTVOTnNQeFlNQ3BGcmUxUV9jM2EzTlBqSm1QWmhYbTdRbDY3dU9HT3JOTlB5Mnd4QkRsNUNLMg?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-06-09",
-   "ai_summary": "A comparison between Blue Buffalo and Royal Canin is presented. The article evaluates which brand performs better.",
-   "excerpt": "Blue Buffalo vs. Royal Canin: Who Wins? [2026] iHeartDogs.com"
-  },
-  {
-   "title": "Big Idea Ventures and Mars Petcare launch 2026 Global Pet Food Innovation... - Mars, Incorporated",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0xUcU54VE9fb3lmem1sek9tUEl1YUxSNEphYnhqdkRENDU1VnUzbFBaWWFJNjEtaDZxcVdSTWR5SDNTQ0xfVEhBdV9yWGJOTGRqSmVFNHhqNERKeHNOVHd4bnRaQU5wOFh2SldHektGdDM5SnlFeUNWcThVZGZiRkZjdWdadjBQcEhIQkRqdEhyTXVfRUM2N0NnUnRJSnFsTGtGekNRd0Jmck1pTjZ4Ui1GUG1JQlVJMk5oVlhTejFTWmVObTRENjVkdTd5TWM?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-05-12",
-   "ai_summary": "Big Idea Ventures partners with Mars Petcare to launch a global pet food innovation initiative. The program targets new product development.",
-   "excerpt": "Big Idea Ventures and Mars Petcare launch 2026 Global Pet Food Innovation... Mars, Incorporated"
-  },
-  {
-   "title": "Mars Petcare and Big Idea Ventures launch 2026 pet food innovation program to scale start-ups - Nutrition Insight",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1c1aXV2cTRvbGZyX09VUnEyS3J6YXNtcEFPdm5NY3dhVi1tbVJGVDA2UzNlcVoyaW1YY0dZME10X2dpeWpUejVxeFdueE13VUVDdHFTSGgzV1hTdFlKSkJ4REZuN1NLRVhuMWdrampwUEhFcjRuaU84amRjTDZ5UlNWa3BzY1FTZHVtSlF3?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-05-12",
-   "ai_summary": "Mars Petcare and Big Idea Ventures introduce a pet food innovation program. The initiative aims to scale start-up projects.",
-   "excerpt": "Mars Petcare and Big Idea Ventures launch 2026 pet food innovation program to scale start-ups Nutrition Insight"
-  },
-  {
-   "title": "EXCLUSIVE: Mars Petcare’s CGO Najoh Tita-Reid is Exiting to Pursue Career in AI - ADWEEK",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRDZUVDIybnJvUlhfamxaVTZOaXNDZFdXMTVNLUloam9ncGNEQ3V4RkJmRE9OUm15a1F5My1Ba1FNQWlHN2Q4aXBsZTl3VWU5a3ZLSVIzaWpjbHplRlRBSlRES2o2REtjbXBBd2FiLWRoclBtbmF3QU5SU3JCbU1CcnNSS1l1ZTY2RWdsS3djRlZHQmFmQ3Y5RXZCTEFaeUZObU16QXh2U09DZjVWcDBFRnNCSUxWRkhE?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-04-21",
-   "ai_summary": "Mars Petcare’s CGO Najoh Tita-Reid is leaving the company. She is pursuing a career in AI.",
-   "excerpt": "EXCLUSIVE: Mars Petcare’s CGO Najoh Tita-Reid is Exiting to Pursue Career in AI ADWEEK"
-  },
-  {
-   "title": "Mars Petcare Plant in Henderson to Close in July - WIZS",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWd0ZzR1ZxdG5YcE5EdEc5V0J5enBpNnJUQ2V2SUFJUnRIdGVxa3FIWXNtbGRxQVRqY1kyS3owckNFVlVFQTBPcDJqck9TbEY1MUxPQlEzUFhuN0t4UWFZWnVHWDBxYXZKTjRqRV8tSXdfbDV40gF8QVVfeXFMT3BnTU5tMzA5VHg4cGRyaUx1ZDVCUlFrTHpqcEMyMHZNR2gzTFVCOEZNS29QUlZzTklfOTRmRVpnb3Rjd3RfZzFFd3VtUFpmVklxOHlIQUxmcmRoSEJxWFhydjlhcktMcExjWWxoZDdLYkhMTGE3ZnMwdk9UMQ?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "🤝 M&A",
-   "date": "2026-04-20",
-   "ai_summary": "Mars Petcare will close its Henderson plant. The closure will happen in July.",
-   "excerpt": "Mars Petcare Plant in Henderson to Close in July WIZS"
-  },
-  {
-   "title": "Saxum buys Ohio facility with 465,000 sq. ft. of cold storage, warehouse space - Real Estate NJ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pMUXpSaFhvNTZrWHVMSVA3MkhMMnA5Wl9VN1VpRFYyZElZTXFqOE1uSWpNLVFKZTRfbGM5SDdoNkMwSXU2MFhNdU5NaTBMY2FGTnZfWkZpVjQzQUtNb2F3QnVGVUdXSUtHOUpqd045bHh0MHRiMFVJbGpNbW01VWN6OGxZSzlUQnczUVZxWWVBQ21Id1N6dUllNWhVYVVnbm1vb0hrZG1EUzA1M0E?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "🤝 M&A",
-   "date": "2026-04-17",
-   "ai_summary": "Saxum has purchased an Ohio facility. The facility contains 465,000 square feet of cold storage and warehouse space.",
-   "excerpt": "Saxum buys Ohio facility with 465,000 sq. ft. of cold storage, warehouse space Real Estate NJ"
-  },
-  {
-   "title": "Pricey Mars Petcare Human Grade Pet Food - Truth about Pet Food",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aOWlZR0xzVFNnVWJVSk9KbWx4bzU5bnJ6azJLNlZ4bWo5SmYwWlRuNnNnSkY3ZmxoMjJHdm1pdUtUTFlhWGtQMzN4aUlTM3FSYjFYaVpxaHFOQTZmeXUyUkE1RTVEMkg2ZlJCdW45VHctSEdSYWViTEpYOA?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "🤝 M&A",
-   "date": "2026-03-11",
-   "ai_summary": "Mars Petcare offers human grade pet food. The product is described as pricey.",
-   "excerpt": "Pricey Mars Petcare Human Grade Pet Food Truth about Pet Food"
-  },
-  {
-   "title": "Royal Canin celebrates National Love Your Pet Day by sharing 2025 charitable giving efforts - Mars, Incorporated",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0NmSWZqMGhaQ19fNHBVSWRibzFEc241YnRLZ0M0ME1EVjE2NGVUcEJtOXN1NG52akJTYkhBVVl5LTNSSUtoLUh5dFRmSlotV05SXzdoYkVGR0J2Umx3UmVPQ0M2Q1MwN1loWnZaMHo5V00tV3VJU2dKRGtROVB0RlNuVWdIWjRPZjFaWFI1eVBaN2pDdHVPSjFFYUhBNjJmWUctbDl2OTFNRDJKaVUzc0FIWFhaOG5LcVdPQjlOamFnaGp2WVY1NHhzNA?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-02-23",
-   "ai_summary": "Royal Canin celebrated National Love Your Pet Day. They shared their 2025 charitable giving efforts.",
-   "excerpt": "Royal Canin celebrates National Love Your Pet Day by sharing 2025 charitable giving efforts Mars, Incorporated"
   }
  ]
 }

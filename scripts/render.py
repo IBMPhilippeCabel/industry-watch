@@ -411,15 +411,20 @@ def main():
 
     now = datetime.now(timezone.utc)
     updated = f"{now:%Y-%m-%d %H:%M UTC}"
-    cutoff = now.date() - timedelta(days=ROLLING_DAYS)
+    # Base the rolling window on publication date (art_day), not first_seen,
+    # so articles published months ago don't appear on the home page just
+    # because they were collected in the same crawl batch.
+    latest_pub = max(date.fromisoformat(art_day(a)) for a in articles)
+    ref_date = max(now.date(), latest_pub)
+    cutoff = ref_date - timedelta(days=ROLLING_DAYS)
 
     # ── build months dict first (needed for archive dropdown) ────────
     months: dict[str, list] = {}
     for a in articles:
-        months.setdefault(f"{a['first_seen']:%Y-%m}", []).append(a)
+        months.setdefault(art_day(a)[:7], []).append(a)
 
     # ── index.html (rolling 30 days) ─────────────────────────────────
-    recent = [a for a in articles if a["first_seen"] >= cutoff]
+    recent = [a for a in articles if date.fromisoformat(art_day(a)) >= cutoff]
     body = briefing_block(briefing) + cards_section(recent)
     nav = '<a href="index.html">🏠 Home</a>'
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
