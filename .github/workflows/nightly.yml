@@ -49,7 +49,7 @@ jobs:
       - name: Fetch RSS feeds
         shell: bash
         run: |
-          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee /tmp/build-${{ matrix.id }}.log
+          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee /tmp/build-${{ matrix.id }}.log || true
           grep -oE 'Wrote [0-9]+ new articles' /tmp/build-${{ matrix.id }}.log | grep -oE '[0-9]+' > /tmp/articles.txt || true
           grep 'WARN' /tmp/build-${{ matrix.id }}.log > /tmp/warnings.txt || true
 
@@ -68,6 +68,7 @@ jobs:
   # ── Step 3: render all sites + portal, push to site branch ───────────────
   render:
     needs: [setup, fetch]
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
