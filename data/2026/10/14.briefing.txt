@@ -1,0 +1,1 @@
+{"hook": "Today, Romanian pet food sector sees fresh investment inflows.", "categories": {"📈 Market": null, "🤝 M&A": "Investors are entering Romania’s pet food market, signaling confidence in its growth prospects.", "⚖️ Regulation": null, "💡 Innovation": null}}
