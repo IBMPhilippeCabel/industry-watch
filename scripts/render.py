@@ -68,6 +68,7 @@ CSS = """
   .meta { display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:12px; color:var(--muted); }
   .tag { padding:1px 8px; border:1px solid var(--border); border-radius:10px; color:var(--accent); font-size:12px; }
   .ai-summary { font-size:13px; color:var(--muted); font-style:italic; border-left:3px solid var(--ai); padding-left:8px; line-height:1.5; }
+  .ai-icon { font-style:normal; font-size:12px; }
   .hidden { display:none; }
   /* sources list */
   h3 { font-size:16px; margin:8px 0; }
@@ -198,7 +199,7 @@ def briefing_block(briefing):
     inner = "\n".join(parts)
     return (
         f'<div class="briefing">'
-        f'<div class="briefing-label">✦ Daily Briefing — AI-generated</div>'
+        f'<div class="briefing-label">Daily Briefing — 🤖 AI-generated</div>'
         f'{inner}'
         f'<div class="briefing-meta"><time datetime="{day}">{day}</time></div>'
         f'</div>'
@@ -213,7 +214,7 @@ def cards_section(articles):
     for a in articles:
         d = art_day(a)
         ai = a.get("ai_summary", "")
-        ai_html = f'<div class="ai-summary">{esc(ai)}</div>' if ai else ""
+        ai_html = f'<div class="ai-summary"><span class="ai-icon">🤖</span> {esc(ai)}</div>' if ai else ""
         rows.append(
             f'<article class="card" id="{art_id(a)}" data-cat="{esc(a["category"])}">'
             f'<div class="meta"><span class="tag">{esc(a["category"])}</span>'
