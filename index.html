@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Industry Watch</title>
+<meta name="description" content="AI-assisted daily intelligence portals.">
+<style>
+  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }
+  .portal-wrap { max-width:800px; margin:80px auto; padding:0 24px; text-align:center; }
+  .portal-wrap h1 { font-size:28px; margin-bottom:8px; }
+  .portal-wrap p { color:#57606a; margin-bottom:40px; }
+  .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
+  .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
+  .portal-card:hover { border-color:#3b82d4; }
+  .portal-card--wip { background:#fffbeb; border-color:#fde68a; }
+  .portal-card--wip:hover { border-color:#f59e0b; }
+  .portal-icon { font-size:32px; margin-bottom:12px; display:flex; align-items:center; }
+  .portal-icon img { width:40px; height:40px; object-fit:contain; border-radius:6px; }
+  .portal-name { font-size:18px; font-weight:600; margin-bottom:6px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .portal-badge { font-size:11px; font-weight:600; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:2px 8px; }
+  .portal-desc { font-size:13px; color:#57606a; line-height:1.5; }
+  footer { text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:40px; }
+</style>
+</head>
+<body>
+<div class="portal-wrap">
+  <h1>Industry Watch</h1>
+  <p>AI-assisted daily intelligence portals.</p>
+  <div class="portal-grid"><a href="petfood-watch/index.html" class="portal-card"><div class="portal-icon"><img src="Mars-inc.png" alt="🐾" style="width:20px;height:20px;object-fit:contain;border-radius:3px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🐾'))"></div><div class="portal-name">Petfood Watch</div><div class="portal-desc">Daily AI-assisted intelligence on the pet food industry: market, M&amp;A, regulation and innovation news from trade press, with per-article summaries and a daily briefing.</div></a><a href="mars/index.html" class="portal-card portal-card--wip"><div class="portal-icon"><img src="icon.ico" alt="🔴" style="width:20px;height:20px;object-fit:contain;border-radius:3px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🔴'))"></div><div class="portal-name">Mars Watch<span class="portal-badge">🚧 Under construction</span></div><div class="portal-desc">Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.</div></a></div>
+</div>
+<footer>Last updated: <time>2026-10-14 08:46 UTC</time></footer>
+</body>
+</html>
