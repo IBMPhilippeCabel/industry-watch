@@ -328,25 +328,50 @@ def render_site_stats(site_cfg, site_hits, countries, browsers, portal_name, gc_
 """
 
 
+def _render_pending(title, back_href, back_label, gc_dashboard_url, updated):
+    """Fallback page shown when no data is available yet."""
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{esc(title)}</title>
+<style>{_STATS_CSS}</style>
+</head>
+<body>
+<header>
+  <h1>📊 {esc(title)}</h1>
+  <nav><a href="{esc(back_href)}">{esc(back_label)}</a></nav>
+</header>
+<main class="wrap" style="text-align:center;padding-top:80px;">
+  <div style="font-size:48px;margin-bottom:16px;">📈</div>
+  <h2 style="font-size:20px;margin-bottom:8px;">No data yet</h2>
+  <p style="color:var(--muted);max-width:420px;margin:0 auto 32px;">
+    Stats will appear here after the first visits are recorded by GoatCounter.
+    This page updates automatically every 2 hours.
+  </p>
+  <a href="{esc(gc_dashboard_url)}" target="_blank" rel="noopener"
+     style="background:var(--accent);color:#fff;border-radius:8px;padding:10px 22px;text-decoration:none;font-size:14px;font-weight:600;">
+    Open GoatCounter dashboard →
+  </a>
+  <p class="muted" style="margin-top:32px;">Last updated: {updated}</p>
+</main>
+<footer>Powered by <a href="https://www.goatcounter.com" target="_blank" rel="noopener">GoatCounter</a></footer>
+</body>
+</html>
+"""
+
+
 def main():
     args = [a for a in sys.argv[1:] if a]
     if not args:
         print("Usage: stats.py <output_dir>", file=sys.stderr)
         return 2
 
-    token = os.environ.get("GOATCOUNTER_API_KEY", "")
-    if not token:
-        print("ERROR: GOATCOUNTER_API_KEY not set", file=sys.stderr)
-        return 1
-
     cfg = _load_config()
     gc_url = cfg.get("goatcounter_url", "")
-    if not gc_url:
-        print("ERROR: goatcounter_url not set in config.json", file=sys.stderr)
-        return 1
-
-    api_base = gc_url.rstrip("/").removesuffix("/count")
-    gc_dashboard_url = api_base
+    api_base = gc_url.rstrip("/").removesuffix("/count") if gc_url else ""
+    gc_dashboard_url = api_base or "https://www.goatcounter.com"
     portal_name = cfg.get("portal_name", "Industry Watch")
     site_root_path = urlparse(cfg["site_root_url"].rstrip("/") + "/").path
 
@@ -355,6 +380,26 @@ def main():
 
     now = datetime.now(timezone.utc)
     updated = f"{now:%Y-%m-%d %H:%M UTC}"
+
+    token = os.environ.get("GOATCOUNTER_API_KEY", "")
+    if not token or not gc_url:
+        # No token or no URL configured — write pending pages so the site has no 404
+        print("WARN: GOATCOUNTER_API_KEY not set or goatcounter_url missing — writing pending pages", file=sys.stderr)
+        (output_dir / "stats.html").write_text(
+            _render_pending(f"{portal_name} — Stats", "index.html", "🏠 Portal", gc_dashboard_url, updated),
+            encoding="utf-8",
+        )
+        for s in cfg["sites"]:
+            site_dir = output_dir / s["id"]
+            site_dir.mkdir(parents=True, exist_ok=True)
+            (site_dir / "stats.html").write_text(
+                _render_pending(f"{s['site_name']} — Stats", "index.html", f"← {s['site_name']}", gc_dashboard_url, updated),
+                encoding="utf-8",
+            )
+        print(f"Pending stats pages written for {len(cfg['sites'])} sites")
+        return 0
+
+    site_root_path = urlparse(cfg["site_root_url"].rstrip("/") + "/").path
 
     hits, countries, browsers = _fetch_stats(api_base, token)
     groups = _group_hits_by_site(hits, cfg["sites"], site_root_path)
