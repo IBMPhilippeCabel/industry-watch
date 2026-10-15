@@ -110,6 +110,7 @@ CSS = """
   ul.months { list-style:none; padding:0; margin:20px 0 32px; max-width:600px; }
   ul.months li { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:10px 16px; margin-bottom:8px; display:flex; justify-content:space-between; }
   .muted { color:var(--muted); }
+  .page-updated { font-size:12px; color:var(--muted); margin:12px 0 4px; }
   footer { text-align:center; color:var(--muted); font-size:12px; padding:16px; border-top:1px solid var(--border); }
 """
 
@@ -579,9 +580,8 @@ def render_portal(output_dir, updated):
   header h1 { margin:0; font-size:20px; font-weight:700; color:#1f2328; }
   .stats-btn { border:1px solid #e5e7eb; background:#fff; color:#3b82d4; padding:6px 16px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; font-weight:600; }
   .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
-  .portal-wrap { max-width:800px; margin:60px auto; padding:0 24px; text-align:center; }
-  .portal-wrap h2 { font-size:22px; margin-bottom:8px; }
-  .portal-wrap p { color:#57606a; margin-bottom:40px; }
+  .portal-wrap { max-width:800px; margin:40px auto; padding:0 24px; text-align:center; }
+  .portal-updated { font-size:12px; color:#57606a; margin:0 0 28px; letter-spacing:.01em; }
   .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
   .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
   .portal-card:hover { border-color:#3b82d4; }
@@ -609,7 +609,7 @@ def render_portal(output_dir, updated):
   <nav><a href="stats.html" class="stats-btn">📊 Stats</a></nav>
 </header>
 <div class="portal-wrap">
-  <h2>{esc(portal_desc)}</h2>
+  <p class="portal-updated">Last updated: <time>{updated}</time></p>
   <div class="portal-grid">{cards}</div>
 </div>
 <footer>Last updated: <time>{updated}</time></footer>
@@ -676,7 +676,8 @@ def main():
 
     # ── <id>/index.html (rolling N days) ─────────────────────────────
     recent = [a for a in articles if a["first_seen"] >= cutoff]
-    body = briefing_block(briefing) + cards_section(recent)
+    updated_line = f'<p class="page-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
+    body = updated_line + briefing_block(briefing) + cards_section(recent)
     nav = f'<a href="../index.html">🏠 Portal</a>'
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
     (site / "index.html").write_text(
@@ -691,7 +692,7 @@ def main():
     # ── <id>/archive/YYYY-MM.html ─────────────────────────────────────
     for ym, items in months.items():
         nav = f'<a href="../../index.html">🏠 Portal</a>'
-        body = cards_section(items)
+        body = updated_line + cards_section(items)
         desc = f"{SITE_NAME} archive {ym}: {len(items)} articles."
         (archive / f"{ym}.html").write_text(
             shell(f"{SITE_NAME} — Archive {ym}", nav, body, updated, FILTER_JS,
