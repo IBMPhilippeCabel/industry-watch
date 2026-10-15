@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-15T09:45:00Z",
+ "updated": "2026-10-15T10:18:00Z",
  "briefing": {
   "date": "2026-10-15",
-  "hook": "Today’s focus is on evolving pet nutrition and proactive health conversations.",
+  "hook": "Pet industry sees a surge in M&A activity across veterinary AI, pet health, ingredients, manufacturing and wellness, expanding into Europe and Asia.",
   "categories": {
    "📈 Market": null,
-   "🤝 M&A": null,
+   "🤝 M&A": "M&A activity in September and early October spans veterinary AI, pet health, pet food ingredients, manufacturing and wellness products, with companies expanding across Europe and Asia.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Fish oil and fishmeal are expanding into new pet nutrition uses, yet supply pressures remain due to ongoing coastal El Niño conditions in Peru, while Royal Canin’s symposium highlights the importance of initiating conversations about healthy aging in pets earlier."
+   "💡 Innovation": null
   }
  },
  "articles": [
+  {
+   "title": "From veterinary AI to pet wellness: the latest M&A deals",
+   "url": "https://globalpetindustry.com/news/from-veterinary-ai-to-pet-wellness-the-latest-ma-deals/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-10-15",
+   "ai_summary": "From veterinary AI to pet wellness: the latest M&A deals highlights M&A activity in September and early October spanning veterinary AI, pet health, pet food ingredients, manufacturing and wellness products. Companies are also expanding their presence across Europe and Asia.",
+   "excerpt": "M&A activity in September and early October spanned veterinary AI, pet health, pet food ingredients, manufacturing and wellness products, with companies also expanding their presence across Europe and Asia. IDEXX IDEXX h…"
+  },
   {
    "title": "Analysis: Fish oil finds new opportunities in pet nutrition",
    "url": "https://globalpetindustry.com/news/analysis-fish-oil-finds-new-opportunities-in-pet-nutrition/",
