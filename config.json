@@ -3,6 +3,7 @@
   "site_root_url": "https://ibmphilippecabel.github.io/industry-watch/",
   "portal_name": "Industry Watch",
   "portal_description": "AI-assisted daily intelligence portals.",
+  "goatcounter_url": "https://petfood-watch.goatcounter.com/count",
   "sites": [
     {
       "id": "petfood-watch",

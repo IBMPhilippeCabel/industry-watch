@@ -44,6 +44,12 @@ for _i, _arg in enumerate(sys.argv[1:]):
 _GLOBAL_CFG = _load_config()
 _CFG = _load_site_cfg(_GLOBAL_CFG, _site_id)
 
+GOATCOUNTER_URL = _GLOBAL_CFG.get("goatcounter_url", "")
+_GC_SNIPPET = (
+    f'<script data-goatcounter="{GOATCOUNTER_URL}" async src="//gc.zgo.at/count.js"></script>'
+    if GOATCOUNTER_URL else ""
+)
+
 DATA_DIR   = ROOT / _CFG["data_dir"]
 SOURCES    = json.loads((ROOT / _CFG["sources_file"]).read_text(encoding="utf-8"))
 ROLLING_DAYS = int(_CFG.get("rolling_days", 30))
@@ -250,6 +256,7 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 </main>
 <footer>Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></footer>
 <script>{script}</script>
+{_GC_SNIPPET}
 </body>
 </html>
 """
@@ -531,6 +538,7 @@ def render_under_construction(site, updated, portal_url="../index.html"):
   <a href="{esc(portal_url)}" class="btn">← Back to portal</a>
 </div>
 <footer>Last updated: <time>{updated}</time></footer>
+{_GC_SNIPPET}
 </body>
 </html>
 """
@@ -596,6 +604,7 @@ def render_portal(output_dir, updated):
   <div class="portal-grid">{cards}</div>
 </div>
 <footer>Last updated: <time>{updated}</time></footer>
+{_GC_SNIPPET}
 </body>
 </html>
 """
