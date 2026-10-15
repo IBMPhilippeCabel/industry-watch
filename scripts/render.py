@@ -228,6 +228,8 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
         f'<div class="src-dropdown" id="arc-dropdown">{archive_html}</div>'
         f'</div>'
     ) if archive_html else ""
+    stats_prefix = "../" * (depth - 1)
+    stats_btn = f'<a href="{stats_prefix}stats.html" class="src-btn">📊 Stats</a>'
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -249,7 +251,7 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 <body>
 <header>
   <h1>{_site_header_icon()}{esc(SITE_NAME)}</h1>
-  <nav>{nav_links}{sites_btn}{arc_btn}{src_btn}</nav>
+  <nav>{nav_links}{stats_btn}{sites_btn}{arc_btn}{src_btn}</nav>
 </header>
 <main class="wrap">
 {body}
@@ -573,8 +575,12 @@ def render_portal(output_dir, updated):
 
     portal_css = """
   body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }
-  .portal-wrap { max-width:800px; margin:80px auto; padding:0 24px; text-align:center; }
-  .portal-wrap h1 { font-size:28px; margin-bottom:8px; }
+  header { background:#fff; border-bottom:1px solid #e5e7eb; padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
+  header h1 { margin:0; font-size:20px; font-weight:700; color:#1f2328; }
+  .stats-btn { border:1px solid #e5e7eb; background:#fff; color:#3b82d4; padding:6px 16px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; font-weight:600; }
+  .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
+  .portal-wrap { max-width:800px; margin:60px auto; padding:0 24px; text-align:center; }
+  .portal-wrap h2 { font-size:22px; margin-bottom:8px; }
   .portal-wrap p { color:#57606a; margin-bottom:40px; }
   .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
   .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
@@ -598,9 +604,12 @@ def render_portal(output_dir, updated):
 <style>{portal_css}</style>
 </head>
 <body>
-<div class="portal-wrap">
+<header>
   <h1>{esc(portal_name)}</h1>
-  <p>{esc(portal_desc)}</p>
+  <nav><a href="stats.html" class="stats-btn">📊 Stats</a></nav>
+</header>
+<div class="portal-wrap">
+  <h2>{esc(portal_desc)}</h2>
   <div class="portal-grid">{cards}</div>
 </div>
 <footer>Last updated: <time>{updated}</time></footer>

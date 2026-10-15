@@ -10,6 +10,7 @@ permissions:
 
 env:
   GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+  GOATCOUNTER_API_KEY: ${{ secrets.GOATCOUNTER_API_KEY }}
 
 jobs:
   # ── Step 1: build matrix of site ids from config.json ────────────────────
@@ -115,6 +116,11 @@ jobs:
             echo "--- Rendering $site_id ---"
             python scripts/render.py --site "$site_id" site 2>&1 | tee -a /tmp/render.log
           done
+
+      - name: Generate stats page
+        shell: bash
+        run: |
+          python scripts/stats.py site 2>&1 | tee -a /tmp/render.log || true
 
       - name: Commit and push to site branch
         id: push
