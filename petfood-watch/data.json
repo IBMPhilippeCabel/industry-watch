@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-15T18:17:00Z",
+ "updated": "2026-10-15T20:15:00Z",
  "briefing": {
   "date": "2026-10-15",
-  "hook": "New calming chews, dental treats and AI tools reshape pet nutrition while bourbon‑inspired treats hit the market.",
+  "hook": "Europe’s heat wave turns climate supply disruptions into a pressing business challenge for pet food makers.",
   "categories": {
-   "📈 Market": "Missouri distillery launches bourbon‑inspired dog treats made with its grains.",
+   "📈 Market": null,
    "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": "PetLabCo. unveils a multi‑pathway calming chew, Ari’s Purrfect adds dental and omega licks, and AI is cemented as a business tool in pet food."
+   "💡 Innovation": "Europe’s heat wave forces pet food makers to adapt quickly to climate‑related supply disruptions."
   }
  },
  "articles": [
+  {
+   "title": "Europe’s heat wave sends a warning to pet food makers",
+   "url": "https://www.petfoodindustry.com/regions/europe/article/15837643/europes-heat-wave-sends-a-warning-to-pet-food-makers",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-15",
+   "ai_summary": "Europe’s heat wave has turned climate-related supply disruptions into a real business challenge for pet food makers. The warning highlights the need for immediate adaptation to these emerging risks.",
+   "excerpt": "Climate-related supply disruptions have shifted from a distant, theoretical risk for pet food to a tangible business challenge..."
+  },
   {
    "title": "PetLabCo. launches NeuraBlend™ Calming Chew for dogs",
    "url": "https://www.petfoodprocessing.net/articles/20990-petlabco-launches-neurablend-calming-chew-for-dogs",
