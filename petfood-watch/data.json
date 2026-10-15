@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-15T10:18:00Z",
+ "updated": "2026-10-15T12:18:00Z",
  "briefing": {
   "date": "2026-10-15",
-  "hook": "Pet industry sees a surge in M&A activity across veterinary AI, pet health, ingredients, manufacturing and wellness, expanding into Europe and Asia.",
+  "hook": "New calming chews, dental treats and AI tools reshape pet nutrition while bourbon‑inspired treats hit the market.",
   "categories": {
-   "📈 Market": null,
-   "🤝 M&A": "M&A activity in September and early October spans veterinary AI, pet health, pet food ingredients, manufacturing and wellness products, with companies expanding across Europe and Asia.",
+   "📈 Market": "Missouri distillery launches bourbon‑inspired dog treats made with its grains.",
+   "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": null
+   "💡 Innovation": "PetLabCo. unveils a multi‑pathway calming chew, Ari’s Purrfect adds dental and omega licks, and AI is cemented as a business tool in pet food."
   }
  },
  "articles": [
+  {
+   "title": "PetLabCo. launches NeuraBlend™ Calming Chew for dogs",
+   "url": "https://www.petfoodprocessing.net/articles/20990-petlabco-launches-neurablend-calming-chew-for-dogs",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-15",
+   "ai_summary": "PetLabCo. launches NeuraBlend™ Calming Chew for dogs, featuring active ingredients that work across four pathways: gut-brain, stress response, neurotransmitter and botanical support.",
+   "excerpt": "It features active ingredients that work across four pathways: gut-brain, stress response, neurotransmitter and botanical support."
+  },
+  {
+   "title": "Ari’s Purrfect introduces new products at CatCon",
+   "url": "https://www.petfoodprocessing.net/articles/20989-aris-purrfect-introduces-new-products-at-catcon",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-15",
+   "ai_summary": "Ari’s Purrfect introduces new products at CatCon, offering a dental chew and Omega-based lickable supplement in the US market.",
+   "excerpt": "The Korean feline-focused brand offers a dental chew and Omega-based lickable supplement in the US market."
+  },
+  {
+   "title": "Evolution of AI in food, beverage industry continues",
+   "url": "https://www.petfoodprocessing.net/articles/20988-evolution-of-ai-in-food-beverage-industry-continues",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-15",
+   "ai_summary": "Evolution of AI in food, beverage industry continues, noting that artificial intelligence is no longer just a buzzword but a business tool.",
+   "excerpt": "Artificial intelligence is no longer just a buzzword; it’s a business tool."
+  },
+  {
+   "title": "Missouri distillery unleashes bourbon-inspired dog treats",
+   "url": "https://www.petfoodprocessing.net/articles/20984-missouri-distillery-unleashes-bourbon-inspired-dog-treats",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-15",
+   "ai_summary": "Missouri distillery unleashes bourbon-inspired dog treats, Holladay Bourbones made with the same grains used to make its bourbon.",
+   "excerpt": "Holladay Bourbones are made with the same grains the distillery uses to make its bourbon."
+  },
   {
    "title": "From veterinary AI to pet wellness: the latest M&A deals",
    "url": "https://globalpetindustry.com/news/from-veterinary-ai-to-pet-wellness-the-latest-ma-deals/",
