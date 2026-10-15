@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-15T20:15:00Z",
+ "updated": "2026-10-15T22:15:00Z",
  "briefing": {
   "date": "2026-10-15",
-  "hook": "Europe’s heat wave turns climate supply disruptions into a pressing business challenge for pet food makers.",
+  "hook": "Today highlights pet supplement innovation, with new launches targeting cats, longevity, and canine oral health.",
   "categories": {
    "📈 Market": null,
    "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": "Europe’s heat wave forces pet food makers to adapt quickly to climate‑related supply disruptions."
+   "💡 Innovation": "Innovation drives new pet supplement offerings, with new launches focusing on cat-specific products, longevity, and canine oral health."
   }
  },
  "articles": [
@@ -65,6 +65,15 @@
    "date": "2026-10-15",
    "ai_summary": "From veterinary AI to pet wellness: the latest M&A deals highlights M&A activity in September and early October spanning veterinary AI, pet health, pet food ingredients, manufacturing and wellness products. Companies are also expanding their presence across Europe and Asia.",
    "excerpt": "M&A activity in September and early October spanned veterinary AI, pet health, pet food ingredients, manufacturing and wellness products, with companies also expanding their presence across Europe and Asia. IDEXX IDEXX h…"
+  },
+  {
+   "title": "Innovation drives new pet supplement offerings",
+   "url": "https://www.petfoodindustry.com/pet-supplements-pro/pet-supplements-and-treats-digest/article/15837344/innovation-drives-new-pet-supplement-offerings",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-15",
+   "ai_summary": "Innovation drives new pet supplement offerings, with new launches focusing on cat-specific products, longevity, and canine oral health. The emphasis is on specialized formulations tailored to each species' needs.",
+   "excerpt": "New launches focus on cat-specific products, longevity and canine oral health."
   },
   {
    "title": "Analysis: Fish oil finds new opportunities in pet nutrition",
