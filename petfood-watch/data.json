@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-15T03:15:00Z",
+ "updated": "2026-10-15T08:53:00Z",
  "briefing": {
   "date": "2026-10-15",
-  "hook": "Today's insights cover market shifts, regulatory moves, M&A activity, and pet food innovation.",
+  "hook": "Today’s focus is on evolving pet nutrition and proactive health conversations.",
   "categories": {
    "📈 Market": null,
-   "🤝 M&A": "Pet food, animal health and retail firms pursue growth through new manufacturing sites, distribution expansions, acquisitions and facility upgrades.",
-   "⚖️ Regulation": "Companies are investing in higher output and more efficient supply chains across Hungary, Denmark, Spain and Romania.",
-   "💡 Innovation": "Researchers found bacterial shifts linked to intestinal health after 30 days of botanical supplements, while studies show product quality and recommendations drive pet food choices and top Persian cat foods are highlighted for 2026."
+   "🤝 M&A": null,
+   "⚖️ Regulation": null,
+   "💡 Innovation": "Fish oil and fishmeal are expanding into new pet nutrition uses, yet supply pressures remain due to ongoing coastal El Niño conditions in Peru, while Royal Canin’s symposium highlights the importance of initiating conversations about healthy aging in pets earlier."
   }
  },
  "articles": [
+  {
+   "title": "Analysis: Fish oil finds new opportunities in pet nutrition",
+   "url": "https://globalpetindustry.com/news/analysis-fish-oil-finds-new-opportunities-in-pet-nutrition/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-15",
+   "ai_summary": "Fish oil and fishmeal are expanding into new pet nutrition uses, yet supply pressures remain due to ongoing coastal El Niño conditions in Peru.",
+   "excerpt": "Fishmeal and fish oil serve a growing range of applications, but supply is under pressure. Data from The Marine Ingredients Organisation (IFFO) shows that under ongoing coastal El Niño conditions, the Peruvian authoritie…"
+  },
   {
    "title": "Production update (II): EU pet players expand capacity across Hungary, Denmark, Spain and Romania",
    "url": "https://globalpetindustry.com/news/production-update-ii-eu-pet-players-expand-capacity-across-hungary-denmark-spain-and-romania/",

@@ -5,7 +5,16 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-10-15T03:15:00Z</updated>
+  <updated>2026-10-15T08:53:00Z</updated>
+  <entry>
+    <title>Analysis: Fish oil finds new opportunities in pet nutrition</title>
+    <id>https://globalpetindustry.com/news/analysis-fish-oil-finds-new-opportunities-in-pet-nutrition/</id>
+    <link href="https://globalpetindustry.com/news/analysis-fish-oil-finds-new-opportunities-in-pet-nutrition/"/>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="💡 Innovation"/>
+    <author><name>Global Pet Industry</name></author>
+    <summary>Fish oil and fishmeal are expanding into new pet nutrition uses, yet supply pressures remain due to ongoing coastal El Niño conditions in Peru.</summary>
+  </entry>
   <entry>
     <title>Production update (II): EU pet players expand capacity across Hungary, Denmark, Spain and Romania</title>
     <id>https://globalpetindustry.com/news/production-update-ii-eu-pet-players-expand-capacity-across-hungary-denmark-spain-and-romania/</id>
@@ -446,14 +455,5 @@
     <category term="📈 Market"/>
     <author><name>Petfood Industry</name></author>
     <summary>Pet food marketers can communicate about obesity without blame. The guide recommends using precise descriptions instead of euphemisms.</summary>
-  </entry>
-  <entry>
-    <title>$43B: Global pet grooming market to more than double by 2035</title>
-    <id>https://globalpetindustry.com/news/43b-global-pet-grooming-market-to-more-than-double-by-2035/</id>
-    <link href="https://globalpetindustry.com/news/43b-global-pet-grooming-market-to-more-than-double-by-2035/"/>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <category term="📈 Market"/>
-    <author><name>Global Pet Industry</name></author>
-    <summary>The global pet grooming market is expected to more than double by 2035. Forecasts project growth from $17.9 billion in 2025 to $42.9 billion over the next decade.</summary>
   </entry>
 </feed>
