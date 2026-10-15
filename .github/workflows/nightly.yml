@@ -2,7 +2,7 @@ name: Nightly site update
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # every night at 03:00 UTC
+    - cron: "0 */2 * * *"   # every 2 hours
   workflow_dispatch:       # manual run from the Actions tab
 
 permissions:
