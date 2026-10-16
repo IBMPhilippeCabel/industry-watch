@@ -100,6 +100,11 @@ def strip_tags(text):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", text or ""))).strip()
 
 
+def _title_key(title):
+    """Normalised title for duplicate detection: lowercase, strip punctuation/spaces."""
+    return re.sub(r"[^a-z0-9]", "", title.lower())
+
+
 def parse_date(value):
     try:
         dt = parsedate_to_datetime(value)
@@ -147,10 +152,12 @@ def load_articles():
                 "date": date.isoformat() if date else None,
                 "category": classify(f"{title} {summary} {tags}", default),
             })
-    seen, unique = set(), []
+    seen_links, seen_titles, unique = set(), set(), []
     for a in articles:
-        if a["link"] not in seen:
-            seen.add(a["link"])
+        tk = _title_key(a["title"])
+        if a["link"] not in seen_links and tk not in seen_titles:
+            seen_links.add(a["link"])
+            seen_titles.add(tk)
             unique.append(a)
     return unique
 
@@ -293,20 +300,17 @@ def _briefing_problem(data):
 
 
 def briefing(articles):
-    # Input: up to 6 ai_summary per category → 24 items max, ~3K tokens
+    # Input: up to 6 items per category → 24 items max, ~3K tokens
+    # Use ai_summary when available, fall back to title + raw summary.
     cats = {}
     for a in articles:
-        if a.get("ai_summary"):
-            cats.setdefault(a["category"], []).append(a)
+        cats.setdefault(a["category"], []).append(a)
     input_lines = []
     for cat, items in cats.items():
         input_lines.append(f"\n## {cat}")
         for a in items[:6]:
-            input_lines.append(f"- {a['ai_summary']}")
-    if not input_lines:
-        # fall back to titles if no ai_summary yet
-        for a in articles[:BRIEFING_MAX_HEADLINES]:
-            input_lines.append(f"- [{a['category']}] {a['title']}")
+            text = a.get("ai_summary") or f"{a['title']} — {a.get('summary', '')}"
+            input_lines.append(f"- {text}")
 
     for attempt in range(2):
         text = groq_chat(BRIEFING_SYSTEM, "\n".join(input_lines), max_tokens=1200)

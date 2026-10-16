@@ -13,6 +13,7 @@ Also writes <output_dir>/index.html  (portal entry page listing all sites).
 import hashlib
 import html
 import json
+import re
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -148,6 +149,11 @@ FILTER_JS = """
 
 def esc(v):
     return html.escape(v or "", quote=True)
+
+
+def _title_key(title):
+    """Normalised title for duplicate detection: lowercase, strip punctuation/spaces."""
+    return re.sub(r"[^a-z0-9]", "", (title or "").lower())
 
 
 def art_id(a):
@@ -463,7 +469,8 @@ def sources_dropdown_html():
 
 def load_all():
     """Return (articles deduplicated by link, latest briefing as (YYYY-MM-DD, text) or None)."""
-    seen = {}
+    seen_links = {}   # link → article
+    seen_titles = {}  # title_key → article
     for f in sorted(DATA_DIR.glob("*/*/*.json")):  # oldest day first
         day = date(int(f.parent.parent.name), int(f.parent.name), int(f.stem))
         try:
@@ -471,10 +478,12 @@ def load_all():
         except (OSError, ValueError):
             continue
         for a in arts:
-            if a["link"] not in seen:
+            tk = _title_key(a.get("title", ""))
+            if a["link"] not in seen_links and tk not in seen_titles:
                 a["first_seen"] = day
-                seen[a["link"]] = a
-    articles = list(seen.values())
+                seen_links[a["link"]] = a
+                seen_titles[tk] = a
+    articles = list(seen_links.values())
     articles.sort(key=lambda a: (a.get("date") or a["first_seen"].isoformat()), reverse=True)
 
     briefing = None
