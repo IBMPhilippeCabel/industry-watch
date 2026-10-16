@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-16T10:18:00Z",
+ "updated": "2026-10-16T12:17:00Z",
  "briefing": {
   "date": "2026-10-16",
-  "hook": "Pet supplement firms risk hidden compliance gaps; experts advise using supplier, testing, complaint data to strengthen certification.",
+  "hook": "Pet owners’ trust and cost pressures shape the market, while research into longevity and wildlife protection pushes innovation.",
   "categories": {
-   "📈 Market": null,
+   "📈 Market": "Brands must build trust while owners cut veterinary spending, driving a focus on value and transparency.",
    "🤝 M&A": null,
-   "⚖️ Regulation": "Pet supplement compliance risks can hide between audits; experts advise using supplier, testing and complaint data to build certification.",
-   "💡 Innovation": null
+   "⚖️ Regulation": null,
+   "💡 Innovation": "Studies linking lean feeding to dog longevity and funding for maned wolf protection illustrate a trend toward evidence‑based nutrition and conservation."
   }
  },
  "articles": [
+  {
+   "title": "Communicating with today’s pet owners",
+   "url": "https://www.petfoodprocessing.net/articles/20994-communicating-with-todays-pet-owners",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-16",
+   "ai_summary": "Mary Tan of Whisker Media discussed how pet food brands can build and sustain trust with modern pet owners.",
+   "excerpt": "Mary Tan of Whisker Media shared insights on how pet food brands can create and maintain trust with today’s pet owners."
+  },
+  {
+   "title": "SOMIC Packaging hires new chief sales officer",
+   "url": "https://www.petfoodprocessing.net/articles/20993-somic-packaging-hires-new-chief-sales-officer",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-16",
+   "ai_summary": "Paul Jenks, with over 28 years of packaging experience, has been appointed chief sales officer at SOMIC Packaging.",
+   "excerpt": "Paul Jenks brings more than 28 years of packaging experience to his new role."
+  },
+  {
+   "title": "PremieRpet partners with Onçafari to support wildlife conservation",
+   "url": "https://www.petfoodprocessing.net/articles/20992-premierpet-partners-with-oncafari-support-wildlife-conservation",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-16",
+   "ai_summary": "PremieRpet and Onçafari have partnered to fund research aimed at better understanding and protecting maned wolves in Brazil’s Cerrado region.",
+   "excerpt": "The partnership funds research focused on better understanding and safeguarding maned wolves across Brazil’s Cerrado region."
+  },
+  {
+   "title": "Purina Life Span Study links lean feeding to longevity in dogs",
+   "url": "https://www.petfoodprocessing.net/articles/20991-purina-life-span-study-links-lean-feeding-to-longevity-in-dogs",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-16",
+   "ai_summary": "Purina Life Span Study, the first lifelong dietary study on dogs, links lean feeding to increased longevity.",
+   "excerpt": "The study was the first-ever lifelong dietary study conducted in dogs to date, according to the Purina Institute."
+  },
+  {
+   "title": "Data: Cost pressures drive veterinary care delays across UK, US and Canada",
+   "url": "https://globalpetindustry.com/news/data-cost-pressures-drive-veterinary-care-delays-across-uk-us-and-canada/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-16",
+   "ai_summary": "A survey by Jollyes found that up to 30% of UK pet owners have delayed or skipped veterinary care due to rising costs, with the percentage rising to 46% for pet parents…",
+   "excerpt": "As many as 3 in 10 pet owners in the UK have delayed or skipped veterinary care amid rising costs, according to a survey by pet retailer Jollyes of 2,000 respondents in January 2026. The figure rose to 46% for pet parent…"
+  },
   {
    "title": "Pet supplement compliance risks can hide between audits",
    "url": "https://www.petfoodindustry.com/pet-supplements-pro/industry-voices/article/15836937/pet-supplement-compliance-risks-can-hide-between-audits",
