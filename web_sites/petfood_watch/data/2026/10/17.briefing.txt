@@ -1,1 +1,1 @@
-{"hook": "Royal Canin appoints new GM for U.S. veterinary unit.", "categories": {"📈 Market": null, "🤝 M&A": null, "⚖️ Regulation": null, "💡 Innovation": "Royal Canin North America announced Jennifer Cullen as General Manager of its U.S. Veterinary Business Unit."}}
+{"hook": "Pet care firms collaborate to boost adoption events, showing a trend toward community engagement.", "categories": {"📈 Market": null, "🤝 M&A": "Local Animal Shelters and Mars Petcare Team Up for Adoption Weekend, organized by Williamson Source.", "⚖️ Regulation": null, "💡 Innovation": null}}
