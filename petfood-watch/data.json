@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-19T10:22:00Z",
+ "updated": "2026-10-19T12:20:00Z",
  "briefing": {
   "date": "2026-10-19",
-  "hook": "Leadership shifts reshape the pet food landscape today.",
+  "hook": "Retail expansion and tech-driven product focus shape today's pet food landscape.",
   "categories": {
-   "📈 Market": null,
+   "📈 Market": "Retail partners and tech insights drive market shifts as brands expand west and explore new manufacturing methods.",
    "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": "Leadership changes across the pet sector and related businesses include planned CEO handovers, an interim global appointment and the introduction of a co‑CEO structure."
+   "💡 Innovation": "Nulo highlights a sensitivity-focused, limited‑ingredient cat line, reflecting growing demand for specialized diets."
   }
  },
  "articles": [
+  {
+   "title": "Evanger's, Against the Grain partner with VSI",
+   "url": "https://www.petfoodprocessing.net/articles/20998-evangers-against-the-grain-partner-with-vsi",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-19",
+   "ai_summary": "Evanger's and Against the Grain partner with VSI to strengthen their retail presence west of the Rockies.",
+   "excerpt": "The collaboration will strengthen the brands’ retail presence west of the Rockies."
+  },
+  {
+   "title": "Nulo focuses on cat with limited ingredient portfolio",
+   "url": "https://www.petfoodprocessing.net/articles/20997-nulo-focuses-on-cat-with-limited-ingredient-portfolio",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-19",
+   "ai_summary": "Nulo focuses on cats with a limited ingredient portfolio, noting that 23% of pet parents shop for sensitivity-focused diets.",
+   "excerpt": "Innova Market Insights research shows 23% of pet parents are shopping for sensitivity-focused diets."
+  },
+  {
+   "title": "Mars Petcare appoints global general counsel",
+   "url": "https://www.petfoodprocessing.net/articles/20996-mars-petcare-appoints-global-general-counsel",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-19",
+   "ai_summary": "Mars Petcare appoints Mike Boffa as global general counsel to lead legal strategy and operations.",
+   "excerpt": "Mike Boffa will lead the legal strategy and operations for the company."
+  },
+  {
+   "title": "Moving beyond traditional extrusion",
+   "url": "https://www.petfoodprocessing.net/articles/20995-moving-beyond-traditional-extrusion",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-19",
+   "ai_summary": "Greg Aldrich, Ph.D., of Nulo Pet Food discusses how manufacturers can use new technologies to meet evolving consumer expectations beyond traditional extrusion.",
+   "excerpt": "Greg Aldrich, Ph.D., of Nulo Pet Food examined how pet food manufacturers can leverage new technologies to meet evolving consumer expectations."
+  },
   {
    "title": "HR alert (II): CEO changes and leadership reshuffles across the pet industry",
    "url": "https://globalpetindustry.com/news/hr-alert-ii-ceo-changes-and-leadership-reshuffles-across-the-pet-industry/",
