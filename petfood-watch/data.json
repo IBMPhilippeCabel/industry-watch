@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-20T10:16:00Z",
+ "updated": "2026-10-20T12:18:00Z",
  "briefing": {
   "date": "2026-10-20",
-  "hook": "Pet brands are teaming with non‑pet firms to broaden reach and deepen owner connections.",
+  "hook": "Today’s highlights show brand expansion, leadership shifts, and a focus on value-driven innovation in pet food.",
   "categories": {
-   "📈 Market": "Mainstream pet brands partner with non‑pet companies to reach new audiences and strengthen connections with pet owners.",
+   "📈 Market": "Purina unveiled new ‘chief snuggle officers’, Urschel named president, and a UK supermarket merged its dog and cat lines into a single brand.",
    "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": null
+   "💡 Innovation": "Joyride Dogs broadened its single‑ingredient treats to suit dogs and cats, while manufacturers adjust pack sizes and pricing to deliver better value."
   }
  },
  "articles": [
+  {
+   "title": "Purina names latest ‘chief snuggle officers’",
+   "url": "https://www.petfoodprocessing.net/articles/21002-purina-names-latest-chief-snuggle-officers",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-20",
+   "ai_summary": "Purina announced new ‘chief snuggle officers’, selecting Bowie the Dalmatian puppy and Cashew the Domestic Shorthair kitten from over 2,000 applicants.",
+   "excerpt": "Bowie, a Dalmatian puppy, and Cashew, a Domestic Shorthair kitten, were the winners selected from more than 2,000 applications."
+  },
+  {
+   "title": "Joyride Dogs expands single-ingredient treat line",
+   "url": "https://www.petfoodprocessing.net/articles/21001-joyride-dogs-expands-single-ingredient-treat-line",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-20",
+   "ai_summary": "Joyride Dogs expanded its single-ingredient treat line, making it suitable for both dogs and cats as a treat or meal topper.",
+   "excerpt": "The line is suitable for both dogs and cats and can be fed as a treat or a meal topper."
+  },
+  {
+   "title": "Urschel names new president",
+   "url": "https://www.petfoodprocessing.net/articles/21000-urschel-names-new-president",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-20",
+   "ai_summary": "Urschel appointed a new president, Crammer, who brings nearly two decades of foodservice equipment experience to the role.",
+   "excerpt": "Crammer brings nearly two decades of foodservice equipment experience to his new role."
+  },
+  {
+   "title": "British supermarket chain debuts new pet care brand",
+   "url": "https://www.petfoodprocessing.net/articles/20999-british-supermarket-chain-debuts-new-pet-care-brand",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-20",
+   "ai_summary": "A British supermarket chain launched a new pet care brand, consolidating its existing dog and cat products under one umbrella.",
+   "excerpt": "The new range brings together the grocer’s existing dog and cat products under a single brand."
+  },
+  {
+   "title": "Pet food players rethink pricing as shoppers seek better value",
+   "url": "https://globalpetindustry.com/news/pet-food-players-rethink-pricing-as-shoppers-seek-better-value/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-20",
+   "ai_summary": "Pet food manufacturers are rethinking pricing strategies, adjusting pack sizes and price‑pack architecture to offer better value while maintaining profitability.",
+   "excerpt": "As consumers become more price-conscious, pet food manufacturers are rethinking their price-pack architecture (PPA) to make products more accessible without compromising profitability. From adjusting pack sizes to offeri…"
+  },
   {
    "title": "How mainstream brands are using collaborations to connect with pet owners",
    "url": "https://globalpetindustry.com/news/how-mainstream-brands-are-using-collaborations-to-connect-with-pet-owners/",
