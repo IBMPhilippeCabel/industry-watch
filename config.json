@@ -11,6 +11,7 @@
   "sites": [
     {
       "id": "petfood-watch",
+      "section": "Industries & Markets",
       "status": "live",
       "site_name": "Petfood Watch",
       "site_description": "Daily AI-assisted intelligence on the pet food industry: market, M&A, regulation and innovation news from trade press, with per-article summaries and a daily briefing.",
@@ -24,6 +25,7 @@
     },
     {
       "id": "mars",
+      "section": "Companies & Accounts",
       "status": "live",
       "site_name": "Mars Watch",
       "site_description": "Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.",
@@ -38,6 +40,7 @@
     },
     {
       "id": "beverage-watch",
+      "section": "Industries & Markets",
       "status": "live",
       "site_name": "Drinks & Spirits Watch",
       "site_description": "Daily AI-assisted intelligence on global beverage, beer and spirits markets: Pernod Ricard, Heineken, innovation, RTD, No-Low and M&A.",

@@ -624,23 +624,48 @@ def render_portal(output_dir, updated):
                 import shutil
                 shutil.copy2(src_icon, output_dir / src_icon.name)
 
-    cards = ""
-    for s in cfg["sites"]:
-        sid = s["id"]
-        status = s.get("status", "live")
-        icon = _resolve_icon(s.get("site_icon"), "🌐")
-        name = esc(s["site_name"])
-        desc = esc(s["site_description"])
-        url = esc(sid + "/index.html")
-        badge = '<span class="portal-badge">🚧 Under construction</span>' if status == "under_construction" else ""
-        extra_cls = " portal-card--wip" if status == "under_construction" else ""
-        cards += (
-            f'<a href="{url}" class="portal-card{extra_cls}">'
-            f'<div class="portal-icon">{icon}</div>'
-            f'<div class="portal-name">{name}{badge}</div>'
-            f'<div class="portal-desc">{desc}</div>'
-            f'</a>'
+    def _resolve_portal_icon(icon_cfg, sid, default_emoji="🌐"):
+        if not icon_cfg:
+            return esc(default_emoji)
+        if isinstance(icon_cfg, str):
+            return esc(icon_cfg)
+        emoji = esc(icon_cfg.get("default") or default_emoji)
+        src = _icon_src(icon_cfg)
+        if not src:
+            return emoji
+        if not src.startswith("http://") and not src.startswith("https://"):
+            src = f"{sid}/{src}"
+        return (
+            f'<img src="{esc(src)}" alt="{emoji}" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" '
+            f'onerror="this.replaceWith(document.createTextNode(\'{emoji}\'))">'
         )
+
+    sections: dict[str, list] = {}
+    for s in cfg["sites"]:
+        sec = s.get("section", "Portals")
+        sections.setdefault(sec, []).append(s)
+
+    content_sections = ""
+    for sec_name, site_list in sections.items():
+        cards = ""
+        for s in site_list:
+            sid = s["id"]
+            status = s.get("status", "live")
+            icon = _resolve_portal_icon(s.get("site_icon"), sid, "🌐")
+            name = esc(s["site_name"])
+            desc = esc(s["site_description"])
+            url = esc(sid + "/index.html")
+            badge = '<span class="portal-badge">🚧 Under construction</span>' if status == "under_construction" else ""
+            extra_cls = " portal-card--wip" if status == "under_construction" else ""
+            cards += (
+                f'<a href="{url}" class="portal-card{extra_cls}">'
+                f'<div class="portal-icon">{icon}</div>'
+                f'<div class="portal-name">{name}{badge}</div>'
+                f'<div class="portal-desc">{desc}</div>'
+                f'</a>'
+            )
+        sec_title = f'<h2 class="portal-section-title">{esc(sec_name)}</h2>' if len(sections) > 1 else ''
+        content_sections += f'<section class="portal-section">{sec_title}<div class="portal-grid">{cards}</div></section>'
 
     portal_css = """
   body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }
@@ -650,6 +675,8 @@ def render_portal(output_dir, updated):
   .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
   .portal-wrap { max-width:800px; margin:40px auto; padding:0 24px; text-align:center; }
   .portal-updated { font-size:12px; color:#57606a; margin:0 0 28px; letter-spacing:.01em; }
+  .portal-section { margin-bottom:36px; text-align:left; }
+  .portal-section-title { font-size:13px; font-weight:700; color:#57606a; text-transform:uppercase; letter-spacing:.06em; margin:0 0 16px; padding-bottom:8px; border-bottom:1px solid #e5e7eb; }
   .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
   .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
   .portal-card:hover { border-color:#3b82d4; }
@@ -679,7 +706,7 @@ def render_portal(output_dir, updated):
 </header>
 <div class="portal-wrap">
   <p class="portal-updated">Last updated: <time>{updated}</time></p>
-  <div class="portal-grid">{cards}</div>
+  {content_sections}
 </div>
 <footer>Last updated: <time>{updated}</time></footer>
 {_GC_SNIPPET}
