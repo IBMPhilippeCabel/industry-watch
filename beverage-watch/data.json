@@ -1,17 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-21T13:47:00Z",
+ "updated": "2026-10-21T14:29:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Heineken unit faces €111 million damages ruling, highlighting legal risks for breweries.",
+  "hook": "Heineken faces hefty damages while launching a streaming service, signaling legal and digital shifts in the beverage sector.",
   "categories": {
-   "📈 Market": null,
-   "🤝 M&A": null,
-   "⚖️ Regulation": "Heineken unit Athenian Brewery ordered to pay €111 million in damages by a court decision.",
-   "💡 Innovation": null
+   "🤝 Strategy & M&A": "Heineken ordered to pay over €100 million in damages in a Greek competition case, highlighting regulatory pressure.",
+   "📈 Market": "Heineken’s €111 million damages order in Greece dominates market news, while other firms face investigations and administration.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": "Heineken’s €111 million damages order in Greece underscores brewing sector legal challenges.",
+   "💡 Innovation & No-Low": "Heineken launches a streaming service with Amazon Ads, marking a first for nightlife entertainment."
   }
  },
  "articles": [
+  {
+   "title": "Heineken ordered to pay damages in Greece competition case - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFVncW1mUG1GeloyaDJxemV1RDNFR3ctRlVjR2x1LU5Hd205bU5aOEdndm1uV2s3Uk1fblVvdGRlV3gzbmZtUEVBbzJXcUVWVjVlUm1IZlJhSzA4eXVQeVN0a1dWeW1JVG10Nm9jZjlfOXR3VV9COGJVZXgwQnFwSmVWbHRBSmg5?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-21",
+   "ai_summary": "Heineken ordered to pay damages in Greece competition case",
+   "excerpt": "Heineken ordered to pay damages in Greece competition case Yahoo Finance"
+  },
+  {
+   "title": "Heineken ordered to pay MTB €111m in competition case - FoodBev Media",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVc4aEgzYlZ2YThsWVh1V3FEd01vbnpfTlR4V25RWHMxLWVfWlJMcURvcXAzaFVEa01pSWZIWGk5ZkgxY1NSSndaTzlWSDR0bnlvbENObUhFcE9maE9hTjl3ZkJzTUFXQXVMbk5JUDlfelpPYUVIRVNvOGVGYjZEeFBoT21GWEpOZ2V4d2xob1h2RXVBSVBNNUNtZER5UkVSYm84N3RyWS1HSl9WVFE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-21",
+   "ai_summary": "Heineken ordered to pay MTB €111m in competition case",
+   "excerpt": "Heineken ordered to pay MTB €111m in competition case FoodBev Media"
+  },
   {
    "title": "Heineken unit Athenian Brewery ordered to pay €111 million in damages - Quartz",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZGZpVUFRZmdkTVhkN2dXamdiQjJnMU82QXFRbTFXd0hBbFY4S1hLZjFmMW1OenNMZnJCUlNQMlh4ckl0RGhkUzNWZ291cDZXajkyRzJKNVotQURVYTQwdzVsVE5xN3RtTnd1VWZJTjVfNlBQQ010UlFhOHBzRFU?oc=5",
@@ -268,7 +287,7 @@
    "title": "Diageo faces probe over toxic spill in Scotland",
    "url": "https://www.just-drinks.com/news/diageo-faces-probe-over-toxic-spill-in-scotland/",
    "source": "Just Drinks",
-   "category": "⚖️ Regulation",
+   "category": "📈 Market",
    "date": "2026-10-20",
    "ai_summary": "Diageo is being investigated by the Scottish environmental regulator over a pollution incident in Moray earlier this year.",
    "excerpt": "Diageo is being investigated by the Scottish environmental regulator over a pollution incident in Moray earlier this year."

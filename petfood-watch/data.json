@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-21T13:47:00Z",
+ "updated": "2026-10-21T14:29:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Pet industry sees new funding, market shifts, and rising pet-friendly housing trends today.",
+  "hook": "Pet‑food demand shifts, new regional clusters, and innovative protein‑based foods shape the market today.",
   "categories": {
-   "📈 Market": "Mars Impact Fund’s $3 million grant supports 4‑H veterinary and food careers, while a HABRI survey shows growing public support for pet‑inclusive housing and businesses.",
-   "🤝 M&A": null,
-   "⚖️ Regulation": "US rental operators report a surge in pet‑owning tenants, with 81% noting more pets in their portfolios.",
-   "💡 Innovation": "HenArt introduces dog food with Enifer mycoprotein to boost digestibility and palatability."
+   "📈 Market": "Demand for pet food is poised to break away as new regional clusters form and innovative products launch.",
+   "⚖️ Regulation": "Rental operators report rising pet‑owner tenants, underscoring the growing need for pet‑friendly housing policies.",
+   "💡 Innovation": "Mycoprotein dog food and single‑ingredient treats highlight a trend toward novel, digestible ingredients and flexible pricing.",
+   "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "Food futurist Jack Bobo keynotes Petfood Forum 2027",
+   "url": "https://www.petfoodindustry.com/news-newsletters/petfood-forum-news/article/15838077/food-futurist-jack-bobo-keynotes-petfood-forum-2027",
+   "source": "Petfood Industry",
+   "category": "📈 Market",
+   "date": "2026-10-21",
+   "ai_summary": "Jack Bobo will explain why pet food's demand curve is poised to break away.",
+   "excerpt": "Jack Bobo of the UCLA Rothman Family Institute for Food Studies will explain why pet food's demand curve is poised to break away..."
+  },
   {
    "title": "Fressnapf | Maxi Zoo reorganizes operations in the Benelux",
    "url": "https://globalpetindustry.com/news/fressnapf-maxi-zoo-reorganizes-operations-in-the-benelux/",

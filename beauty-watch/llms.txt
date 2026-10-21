@@ -2,7 +2,7 @@
 
 > Daily AI-assisted intelligence on the global beauty and cosmetics market: L'Oréal, Estée Lauder, LVMH, skincare, fragrance, M&A and innovation.
 
-Content is in English. Articles are collected nightly from public RSS feeds of pet food trade publications; summaries and the daily briefing are AI-generated, and each item links to its original source.
+Content is in English. Articles are collected every two hours from public RSS feeds (trade publications and news searches) about the subject above; summaries and the daily briefing are AI-generated, and each item links to its original source.
 
 ## Main pages
 

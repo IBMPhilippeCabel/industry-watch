@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-21T13:47:00Z",
+ "updated": "2026-10-21T14:29:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "2026 sees new styling product win award and a medical device firm expanding into Latin America.",
+  "hook": "Revieve launches AI‑powered beauty platforms while sustainability drives packaging innovation.",
   "categories": {
-   "📈 Market": "New styling product wins 2026 Pure Beauty Awards Readers’ Choice and a medical device firm is set to attend AMWC Latin America 2026 in Colombia.",
-   "🤝 M&A": null,
-   "⚖️ Regulation": null,
-   "💡 Innovation": null
+   "📈 Market": "Curl Jar Style + Treat™ Curl Activator wins Best Styling Product at the 2026 Pure Beauty Awards.",
+   "💄 Brands & Retail": "Interparfums SA stock surges after strong Q3 growth in Asia, especially China.",
+   "🤝 Strategy & M&A": "Chanel sells majority stake in Capsum to Motion Equity Partners, keeping a minority share.",
+   "💡 Innovation & Regulation": "Revieve introduces BeautyCatalyst and Beauty LLM Suite, and packaging trends push for premium protection and recyclability."
   }
  },
  "articles": [
+  {
+   "title": "Revieve unveils BeautyCatalyst, a beauty commerce intelligence platform built for the agentic AI era",
+   "url": "https://www.cosmeticsbusiness.com/revieve-unveils-beautycatalyst-a-beauty-commerce-intelligence-platform",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-21",
+   "ai_summary": "Revieve introduces BeautyCatalyst, a platform designed for the agentic AI era, integrating beauty expertise, consumer insight, and commerce. It offers a purpose-built intelligence solution for the next generation of beauty markets.",
+   "excerpt": "BeautyCatalyst connects beauty expertise, consumer understanding and commerce in a purpose-built intelligence platform for the next era of beauty"
+  },
+  {
+   "title": "Revieve introduces Beauty LLM Suite, specialised intelligence built for the future of beauty and wellness",
+   "url": "https://www.cosmeticsbusiness.com/revieve-introduces-beauty-llm-suite-specialised-intelligence-built",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-21",
+   "ai_summary": "",
+   "excerpt": "New suite brings together a decade of specialised beauty intelligence across skin, ingredients, products, routines, lifestyle and brand expertise—powering BeautyCatalyst and opening new possibilities across beauty, perso…"
+  },
   {
    "title": "Curl Jar Style + Treat™ Curl Activator",
    "url": "https://www.cosmeticsbusiness.com/curl-jar-style-treat-curl-activator",
