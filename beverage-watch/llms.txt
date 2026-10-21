@@ -1,0 +1,33 @@
+# Drinks & Spirits Watch
+
+> Daily AI-assisted intelligence on global beverage, beer and spirits markets: Pernod Ricard, Heineken, innovation, RTD, No-Low and M&A.
+
+Content is in English. Articles are collected nightly from public RSS feeds of pet food trade publications; summaries and the daily briefing are AI-generated, and each item links to its original source.
+
+## Main pages
+
+- [Home](https://ibmphilippecabel.github.io/industry-watch/beverage-watch/): articles of the last 30 days with the daily briefing
+- [Archive](https://ibmphilippecabel.github.io/industry-watch/beverage-watch/archive/index.html): one page per month, all articles
+
+## Machine-readable
+
+- [Atom feed](https://ibmphilippecabel.github.io/industry-watch/beverage-watch/feed.xml): 50 latest articles
+- [JSON data](https://ibmphilippecabel.github.io/industry-watch/beverage-watch/data.json): briefing and articles from the last 30 days
+- [Sitemap](https://ibmphilippecabel.github.io/industry-watch/beverage-watch/sitemap.xml)
+
+## Categories
+
+- 🤝 Strategy & M&A
+- 📈 Market
+- 🍸 Spirits & Premium
+- 🍺 Beer & Brewing
+- 💡 Innovation & No-Low
+
+## Sources
+
+- [Pernod Ricard & Heineken Watch (Google News)](https://news.google.com): Actualités mondiales, résultats financiers, stratégie de marque et nominations.
+- [Just Drinks](https://www.just-drinks.com/): La référence internationale B2B sur l'industrie mondiale des boissons et bières.
+- [The Spirits Business](https://www.thespiritsbusiness.com/): Tendances spiritueux, bars, cocktails, lancements premium et marché du luxe.
+- [The Drinks Business](https://www.thedrinksbusiness.com/): Actualités du commerce international du vin, des spiritueux et de la bière.
+- [Inside Beer](https://www.inside.beer/): Marché international de la bière, investissements brasseries, Heineken & rivaux.
+- [Beverage Daily](https://www.beveragedaily.com/): Innovations produits, packaging, boissons sans alcool (No-Low) et durabilité.

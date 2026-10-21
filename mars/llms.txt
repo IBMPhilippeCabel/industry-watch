@@ -1,0 +1,33 @@
+# Mars Watch
+
+> Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.
+
+Content is in English. Articles are collected nightly from public RSS feeds of pet food trade publications; summaries and the daily briefing are AI-generated, and each item links to its original source.
+
+## Main pages
+
+- [Home](https://ibmphilippecabel.github.io/industry-watch/mars/): articles of the last 30 days with the daily briefing
+- [Archive](https://ibmphilippecabel.github.io/industry-watch/mars/archive/index.html): one page per month, all articles
+
+## Machine-readable
+
+- [Atom feed](https://ibmphilippecabel.github.io/industry-watch/mars/feed.xml): 50 latest articles
+- [JSON data](https://ibmphilippecabel.github.io/industry-watch/mars/data.json): briefing and articles from the last 30 days
+- [Sitemap](https://ibmphilippecabel.github.io/industry-watch/mars/sitemap.xml)
+
+## Categories
+
+- 🤝 Mars Corporate & M&A
+- 🐾 Petcare & Royal Canin
+- 🍫 Snacking & FMCG Market
+- ⚡ Tech & Operations
+- 🌱 Sustainability & Sourcing
+
+## Sources
+
+- [Mars & Brands Watch (Google News)](https://www.mars.com): Actualités mondiales, M&A (Kellanova), nominations et stratégie de marque.
+- [Petfood Industry](https://www.petfoodindustry.com/): Marché Petcare, nutrition, investissements industriels et concurrence.
+- [Food Dive](https://www.fooddive.com/): Tendances CPG, snacking, acquisitions et stratégies des géants de l'alimentation.
+- [Confectionery News](https://www.confectionerynews.com/): Chocolat, confiserie, chaîne d'approvisionnement cacao et packaging.
+- [Consumer Goods Technology](https://www.consumergoods.com/): IA, transformation digitale, ERP/Supply Chain et e-commerce appliqués au FMCG.
+- [ESG Today](https://www.esgtoday.com/): Décarbonation, agriculture régénératrice, emballages durables et conformité ESG.
