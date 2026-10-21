@@ -42,7 +42,9 @@
       "site_name": "Drinks & Spirits Watch",
       "site_description": "Daily AI-assisted intelligence on global beverage, beer and spirits markets: Pernod Ricard, Heineken, innovation, RTD, No-Low and M&A.",
       "site_icon": {
-        "default": "🍸"
+        "default": "🍸",
+        "path": "web_sites/beverage_watch/icon.svg",
+        "url": "https://www.just-drinks.com/favicon.ico"
       },
       "rolling_days": 30,
       "sources_file": "web_sites/beverage_watch/sources.json",

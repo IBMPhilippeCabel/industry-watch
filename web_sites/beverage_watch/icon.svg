@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bev-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="50%" stop-color="#78350f"/>
+      <stop offset="100%" stop-color="#451a03"/>
+    </linearGradient>
+    <linearGradient id="glass-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <!-- Fond badge arrondi ambre / spiritueux -->
+  <rect width="64" height="64" rx="14" fill="url(#bev-grad)"/>
+  
+  <!-- Coupe à cocktail / Martini minimaliste -->
+  <path d="M16 18 L48 18 L32 36 Z" fill="url(#glass-grad)" opacity="0.85"/>
+  <path d="M14 16 L50 16 L32 38 Z" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round"/>
+  
+  <!-- Pied et base du verre -->
+  <line x1="32" y1="38" x2="32" y2="50" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="22" y1="50" x2="42" y2="50" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Pique / Garnish & Bulle lumineuse -->
+  <line x1="22" y1="12" x2="36" y2="28" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="28" cy="18" r="3.5" fill="#10b981" stroke="#ffffff" stroke-width="1.5"/>
+  <circle cx="40" cy="12" r="1.5" fill="#ffffff" opacity="0.8"/>
+</svg>
