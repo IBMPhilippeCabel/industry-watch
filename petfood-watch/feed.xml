@@ -5,7 +5,16 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-10-21T06:19:00Z</updated>
+  <updated>2026-10-21T08:23:00Z</updated>
+  <entry>
+    <title>HenArt launches Levendo dog food with Enifer mycoprotein</title>
+    <id>https://www.petfoodindustry.com/pet-food-market/product-launches/article/15837512/henart-launches-levendo-dog-food-with-enifer-mycoprotein</id>
+    <link href="https://www.petfoodindustry.com/pet-food-market/product-launches/article/15837512/henart-launches-levendo-dog-food-with-enifer-mycoprotein"/>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="💡 Innovation"/>
+    <author><name>Petfood Industry</name></author>
+    <summary>HenArt introduces Levendo dog food featuring Enifer mycoprotein, offering a baked, complete meal for adult and senior dogs. This marks Enifer’s first international consumer launch of its Pekilo fermented product.</summary>
+  </entry>
   <entry>
     <title>Purina names latest ‘chief snuggle officers’</title>
     <id>https://www.petfoodprocessing.net/articles/21002-purina-names-latest-chief-snuggle-officers</id>
@@ -446,14 +455,5 @@
     <category term="📈 Market"/>
     <author><name>Pet Food Processing</name></author>
     <summary>Fi Europe 2026 will emphasize pet nutrition. A new Pet Food and Nutrition Forum will be part of the tradeshow.</summary>
-  </entry>
-  <entry>
-    <title>Corbion CEO stepping down</title>
-    <id>https://www.petfoodprocessing.net/articles/20977-corbion-ceo-stepping-down</id>
-    <link href="https://www.petfoodprocessing.net/articles/20977-corbion-ceo-stepping-down"/>
-    <updated>2026-10-12T00:00:00Z</updated>
-    <category term="📈 Market"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>Corbion&#x27;s CEO will step down. Olivier Rigaud will not seek a third term when his appointment ends.</summary>
   </entry>
 </feed>

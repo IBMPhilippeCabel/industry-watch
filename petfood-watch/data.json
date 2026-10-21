@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-21T06:19:00Z",
+ "updated": "2026-10-21T08:23:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Mars launches the world's largest pet parent study, aiming to deepen understanding of pet-owner dynamics.",
+  "hook": "HenArt debuts Levendo dog food using Enifer mycoprotein, marking the first international launch of its Pekilo fermented product.",
   "categories": {
    "📈 Market": null,
    "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": "Mars unveils the world’s largest pet parent study to better understand pet-owner relationships."
+   "💡 Innovation": "HenArt debuts Levendo dog food using Enifer mycoprotein, marking the first international launch of its Pekilo fermented product."
   }
  },
  "articles": [
+  {
+   "title": "HenArt launches Levendo dog food with Enifer mycoprotein",
+   "url": "https://www.petfoodindustry.com/pet-food-market/product-launches/article/15837512/henart-launches-levendo-dog-food-with-enifer-mycoprotein",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-21",
+   "ai_summary": "HenArt introduces Levendo dog food featuring Enifer mycoprotein, offering a baked, complete meal for adult and senior dogs. This marks Enifer’s first international consumer launch of its Pekilo fermented product.",
+   "excerpt": "The baked, complete food for adult and senior dogs marks the first international consumer launch for Enifer’s Pekilo fermented..."
+  },
   {
    "title": "Purina names latest ‘chief snuggle officers’",
    "url": "https://www.petfoodprocessing.net/articles/21002-purina-names-latest-chief-snuggle-officers",
