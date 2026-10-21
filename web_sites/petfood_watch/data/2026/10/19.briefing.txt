@@ -1,0 +1,1 @@
+{"hook": "Mars Petcare appoints a top legal talent, underscoring the sector's growing emphasis on robust legal leadership.", "categories": {"📈 Market": null, "🤝 M&A": null, "⚖️ Regulation": "Mars Petcare selects a leading candidate for its legal department, highlighting the company's focus on legal excellence.", "💡 Innovation": null}}
