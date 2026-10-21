@@ -1,1 +1,1 @@
-{"hook": "Heineken faces €111 million damages order in Greek case.", "categories": {"📈 Market": null, "🤝 M&A": "Heineken was ordered to pay €111 million in damages and interest to a Greek rival.", "⚖️ Regulation": null, "💡 Innovation": null}}
+{"hook": "Partnerships and legal rulings shape the day.", "categories": {"📈 Market": null, "🤝 M&A": "Nelson-Jameson partners with Strahman Group as an authorized service provider.", "⚖️ Regulation": null, "💡 Innovation": null}}
