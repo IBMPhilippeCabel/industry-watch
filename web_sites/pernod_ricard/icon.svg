@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="pr-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00205b"/>
+      <stop offset="50%" stop-color="#00143a"/>
+      <stop offset="100%" stop-color="#000d26"/>
+    </linearGradient>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fcd34d"/>
+      <stop offset="50%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <!-- Fond badge arrondi bleu marine profond Pernod Ricard -->
+  <rect width="64" height="64" rx="14" fill="url(#pr-grad)"/>
+  
+  <!-- Verre à spiritueux / Rocks glass doré avec motif premium -->
+  <path d="M18 18 L22 46 C22 48, 42 48, 42 46 L46 18 Z" fill="url(#gold-grad)" opacity="0.3"/>
+  <path d="M18 18 L22 46 C22 48, 42 48, 42 46 L46 18 Z" fill="none" stroke="url(#gold-grad)" stroke-width="2.5" stroke-linejoin="round"/>
+  
+  <!-- Niveau de liquide & Glaçon / Pureté -->
+  <path d="M20 28 Q 32 30, 44 28" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <rect x="27" y="32" width="10" height="10" rx="2" fill="#ffffff" opacity="0.75" transform="rotate(15 32 37)"/>
+  
+  <!-- Étoile d'excellence / Signature premium -->
+  <polygon points="32,8 33.5,12 37.5,12 34.5,14.5 35.5,18.5 32,16 28.5,18.5 29.5,14.5 26.5,12 30.5,12" fill="url(#gold-grad)"/>
+</svg>

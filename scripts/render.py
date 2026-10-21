@@ -99,9 +99,14 @@ CSS = """
   .briefing .briefing-cat { color:var(--text); }
   .briefing-meta { font-size:12px; color:var(--muted); margin-top:8px; }
   /* filters */
-  nav.filters { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }
-  nav.filters button { border:1px solid var(--border); background:var(--card); color:var(--text); padding:6px 14px; border-radius:16px; font:inherit; cursor:pointer; }
-  nav.filters button.active { background:var(--accent); border-color:var(--accent); color:#fff; }
+  nav.filters { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0; align-items:center; }
+  nav.filters button { border:1px solid var(--border); background:var(--card); color:var(--text); padding:5px 13px; border-radius:16px; font:inherit; font-size:13px; cursor:pointer; transition:all .15s; }
+  nav.filters button:hover { border-color:var(--accent); }
+  nav.filters button.active { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
+  .filters-label { font-size:11px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; margin-right:4px; }
+  .brand-filters { margin-top:2px; margin-bottom:20px; }
+  .brand-filters button.active { background:#1f2328; border-color:#1f2328; color:#fff; }
+  .brand-tag { padding:1px 8px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; color:#24292f; font-size:11px; font-weight:500; }
   /* grid */
   .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:16px; padding-bottom:24px; }
   /* card */
@@ -129,18 +134,37 @@ CSS = """
 """
 
 FILTER_JS = """
-  var buttons = document.querySelectorAll('nav.filters button');
+  var selectedCat = 'all';
+  var selectedBrand = 'all';
   var cards = document.querySelectorAll('.grid .card');
-  buttons.forEach(function(btn) {
+
+  function updateCardVisibility() {
+    cards.forEach(function(c) {
+      var matchCat = (selectedCat === 'all' || c.dataset.cat === selectedCat);
+      var brandsList = (c.dataset.brands || '').split(',').filter(Boolean);
+      var matchBrand = (selectedBrand === 'all' || brandsList.indexOf(selectedBrand) !== -1);
+      c.classList.toggle('hidden', !(matchCat && matchBrand));
+    });
+  }
+
+  document.querySelectorAll('nav.cat-filters button').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      buttons.forEach(function(b) { b.classList.remove('active'); });
+      document.querySelectorAll('nav.cat-filters button').forEach(function(b) { b.classList.remove('active'); });
       btn.classList.add('active');
-      var cat = btn.dataset.cat;
-      cards.forEach(function(c) {
-        c.classList.toggle('hidden', cat !== 'all' && c.dataset.cat !== cat);
-      });
+      selectedCat = btn.dataset.cat;
+      updateCardVisibility();
     });
   });
+
+  document.querySelectorAll('nav.brand-filters button').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('nav.brand-filters button').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      selectedBrand = btn.dataset.brand;
+      updateCardVisibility();
+    });
+  });
+
   function initDropdown(btnId, dropId) {
     var btn = document.getElementById(btnId);
     var drop = document.getElementById(dropId);
@@ -368,25 +392,77 @@ def briefing_block(briefing):
     )
 
 
+def _get_tracked_brands():
+    """Return dict of brand_term -> (slug, display_name) for current site."""
+    acc_filters = _CFG.get("account_filters", {})
+    brands_cfg = _CFG.get("brands", [])
+    candidates = []
+    if isinstance(acc_filters, dict):
+        candidates.extend(acc_filters.get("owned_brands", []))
+        candidates.extend(acc_filters.get("in_acquisition", []))
+    if isinstance(brands_cfg, list):
+        candidates.extend(brands_cfg)
+
+    tracked = {}
+    for b in candidates:
+        b_clean = b.strip()
+        if not b_clean:
+            continue
+        slug = re.sub(r"[^a-z0-9]+", "-", b_clean.lower()).strip("-")
+        name = " ".join(w.capitalize() for w in b_clean.split())
+        name = name.replace("M&m's", "M&M's").replace("M&ms", "M&M's")
+        name = name.replace("Rtd", "RTD").replace("Esg", "ESG")
+        tracked[b_clean.lower()] = (slug, name)
+    return tracked
+
+
 def cards_section(articles):
-    buttons = ['<button class="active" data-cat="all">All</button>'] + [
+    cat_buttons = ['<button class="active" data-cat="all">All</button>'] + [
         f'<button data-cat="{esc(c)}">{esc(c)}</button>' for c in CATEGORIES
     ]
+
+    tracked_brands = _get_tracked_brands()
+    active_brands = {}
+
     rows = []
     for a in articles:
         d = art_day(a)
         ai = a.get("ai_summary", "")
         ai_html = f'<div class="ai-summary"><span class="ai-icon">🤖</span> {esc(ai)}</div>' if ai else ""
+
+        full_text = f"{a.get('title', '')} {a.get('summary', '')}".lower()
+        matched_slugs = set()
+        matched_names = set()
+        for b_term, (slug, b_name) in tracked_brands.items():
+            if re.search(r'\b' + re.escape(b_term) + r'\b', full_text, re.IGNORECASE) or b_term in full_text:
+                matched_slugs.add(slug)
+                matched_names.add(b_name)
+                active_brands[slug] = b_name
+
+        brands_attr = ",".join(sorted(matched_slugs))
+        brand_tags = "".join(f'<span class="brand-tag">{esc(bn)}</span>' for bn in sorted(matched_names)[:2])
+
         rows.append(
-            f'<article class="card" id="{art_id(a)}" data-cat="{esc(a["category"])}">'
+            f'<article class="card" id="{art_id(a)}" data-cat="{esc(a["category"])}" data-brands="{esc(brands_attr)}">'
             f'<div class="meta"><span class="tag">{esc(a["category"])}</span>'
+            f'{brand_tags}'
             f'<span>{esc(a["source"])}</span><time datetime="{d}">{d}</time></div>'
             f'{ai_html}'
             f'<h2><a href="{esc(a["link"])}" target="_blank" rel="noopener">{esc(a["title"])}</a></h2>'
             f'<p>{esc(a["summary"])}</p></article>'
         )
+
+    brand_nav = ""
+    if len(active_brands) >= 2:
+        sorted_b = sorted(active_brands.items(), key=lambda x: x[1])
+        b_buttons = ['<button class="active" data-brand="all">All</button>'] + [
+            f'<button data-brand="{esc(slug)}">{esc(name)}</button>' for slug, name in sorted_b
+        ]
+        brand_nav = f'<nav class="filters brand-filters"><span class="filters-label">🏷️ Brands:</span>{"".join(b_buttons)}</nav>'
+
+    cat_nav = f'<nav class="filters cat-filters"><span class="filters-label">Topics:</span>{"".join(cat_buttons)}</nav>'
     grid = "".join(rows) or '<p class="muted">No articles.</p>'
-    return f'<nav class="filters">{"".join(buttons)}</nav><div class="grid">{grid}</div>'
+    return f'{cat_nav}{brand_nav}<div class="grid">{grid}</div>'
 
 
 def item_list_jsonld(articles, limit=50):

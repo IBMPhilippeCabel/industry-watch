@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Pernod Ricard Corporate & M&A (Google News)",
+    "url": "https://www.pernod-ricard.com",
+    "rss": "https://news.google.com/rss/search?q=%22Pernod+Ricard%22+OR+%22Alexandre+Ricard%22+OR+%22Irish+Distillers%22+OR+%22Chivas+Brothers%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Actualités corporate, résultats financiers, stratégie globale, nominations et M&A.",
+    "score": "9.5",
+    "default_category": "🤝 Strategy & M&A"
+  },
+  {
+    "name": "Pernod Ricard Premium Brands (Google News)",
+    "url": "https://www.pernod-ricard.com/en/brands",
+    "rss": "https://news.google.com/rss/search?q=%22Pernod+Ricard%22+OR+%22Jameson%22+OR+%22Absolut+Vodka%22+OR+%22Chivas+Regal%22+OR+%22Martell%22+OR+%22The+Glenlivet%22+OR+%22Havana+Club%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Innovations produits, campagnes de marque, éditions limitées et lancements premium.",
+    "score": "9.5",
+    "default_category": "🥃 Spirits & Brands"
+  },
+  {
+    "name": "Just Drinks",
+    "url": "https://www.just-drinks.com/",
+    "rss": "https://www.just-drinks.com/feed/",
+    "description": "La référence internationale B2B sur l'industrie mondiale des boissons et spiritueux.",
+    "score": "9.0",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Spirits & RTD Innovation (Google News)",
+    "url": "https://www.pernod-ricard.com",
+    "rss": "https://news.google.com/rss/search?q=%22Pernod+Ricard%22+AND+(%22RTD%22+OR+%22cocktail%22+OR+%22ready-to-drink%22+OR+%22no-alcohol%22+OR+%22sustainability%22)&hl=en-US&gl=US&ceid=US:en",
+    "description": "Cocktails prêts à boire (RTD), sans alcool, packaging et engagements RSE.",
+    "score": "8.5",
+    "default_category": "💡 Innovation & RTD"
+  }
+]

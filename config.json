@@ -66,6 +66,36 @@
       "rolling_days": 30,
       "sources_file": "web_sites/beverage_watch/sources.json",
       "data_dir": "web_sites/beverage_watch/data"
+    },
+    {
+      "id": "pernod-ricard",
+      "section": "Companies & Accounts",
+      "status": "live",
+      "site_name": "Pernod Ricard",
+      "site_description": "Daily AI-assisted intelligence on Pernod Ricard: strategy, luxury spirits, premiumisation, digital transformation and M&A.",
+      "site_icon": {
+        "default": "🥃",
+        "path": "web_sites/pernod_ricard/Pernod_Ricard.svg",
+        "url": "https://www.pernod-ricard.com/favicon.ico"
+      },
+      "account_filters": {
+        "divisions": [
+          "pernod ricard", "pernod-ricard", "chivas brothers", "havana club international",
+          "irish distillers", "the absolut company", "martell mumm perrier-jouët"
+        ],
+        "owned_brands": [
+          "absolut", "absolut vodka", "jameson", "chivas regal", "chivas", "ballantine's", "ballantines",
+          "martell", "glenlivet", "ricard", "pastis 51", "havana club", "malibu", "kahlúa", "kahlua",
+          "beefeater", "monkey 47", "mumm", "perrier-jouët", "perrier jouet", "lillet", "italicus",
+          "bumbu", "skrewball", "redbreast", "spot whiskeys", "royal salute"
+        ],
+        "in_acquisition": [
+          "ace of spades", "sovereign brands", "skrewball peanut butter whiskey", "cooper spirits"
+        ]
+      },
+      "rolling_days": 30,
+      "sources_file": "web_sites/pernod_ricard/sources.json",
+      "data_dir": "web_sites/pernod_ricard/data"
     }
   ]
 }
