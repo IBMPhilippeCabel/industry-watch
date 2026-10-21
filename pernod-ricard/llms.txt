@@ -1,0 +1,30 @@
+# Pernod Ricard
+
+> Daily AI-assisted intelligence on Pernod Ricard: strategy, luxury spirits, premiumisation, digital transformation and M&A.
+
+Content is in English. Articles are collected nightly from public RSS feeds of pet food trade publications; summaries and the daily briefing are AI-generated, and each item links to its original source.
+
+## Main pages
+
+- [Home](https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/): articles of the last 30 days with the daily briefing
+- [Archive](https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/archive/index.html): one page per month, all articles
+
+## Machine-readable
+
+- [Atom feed](https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/feed.xml): 50 latest articles
+- [JSON data](https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/data.json): briefing and articles from the last 30 days
+- [Sitemap](https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/sitemap.xml)
+
+## Categories
+
+- 🤝 Strategy & M&A
+- 🥃 Spirits & Brands
+- 📈 Market
+- 💡 Innovation & RTD
+
+## Sources
+
+- [Pernod Ricard Corporate & M&A (Google News)](https://www.pernod-ricard.com): Actualités corporate, résultats financiers, stratégie globale, nominations et M&A.
+- [Pernod Ricard Premium Brands (Google News)](https://www.pernod-ricard.com/en/brands): Innovations produits, campagnes de marque, éditions limitées et lancements premium.
+- [Just Drinks](https://www.just-drinks.com/): La référence internationale B2B sur l'industrie mondiale des boissons et spiritueux.
+- [Spirits & RTD Innovation (Google News)](https://www.pernod-ricard.com): Cocktails prêts à boire (RTD), sans alcool, packaging et engagements RSE.
