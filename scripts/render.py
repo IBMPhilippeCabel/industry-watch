@@ -204,6 +204,34 @@ def _site_header_icon():
     return f'<img src="{esc(src)}" alt="{name}" onerror="this.style.display=\'none\'">'
 
 
+def _favicon_tag(depth=0):
+    """Return <link rel="icon"> HTML for the current site or portal."""
+    icon_cfg = _CFG.get("site_icon") if _CFG else None
+    src = _icon_src(icon_cfg)
+    if not src:
+        p_cfg = _GLOBAL_CFG.get("portal_icon")
+        src = _icon_src(p_cfg)
+    if not src:
+        return ""
+    if not src.startswith("http://") and not src.startswith("https://"):
+        prefix = "../" * depth
+        src = f"{prefix}{src}"
+    if src.endswith(".svg"):
+        return f'<link rel="icon" type="image/svg+xml" href="{esc(src)}">'
+    return f'<link rel="icon" href="{esc(src)}">'
+
+
+def _portal_favicon_tag():
+    """Return <link rel="icon"> for the portal index page."""
+    icon_cfg = _GLOBAL_CFG.get("portal_icon")
+    src = _icon_src(icon_cfg)
+    if not src:
+        return ""
+    if src.endswith(".svg"):
+        return f'<link rel="icon" type="image/svg+xml" href="{esc(src)}">'
+    return f'<link rel="icon" href="{esc(src)}">'
+
+
 def _sites_dropdown_html(depth=1):
     """List all sites as links for the header dropdown. depth=1 for site pages, 2 for archive pages."""
     prefix = "../" * depth
@@ -262,6 +290,7 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{esc(url)}">
 <meta name="twitter:card" content="summary">
+{_favicon_tag(depth)}
 {jsonld_tag(jsonld)}
 <style>{CSS}</style>
 </head>
@@ -538,6 +567,7 @@ def render_under_construction(site, updated, portal_url="../index.html"):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{name} — Under Construction</title>
+{_favicon_tag(1)}
 <style>
   body {{ margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }}
   .wrap {{ max-width:520px; margin:100px auto; padding:0 24px; text-align:center; }}
@@ -639,6 +669,7 @@ def render_portal(output_dir, updated):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(portal_name)}</title>
 <meta name="description" content="{esc(portal_desc)}">
+{_portal_favicon_tag()}
 <style>{portal_css}</style>
 </head>
 <body>
@@ -693,8 +724,10 @@ def main():
 
     articles, briefing = load_all()
     if not articles:
-        print("ERROR: no data found in data/", file=sys.stderr)
-        return 1
+        print(f"[{_CFG['id']}] No articles yet — rendering waiting state until first sync")
+        render_under_construction(site, updated)
+        render_portal(output_dir, updated)
+        return 0
 
     cutoff = now.date() - timedelta(days=ROLLING_DAYS)
 
