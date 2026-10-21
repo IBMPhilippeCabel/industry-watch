@@ -72,7 +72,8 @@ CATEGORIES = _extract_categories()
 CSS = """
   :root { --bg:#f7f8fa; --card:#fff; --border:#e5e7eb; --text:#1f2328; --muted:#57606a; --accent:#3b82d4; --ai:#7c5cd8; }
   * { box-sizing: border-box; }
-  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); }
+  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); min-height:100vh; display:flex; flex-direction:column; }
+  main.wrap { flex:1; width:100%; }
   /* header */
   header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
   header h1 { margin:0; font-size:20px; display:flex; align-items:center; gap:10px; }
@@ -122,7 +123,9 @@ CSS = """
   ul.months li { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:10px 16px; margin-bottom:8px; display:flex; justify-content:space-between; }
   .muted { color:var(--muted); }
   .page-updated { font-size:12px; color:var(--muted); margin:12px 0 4px; }
-  footer { text-align:center; color:var(--muted); font-size:12px; padding:16px; border-top:1px solid var(--border); }
+  footer { text-align:center; color:var(--muted); font-size:12px; padding:24px 16px; border-top:1px solid var(--border); margin-top:48px; line-height:1.6; }
+  .footer-disclaimer { margin:0 0 8px; max-width:680px; margin-left:auto; margin-right:auto; }
+  .footer-updated { margin:0; font-size:11px; opacity:.85; }
 """
 
 FILTER_JS = """
@@ -232,6 +235,32 @@ def _portal_favicon_tag():
     return f'<link rel="icon" href="{esc(src)}">'
 
 
+def _footer_html(updated):
+    """Return the disclaimer and timestamp footer."""
+    return (
+        f'<footer>'
+        f'<p class="footer-disclaimer">'
+        f'All sources are publicly available. AI-assisted intelligence compiled for internal consulting use only.<br>'
+        f'Independent publication — does not represent the official views of the referenced companies.'
+        f'</p>'
+        f'<p class="footer-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
+        f'</footer>'
+    )
+
+
+def _portal_footer_html(updated):
+    """Return the portal-level disclaimer and timestamp footer."""
+    return (
+        f'<footer>'
+        f'<p class="footer-disclaimer">'
+        f'All sources are publicly available. AI-assisted intelligence compiled for internal consulting use only.<br>'
+        f'Independent portal — does not represent the official views of the referenced companies.'
+        f'</p>'
+        f'<p class="footer-updated">Last updated: <time>{updated}</time></p>'
+        f'</footer>'
+    )
+
+
 def _sites_dropdown_html(depth=1):
     """List all sites as links for the header dropdown. depth=1 for site pages, 2 for archive pages."""
     prefix = "../" * depth
@@ -302,7 +331,7 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 <main class="wrap">
 {body}
 </main>
-<footer>Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></footer>
+{_footer_html(updated)}
 <script>{script}</script>
 {_GC_SNIPPET}
 </body>
@@ -569,8 +598,8 @@ def render_under_construction(site, updated, portal_url="../index.html"):
 <title>{name} — Under Construction</title>
 {_favicon_tag(1)}
 <style>
-  body {{ margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }}
-  .wrap {{ max-width:520px; margin:100px auto; padding:0 24px; text-align:center; }}
+  body {{ margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; min-height:100vh; display:flex; flex-direction:column; }}
+  .wrap {{ flex:1; max-width:520px; margin:100px auto; padding:0 24px; text-align:center; }}
   .icon {{ font-size:56px; margin-bottom:16px; display:flex; justify-content:center; align-items:center; gap:12px; }}
   .icon img {{ width:56px; height:56px; object-fit:contain; border-radius:8px; }}
   h1 {{ font-size:24px; margin-bottom:8px; }}
@@ -578,7 +607,9 @@ def render_under_construction(site, updated, portal_url="../index.html"):
   .badge {{ display:inline-block; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:4px 14px; font-size:13px; font-weight:600; margin-bottom:24px; }}
   .btn {{ display:inline-block; background:#3b82d4; color:#fff; border-radius:8px; padding:10px 24px; text-decoration:none; font-size:14px; font-weight:600; }}
   .btn:hover {{ background:#2563b0; }}
-  footer {{ text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:60px; }}
+  footer {{ text-align:center; color:#57606a; font-size:12px; padding:24px 16px; border-top:1px solid #e5e7eb; margin-top:60px; line-height:1.6; }}
+  .footer-disclaimer {{ margin:0 0 8px; max-width:680px; margin-left:auto; margin-right:auto; }}
+  .footer-updated {{ margin:0; font-size:11px; opacity:.85; }}
 </style>
 </head>
 <body>
@@ -589,7 +620,7 @@ def render_under_construction(site, updated, portal_url="../index.html"):
   <p>This site is currently being set up. Check back soon!</p>
   <a href="{esc(portal_url)}" class="btn">← Back to portal</a>
 </div>
-<footer>Last updated: <time>{updated}</time></footer>
+{_footer_html(updated)}
 {_GC_SNIPPET}
 </body>
 </html>
@@ -670,12 +701,12 @@ def render_portal(output_dir, updated):
         content_sections += f'<section class="portal-section">{sec_title}<div class="portal-grid">{cards}</div></section>'
 
     portal_css = """
-  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }
+  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; min-height:100vh; display:flex; flex-direction:column; }
   header { background:#fff; border-bottom:1px solid #e5e7eb; padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
   header h1 { margin:0; font-size:20px; font-weight:700; color:#1f2328; display:flex; align-items:center; }
   .stats-btn { border:1px solid #e5e7eb; background:#fff; color:#3b82d4; padding:6px 16px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; font-weight:600; }
   .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
-  .portal-wrap { max-width:800px; margin:40px auto; padding:0 24px; text-align:center; }
+  .portal-wrap { flex:1; width:100%; max-width:800px; margin:40px auto; padding:0 24px; box-sizing:border-box; }
   .portal-updated { font-size:12px; color:#57606a; margin:0 0 28px; letter-spacing:.01em; }
   .portal-section { margin-bottom:36px; text-align:left; }
   .portal-section-title { font-size:13px; font-weight:700; color:#57606a; text-transform:uppercase; letter-spacing:.06em; margin:0 0 16px; padding-bottom:8px; border-bottom:1px solid #e5e7eb; }
@@ -690,7 +721,9 @@ def render_portal(output_dir, updated):
   .portal-name { font-size:17px; font-weight:600; margin:0; display:flex; align-items:center; gap:8px; flex-wrap:wrap; color:#1f2328; }
   .portal-badge { font-size:11px; font-weight:600; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:2px 8px; }
   .portal-desc { font-size:13px; color:#57606a; line-height:1.5; }
-  footer { text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:40px; }
+  footer { text-align:center; color:#57606a; font-size:12px; padding:24px 16px; border-top:1px solid #e5e7eb; margin-top:48px; line-height:1.6; }
+  .footer-disclaimer { margin:0 0 8px; max-width:680px; margin-left:auto; margin-right:auto; }
+  .footer-updated { margin:0; font-size:11px; opacity:.85; }
 """
     html_out = f"""<!DOCTYPE html>
 <html lang="en">
@@ -711,7 +744,7 @@ def render_portal(output_dir, updated):
   <p class="portal-updated">Last updated: <time>{updated}</time></p>
   {content_sections}
 </div>
-<footer>Last updated: <time>{updated}</time></footer>
+{_portal_footer_html(updated)}
 {_GC_SNIPPET}
 </body>
 </html>
