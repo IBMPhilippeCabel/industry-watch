@@ -28,6 +28,6 @@ Content is in English. Articles are collected nightly from public RSS feeds of p
 - [Mars & Brands Watch (Google News)](https://www.mars.com): Actualités mondiales, M&A (Kellanova), nominations et stratégie de marque.
 - [Petfood Industry](https://www.petfoodindustry.com/): Marché Petcare, nutrition, investissements industriels et concurrence.
 - [Food Dive](https://www.fooddive.com/): Tendances CPG, snacking, acquisitions et stratégies des géants de l'alimentation.
-- [Confectionery News](https://www.confectionerynews.com/): Chocolat, confiserie, chaîne d'approvisionnement cacao et packaging.
+- [Mars Snacking & Brands (Google News)](https://www.mars.com/our-brands/mars-wrigley): Chocolat, confiserie, snacking, Kellanova, Pringles et packaging.
 - [Consumer Goods Technology](https://www.consumergoods.com/): IA, transformation digitale, ERP/Supply Chain et e-commerce appliqués au FMCG.
 - [ESG Today](https://www.esgtoday.com/): Décarbonation, agriculture régénératrice, emballages durables et conformité ESG.
