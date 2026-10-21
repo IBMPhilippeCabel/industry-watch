@@ -18,34 +18,14 @@ import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-from common import map_category, mentions, norm, site_categories
+from common import map_category, mentions, norm, parse_args, pick_site, site_categories
 
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def _load_config():
-    return json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
-
-
-def _load_site_cfg(cfg, site_id=None):
-    sites = cfg["sites"]
-    if site_id:
-        matches = [s for s in sites if s["id"] == site_id]
-        if not matches:
-            raise SystemExit(f"ERROR: site id {site_id!r} not found in config.json")
-        return matches[0]
-    return sites[0]
-
-
-# Resolved from CLI arg --site <id>, or first site in config.
-_site_id = None
-for _i, _arg in enumerate(sys.argv[1:]):
-    if _arg == "--site" and _i + 1 < len(sys.argv) - 1:
-        _site_id = sys.argv[_i + 2]
-        break
-
-_GLOBAL_CFG = _load_config()
-_CFG = _load_site_cfg(_GLOBAL_CFG, _site_id)
+ARGS = parse_args("Render the static pages of one site.", output_dir=True)
+_GLOBAL_CFG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+_CFG = pick_site(_GLOBAL_CFG, ARGS.site)
 
 GOATCOUNTER_URL = _GLOBAL_CFG.get("goatcounter_url", "")
 _GC_SNIPPET = (
@@ -870,12 +850,7 @@ def render_portal(output_dir, updated):
 
 
 def main():
-    # Parse args: render.py [--site <id>] <output_dir>
-    args = [a for a in sys.argv[1:] if a != "--site" and a != _site_id]
-    if not args:
-        print("Usage: render.py [--site <id>] <output_dir>", file=sys.stderr)
-        return 2
-    output_dir = Path(args[0]).resolve()
+    output_dir = Path(ARGS.output_dir).resolve()
 
     # Site output goes into output_dir/<id>/
     site = output_dir / _CFG["id"]

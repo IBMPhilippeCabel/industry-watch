@@ -124,7 +124,11 @@ Déclencheurs : toutes les 2 heures (`cron: 0 */2 * * *`) et manuellement (*work
 2. **fetch** — un job par site, en parallèle : `python scripts/build.py --site <id>`, puis commit des nouveaux fichiers sous `web_sites/` sur `main`.
 3. **render** — rend tous les sites avec `render.py`, génère les stats avec `stats.py`, puis pousse le résultat sur la branche `SiteWeb`.
 
-Les échecs de `build.py` ne font pas échouer le job (`|| true`) : consulter les logs et le résumé du job.
+Une erreur sur un site ne bloque jamais les autres (`fail-fast: false`) :
+
+- **Flux isolé en erreur / échec Groq** (`WARN` dans les logs) : annotation `::warning::` en haut du run, bloc ⚠️ dans le résumé du job du site ; le job reste vert.
+- **`build.py` en échec** (aucun article récupéré, plantage) : annotation `::error::`, ligne ❌ dans le résumé, et un commit vide `Data <site> <date> - BUILD FAILED (exit N)` sur `main` dont le corps liste les `WARN`/`ERROR`. Les données déjà écrites sont commitées ; le job du site est marqué en échec **en dernière étape seulement**.
+- **Rendu** : tous les sites sont tentés, ceux qui réussissent sont publiés, puis le job `render` échoue à la fin en nommant les sites en erreur. `stats.py` est non bloquant : son échec apparaît en rouge mais n'empêche pas la publication.
 
 ## Secrets et variables
 

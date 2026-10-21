@@ -47,23 +47,69 @@ jobs:
         with:
           python-version: "3.12"
 
+      # A failure on one site must not block the others: this step never fails by itself.
+      # It records the exit code of build.py; the data is committed next, and the job is
+      # failed only in the last step (so partial data is never lost).
       - name: Fetch RSS feeds
+        id: fetch
         shell: bash
         run: |
-          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee /tmp/build-${{ matrix.id }}.log || true
-          grep -oE 'Wrote [0-9]+ new articles' /tmp/build-${{ matrix.id }}.log | grep -oE '[0-9]+' > /tmp/articles.txt || true
-          grep 'WARN' /tmp/build-${{ matrix.id }}.log > /tmp/warnings.txt || true
+          LOG=/tmp/build-${{ matrix.id }}.log
+          rc=0
+          # `shell: bash` runs with -eo pipefail: rc is build.py's (not tee's), and every grep
+          # that may match nothing needs `|| true` or it would abort this step.
+          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee "$LOG" || rc=$?
+          echo "rc=$rc" >> $GITHUB_OUTPUT
+
+          warns=$(grep '^WARN' "$LOG" | sort -u | head -10 || true)
+          n_warn=$(grep '^WARN' "$LOG" | sort -u | wc -l || true)
+
+          # Non-fatal problems (dead feed, Groq error...): warning annotation, job stays green.
+          if [ -n "$warns" ]; then
+            while read -r line; do
+              echo "::warning title=${{ matrix.id }}::$line"
+            done <<< "$warns"
+          fi
+          # Fatal problem (build.py exits non-zero if nothing was fetched or it crashed).
+          if [ "$rc" != "0" ]; then
+            last=$(grep -E '^(ERROR|Traceback)|Error' "$LOG" | tail -1 || true)
+            echo "::error title=${{ matrix.id }} build failed::exit code $rc - ${last:-see log}"
+          fi
+
+          {
+            echo "### ${{ matrix.id }}"
+            if [ "$rc" != "0" ]; then echo "❌ **build failed** (exit code $rc)"; else echo "✅ build ok"; fi
+            if [ -n "$warns" ]; then
+              echo ""
+              echo "⚠️ $n_warn warning(s):"
+              echo '```'
+              echo "$warns"
+              echo '```'
+            fi
+          } >> $GITHUB_STEP_SUMMARY
 
       - name: Commit data to main
+        if: always() && steps.fetch.outputs.rc != ''
         shell: bash
         run: |
+          rc=${{ steps.fetch.outputs.rc }}
+          LOG=/tmp/build-${{ matrix.id }}.log
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add web_sites/
-          if git diff --cached --quiet; then
+
+          title="Data ${{ matrix.id }} $(date -u +%Y-%m-%d)"
+          flags=""
+          if [ "$rc" != "0" ]; then
+            title="$title - BUILD FAILED (exit $rc)"
+            flags="--allow-empty"   # a failure changes no file: still leave a trace in the git log
+          fi
+          body=$(grep -E '^(WARN|ERROR)' "$LOG" | sort -u | head -10 || true)
+
+          if [ -z "$flags" ] && git diff --cached --quiet; then
             echo "No new data for ${{ matrix.id }}"
           else
-            git commit -m "Data ${{ matrix.id }} $(date -u +%Y-%m-%d)"
+            git commit $flags -m "$title" -m "${body:-no warning}"
             for attempt in {1..5}; do
               echo "Push attempt $attempt..."
               git pull --rebase origin main
@@ -75,6 +121,13 @@ jobs:
               sleep 3
             done
           fi
+
+      - name: Fail job if the build failed
+        if: always() && steps.fetch.outputs.rc != '' && steps.fetch.outputs.rc != '0'
+        shell: bash
+        run: |
+          echo "build.py failed for ${{ matrix.id }} (exit code ${{ steps.fetch.outputs.rc }}); data was committed, other sites are unaffected."
+          exit 1
 
   # ── Step 3: render all sites + portal, push to site branch ───────────────
   render:
@@ -118,19 +171,25 @@ jobs:
       - name: Render all sites
         shell: bash
         run: |
-          python -c "
+          set -o pipefail
+          : > /tmp/render_failed.txt
+          for site_id in $(python -c "
           import json
           cfg = json.load(open('config.json'))
           print(' '.join(s['id'] for s in cfg['sites']))
-          " | tr ' ' '\n' | while read site_id; do
+          "); do
             echo "--- Rendering $site_id ---"
-            python scripts/render.py --site "$site_id" site 2>&1 | tee -a /tmp/render.log
+            python scripts/render.py --site "$site_id" site 2>&1 | tee -a /tmp/render.log || echo "$site_id" >> /tmp/render_failed.txt
           done
+          # The step itself stays green so that the sites which did render are still published;
+          # the job is failed at the very end (last step) if /tmp/render_failed.txt is not empty.
 
       - name: Generate stats page
         shell: bash
+        continue-on-error: true   # stats are secondary: a crash is shown as a failed step but must not block publication
         run: |
-          python scripts/stats.py site 2>&1 | tee -a /tmp/render.log || true
+          set -o pipefail
+          python scripts/stats.py site 2>&1 | tee -a /tmp/render.log
 
       - name: Commit and push to site branch
         id: push
@@ -169,4 +228,16 @@ jobs:
             else
               echo "### ℹ️ No change"
             fi
+            if [ -s /tmp/render_failed.txt ]; then
+              echo "### ❌ Render failed for: $(tr '\n' ' ' < /tmp/render_failed.txt)"
+            fi
           } >> $GITHUB_STEP_SUMMARY
+
+      - name: Fail if a site could not be rendered
+        if: always()
+        shell: bash
+        run: |
+          if [ -s /tmp/render_failed.txt ]; then
+            echo "Render failed for: $(tr '\n' ' ' < /tmp/render_failed.txt)"
+            exit 1
+          fi

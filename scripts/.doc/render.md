@@ -8,8 +8,8 @@ qui liste tous les sites. Aucun appel réseau, aucune IA.
 ## Entrées
 | Source | Détail |
 |---|---|
-| `--site <id>` | site à rendre. **Sans argument : le premier site de `config.json`.** |
-| `<output_dir>` | dossier de sortie (argument obligatoire, code `2` sinon). |
+| `--site <id>` | **obligatoire** : site à rendre (absent → code `2` et usage ; id inconnu → code `1` avec la liste des ids valides). |
+| `<output_dir>` | dossier de sortie, argument obligatoire (code `2` sinon). |
 | `config.json` | config globale (`site_root_url`, `portal_*`, `goatcounter_url`) et du site (`site_name`, `site_description`, `site_icon`, `rolling_days`, `status`, `categories`, `brands`, `account_filters`). |
 | `<sources_file>` | alimente le menu « Sources » et les catégories (quand `categories` est absent). |
 | `<data_dir>/**/*.json` et `*.briefing.txt` | articles et dernier briefing. |
@@ -48,7 +48,7 @@ foreach ($s in (python -c "import json;print(' '.join(x['id'] for x in json.load
 Ouvrir `.tmp_out/index.html` dans un navigateur pour contrôler le rendu (les liens sont relatifs).
 
 ## Limites connues
-- **Sans `--site`, il rend le premier site sans prévenir** ; combiné à un `<output_dir>` partagé, une faute de frappe dans le workflow écraserait le mauvais site.
+- Le workflow tente de rendre **tous** les sites même si l'un échoue, publie ceux qui ont réussi, puis fait échouer le job à la fin en nommant les sites en erreur.
 - Le fichier fait ~950 lignes, avec HTML, CSS et JS écrits en chaînes : une modification de style demande de relire tout le fichier. Aucun test automatisé.
 - Le code s'exécute à l'import (lecture de `sys.argv` et de `config.json`) : on ne peut pas importer ses fonctions pour les tester.
 - Le **portail est réécrit à chaque site rendu** : N rendus = N écritures identiques (inoffensif, mais bruyant).

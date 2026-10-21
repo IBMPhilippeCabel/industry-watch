@@ -9,7 +9,7 @@ ensuite que mettre en forme.
 ## Entrées
 | Source | Détail |
 |---|---|
-| Argument `--site <id>` | id du site dans `config.json`. **Sans argument : le premier site de la liste** (voir limites). |
+| Argument `--site <id>` | **obligatoire** : id du site dans `config.json`. Absent → code `2` et message d'usage ; id inconnu → code `1` avec la liste des ids valides. Les formes `--site loreal` et `--site=loreal` sont acceptées. |
 | `config.json` | `data_dir`, `sources_file`, `site_name`, `site_description`, `categories` (optionnel), `account_filters` (sites « Companies & Accounts »), `site_icon.url/path`. |
 | `<sources_file>` | liste de sources : `name`, `url`, `rss`, `description`, `score`, `default_category`. Une source avec `"rss": null` est ignorée. |
 | `GROQ_API_KEY` (env, optionnel) | active résumés et briefing. Sans clé, le build réussit quand même, sans IA. |
@@ -54,8 +54,7 @@ Total: 12 new articles (0 summarized by Groq)
 En CI : `python scripts/build.py --site <id>` pour chaque id, en parallèle (voir `.github/workflows/OnSchedule_Site_Update.yml`).
 
 ## Limites connues
-- **Sans `--site`, il traite silencieusement le premier site** de `config.json` au lieu d'échouer.
-- **Un échec ne fait pas échouer le workflow** : l'étape CI est `... || true`. Un flux mort ou un code retour `1` passe inaperçu hors des logs.
+- Le workflow capture le code retour de `build.py` sans interrompre l'étape : les données sont commitées dans tous les cas (un échec laisse un commit vide `... - BUILD FAILED (exit N)` avec les `WARN`/`ERROR` en corps), puis le job du site échoue en dernière étape. Un **flux isolé en erreur** reste un simple `WARN` (annotation + résumé, job vert) : le code retour `1` n'est renvoyé que si **aucune** source n'a donné d'article.
 - `classify()` cherche des **sous-chaînes**, pas des mots entiers : `law` matche `flawless`, `ban ` ou `eu ` aussi dans des phrases sans rapport. Une catégorie peut donc être fausse sans que l'article soit hors sujet.
 - Le filtre compte ne regarde que titre + extrait + tags du flux, pas l'article complet. Un article qui ne cite la marque que dans son corps est perdu.
 - Les marques s'écrivent en **une seule forme** dans la config : `loreal` et `l'oreal` sont deux mots différents (d'où les deux dans `account_filters`). Les accents et apostrophes, eux, sont normalisés.

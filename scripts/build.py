@@ -17,7 +17,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-from common import map_category, mentions, norm, site_categories
+from common import map_category, mentions, norm, parse_args, pick_site, site_categories
 
 ROOT = Path(__file__).resolve().parent.parent
 MAX_PER_SOURCE = 15
@@ -29,24 +29,8 @@ PAUSE_SECONDS = 20                  # spreads batches over the minute
 BRIEFING_MAX_HEADLINES = 40
 
 
-def _load_site_cfg(site_id=None):
-    cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
-    sites = cfg["sites"]
-    if site_id:
-        matches = [s for s in sites if s["id"] == site_id]
-        if not matches:
-            raise SystemExit(f"ERROR: site id {site_id!r} not found in config.json")
-        return matches[0]
-    return sites[0]
-
-# Resolved from CLI arg --site <id>, or first site in config.
-_site_id = None
-for _i, _arg in enumerate(sys.argv[1:]):
-    if _arg == "--site" and _i + 1 < len(sys.argv) - 1:
-        _site_id = sys.argv[_i + 2]
-        break
-
-_CFG = _load_site_cfg(_site_id)
+ARGS = parse_args("Fetch, classify and summarize the articles of one site.")
+_CFG = pick_site(json.loads((ROOT / "config.json").read_text(encoding="utf-8")), ARGS.site)
 DATA_DIR = ROOT / _CFG["data_dir"]
 SOURCES_FILE = ROOT / _CFG["sources_file"]
 
