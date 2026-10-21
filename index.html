@@ -17,13 +17,14 @@
   .portal-section { margin-bottom:36px; text-align:left; }
   .portal-section-title { font-size:13px; font-weight:700; color:#57606a; text-transform:uppercase; letter-spacing:.06em; margin:0 0 16px; padding-bottom:8px; border-bottom:1px solid #e5e7eb; }
   .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
-  .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
-  .portal-card:hover { border-color:#3b82d4; }
+  .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:20px 22px; text-decoration:none; color:#1f2328; transition:border-color .15s, box-shadow .15s; }
+  .portal-card:hover { border-color:#3b82d4; box-shadow:0 2px 8px rgba(0,0,0,.04); }
   .portal-card--wip { background:#fffbeb; border-color:#fde68a; }
   .portal-card--wip:hover { border-color:#f59e0b; }
-  .portal-icon { font-size:32px; margin-bottom:12px; display:flex; align-items:center; }
-  .portal-icon img { width:40px; height:40px; object-fit:contain; border-radius:6px; }
-  .portal-name { font-size:18px; font-weight:600; margin-bottom:6px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .portal-card-header { display:flex; align-items:center; gap:12px; margin-bottom:10px; }
+  .portal-icon { font-size:28px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+  .portal-icon img { width:32px; height:32px; object-fit:contain; border-radius:6px; }
+  .portal-name { font-size:17px; font-weight:600; margin:0; display:flex; align-items:center; gap:8px; flex-wrap:wrap; color:#1f2328; }
   .portal-badge { font-size:11px; font-weight:600; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:2px 8px; }
   .portal-desc { font-size:13px; color:#57606a; line-height:1.5; }
   footer { text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:40px; }
@@ -35,10 +36,10 @@
   <nav><a href="stats.html" class="stats-btn">📊 Stats</a></nav>
 </header>
 <div class="portal-wrap">
-  <p class="portal-updated">Last updated: <time>2026-10-21 10:34 UTC</time></p>
-  <section class="portal-section"><h2 class="portal-section-title">Industries &amp; Markets</h2><div class="portal-grid"><a href="petfood-watch/index.html" class="portal-card"><div class="portal-icon"><img src="https://www.petfoodindustry.com/favicon.ico" alt="🐾" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🐾'))"></div><div class="portal-name">Petfood Watch</div><div class="portal-desc">Daily AI-assisted intelligence on the pet food industry: market, M&amp;A, regulation and innovation news from trade press, with per-article summaries and a daily briefing.</div></a><a href="beverage-watch/index.html" class="portal-card"><div class="portal-icon"><img src="beverage-watch/icon.svg" alt="🍸" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🍸'))"></div><div class="portal-name">Drinks &amp; Spirits Watch</div><div class="portal-desc">Daily AI-assisted intelligence on global beverage, beer and spirits markets: Pernod Ricard, Heineken, innovation, RTD, No-Low and M&amp;A.</div></a></div></section><section class="portal-section"><h2 class="portal-section-title">Companies &amp; Accounts</h2><div class="portal-grid"><a href="mars/index.html" class="portal-card"><div class="portal-icon"><img src="mars/Mars-inc.png" alt="🔴" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🔴'))"></div><div class="portal-name">Mars Watch</div><div class="portal-desc">Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.</div></a></div></section>
+  <p class="portal-updated">Last updated: <time>2026-10-21 10:47 UTC</time></p>
+  <section class="portal-section"><h2 class="portal-section-title">Industries &amp; Markets</h2><div class="portal-grid"><a href="petfood-watch/index.html" class="portal-card"><div class="portal-card-header"><div class="portal-icon"><img src="https://www.petfoodindustry.com/favicon.ico" alt="🐾" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🐾'))"></div><div class="portal-name">Petfood</div></div><div class="portal-desc">Daily AI-assisted intelligence on the pet food industry: market, M&amp;A, regulation and innovation news from trade press, with per-article summaries and a daily briefing.</div></a><a href="beverage-watch/index.html" class="portal-card"><div class="portal-card-header"><div class="portal-icon"><img src="beverage-watch/icon.svg" alt="🍸" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🍸'))"></div><div class="portal-name">Drinks &amp; Spirits</div></div><div class="portal-desc">Daily AI-assisted intelligence on global beverage, beer and spirits markets: Pernod Ricard, Heineken, innovation, RTD, No-Low and M&amp;A.</div></a></div></section><section class="portal-section"><h2 class="portal-section-title">Companies &amp; Accounts</h2><div class="portal-grid"><a href="mars/index.html" class="portal-card"><div class="portal-card-header"><div class="portal-icon"><img src="mars/Mars-inc.png" alt="🔴" style="width:40px;height:40px;object-fit:contain;border-radius:6px;vertical-align:middle;" onerror="this.replaceWith(document.createTextNode('🔴'))"></div><div class="portal-name">Mars Corporation</div></div><div class="portal-desc">Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.</div></a></div></section>
 </div>
-<footer>Last updated: <time>2026-10-21 10:34 UTC</time></footer>
+<footer>Last updated: <time>2026-10-21 10:47 UTC</time></footer>
 <script data-goatcounter="https://petfood-watch.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
