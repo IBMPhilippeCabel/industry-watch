@@ -55,6 +55,7 @@ jobs:
           grep 'WARN' /tmp/build-${{ matrix.id }}.log > /tmp/warnings.txt || true
 
       - name: Commit data to main
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -63,7 +64,16 @@ jobs:
             echo "No new data for ${{ matrix.id }}"
           else
             git commit -m "Data ${{ matrix.id }} $(date -u +%Y-%m-%d)"
-            git push origin HEAD:main
+            for attempt in {1..5}; do
+              echo "Push attempt $attempt..."
+              git pull --rebase origin main
+              if git push origin HEAD:main; then
+                echo "Push successful!"
+                break
+              fi
+              echo "Push conflict or rejected, retrying in 3s..."
+              sleep 3
+            done
           fi
 
   # ── Step 3: render all sites + portal, push to site branch ───────────────
