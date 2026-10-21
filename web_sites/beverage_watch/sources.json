@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pernod Ricard & Heineken Watch (Google News)",
+    "url": "https://news.google.com",
+    "rss": "https://news.google.com/rss/search?q=%22Pernod+Ricard%22+OR+%22Heineken%22+OR+%22Jameson%22+OR+%22Absolut+Vodka%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Actualités mondiales, résultats financiers, stratégie de marque et nominations.",
+    "score": "9.5",
+    "default_category": "🤝 Strategy & M&A"
+  },
+  {
+    "name": "Just Drinks",
+    "url": "https://www.just-drinks.com/",
+    "rss": "https://www.just-drinks.com/feed/",
+    "description": "La référence internationale B2B sur l'industrie mondiale des boissons et bières.",
+    "score": "9.5",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "The Spirits Business",
+    "url": "https://www.thespiritsbusiness.com/",
+    "rss": "https://www.thespiritsbusiness.com/feed/",
+    "description": "Tendances spiritueux, bars, cocktails, lancements premium et marché du luxe.",
+    "score": "9.0",
+    "default_category": "🍸 Spirits & Premium"
+  },
+  {
+    "name": "The Drinks Business",
+    "url": "https://www.thedrinksbusiness.com/",
+    "rss": "https://www.thedrinksbusiness.com/feed/",
+    "description": "Actualités du commerce international du vin, des spiritueux et de la bière.",
+    "score": "8.5",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Inside Beer",
+    "url": "https://www.inside.beer/",
+    "rss": "https://www.inside.beer/rss.xml",
+    "description": "Marché international de la bière, investissements brasseries, Heineken & rivaux.",
+    "score": "8.5",
+    "default_category": "🍺 Beer & Brewing"
+  },
+  {
+    "name": "Beverage Daily",
+    "url": "https://www.beveragedaily.com/",
+    "rss": "https://www.beveragedaily.com/RSS/Feed/news",
+    "description": "Innovations produits, packaging, boissons sans alcool (No-Low) et durabilité.",
+    "score": "8.0",
+    "default_category": "💡 Innovation & No-Low"
+  }
+]

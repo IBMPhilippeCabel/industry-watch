@@ -57,7 +57,17 @@ ROLLING_DAYS = int(_CFG.get("rolling_days", 30))
 SITE_NAME  = _CFG["site_name"]
 SITE_DESC  = _CFG["site_description"]
 SITE_URL   = _GLOBAL_CFG["site_root_url"].rstrip("/") + "/" + _CFG["id"] + "/"
-CATEGORIES = ["📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"]
+def _extract_categories():
+    if _CFG.get("categories"):
+        return _CFG["categories"]
+    cats = []
+    for s in SOURCES:
+        c = s.get("default_category")
+        if c and c not in cats:
+            cats.append(c)
+    return cats or ["📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"]
+
+CATEGORIES = _extract_categories()
 
 CSS = """
   :root { --bg:#f7f8fa; --card:#fff; --border:#e5e7eb; --text:#1f2328; --muted:#57606a; --accent:#3b82d4; --ai:#7c5cd8; }
@@ -366,7 +376,7 @@ def write_machine_files(site, articles, recent, briefing, now):
     )
 
     # sitemap.xml
-    months = sorted({f"{a['first_seen']:%Y-%m}" for a in articles}, reverse=True)
+    months = sorted({(a.get("date") or a["first_seen"].isoformat())[:7] for a in articles}, reverse=True)
     today = f"{now:%Y-%m-%d}"
     urls = [("", today), ("archive/index.html", today)] + [
         (f"archive/{ym}.html", today if ym == months[0] else f"{ym}-28") for ym in months
@@ -558,12 +568,31 @@ def render_under_construction(site, updated, portal_url="../index.html"):
     print(f"[{_CFG['id']}] under-construction page written")
 
 
+def _portal_header_icon():
+    """Return an <img> or fallback emoji for the main portal header."""
+    icon_cfg = _GLOBAL_CFG.get("portal_icon")
+    src = _icon_src(icon_cfg)
+    if not src:
+        emoji = esc(icon_cfg.get("default", "📡")) if isinstance(icon_cfg, dict) else "📡"
+        return f'<span style="margin-right:8px;">{emoji}</span>'
+    return f'<img src="{esc(src)}" alt="" style="width:28px;height:28px;object-fit:contain;border-radius:6px;vertical-align:middle;margin-right:10px;">'
+
+
 def render_portal(output_dir, updated):
     """Generate the portal entry page listing all sites."""
     cfg = _GLOBAL_CFG
     portal_name = cfg.get("portal_name", "Industry Watch")
     portal_desc = cfg.get("portal_description", "")
     root_url = cfg["site_root_url"].rstrip("/") + "/"
+
+    p_icon_cfg = cfg.get("portal_icon")
+    if isinstance(p_icon_cfg, dict):
+        local = p_icon_cfg.get("path", "").strip()
+        if local:
+            src_icon = ROOT / local
+            if src_icon.exists():
+                import shutil
+                shutil.copy2(src_icon, output_dir / src_icon.name)
 
     cards = ""
     for s in cfg["sites"]:
@@ -586,7 +615,7 @@ def render_portal(output_dir, updated):
     portal_css = """
   body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:#f7f8fa; color:#1f2328; }
   header { background:#fff; border-bottom:1px solid #e5e7eb; padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
-  header h1 { margin:0; font-size:20px; font-weight:700; color:#1f2328; }
+  header h1 { margin:0; font-size:20px; font-weight:700; color:#1f2328; display:flex; align-items:center; }
   .stats-btn { border:1px solid #e5e7eb; background:#fff; color:#3b82d4; padding:6px 16px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; font-weight:600; }
   .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
   .portal-wrap { max-width:800px; margin:40px auto; padding:0 24px; text-align:center; }
@@ -614,7 +643,7 @@ def render_portal(output_dir, updated):
 </head>
 <body>
 <header>
-  <h1>{esc(portal_name)}</h1>
+  <h1>{_portal_header_icon()}{esc(portal_name)}</h1>
   <nav><a href="stats.html" class="stats-btn">📊 Stats</a></nav>
 </header>
 <div class="portal-wrap">
@@ -669,10 +698,11 @@ def main():
 
     cutoff = now.date() - timedelta(days=ROLLING_DAYS)
 
-    # ── build months dict (by publication date = first_seen path) ────
+    # ── build months dict (by publication date) ───────────────────────
     months: dict[str, list] = {}
     for a in articles:
-        months.setdefault(f"{a['first_seen']:%Y-%m}", []).append(a)
+        pub = (a.get("date") or a["first_seen"].isoformat())[:7]  # YYYY-MM
+        months.setdefault(pub, []).append(a)
 
     # ── compute full month list (data + already-published pages) ─────
     archive = site / "archive"
@@ -684,7 +714,7 @@ def main():
     all_months_keys = sorted(set(months) | existing_months, reverse=True)
 
     # ── <id>/index.html (rolling N days) ─────────────────────────────
-    recent = [a for a in articles if a["first_seen"] >= cutoff]
+    recent = [a for a in articles if (a.get("date") or a["first_seen"].isoformat())[:10] >= cutoff.isoformat()]
     updated_line = f'<p class="page-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
     body = updated_line + briefing_block(briefing) + cards_section(recent)
     nav = f'<a href="../index.html">🏠 Portal</a>'

@@ -1,3 +1,50 @@
 [
+  {
+    "name": "Mars & Brands Watch (Google News)",
+    "url": "https://www.mars.com",
+    "rss": "https://news.google.com/rss/search?q=%22Mars+Inc%22+OR+%22Mars+Petcare%22+OR+%22Royal+Canin%22+OR+%22Mars+Wrigley%22+OR+%22Kellanova%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Actualités mondiales, M&A (Kellanova), nominations et stratégie de marque.",
+    "score": "9.5",
+    "default_category": "🤝 Mars Corporate & M&A"
+  },
+  {
+    "name": "Petfood Industry",
+    "url": "https://www.petfoodindustry.com/",
+    "rss": "https://www.petfoodindustry.com/rss",
+    "description": "Marché Petcare, nutrition, investissements industriels et concurrence.",
+    "score": "9.0",
+    "default_category": "🐾 Petcare & Royal Canin"
+  },
+  {
+    "name": "Food Dive",
+    "url": "https://www.fooddive.com/",
+    "rss": "https://www.fooddive.com/feeds/news/",
+    "description": "Tendances CPG, snacking, acquisitions et stratégies des géants de l'alimentation.",
+    "score": "8.5",
+    "default_category": "🍫 Snacking & FMCG Market"
+  },
+  {
+    "name": "Confectionery News",
+    "url": "https://www.confectionerynews.com/",
+    "rss": "https://www.confectionerynews.com/RSS/Feed/news",
+    "description": "Chocolat, confiserie, chaîne d'approvisionnement cacao et packaging.",
+    "score": "8.5",
+    "default_category": "🍫 Snacking & FMCG Market"
+  },
+  {
+    "name": "Consumer Goods Technology",
+    "url": "https://www.consumergoods.com/",
+    "rss": "https://www.consumergoods.com/rss",
+    "description": "IA, transformation digitale, ERP/Supply Chain et e-commerce appliqués au FMCG.",
+    "score": "8.0",
+    "default_category": "⚡ Tech & Operations"
+  },
+  {
+    "name": "ESG Today",
+    "url": "https://www.esgtoday.com/",
+    "rss": "https://www.esgtoday.com/feed/",
+    "description": "Décarbonation, agriculture régénératrice, emballages durables et conformité ESG.",
+    "score": "8.0",
+    "default_category": "🌱 Sustainability & Sourcing"
+  }
 ]
-
