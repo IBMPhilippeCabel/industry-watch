@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-21T18:28:00Z",
+ "updated": "2026-10-21T20:24:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Beauty brands celebrate growth and innovation while strategic shifts reshape the market.",
+  "hook": "Today’s briefing highlights AI-driven beauty intelligence, Italian market pushes, and strategic moves reshaping the industry.",
   "categories": {
-   "📈 Market": "The Pure Beauty Awards crowned Curl Jar Style + Treat™ Curl Activator as best styling product, highlighting consumer focus on performance.",
-   "💄 Brands & Retail": "Puig and Interparfums saw Q3 sales gains, while Ipsy explores wellness subscriptions and John Hardy partners with Billie Eilish for new collections.",
-   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, and FaiveleyTech invested in a new manufacturing facility to boost capacity.",
-   "💡 Innovation & Regulation": "Revieve launched BeautyCatalyst and an AI‑powered LLM suite, and packaging trends now balance protection, premium appeal and recyclability."
+   "📈 Market": "Sephora UK plans a 2027 expansion with a third boutique and more large-format stores, while L’Oréal notes travel retail as a key growth area for luxury brands in 2026.",
+   "💄 Brands & Retail": "Founder Ning Li expands to Italy, launching a niche fragrance, while Puig and Interparfums report Q3 gains and John Hardy partners with Billie Eilish for new collections.",
+   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, and Allies of Skin appoints a new CEO as the brand prepares for a founder exit.",
+   "💡 Innovation & Regulation": "Revieve launches BeautyCatalyst and a Beauty LLM Suite to harness AI for beauty markets, while packaging trends focus on premium protection and recyclability in skincare."
   }
  },
  "articles": [
+  {
+   "title": "Why Typology’s Founder Took Years to Bring His Skin Care Ethos to Italy - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVRaWGNEVVhsaUQ3MG5aeDBPZTQwdVZpSjROVy05WFBjUy1KQWJ4Q3BDV2VDVG1nQ2N6VnNMVVhRZzFKcjEtVE95ZEp0OVFYai1UNl9VY0hEYjlwaUtxalAxby1iUFNEQW8weXR6RW1yQWxDZHFSblJXY1hwR3ozbWh0ZDBGUmdpalQ3ZGx3X241OUs0d2Yxd1VOeHdmT295S0YyM0twYWxTWmU0VDBnd3JtdjNaWUxmMVpBamhQVVQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-21",
+   "ai_summary": "The article covers the same topic as the first, focusing on the founder’s delayed entry into the Italian market.",
+   "excerpt": "Why Typology’s Founder Took Years to Bring His Skin Care Ethos to Italy WWD"
+  },
+  {
+   "title": "Why Typology’s Founder Took Years to Bring His Skin Care Ethos to Italy",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/french-beauty-brand-skincare-typology-founder-launch-italy-1239379123/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-21",
+   "ai_summary": "Founder Ning Li discussed expanding his brand to Italy, noting market differences and a new niche fragrance venture.",
+   "excerpt": "Founder Ning Li talked with WWD about the expansion of his brand, the differences in customers’ behavior across markets and his new venture into niche fragrances."
+  },
   {
    "title": "Inside The Fragrance Foundation’s 2026 Circle of Champions Dinner",
    "url": "https://wwd.com/beauty-industry-news/fragrance/fragrance-foundation-2026-circle-champions-david-greenberg-1239378688/",
@@ -830,6 +848,15 @@
    "date": "2026-09-29",
    "ai_summary": "",
    "excerpt": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation PR Newswire"
+  },
+  {
+   "title": "Naturally Serious Skincare: First In Clean Beauty - The Purist",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkFMZGRUU2lyRktYdXpXbWVqekFrN2NXWVU3eTUzcFQtRVlGelBwQjZzY055cnRCX3p3T3Nncl9aRzRXeFg3Qk5keDhKa1h5Z29zcURQMjZJSXRRS2dLaF9nQzk1N0tJMVB4bHZESVpaM2JfTWtWOFRGQlRYVV9sMDNwUGdkSHl3NExNVy1B?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-09-26",
+   "ai_summary": "It highlights a clean beauty brand’s debut in the first natural skincare collection.",
+   "excerpt": "Naturally Serious Skincare: First In Clean Beauty The Purist"
   }
  ]
 }

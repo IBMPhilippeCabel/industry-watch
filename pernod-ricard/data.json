@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/",
- "updated": "2026-10-21T18:28:00Z",
+ "updated": "2026-10-21T20:24:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Pernod Ricard sees activity across strategy, brand partnerships, market scrutiny and financial moves.",
+  "hook": "Pernod Ricard pushes new financing while facing regulatory scrutiny in India.",
   "categories": {
-   "🤝 Strategy & M&A": "Revenue intelligence searches in India spotlight Diageo and Pernod Ricard, while Corby Spirit and Wine Limited questions the sustainability of Pernod Ricard’s generous payouts.",
-   "🥃 Spirits & Brands": "Jameson revives its Cats on Tap program for the 2026‑27 season, partners with Strahman Group for service provision, and its ambassador Jameson Williams discusses marijuana legality amid NFL changes.",
-   "📈 Market": "Tax officials in India investigate Pernod Ricard and Diageo over the classification of some bulk Scotch imports.",
-   "💡 Innovation & RTD": "RBC lifts its target for Pernod Ricard stock, the company launches a tender offer for Seven Notes Series and plans a new subordinated notes issue, while Corby Spirit’s shares rise on sentiment around RTD growth and Pernod Ricard distribution support."
+   "🤝 Strategy & M&A": "Pernod Ricard launches a tender offer for its Seven Notes Series and plans a new subordinated notes issue.",
+   "🥃 Spirits & Brands": "Jameson reintroduces its ‘Cats on Tap’ program for the 2026‑27 NHL season and partners with Strahman Group for service provision.",
+   "📈 Market": "Tax officials in India investigate Pernod Ricard and Diageo over bulk Scotch import classification.",
+   "💡 Innovation & RTD": "RBC raises its target price for Pernod Ricard stock to EUR 71.00."
   }
  },
  "articles": [
+  {
+   "title": "Jameson Dashawn Hogans - timesdaily.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTc5TnhwcUxLTmFVXzRNM1o0TkZRZnZkMkxhb0psVnpaWEoxM0pLRDhNZmhBdnRtTTBaYV8yUnJXcWdlVVRZYUdxS3ZBeEY3blU3REVZQVNZZEhKOEU2bG14M1FQOXlhUk5QVjgtYkVXazFaR1JwQU00NVBhOTNaVjItZDhQQW1BSjNnb3dwN3lyM1BzTDFnOG92bURhZw?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-10-21",
+   "ai_summary": "Jameson Dashawn Hogans - timesdaily.com",
+   "excerpt": "Jameson Dashawn Hogans timesdaily.com"
+  },
   {
    "title": "Florida Panthers and Jameson Bring Back ‘Cats on Tap’ for the 2026-27 Season - NHL.com",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmhiUkU0MWFJU0ZuSHVIOUMzUWNyU0VHQlVPOGZsSVM0Y0hYODFsVm5BY3lfc3hyaEUyQzdWV2JsSS1XdkRNOC1OaHFMNHZZd0JsLWRIaUZYOHFtdVNVc05TV0ZyRWRnbzRyY0ZqeUY0Y2UzMk1nRnA5NEVWa21pa21mc2lWUVNLcGRLTHlNSHQ2Y2lrMHRCOTExSldNZ1Jna3pwRzM0MTF5OXl6?oc=5",
@@ -202,6 +211,15 @@
    "excerpt": "Pernod Ricard Reworks Its Balance Sheet as Drinkers Pull Back Yahoo Finance"
   },
   {
+   "title": "India Investigates Pernod Ricard and Diageo Over Bulk Scotch Import Classifications - Vinetur",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2lTTGR0Q0hFdnhJTjFZN0xnV1Nmb3pCWmJwRUNCOTNKZFNHS2hpeXU1am1STVVqbkNZV1RGcTlfb2p4MGppSEtzUTduR21PVXpYYndkM3dyS0NydUF6RVlIZzkxSXJWa0o5RDA3VFBVS0k3cjFNMFVYU2pnVjZaOTRfY3EySjFKSWplNFZzWXdZSE5ZN3NYa3BsNjV2cExoMUlFS3QzbEMwRDVPaWNodzBORm5lMUV6VE9wMXRaZ3VtVlh1UVFqTGtn0gHPAUFVX3lxTFBkSEFDQWl0aWtkYnlmZkhaMHBzVzZQaWF1OUZMaUtmWF9jR2l4LVQ2M0Z0QWZfcmVPQXRYVjd0OXM0UWxVdEZ6emt1bkIwTldmdU1FXzlZaUVhUTFYNXZXemlKN1NnZUNoWWY0NXNPYWo2M3VOREJUcDBSemc3UFI1NFBSX0ZWRGdYbWNkR2tnZ0FOME9rM09GQk9GNHVCU0pWVjBxVDJMZ0ZrejhCQmxXdU5PUndiVFdtenkzZzQzTjYtZlFpMmJ3d2ZuSUc2Yw?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-20",
+   "ai_summary": "India Investigates Pernod Ricard and Diageo Over Bulk Scotch Import Classifications - Vinetur",
+   "excerpt": "India Investigates Pernod Ricard and Diageo Over Bulk Scotch Import Classifications Vinetur"
+  },
+  {
    "title": "Diageo, Pernod Scotch imports under investigation in India",
    "url": "https://www.just-drinks.com/news/diageo-pernod-scotch-imports-under-investigation-in-india/",
    "source": "Just Drinks",
@@ -209,6 +227,15 @@
    "date": "2026-10-20",
    "ai_summary": "",
    "excerpt": "Tax officials in India are investigating Pernod Ricard and Diageo over the classification of some of their bulk Scotch imports."
+  },
+  {
+   "title": "Pernod Ricard Moves To Rework Its Euro Debt Stack - Finimize",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcGhQbUVPcDBFX3RMZzlXSlN3LW9fR0VWTkxrSmlrSGJNTzI0MlBNNEpocGlrTVdTRDJnVWlnbzBKQy03RkpLUXo4QWZtZFdHbmxXNHhkRHVZMV93WHNDc2VuQ3FCSmsxWGJwMVc4SXJJVnZCdHNCZEdTZ3ZMUVVhbXJWTS0?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-20",
+   "ai_summary": "Pernod Ricard Moves To Rework Its Euro Debt Stack - Finimize",
+   "excerpt": "Pernod Ricard Moves To Rework Its Euro Debt Stack Finimize"
   },
   {
    "title": "Pernod Ricard Launches Tender Offer for Seven Notes Series, Plans New Subordinated Notes Issue - www.marketscreener.com",
@@ -362,6 +389,15 @@
    "date": "2026-10-15",
    "ai_summary": "",
    "excerpt": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment Business Wire"
+  },
+  {
+   "title": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGVWRk1aSDRBX2VYRUUwVlh1cGJGai1hbnJHRmVvU0JwS19uMTFwV18wNzVUX0hmVHdQU29mVm15MG5zNFlGMlFoU0tzOUhHVzNDUzI1NU1hNmFfVFZGbWxWeWNDNWc4bWVIUFFmTTRBdGV3TnVoRktwZ3hpSFpSaWd4emw4ZXlzSS1HcGFPaU1NTFRoaUJwNG0waXhOdlJRbm14UGwwOA?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-15",
+   "ai_summary": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment - Yahoo Finance",
+   "excerpt": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment Yahoo Finance"
   },
   {
    "title": "Pernod eyes higher-abv RTD demand in UK, US with Malibu push - Just Drinks",
