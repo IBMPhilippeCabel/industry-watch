@@ -1,1 +1,1 @@
-{"hook": "Heineken faces a €100m damages ruling in Greece, impacting its competitive stance.", "categories": {"📈 Market": "Heineken ordered to pay over €100m in damages to Macedonian Thrace Brewery in a Greek competition case.", "🤝 M&A": null, "⚖️ Regulation": null, "💡 Innovation": null}}
+{"hook": "Heineken unit faces €111 million damages ruling, highlighting legal risks for breweries.", "categories": {"📈 Market": null, "🤝 M&A": null, "⚖️ Regulation": "Heineken unit Athenian Brewery ordered to pay €111 million in damages by a court decision.", "💡 Innovation": null}}
