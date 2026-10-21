@@ -38,23 +38,67 @@ def _api_get(base_url, path, token):
 
 
 def _fetch_stats(api_base, token):
-    """Fetch hits (all pages), countries, and browsers from GoatCounter API."""
+    """Fetch hits (all pages), countries, and browsers from GoatCounter API with fallback routes."""
     hits, countries, browsers = [], [], []
+
+    # 1. Hits / Page views
     try:
         data = _api_get(api_base, "/api/v0/stats/hits?limit=100", token)
-        hits = data.get("hits", [])
+        if isinstance(data, dict):
+            hits = data.get("hits", data.get("stats", []))
+        elif isinstance(data, list):
+            hits = data
     except Exception as e:
         print(f"WARN: could not fetch hits: {e}", file=sys.stderr)
-    try:
-        data = _api_get(api_base, "/api/v0/stats/countries?limit=30", token)
-        countries = data.get("countries", [])
-    except Exception as e:
-        print(f"WARN: could not fetch countries: {e}", file=sys.stderr)
-    try:
-        data = _api_get(api_base, "/api/v0/stats/browsers?limit=10", token)
-        browsers = data.get("browsers", [])
-    except Exception as e:
-        print(f"WARN: could not fetch browsers: {e}", file=sys.stderr)
+
+    # 2. Location / Countries (fallback routes)
+    for endpoint in ("/api/v0/stats/location?limit=30", "/api/v0/stats/locations?limit=30", "/api/v0/stats/location", "/api/v0/stats/countries?limit=30"):
+        try:
+            data = _api_get(api_base, endpoint, token)
+            raw_locs = []
+            if isinstance(data, dict):
+                raw_locs = data.get("stats", data.get("locations", data.get("countries", [])))
+            elif isinstance(data, list):
+                raw_locs = data
+            if raw_locs:
+                for c in raw_locs:
+                    code = c.get("country") or c.get("country_code") or c.get("id") or ""
+                    name = c.get("country_name") or c.get("name") or code
+                    count = c.get("count", c.get("total", 0))
+                    countries.append({
+                        "country": code,
+                        "country_name": name,
+                        "count": count,
+                    })
+                break
+        except Exception:
+            continue
+    if not countries:
+        print(f"INFO: no location data returned by GoatCounter API", file=sys.stderr)
+
+    # 3. Browsers (fallback routes)
+    for endpoint in ("/api/v0/stats/browser?limit=10", "/api/v0/stats/browsers?limit=10", "/api/v0/stats/system?limit=10"):
+        try:
+            data = _api_get(api_base, endpoint, token)
+            raw_browsers = []
+            if isinstance(data, dict):
+                raw_browsers = data.get("stats", data.get("browsers", data.get("systems", [])))
+            elif isinstance(data, list):
+                raw_browsers = data
+            if raw_browsers:
+                for b in raw_browsers:
+                    name = b.get("browser") or b.get("name") or b.get("id") or ""
+                    count = b.get("count", b.get("total", 0))
+                    browsers.append({
+                        "browser": name,
+                        "count": count,
+                    })
+                break
+        except Exception:
+            continue
+    if not browsers:
+        print(f"INFO: no browser data returned by GoatCounter API", file=sys.stderr)
+
     return hits, countries, browsers
 
 
@@ -178,11 +222,11 @@ def _browser_table(browsers):
 _STATS_CSS = """
   :root { --bg:#f7f8fa; --card:#fff; --border:#e5e7eb; --text:#1f2328; --muted:#57606a; --accent:#3b82d4; --ai:#7c5cd8; }
   * { box-sizing:border-box; }
-  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); }
+  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); min-height:100vh; display:flex; flex-direction:column; }
   header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
   header h1 { margin:0; font-size:20px; }
   header nav a { color:var(--accent); text-decoration:none; font-size:14px; margin-left:20px; }
-  .wrap { max-width:1100px; margin:0 auto; padding:24px; }
+  .wrap { flex:1; max-width:1100px; margin:0 auto; padding:24px; width:100%; box-sizing:border-box; }
   .kpi-row { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:16px; margin-bottom:24px; }
   .kpi { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:16px 20px; }
   .kpi-value { font-size:28px; font-weight:700; }
