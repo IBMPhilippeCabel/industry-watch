@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beauty &amp; Cosmetics — Archive</title>
+<meta name="description" content="Monthly archive of Beauty &amp; Cosmetics articles.">
+<link rel="canonical" href="https://ibmphilippecabel.github.io/industry-watch/beauty-watch/beauty-watch/archive/index.html">
+<link rel="alternate" type="application/atom+xml" title="Beauty & Cosmetics feed" href="https://ibmphilippecabel.github.io/industry-watch/beauty-watch/feed.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Beauty & Cosmetics">
+<meta property="og:title" content="Beauty &amp; Cosmetics — Archive">
+<meta property="og:description" content="Monthly archive of Beauty &amp; Cosmetics articles.">
+<meta property="og:url" content="https://ibmphilippecabel.github.io/industry-watch/beauty-watch/beauty-watch/archive/index.html">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="../../icon.ico">
+
+<style>
+  :root { --bg:#f7f8fa; --card:#fff; --border:#e5e7eb; --text:#1f2328; --muted:#57606a; --accent:#3b82d4; --ai:#7c5cd8; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.6 -apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); min-height:100vh; display:flex; flex-direction:column; }
+  main.wrap { flex:1; width:100%; }
+  /* header */
+  header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
+  header h1 { margin:0; font-size:20px; display:flex; align-items:center; gap:10px; }
+  header h1 img { width:28px; height:28px; object-fit:contain; border-radius:4px; }
+  header nav a { color:var(--accent); text-decoration:none; font-size:14px; margin-left:20px; }
+  /* sources dropdown */
+  .src-btn { border:1px solid var(--border); background:var(--card); color:var(--text); padding:5px 12px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; margin-left:20px; }
+  .src-btn:hover { border-color:var(--accent); color:var(--accent); }
+  .src-dropdown { display:none; position:absolute; right:0; top:calc(100% + 6px); background:var(--card); border:1px solid var(--border); border-radius:8px; padding:12px 16px; min-width:380px; max-width:520px; box-shadow:0 4px 16px rgba(0,0,0,.08); z-index:100; }
+  .src-dropdown.open { display:block; }
+  .src-dropdown h3 { margin:0 0 8px; font-size:14px; }
+  .src-dropdown ul { padding-left:16px; margin:0; }
+  .src-dropdown li { font-size:13px; line-height:1.8; }
+  .src-wrap { position:relative; display:inline-flex; align-items:center; }
+  /* layout */
+  .wrap { max-width:1100px; margin:0 auto; padding:0 24px; }
+  a { color:var(--accent); text-decoration:none; }
+  /* briefing */
+  .briefing { background:var(--card); border:1px solid var(--border); border-left:4px solid var(--ai); border-radius:8px; padding:16px 20px; margin:20px 0 4px; }
+  .briefing-label { font-size:11px; font-weight:600; text-transform:uppercase; letter-spacing:.06em; color:var(--ai); margin-bottom:6px; }
+  .briefing p { margin:0 0 6px; font-size:14px; line-height:1.6; }
+  .briefing .briefing-hook { font-size:15px; font-weight:600; margin-bottom:10px; }
+  .briefing .briefing-cat { color:var(--text); }
+  .briefing-meta { font-size:12px; color:var(--muted); margin-top:8px; }
+  /* filters */
+  nav.filters { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0; align-items:center; }
+  nav.filters button { border:1px solid var(--border); background:var(--card); color:var(--text); padding:5px 13px; border-radius:16px; font:inherit; font-size:13px; cursor:pointer; transition:all .15s; }
+  nav.filters button:hover { border-color:var(--accent); }
+  nav.filters button.active { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
+  .filters-label { font-size:11px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; margin-right:4px; }
+  .brand-filters { margin-top:2px; margin-bottom:20px; }
+  .brand-filters button.active { background:#1f2328; border-color:#1f2328; color:#fff; }
+  .brand-tag { padding:1px 8px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; color:#24292f; font-size:11px; font-weight:500; }
+  /* grid */
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:16px; padding-bottom:24px; }
+  /* card */
+  .card { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:16px; display:flex; flex-direction:column; gap:6px; }
+  .card h2 { margin:0; font-size:15px; line-height:1.4; }
+  .card h2 a { color:var(--text); }
+  .card h2 a:hover { color:var(--accent); }
+  .card p { margin:0; color:var(--muted); font-size:13px; }
+  .meta { display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:12px; color:var(--muted); }
+  .tag { padding:1px 8px; border:1px solid var(--border); border-radius:10px; color:var(--accent); font-size:12px; }
+  .ai-summary { font-size:13px; color:var(--muted); font-style:italic; border-left:3px solid var(--ai); padding-left:8px; line-height:1.5; }
+  .ai-icon { font-style:normal; font-size:12px; }
+  .hidden { display:none; }
+  /* sources list */
+  h3 { font-size:16px; margin:8px 0; }
+  ul.sources { padding-left:20px; margin:0; }
+  /* archive list */
+  ul.months { list-style:none; padding:0; margin:20px 0 32px; max-width:600px; }
+  ul.months li { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:10px 16px; margin-bottom:8px; display:flex; justify-content:space-between; }
+  .muted { color:var(--muted); }
+  .page-updated { font-size:12px; color:var(--muted); margin:12px 0 4px; }
+  footer { text-align:center; color:var(--muted); font-size:12px; padding:24px 16px; border-top:1px solid var(--border); margin-top:48px; line-height:1.6; }
+  .footer-disclaimer { margin:0 0 8px; max-width:680px; margin-left:auto; margin-right:auto; }
+  .footer-updated { margin:0; font-size:11px; opacity:.85; }
+</style>
+</head>
+<body>
+<header>
+  <h1><img src="icon.ico" alt="Beauty &amp; Cosmetics" onerror="this.style.display='none'">Beauty &amp; Cosmetics</h1>
+  <nav><a href="../../index.html" class="src-btn">🏠 Home</a><a href="../stats.html" class="src-btn">📊 Stats</a><div class="src-wrap"><button class="src-btn" id="sites-btn">🗂️ Sites</button><div class="src-dropdown" id="sites-dropdown"><ul class="sources" style="min-width:200px"><li><a href="../../petfood-watch/index.html"><img src="https://www.petfoodindustry.com/favicon.ico" alt="" onerror="this.style.display='none'" style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">Petfood</a></li><li><a href="../../mars/index.html"><img src="Mars-inc.png" alt="" onerror="this.style.display='none'" style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">Mars Corporation</a></li><li><a href="../../beverage-watch/index.html"><img src="icon.svg" alt="" onerror="this.style.display='none'" style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">Drinks &amp; Spirits</a></li><li><a href="../../pernod-ricard/index.html"><img src="Pernod_Ricard.svg" alt="" onerror="this.style.display='none'" style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">Pernod Ricard</a></li><li><a href="../../beauty-watch/index.html" style="font-weight:700;color:var(--text);"><img src="icon.ico" alt="" onerror="this.style.display='none'" style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">Beauty &amp; Cosmetics</a></li><li><a href="../../loreal/index.html"><img src="loreal.ico" alt="" onerror="this.style.display='none'" style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">L&#x27;Oréal</a></li></ul></div></div><div class="src-wrap"><button class="src-btn" id="arc-btn">📚 Archive</button><div class="src-dropdown" id="arc-dropdown"><h3>Archive</h3><ul class="sources"><li><a href="archive/2026-10.html">2026-10</a> <span class="muted">(81 articles)</span></li><li><a href="archive/2026-09.html">2026-09</a> <span class="muted">(4 articles)</span></li><li><a href="archive/2026-08.html">2026-08</a> <span class="muted">(5 articles)</span></li><li><a href="archive/2026-07.html">2026-07</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2026-06.html">2026-06</a> <span class="muted">(2 articles)</span></li><li><a href="archive/2026-05.html">2026-05</a> <span class="muted">(2 articles)</span></li><li><a href="archive/2026-04.html">2026-04</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2026-03.html">2026-03</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2026-02.html">2026-02</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2026-01.html">2026-01</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2025-09.html">2025-09</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2022-09.html">2022-09</a> <span class="muted">(1 articles)</span></li><li><a href="archive/2021-10.html">2021-10</a> <span class="muted">(1 articles)</span></li></ul></div></div></nav>
+</header>
+<main class="wrap">
+<ul class="months"><li><a href="2026-10.html">2026-10</a><span class="muted">81 articles</span></li><li><a href="2026-09.html">2026-09</a><span class="muted">4 articles</span></li><li><a href="2026-08.html">2026-08</a><span class="muted">5 articles</span></li><li><a href="2026-07.html">2026-07</a><span class="muted">1 articles</span></li><li><a href="2026-06.html">2026-06</a><span class="muted">2 articles</span></li><li><a href="2026-05.html">2026-05</a><span class="muted">2 articles</span></li><li><a href="2026-04.html">2026-04</a><span class="muted">1 articles</span></li><li><a href="2026-03.html">2026-03</a><span class="muted">1 articles</span></li><li><a href="2026-02.html">2026-02</a><span class="muted">1 articles</span></li><li><a href="2026-01.html">2026-01</a><span class="muted">1 articles</span></li><li><a href="2025-09.html">2025-09</a><span class="muted">1 articles</span></li><li><a href="2022-09.html">2022-09</a><span class="muted">1 articles</span></li><li><a href="2021-10.html">2021-10</a><span class="muted">1 articles</span></li></ul>
+</main>
+<footer><p class="footer-disclaimer">All sources are publicly available. AI-assisted intelligence compiled for consulting team use only.<br>Independent publication — does not represent the official views of the referenced companies.</p><p class="footer-updated">Last updated: <time datetime="2026-10-21T13:25:00Z">2026-10-21 13:25 UTC</time></p></footer>
+<script></script>
+<script data-goatcounter="https://petfood-watch.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

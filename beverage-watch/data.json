@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-21T12:59:00Z",
+ "updated": "2026-10-21T13:25:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Partnerships and legal rulings shape the day.",
+  "hook": "Heineken faces a €100m damages ruling in Greece, impacting its competitive stance.",
   "categories": {
-   "📈 Market": null,
-   "🤝 M&A": "Nelson-Jameson partners with Strahman Group as an authorized service provider.",
+   "📈 Market": "Heineken ordered to pay over €100m in damages to Macedonian Thrace Brewery in a Greek competition case.",
+   "🤝 M&A": null,
    "⚖️ Regulation": null,
    "💡 Innovation": null
   }
  },
  "articles": [
+  {
+   "title": "Heineken ordered to pay damages in Greece competition case",
+   "url": "https://www.just-drinks.com/news/heineken-ordered-to-pay-damages-in-greece-competition-case/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-21",
+   "ai_summary": "Heineken was ordered to pay damages in a competition case in Greece. The judgment requires the company to pay over €100 million to Macedonian Thrace Brewery.",
+   "excerpt": "Heineken has been ordered to pay over €100m ($112.3m) in damages in a competition case against Macedonian Thrace Brewery (MTB)."
+  },
   {
    "title": "Nelson-Jameson Announces Authorized Service Provider Partnership for Strahman Group® - PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQREJ6TW1TSlZaM2xSNDc3YjBXMDdLeVFfcmV0M2lJdFFyVS12TDAzMUJlX2ZCMFpFU29sRXAyT2ZoalltaG9kUWNWb1pyUUxTMEFHMEhRMFJkU0JwVUpaaUtxa1V4QTFCVGtlRk9NRk00VXlUa2NNbkNVaDllbjZ3TWg3Q1JQMHZiNXBGMzFGRnFwNUNkYTY5VlAyd0MxMzliRGZLSmthWUluM2tBSS1YSnpMSDVNTko2QnFrRjBLRjBZM3dOeGxqLXZib3pWci1CMk5XaTFB?oc=5",

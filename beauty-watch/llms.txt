@@ -1,0 +1,33 @@
+# Beauty & Cosmetics
+
+> Daily AI-assisted intelligence on the global beauty and cosmetics market: L'Oréal, Estée Lauder, LVMH, skincare, fragrance, M&A and innovation.
+
+Content is in English. Articles are collected nightly from public RSS feeds of pet food trade publications; summaries and the daily briefing are AI-generated, and each item links to its original source.
+
+## Main pages
+
+- [Home](https://ibmphilippecabel.github.io/industry-watch/beauty-watch/): articles of the last 30 days with the daily briefing
+- [Archive](https://ibmphilippecabel.github.io/industry-watch/beauty-watch/archive/index.html): one page per month, all articles
+
+## Machine-readable
+
+- [Atom feed](https://ibmphilippecabel.github.io/industry-watch/beauty-watch/feed.xml): 50 latest articles
+- [JSON data](https://ibmphilippecabel.github.io/industry-watch/beauty-watch/data.json): briefing and articles from the last 30 days
+- [Sitemap](https://ibmphilippecabel.github.io/industry-watch/beauty-watch/sitemap.xml)
+
+## Categories
+
+- 📈 Market
+- 💄 Brands & Retail
+- 🤝 Strategy & M&A
+- 💡 Innovation & Regulation
+
+## Sources
+
+- [Cosmetics Business](https://www.cosmeticsbusiness.com/): International B2B reference on cosmetics, beauty brands, ingredients and packaging.
+- [Premium Beauty News](https://www.premiumbeautynews.com/): Beauty industry news: brands, distribution, supply chain, packaging and finance.
+- [Glossy](https://www.glossy.co/): Beauty and fashion business: DTC, retail, marketing and brand strategy.
+- [Beauty Independent](https://www.beautyindependent.com/): Indie beauty brands, founders, funding and retail trends.
+- [WWD Beauty](https://wwd.com/beauty-industry-news/): Beauty industry news from WWD: launches, executives, deals and results.
+- [Beauty M&A & Corporate (Google News)](https://news.google.com): Corporate news, financial results and M&A across the major beauty groups.
+- [Beauty Innovation & Tech (Google News)](https://news.google.com): Beauty tech, skincare science, clean beauty, regulation and sustainability.

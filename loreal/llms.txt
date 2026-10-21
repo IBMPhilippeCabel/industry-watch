@@ -1,0 +1,32 @@
+# L'Oréal
+
+> Daily AI-assisted intelligence on L'Oréal Groupe: strategy, brands, M&A, beauty tech, ESG and innovation.
+
+Content is in English. Articles are collected nightly from public RSS feeds of pet food trade publications; summaries and the daily briefing are AI-generated, and each item links to its original source.
+
+## Main pages
+
+- [Home](https://ibmphilippecabel.github.io/industry-watch/loreal/): articles of the last 30 days with the daily briefing
+- [Archive](https://ibmphilippecabel.github.io/industry-watch/loreal/archive/index.html): one page per month, all articles
+
+## Machine-readable
+
+- [Atom feed](https://ibmphilippecabel.github.io/industry-watch/loreal/feed.xml): 50 latest articles
+- [JSON data](https://ibmphilippecabel.github.io/industry-watch/loreal/data.json): briefing and articles from the last 30 days
+- [Sitemap](https://ibmphilippecabel.github.io/industry-watch/loreal/sitemap.xml)
+
+## Categories
+
+- 🤝 Strategy & M&A
+- 💄 Brands & Launches
+- 💡 Beauty Tech & ESG
+- 📈 Market
+
+## Sources
+
+- [L'Oréal Corporate & M&A (Google News)](https://www.loreal.com): Corporate news, financial results, global strategy, appointments and M&A.
+- [L'Oréal Brands (Google News)](https://www.loreal.com/en/our-brands/): Brand campaigns, launches, partnerships and limited editions.
+- [L'Oréal Beauty Tech & ESG (Google News)](https://www.loreal.com/en/beauty-science-and-technology/): Beauty tech, AI, green sciences, packaging and ESG commitments.
+- [Cosmetics Business](https://www.cosmeticsbusiness.com/): International B2B reference on cosmetics and beauty brands.
+- [Premium Beauty News](https://www.premiumbeautynews.com/): Beauty industry news: brands, distribution, supply chain and finance.
+- [Glossy](https://www.glossy.co/): Beauty and fashion business: DTC, retail and marketing.
