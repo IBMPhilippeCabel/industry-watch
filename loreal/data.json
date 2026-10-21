@@ -1,11 +1,20 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-21T14:29:00Z",
- "briefing": null,
+ "updated": "2026-10-21T16:27:00Z",
+ "briefing": {
+  "date": "2026-10-21",
+  "hook": "L’Oréal’s day features festive launches, new sunscreen tech, travel retail insights, strategic collaborations, and a sustainability spotlight.",
+  "categories": {
+   "🤝 Strategy & M&A": "L’Oréal partners with Natura on an Ozempic‑face trend, names Kristen Bell as global ambassador, launches a tinted balm, and supports Women in Science and a new powder companion to Magic Root Spray.",
+   "💄 Brands & Launches": "Maybelline New York launches a festive India‑exclusive collection with Kiara Advani and a mithai‑inspired lipstick line, while La Roche‑Posay debuts its first Anthelios sunscreen featuring bemotrizinol.",
+   "💡 Beauty Tech & ESG": "L’Oréal’s L’Accelerator program showcases 13 sustainability change makers driving the brand’s ESG agenda.",
+   "📈 Market": "Travel retail is set to dominate luxury in 2026, as L’Oréal‑owned La Roche‑Posay introduces a new BEMT sunscreen in the U.S. and announces its Women of Worth honourees."
+  }
+ },
  "articles": [
   {
    "title": "Maybelline New York Brings the Festive Shine with Kiara Advani and Its First-Ever India-Exclusive Limited Collection - TheWire.in",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWllJZ21tdXZtak9NUkNETmp6YmRTb1kwNHd0UGYxRUJKS3VVR2hVRkNPTk1sUVhYR0R0bk9KQkNneWNDMTlwdVBYOUhmQ2taRENSdzdmVDc0V3E0TXQtNFh5MXR3OXpvT0l5anNMVzBrUk1KRXdzN0p1NnBTbmhRRE0wOThDeElxeVU5emc5OTlEZzI4MGJ0VGFMLTl2cTBWMkJkZG5vWjJ0T3c3VUh5MkdTQmdDWXlkTlpYbVF5Snl6eVM3MS11NFBoLW1EN3FRaHlTMmxSWGx1WHVhNEpEOEgyQ2hfNkZSOE9sMVpzQzPSAfABQVVfeXFMT1pZSWdtbXV2bWpPTVJDRE5qemJkU29ZMDR3dFBmMUVCSkt1VUdoVUZDT05NbFFYWEdEdG5PSkJDZ3ljQzE5cHVQWDlIZkNrWkRDUnc3ZlQ3NFdxNE10LTRYeTF0dzl6b09JeWpzTFcwa1JNSkV3czdKdTZwU25oUURNMDk4Q3hJcXlVOXpnOTk5RGcyODBidFRhTC05dnEwVjJCZGRub1oydE93N1VIeTJHU0JnQ1l5ZE5aWG1ReUp5enlTNzEtdTRQaC1tRDdxUWh5UzJsUlhsdVh1YTRKRDhIMkNoXzZGUjhPbDFac0Mz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRmhoNHBGamZlRmhmXzdJd0hnVG1jZE9SWU1haGR4WGFuNWFWRURVS01SSVNDODg0Ykg2cGFOeXJvNDBoR1QyQ3drMWJ3d2hoXzN2ai1rRWtmb0VJMXYxc1Boa2tDcEk5ZWotWE1ubTFtZHdicUdaOEtKMFQtdTQ0VElhM2dyYlJHLXpmcS1nRW5yZVE5bFZBeEFZbTUyb2xqNEZoTjkyeG9COHlkLTBDWkp4TTZLQ3NrQVJZWU53T3ZvWWUySFFhQXNCczAyc3QzM3RKQnAySlNhRGt3eXRhbmVhaHRyYlY0OVhF0gHwAUFVX3lxTE9aWUlnbW11dm1qT01SQ0ROanpiZFNvWTA0d3RQZjFFQkpLdVVHaFVGQ09OTWxRWFhHRHRuT0pCQ2d5Y0MxOXB1UFg5SGZDa1pEQ1J3N2ZUNzRXcTRNdC00WHkxdHc5em9PSXlqc0xXMGtSTUpFd3M3SnU2cFNuaFFETTA5OEN4SXF5VTl6Zzk5OURnMjgwYnRUYUwtOXZxMFYyQmRkbm9aMnRPdzdVSHkyR1NCZ0NZeWROWlhtUXlKeXp5UzcxLXU0UGgtbUQ3cVFoeVMybFJYbHVYdWE0SkQ4SDJDaF82RlI4T2wxWnNDMw?oc=5",
    "source": "L'Oréal Brands (Google News)",
    "category": "💄 Brands & Launches",
    "date": "2026-10-21",
@@ -236,6 +245,15 @@
    "date": "2026-10-14",
    "ai_summary": "",
    "excerpt": "Two Yale students named L’Oréal Paris Women of Worth honorees WTNH.com"
+  },
+  {
+   "title": "L'Oréal Paris Champions 21 Years of Grassroots Impact, Announcing the 2026 Class of Women of Worth Honorees - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMS05dERvM0F5b0JWN0N6T1llWGxNZ2dsejg0NFRodWFyU1FHN0x2d0Z1ZVFYUW05bm85d3RfT092akNaaUlxNlk0b0phRFVjajVZMVViRktnUldXVkd4TmZnMk13bmd4cV94LTJmeDN3VG9XUE1CLUpXZE9QeHQ1eXBycXc5R2I0MW9sNEVVRnA3NXJFczZvOHJVUHNtdVhsRE5NSE1mUG9ocnRuTEhaRFRFejQ3MHBremVCT0xlb3JtblA5ajZ4dEtxTDk1TW9PeUFaU1djcl9QOVFQRFhKa0NzakI0eURKVF9ubHBLaU94OUU?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-14",
+   "ai_summary": "L'Oréal Paris celebrates 21 years of grassroots impact and announces the 2026 Class of Women of Worth honorees. The announcement highlights the brand’s ongoing commitment to community empowerment and recognition of influential women.",
+   "excerpt": "L'Oréal Paris Champions 21 Years of Grassroots Impact, Announcing the 2026 Class of Women of Worth Honorees PR Newswire"
   },
   {
    "title": "Watch L’Oréal’s Strategy for a New Era of Beauty - Bloomberg.com",

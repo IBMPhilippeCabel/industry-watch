@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-21T14:29:00Z",
+ "updated": "2026-10-21T16:27:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Heineken faces hefty damages while launching a streaming service, signaling legal and digital shifts in the beverage sector.",
+  "hook": "Heineken pushes into streaming and AI while facing legal and market pressures.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken ordered to pay over €100 million in damages in a Greek competition case, highlighting regulatory pressure.",
-   "📈 Market": "Heineken’s €111 million damages order in Greece dominates market news, while other firms face investigations and administration.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "Heineken’s €111 million damages order in Greece underscores brewing sector legal challenges.",
-   "💡 Innovation & No-Low": "Heineken launches a streaming service with Amazon Ads, marking a first for nightlife entertainment."
+   "🤝 Strategy & M&A": "Heineken faces a €111 million damages order in Greece over competition, adding legal strain to its expansion plans.",
+   "📈 Market": "Pernod Ricard and Diageo are under scrutiny for Scotch import classification, while Amber Beverage UK collapses into administration.",
+   "🍸 Spirits & Premium": "Jameson partners with Jameson Humane for a charity calendar, and Heineken Mexico uses AI to cut water use.",
+   "🍺 Beer & Brewing": "Heineken expands into home entertainment with a new streaming service, but also must pay damages in a Greek competition case.",
+   "💡 Innovation & No-Low": "Heineken launches a subscription streaming service with Amazon Ads, and its Mexico unit adopts AI to reduce water consumption."
   }
  },
  "articles": [
+  {
+   "title": "Heineken® teams up with Amazon Ads to launch “Pubscription”… - Roastbrief US",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzVNREYyekJubFhFQ2Q1RWMwbjVuQ0xWUTJDSTZuYk9lZ2FjNy0wcHNqZHMzVnJPOVlLWFlRUk5zbk1fU0hrMXhtRlRPbEhJVVVQRFBHS0RvaWotUWdSUC1WalFqYndVOXJEQ3RaNHM3WUctaWxVSHl4TWFsR0lPQUU0THl5UQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-10-21",
+   "ai_summary": "Heineken partners with Amazon Ads to launch a new subscription service called “Pubscription.” The initiative is highlighted in a Roastbrief US article.",
+   "excerpt": "Heineken® teams up with Amazon Ads to launch “Pubscription”… Roastbrief US"
+  },
+  {
+   "title": "19 creative campaigns to know about today - Ad Age",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObjA5U2MxeUhxalVJOGdWb2xJN3NkZUxfVTQ2WEJEaDViNTh3Qzd0WER2dlYyaUIwbmJIWExBZGVabHFMNG5GWXhSUTJQU1ZkV0JYOTNyT19OZW9ScEc5TDdSUldoNlQtTnN2OGxUREZuV3FNY3VoWmpya1BVbHVWcmJoTkNwX3dNWXdTSnVhVktCQm96QUdtLTBfX1phWXVDVVFhX0NaOWk4bU9tdXY5bEJEWE9NQWpNMW1zZkhHTVV4YzNSeVp3WmctMmN6NDQ5M2lR?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-21",
+   "ai_summary": "The Ad Age article lists 19 creative campaigns that are noteworthy today, offering insights into current marketing trends.",
+   "excerpt": "19 creative campaigns to know about today Ad Age"
+  },
+  {
+   "title": "Heineken taps into home entertainment - Shots",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRXB5RWFPdWZVNTJQOHFNTXBKUXRHdjJhOVlsN2RlWlJNbzVrVjRDVEphOU9KOFF6LVhKdlM2SWkxX00xNGNlVU1SZ2Z6a2pRUDhxUDFBOG9lRjRLN05meGdpa3hUNzV3RDhObjJpYXVQREU?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-21",
+   "ai_summary": "Shots covers how Heineken is expanding into home entertainment, detailing the brand’s new initiatives in that space.",
+   "excerpt": "Heineken taps into home entertainment Shots"
+  },
+  {
+   "title": "Macedonian Thrace Brewery: Amsterdam District Court orders Heineken to pay €111 million in damages \"in a competition case\" in the Greek beer market - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOd2ViZ1huVC1QVDhqT0phV2F0OGxKN1VHNF93RTRpdm9zbmVKRUdEZUdqOVhEcXp2MGVWS0xPcWtTajhBbU5TT2l5eDk4dS1NSGVkR2IzdFVzdHROQWR2QUdXNHMwb2R0UzExaFROcmxkbWI3d1FHY09HbXpGemdJSHJLMHF6N3hLMUhNS0hSSEkyNFUwU2FrUF9CLUsxYUJYT1JzWERERVBCNEhmS1EyTVg2X3dfZTZpOGVQbkNPNkc5NTgxOWs1ejZnOXlnM3QyWlcwTGh5QktsOXlUS2UzcVdlS2RaX2RycktpSTZIalBLVHJYS3BEbGhRSHRRSzJUSVpXMEFOaUJjV2p1Q0tmeDFydUJqVWdYYUJxR1VRNHBTTl90c3c?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-21",
+   "ai_summary": "A court in Amsterdam has ordered Heineken to pay €111 million in damages to Macedonian Thrace Brewery for a competition case in the Greek beer market, as reported by PR Newswire.",
+   "excerpt": "Macedonian Thrace Brewery: Amsterdam District Court orders Heineken to pay €111 million in damages \"in a competition case\" in the Greek beer market PR Newswire"
+  },
   {
    "title": "Heineken ordered to pay damages in Greece competition case - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFVncW1mUG1GeloyaDJxemV1RDNFR3ctRlVjR2x1LU5Hd205bU5aOEdndm1uV2s3Uk1fblVvdGRlV3gzbmZtUEVBbzJXcUVWVjVlUm1IZlJhSzA4eXVQeVN0a1dWeW1JVG10Nm9jZjlfOXR3VV9COGJVZXgwQnFwSmVWbHRBSmg5?oc=5",
@@ -111,6 +147,15 @@
    "date": "2026-10-21",
    "ai_summary": "Heineken was ordered to pay €111 million in damages and interest to a Greek rival. The decision was reported by Central Oregon Daily.",
    "excerpt": "Heineken ordered to pay €111 million in damages, interest to Greek rival Central Oregon Daily"
+  },
+  {
+   "title": "Heineken ordered to pay €111 million in damages, interest to Greek rival - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjV4dWJ4eEhxbUNEcTFBWU9sajNaV09YRlNOOHJkMmh0QmJ6NS1FVXlQSFZqXzRaOHE3OE1sT09LNkxRSjdmRTA5ZHNScGFWV1FTNlAybmwyRmVWcDZHSU1Ca2xRWmppTVg4RFhLX2FQTXRDNEFwck83Sl90bWgxSVNn?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-21",
+   "ai_summary": "A AOL.com piece reports that Heineken has been ordered to pay €111 million in damages and interest to a Greek rival, following a legal ruling.",
+   "excerpt": "Heineken ordered to pay €111 million in damages, interest to Greek rival AOL.com"
   },
   {
    "title": "Heineken ordered to pay €111 million in damages, interest to Greek rival - TradingView",

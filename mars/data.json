@@ -1,17 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-21T14:29:00Z",
+ "updated": "2026-10-21T16:27:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Mars Inc continues lobbying efforts in 2026.",
+  "hook": "Mars Corp’s day highlights new leadership moves, sustainability pushes, and a focus on high‑demand inventory ahead of holidays.",
   "categories": {
-   "📈 Market": null,
-   "🤝 M&A": "Mars Inc's lobbying profile for 2026 details its lobbying activities and expenditures.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": null
+   "🤝 Mars Corporate & M&A": "Mars Petcare names a new legal head while the company ramps up inventory and marketing for the holiday season.",
+   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners prioritize nutrition and longevity for their pets.",
+   "🍫 Snacking & FMCG Market": "M&M’s celebrates 85 years while Lindt & Sprüngli announce a leadership change and a new ice‑cream bar outshines rivals.",
+   "⚡ Tech & Operations": "Manufacturers emphasize AI in sales and marketing and focus on data‑driven quality decisions to boost innovation and efficiency.",
+   "🌱 Sustainability & Sourcing": "Multiple green initiatives surface, from Amazon’s nuclear project to Rabot’s virtual power plants and a $2.5 billion energy fund."
   }
  },
  "articles": [
+  {
+   "title": "Halloween campaigns round-up: Fanta, McDonald’s, Bacardi, M&M’s and more - Campaign UK",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0JldkFxc01qbnF0ZVNxREdPVFlObXJQWU1vZENrWDQ3MnRyelY1WHBiRWl1SFdxSXlwaW1jYXN2ZV82VTd5bks3UnNnVXBxVHRrZkE3aFRlc2tKdzRndjJrZzF3aU5nU3ZBbHN2M0tFcFplN09fNURHT0p0Q2ZUdmtONXlEOUswR29oWDJxOTlaUEtUZWoxdE5uWnNROGZzbkNERVJrNk04UWgxdnV3cndKcEtaYnlSZzNNSUp0TVgxN29xd2Foc1BEbjJ1MEk?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-21",
+   "ai_summary": "Halloween campaigns round-up: Fanta, McDonald’s, Bacardi, M&M’s and more - Campaign UK — Halloween campaigns round-up: Fanta, McDonald’s, Bacardi, M&M’s and more Campaign UK",
+   "excerpt": "Halloween campaigns round-up: Fanta, McDonald’s, Bacardi, M&M’s and more Campaign UK"
+  },
   {
    "title": "Measure, Then Manage: Danone’s Journey to Unified Quality",
    "url": "https://consumergoods.com/measure-then-manage-danones-journey-unified-quality",
@@ -443,6 +453,15 @@
    "date": "2026-10-15",
    "ai_summary": "Romanian pet food industry attracts new investments — The country’s pet food sector is attracting investments from outside companies as well as domestic players; plus, Kormotech revamps...",
    "excerpt": "The country’s pet food sector is attracting investments from outside companies as well as domestic players; plus, Kormotech revamps..."
+  },
+  {
+   "title": "Contestants in Pringles contest can earn an urn for eternity - WSB-TV",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWxlb3lGaVI1RzBQWEZ1Qi1ZM0h2cHprX1FvLWlJX0EyeWk5Z09uSk14YTI1bjNxUzhBMnlSZkZCcnBfckpUWFpySE1CVmx3MjJ5VlFKZy1MY3NqNU8zcHBHbTh4cW1GbjFHRUZRZXZacEhSQ1doUHpkZmhCcjZla2lUNkVobWtpOGdWMmMxUU41cnU2M1YwNExFbUVncHhqZWM2YUpZeDdkRFVjdWxMMVpjcXB3eEVX0gHMAUFVX3lxTE1RakQwZml0cXE2T196S1JIRUczOHBIaXRtcGwxME9HTHhWd3R2TEJUcl8wdndDR3Y1STVuRGtTR280MEtET3lJVi1ra3NTQVV1ZEtrWjFtcFlqdTdreFdwU0R2NU91VnFjWWVIRGZQaU1EMjk0N3paak40S0NCd2NpOVBRZjRIaTQwTHhOWmJvY01fRDdRbVRTUVFyTXoxd3lLOVE4b3NOZ1FXaEV3Y2V3eEZIYW1fT2JhaU9NaHlFNHZOQnloQUVQckJsVg?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-15",
+   "ai_summary": "Contestants in Pringles contest can earn an urn for eternity - WSB-TV — Contestants in Pringles contest can earn an urn for eternity WSB-TV",
+   "excerpt": "Contestants in Pringles contest can earn an urn for eternity WSB-TV"
   },
   {
    "title": "Innovation drives new pet supplement offerings",

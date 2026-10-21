@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-21T14:29:00Z",
+ "updated": "2026-10-21T16:27:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Revieve launches AI‑powered beauty platforms while sustainability drives packaging innovation.",
+  "hook": "Today’s highlights show fragrance and skincare brands pushing growth while innovation and sustainability shape the market.",
   "categories": {
-   "📈 Market": "Curl Jar Style + Treat™ Curl Activator wins Best Styling Product at the 2026 Pure Beauty Awards.",
-   "💄 Brands & Retail": "Interparfums SA stock surges after strong Q3 growth in Asia, especially China.",
-   "🤝 Strategy & M&A": "Chanel sells majority stake in Capsum to Motion Equity Partners, keeping a minority share.",
-   "💡 Innovation & Regulation": "Revieve introduces BeautyCatalyst and Beauty LLM Suite, and packaging trends push for premium protection and recyclability."
+   "📈 Market": "The Curl Jar Style + Treat™ Curl Activator wins Best Styling Product in the 2026 Pure Beauty Awards Readers’ Choice.",
+   "💄 Brands & Retail": "Puig and Interparfums report Q3 sales gains, driven by fragrance and makeup, while wellness subscription boxes and celebrity collaborations expand brand reach.",
+   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, signaling a shift in its manufacturing partnership strategy.",
+   "💡 Innovation & Regulation": "Revieve launches BeautyCatalyst and a Beauty LLM Suite, and packaging experts emphasize the need for product protection, premium appeal, and recyclability in skincare."
   }
  },
  "articles": [
+  {
+   "title": "Puig Q3 Sales Rise 7.2 Percent",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/puig-q3-sales-rise-7-2-percent-fragrance-makeup-all-regions-1239378422/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-21",
+   "ai_summary": "Puig Q3 Sales Rise 7.2 Percent — All regions, and the group’s fragrance and makeup businesses, contributed to the gains.",
+   "excerpt": "All regions, and the group’s fragrance and makeup businesses, contributed to the gains."
+  },
+  {
+   "title": "Dossier Leans Into Originals With Oud-Focused Launch to Propel Next Growth Phase",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/dossier-oud-collection-launch-strategy-1239350685/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-21",
+   "ai_summary": "Dossier Leans Into Originals With Oud-Focused Launch to Propel Next Growth Phase — Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud.",
+   "excerpt": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud."
+  },
   {
    "title": "Revieve unveils BeautyCatalyst, a beauty commerce intelligence platform built for the agentic AI era",
    "url": "https://www.cosmeticsbusiness.com/revieve-unveils-beautycatalyst-a-beauty-commerce-intelligence-platform",
@@ -587,6 +605,15 @@
    "date": "2026-10-19",
    "ai_summary": "",
    "excerpt": "While for consumers, discounts are a welcome feature of the fourth quarter, they're a mixed bag for brands. Frequent heavy discounts, along with stiff competition from major retailers and marketplaces like Amazon, which …"
+  },
+  {
+   "title": "Hot beauty tech: These gadgets make your routine smarter, faster & more fun - Global News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01SFFONDQzZ2Z0MUtSS0lkQ19iUGQ4bjZ4WFlNYTNDZWgzMEttXzR4dnpUSVNUWlJjN3JIY0I0STQ5bS1UckpBalY3bTJ2U1BiWVJicnY0MVJwaUttQ201NU1rTUlUdkFWalZCSXFGYmtCZTJEZnZjUUdRQzRIUQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-19",
+   "ai_summary": "Hot beauty tech: These gadgets make your routine smarter, faster & more fun - Global News — Hot beauty tech: These gadgets make your routine smarter, faster & more fun Global News",
+   "excerpt": "Hot beauty tech: These gadgets make your routine smarter, faster & more fun Global News"
   },
   {
    "title": "Inside Ulike’s Los Angeles Event Celebrating Confidence, Technology and PCOS Awareness - WWD",
