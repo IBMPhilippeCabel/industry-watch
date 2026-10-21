@@ -1,4 +1,4 @@
-name: Nightly site update
+name: Automatic Site Update
 
 on:
   schedule:
