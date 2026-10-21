@@ -1,7 +1,16 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-21T13:25:00Z",
- "briefing": null,
+ "updated": "2026-10-21T13:47:00Z",
+ "briefing": {
+  "date": "2026-10-21",
+  "hook": "France lifts restrictions in Naples, enabling more aggressive sailing on Day 3 of the America's Cup.",
+  "categories": {
+   "📈 Market": null,
+   "🤝 M&A": null,
+   "⚖️ Regulation": null,
+   "💡 Innovation": null
+  }
+ },
  "articles": [
   {
    "title": "L’Oréal to Sol de Janeiro: brands shaping the future of beauty travel retail in 2026",
@@ -47,6 +56,15 @@
    "date": "2026-10-21",
    "ai_summary": "",
    "excerpt": "L’Oréal and Natura target ‘Ozempic face’ as weight-loss jabs spark beauty boom Retail Gazette"
+  },
+  {
+   "title": "America's Cup Recon: France let the brakes off on Day 3 in Naples - Sail-World.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9La3J2MGlNU2hsVU1DLXF0cGlRcGQyMHE0UjhlNlBQLVdteUg4b3NFa1BNNDBHT3VLN1U0aW9tTk1lSFQzYW00RmZHV3lEbXVJMjlRRy16SXROa0hzdmpCa2E1alZodlI4SHJHVWhsb0RyTWdnVlFfUEJxSGV2QQ?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-10-21",
+   "ai_summary": "France relaxed restrictions on Day 3 in Naples, allowing more aggressive sailing. The change was noted in the America's Cup Recon coverage by Sail-World.com.",
+   "excerpt": "America's Cup Recon: France let the brakes off on Day 3 in Naples Sail-World.com"
   },
   {
    "title": "Miley Cyrus Skipped Falsies at Her Hollywood Bowl Show Thanks to This $9 Mascara - People.com",

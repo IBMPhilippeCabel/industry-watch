@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-21T13:25:00Z",
+ "updated": "2026-10-21T13:47:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Today’s highlights focus on sustainability in packaging, empowerment initiatives, and a key merger pause in the beauty sector.",
+  "hook": "2026 sees new styling product win award and a medical device firm expanding into Latin America.",
   "categories": {
-   "📈 Market": null,
-   "🤝 M&A": "Estée Lauder ends merger talks with Gaultier owner Puig.",
+   "📈 Market": "New styling product wins 2026 Pure Beauty Awards Readers’ Choice and a medical device firm is set to attend AMWC Latin America 2026 in Colombia.",
+   "🤝 M&A": null,
    "⚖️ Regulation": null,
-   "💡 Innovation": "Brands are balancing premium, recyclable packaging with advanced formulations while launching social commerce and empowerment programs in India."
+   "💡 Innovation": null
   }
  },
  "articles": [
+  {
+   "title": "Curl Jar Style + Treat™ Curl Activator",
+   "url": "https://www.cosmeticsbusiness.com/curl-jar-style-treat-curl-activator",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-21",
+   "ai_summary": "Curl Jar Style + Treat™ Curl Activator is recognized as the Best Styling Product in the 2026 Pure Beauty Awards Readers’ Choice.",
+   "excerpt": "Pure Beauty Awards 2026 - Readers’ Choice, Best Styling Product"
+  },
+  {
+   "title": "SID MEDICOS to participate in AMWC Latin America 2026 in Colombia, building on its engagement in Mexico",
+   "url": "https://www.cosmeticsbusiness.com/sid-medicos-to-participate-in-amwc-latin-america",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-21",
+   "ai_summary": "SID MEDICOS is set to participate in AMWC Latin America 2026 in Colombia, building on its engagement in Mexico.",
+   "excerpt": "SID MEDICOS, a global beauty and aesthetics company, is continuing to expand its engagement across Latin America as it heads to Colombia following two industry events in Mexico"
+  },
   {
    "title": "Balancing product protection, premium appeal and recyclability in skincare packaging",
    "url": "https://www.cosmeticsbusiness.com/balancing-product-protection-premium-appeal-and-recyclability-in",

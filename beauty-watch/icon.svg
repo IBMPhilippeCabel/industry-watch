@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="beauty-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="50%" stop-color="#be185d"/>
+      <stop offset="100%" stop-color="#831843"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded badge background -->
+  <rect width="64" height="64" rx="14" fill="url(#beauty-grad)"/>
+
+  <!-- Lipstick: bullet -->
+  <path d="M27 10 L37 10 L37 24 L27 24 Z" fill="#fce7f3"/>
+  <path d="M27 10 Q32 4 37 10" fill="#fce7f3"/>
+  <!-- Lipstick: bevel -->
+  <path d="M27 10 L37 10 L37 18 L27 14 Z" fill="#fbcfe8" opacity="0.9"/>
+  <!-- Lipstick: collar and case -->
+  <rect x="24" y="24" width="16" height="6" rx="1.5" fill="#ffffff"/>
+  <rect x="25" y="30" width="14" height="24" rx="2.5" fill="#ffffff"/>
+  <rect x="25" y="38" width="14" height="3" fill="#be185d" opacity="0.35"/>
+
+  <!-- Sparkles -->
+  <path d="M49 14 L50.8 19.2 L56 21 L50.8 22.8 L49 28 L47.2 22.8 L42 21 L47.2 19.2 Z" fill="#ffffff"/>
+  <path d="M14 34 L15.3 37.7 L19 39 L15.3 40.3 L14 44 L12.7 40.3 L9 39 L12.7 37.7 Z" fill="#ffffff" opacity="0.85"/>
+</svg>
