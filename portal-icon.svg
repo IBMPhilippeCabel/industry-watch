@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="iw-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f62fe"/>
+      <stop offset="100%" stop-color="#002d9c"/>
+    </linearGradient>
+    <linearGradient id="iw-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4589ff"/>
+      <stop offset="100%" stop-color="#1192e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#iw-grad)"/>
+  <circle cx="24" cy="40" r="22" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-opacity="0.25" stroke-dasharray="2 4"/>
+  <circle cx="24" cy="40" r="14" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-opacity="0.5"/>
+  <circle cx="24" cy="40" r="6" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-opacity="0.85"/>
+  <circle cx="24" cy="40" r="3" fill="#ffffff"/>
+  <path d="M24 40 L46 16 A 32 32 0 0 1 52 28 Z" fill="url(#iw-glow)" opacity="0.45"/>
+  <line x1="24" y1="40" x2="46" y2="16" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

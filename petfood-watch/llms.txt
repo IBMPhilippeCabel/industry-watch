@@ -18,9 +18,9 @@ Content is in English. Articles are collected nightly from public RSS feeds of p
 ## Categories
 
 - 📈 Market
-- 🤝 M&A
 - ⚖️ Regulation
 - 💡 Innovation
+- 🤝 M&A
 
 ## Sources
 
