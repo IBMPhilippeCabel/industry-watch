@@ -18,6 +18,8 @@ import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+from common import map_category, mentions, norm, site_categories
+
 ROOT = Path(__file__).resolve().parent.parent
 
 
@@ -57,17 +59,7 @@ ROLLING_DAYS = int(_CFG.get("rolling_days", 30))
 SITE_NAME  = _CFG["site_name"]
 SITE_DESC  = _CFG["site_description"]
 SITE_URL   = _GLOBAL_CFG["site_root_url"].rstrip("/") + "/" + _CFG["id"] + "/"
-def _extract_categories():
-    if _CFG.get("categories"):
-        return _CFG["categories"]
-    cats = []
-    for s in SOURCES:
-        c = s.get("default_category")
-        if c and c not in cats:
-            cats.append(c)
-    return cats or ["📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"]
-
-CATEGORIES = _extract_categories()
+CATEGORIES = site_categories(_CFG, SOURCES)
 
 CSS = """
   :root { --bg:#f7f8fa; --card:#fff; --border:#e5e7eb; --text:#1f2328; --muted:#57606a; --accent:#3b82d4; --ai:#7c5cd8; }
@@ -374,11 +366,16 @@ def briefing_block(briefing):
         return ""
     day, data = briefing
     hook = data.get("hook", "")
-    cats = data.get("categories", {})
+    # Older briefings use the generic keys ("💡 Innovation"): file them under the site's own category.
+    cats = {}
+    for k, v in data.get("categories", {}).items():
+        target = map_category(k, CATEGORIES)
+        if v and target and target not in cats:
+            cats[target] = v
     # hook line
     parts = [f'<p class="briefing-hook">{esc(hook)}</p>'] if hook else []
     # one line per category that has content
-    for cat in ("📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"):
+    for cat in CATEGORIES:
         v = cats.get(cat)
         if v:
             parts.append(f'<p class="briefing-cat"><strong>{esc(cat)}</strong> — {esc(v)}</p>')
@@ -406,11 +403,15 @@ def _get_tracked_brands():
         candidates.extend(brands_cfg)
 
     tracked = {}
+    seen_slugs = set()
     for b in candidates:
         b_clean = b.strip()
         if not b_clean:
             continue
-        slug = re.sub(r"[^a-z0-9]+", "-", b_clean.lower()).strip("-")
+        slug = re.sub(r"[^a-z0-9]+", "-", norm(b_clean)).strip("-")
+        if slug in seen_slugs:      # same brand spelled twice (accent / apostrophe variants)
+            continue
+        seen_slugs.add(slug)
         name = " ".join(w[:1].upper() + w[1:] for w in b_clean.split())
         name = name.replace("M&m's", "M&M's").replace("M&ms", "M&M's")
         name = name.replace("Rtd", "RTD").replace("Esg", "ESG")
@@ -432,11 +433,11 @@ def cards_section(articles):
         ai = a.get("ai_summary", "")
         ai_html = f'<div class="ai-summary"><span class="ai-icon">🤖</span> {esc(ai)}</div>' if ai else ""
 
-        full_text = f"{a.get('title', '')} {a.get('summary', '')}".lower()
+        full_text = norm(f"{a.get('title', '')} {a.get('summary', '')}")
         matched_slugs = set()
         matched_names = set()
         for b_term, (slug, b_name) in tracked_brands.items():
-            if re.search(r'\b' + re.escape(b_term) + r'\b', full_text, re.IGNORECASE) or b_term in full_text:
+            if mentions(full_text, b_term):
                 matched_slugs.add(slug)
                 matched_names.add(b_name)
                 active_brands[slug] = b_name
@@ -444,9 +445,11 @@ def cards_section(articles):
         brands_attr = ",".join(sorted(matched_slugs))
         brand_tags = "".join(f'<span class="brand-tag">{esc(bn)}</span>' for bn in sorted(matched_names)[:2])
 
+        # Stored categories may predate the site's category list: show them under the matching button.
+        cat = map_category(a["category"], CATEGORIES) or a["category"]
         rows.append(
-            f'<article class="card" id="{art_id(a)}" data-cat="{esc(a["category"])}" data-brands="{esc(brands_attr)}">'
-            f'<div class="meta"><span class="tag">{esc(a["category"])}</span>'
+            f'<article class="card" id="{art_id(a)}" data-cat="{esc(cat)}" data-brands="{esc(brands_attr)}">'
+            f'<div class="meta"><span class="tag">{esc(cat)}</span>'
             f'{brand_tags}'
             f'<span>{esc(a["source"])}</span><time datetime="{d}">{d}</time></div>'
             f'{ai_html}'
@@ -566,9 +569,9 @@ def write_machine_files(site, articles, recent, briefing, now):
     (site / "llms.txt").write_text(
         f"# {SITE_NAME}\n\n"
         f"> {SITE_DESC}\n\n"
-        "Content is in English. Articles are collected nightly from public RSS feeds of pet food "
-        "trade publications; summaries and the daily briefing are AI-generated, and each item "
-        "links to its original source.\n\n"
+        "Content is in English. Articles are collected every two hours from public RSS feeds "
+        "(trade publications and news searches) about the subject above; summaries and the daily "
+        "briefing are AI-generated, and each item links to its original source.\n\n"
         "## Main pages\n\n"
         f"- [Home]({SITE_URL}): articles of the last {ROLLING_DAYS} days with the daily briefing\n"
         f"- [Archive]({SITE_URL}archive/index.html): one page per month, all articles\n\n"
@@ -784,7 +787,7 @@ def render_portal(output_dir, updated):
   header h1 { margin:0; font-size:20px; font-weight:700; color:#1f2328; display:flex; align-items:center; }
   .stats-btn { border:1px solid #e5e7eb; background:#fff; color:#3b82d4; padding:6px 16px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; font-weight:600; }
   .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
-  .portal-wrap { flex:1; width:100%; max-width:800px; margin:40px auto; padding:0 24px; box-sizing:border-box; }
+  .portal-wrap { flex:1; width:100%; max-width:1400px; margin:40px auto; padding:0 24px; box-sizing:border-box; }
   .portal-updated { font-size:12px; color:#57606a; margin:0 0 28px; letter-spacing:.01em; }
   .portal-section { margin-bottom:36px; text-align:left; }
   .portal-section-title { font-size:13px; font-weight:700; color:#57606a; text-transform:uppercase; letter-spacing:.06em; margin:0 0 16px; padding-bottom:8px; border-bottom:1px solid #e5e7eb; }

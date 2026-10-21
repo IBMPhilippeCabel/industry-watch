@@ -2,7 +2,7 @@
   {
     "name": "L'Oréal Corporate & M&A (Google News)",
     "url": "https://www.loreal.com",
-    "rss": "https://news.google.com/rss/search?q=%22L%27Or%C3%A9al%22+OR+%22Nicolas+Hieronimus%22+OR+%22L%27Oreal+Groupe%22&hl=en-US&gl=US&ceid=US:en",
+    "rss": "https://news.google.com/rss/search?q=%22L%27Or%C3%A9al%22+OR+%22L%27Oreal+Groupe%22+OR+%22Nicolas+Hieronimus%22&hl=en-US&gl=US&ceid=US:en",
     "description": "Corporate news, financial results, global strategy, appointments and M&A.",
     "score": "9.5",
     "default_category": "🤝 Strategy & M&A"
@@ -10,7 +10,7 @@
   {
     "name": "L'Oréal Brands (Google News)",
     "url": "https://www.loreal.com/en/our-brands/",
-    "rss": "https://news.google.com/rss/search?q=%22L%27Or%C3%A9al%22+OR+%22Lanc%C3%B4me%22+OR+%22Maybelline%22+OR+%22La+Roche-Posay%22+OR+%22CeraVe%22+OR+%22K%C3%A9rastase%22+OR+%22Yves+Saint+Laurent+Beaut%C3%A9%22&hl=en-US&gl=US&ceid=US:en",
+    "rss": "https://news.google.com/rss/search?q=(%22L%27Or%C3%A9al%22+OR+%22Lanc%C3%B4me%22+OR+%22Maybelline%22+OR+%22CeraVe%22+OR+%22K%C3%A9rastase%22+OR+%22Yves+Saint+Laurent+Beaut%C3%A9%22)+AND+(launch+OR+campaign+OR+collection+OR+partnership+OR+ambassador)&hl=en-US&gl=US&ceid=US:en",
     "description": "Brand campaigns, launches, partnerships and limited editions.",
     "score": "9.5",
     "default_category": "💄 Brands & Launches"

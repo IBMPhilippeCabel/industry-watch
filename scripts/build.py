@@ -13,9 +13,11 @@ import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+
+from common import map_category, mentions, norm, site_categories
 
 ROOT = Path(__file__).resolve().parent.parent
 MAX_PER_SOURCE = 15
@@ -50,6 +52,7 @@ SOURCES_FILE = ROOT / _CFG["sources_file"]
 
 SOURCES = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
 ACCOUNT_FILTERS = _CFG.get("account_filters")
+CATEGORIES = site_categories(_CFG, SOURCES)
 
 
 def fetch_site_icon():
@@ -117,21 +120,25 @@ def parse_date(value):
 
 
 def _matches_account_filters(full_text):
-    """Check if article text mentions any configured account keyword."""
+    """True if the article mentions (as a whole word, accent/apostrophe-insensitive) any account keyword."""
     if not ACCOUNT_FILTERS:
         return True
-    all_kws = []
-    for kws in ACCOUNT_FILTERS.values():
-        if isinstance(kws, list):
-            all_kws.extend(k.lower() for k in kws)
-    return any(kw in full_text for kw in all_kws)
+    text = norm(full_text)
+    return any(
+        mentions(text, kw)
+        for kws in ACCOUNT_FILTERS.values() if isinstance(kws, list)
+        for kw in kws
+    )
 
 
 def classify(text, default):
+    """Keyword-based topic, expressed in the site's own categories; `default` if none applies."""
     text = text.lower()
-    for category in ("🤝 M&A", "⚖️ Regulation", "💡 Innovation"):
-        if category in KEYWORDS and any(k in text for k in KEYWORDS[category]):
-            return category
+    for bucket in ("🤝 M&A", "⚖️ Regulation", "💡 Innovation"):
+        if any(k in text for k in KEYWORDS[bucket]):
+            target = map_category(bucket, CATEGORIES)
+            if target:
+                return target
     return default
 
 
@@ -148,7 +155,6 @@ def load_articles():
             continue
         items = root.findall("./channel/item")[:MAX_PER_SOURCE]
         print(f"{name}: {len(items)} articles")
-        is_targeted_feed = "news.google.com" in url or "search" in url
         for item in items:
             title = strip_tags(item.findtext("title"))
             link = (item.findtext("link") or "").strip()
@@ -159,8 +165,8 @@ def load_articles():
             date = parse_date(item.findtext("pubDate"))
             full_text = f"{title} {summary} {tags}".lower()
 
-            # For company accounts: filter out generic articles that don't mention any brand
-            if ACCOUNT_FILTERS and not is_targeted_feed and not _matches_account_filters(full_text):
+            # Company accounts: keep only articles that mention the account (search feeds included)
+            if ACCOUNT_FILTERS and not _matches_account_filters(full_text):
                 continue
 
             articles.append({
@@ -225,7 +231,7 @@ def groq_chat(system, user, max_tokens):
 
 
 SUMMARY_SYSTEM = (
-    "You write for pet food industry consultants. "
+    f"You write for consultants monitoring: {_CFG['site_name']}. Context: {_CFG['site_description']} "
     "For each numbered article below, write a summary of exactly two short sentences in English. "
     "Use ONLY the title and description given — do not add facts, figures, names or speculation. "
     'Return ONLY a JSON object with this exact structure: {"summaries": ["two-sentence summary 1", "two-sentence summary 2", ...]} '
@@ -265,29 +271,35 @@ def summarize(articles):
 def briefing_fallback(articles):
     from collections import Counter
     counts = Counter(a["category"] for a in articles)
-    parts = ", ".join(f"{counts[c]} {c}" for c in ("📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation") if c in counts)
+    parts = ", ".join(f"{n} {c}" for c, n in counts.most_common())
     return f"{len(articles)} new articles today — {parts}."
 
 
-BRIEFING_SYSTEM = """You write a structured daily briefing for pet food industry consultants.
+def _briefing_system():
+    """Prompt built from the site's own name, description and categories (no hard-coded topic)."""
+    keys = ",\n".join(
+        f'    "{c}": "ONE sentence (max 250 characters) on the main signal for this category, or null if none."'
+        for c in CATEGORIES
+    )
+    return (
+        f"You write a structured daily briefing for consultants monitoring: {_CFG['site_name']}. "
+        f"Context: {_CFG['site_description']}\n\n"
+        "From the article summaries below (grouped by category), produce EXACTLY this JSON — no extra keys:\n"
+        "{\n"
+        '  "hook": "One sentence on the overall day (max 150 characters).",\n'
+        '  "categories": {\n' + keys + "\n  }\n}\n\n"
+        "Hard limits:\n"
+        "- Each category value: 250 characters maximum, including spaces. The hook: 150 characters maximum.\n"
+        "- ONE sentence per category, never more. Synthesise the theme; do not enumerate articles.\n"
+        "- Use ONLY what is in the summaries. Do not add names, figures, or facts not present.\n"
+        "- Ignore any article that is not about the subject above.\n"
+        "- Plain prose only: no lists, no semicolons, no copied titles.\n"
+        "- Reply with valid JSON and nothing else."
+    )
 
-From the article summaries below (grouped by category), produce EXACTLY this JSON — no extra keys:
-{
-  "hook": "One sentence on the overall day (max 150 characters).",
-  "categories": {
-    "📈 Market": "ONE sentence (max 250 characters) on the main market signal, or null if none.",
-    "🤝 M&A": "ONE sentence (max 250 characters) on deals, investments or expansions, or null if none.",
-    "⚖️ Regulation": "ONE sentence (max 250 characters) on regulatory developments, or null if none.",
-    "💡 Innovation": "ONE sentence (max 250 characters) on product or technology innovation, or null if none."
-  }
-}
 
-Hard limits:
-- Each category value: 250 characters maximum, including spaces. The hook: 150 characters maximum.
-- ONE sentence per category, never more. Synthesise the theme; do not enumerate articles.
-- Use ONLY what is in the summaries. Do not add names, figures, or facts not present.
-- Plain prose only: no lists, no semicolons, no copied titles.
-- Reply with valid JSON and nothing else."""
+BRIEFING_SYSTEM = _briefing_system()
+BRIEFING_WINDOW_DAYS = 3    # briefing covers the last N days of publications, not only the latest run
 
 
 MAX_HOOK_CHARS = 200        # prompt asks for 150 / 250; these margins avoid rejecting a good
@@ -318,12 +330,27 @@ def _briefing_problem(data):
     return None
 
 
+def briefing_inputs(new, today):
+    """`new` plus every stored article published in the last BRIEFING_WINDOW_DAYS days, newest first.
+
+    A quiet run (1-2 new articles) would otherwise replace the day's briefing with a one-liner.
+    """
+    cutoff = (today - timedelta(days=BRIEFING_WINDOW_DAYS)).isoformat()
+    pool = {a["link"]: a for a in new}
+    for f in DATA_DIR.glob("*/*/*.json"):
+        for a in read_day(f):
+            if (a.get("date") or "")[:10] >= cutoff:
+                pool.setdefault(a["link"], a)
+    return sorted(pool.values(), key=lambda a: a.get("date") or "", reverse=True)
+
+
 def briefing(articles):
-    # Input: up to 6 items per category → 24 items max, ~3K tokens
+    # Input: up to 6 items per category → at most 6 × len(CATEGORIES) items, ~3K tokens
     # Use ai_summary when available, fall back to title + raw summary.
     cats = {}
     for a in articles:
-        cats.setdefault(a["category"], []).append(a)
+        key = map_category(a["category"], CATEGORIES) or a["category"]
+        cats.setdefault(key, []).append(a)
     input_lines = []
     for cat, items in cats.items():
         input_lines.append(f"\n## {cat}")
@@ -340,6 +367,7 @@ def briefing(articles):
             continue
         problem = _briefing_problem(data)
         if problem is None:
+            data["categories"] = {c: v for c, v in data.get("categories", {}).items() if c in CATEGORIES}
             return data
         print(f"WARN briefing attempt {attempt+1} rejected: {problem}", file=sys.stderr)
         print(f"     reply was: {text[:300]}", file=sys.stderr)
@@ -422,10 +450,12 @@ def main():
     briefing_file = DATA_DIR / f"{now:%Y}" / f"{now:%m}" / f"{now:%d}.briefing.txt"
     briefing_file.parent.mkdir(parents=True, exist_ok=True)
     if os.environ.get("GROQ_API_KEY"):
-        data = briefing(new)
+        data = briefing(briefing_inputs(new, now.date()))
         if data:
             briefing_file.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
             print(f"Wrote {briefing_file.relative_to(ROOT)}")
+        elif briefing_file.exists():
+            print(f"WARN briefing AI failed, kept existing {briefing_file.relative_to(ROOT)}", file=sys.stderr)
         else:
             fb = briefing_fallback(new)
             briefing_file.write_text(json.dumps({"hook": fb, "categories": {}}, ensure_ascii=False), encoding="utf-8")

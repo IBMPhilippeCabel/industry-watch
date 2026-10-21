@@ -1,1 +1,0 @@
-{"hook": "Investors eye Romanian pet food, spurring operational revamps and new capital inflows.", "categories": {"📈 Market": null, "🤝 M&A": "The Romanian pet food industry is drawing external and domestic investments, with companies like Kormotech revamping their operations.", "⚖️ Regulation": null, "💡 Innovation": null}}

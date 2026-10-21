@@ -1,0 +1,57 @@
+# `render.py` — génération du site statique
+
+## But
+Transformer les JSON écrits par `build.py` en **pages HTML statiques** pour un site, plus ses fichiers machine
+(sitemap, flux Atom, JSON, `llms.txt`). À chaque exécution il régénère aussi la **page d'accueil du portail**
+qui liste tous les sites. Aucun appel réseau, aucune IA.
+
+## Entrées
+| Source | Détail |
+|---|---|
+| `--site <id>` | site à rendre. **Sans argument : le premier site de `config.json`.** |
+| `<output_dir>` | dossier de sortie (argument obligatoire, code `2` sinon). |
+| `config.json` | config globale (`site_root_url`, `portal_*`, `goatcounter_url`) et du site (`site_name`, `site_description`, `site_icon`, `rolling_days`, `status`, `categories`, `brands`, `account_filters`). |
+| `<sources_file>` | alimente le menu « Sources » et les catégories (quand `categories` est absent). |
+| `<data_dir>/**/*.json` et `*.briefing.txt` | articles et dernier briefing. |
+
+## Sorties (dans `<output_dir>`)
+| Fichier | Contenu |
+|---|---|
+| `<id>/index.html` | articles des `rolling_days` derniers jours (30 par défaut), briefing, filtres. |
+| `<id>/archive/AAAA-MM.html`, `archive/index.html` | une page par mois (tous les articles) et l'index des mois. |
+| `<id>/robots.txt`, `sitemap.xml`, `feed.xml` (Atom, 50 derniers), `data.json`, `llms.txt` | fichiers pour moteurs et agents IA. |
+| `<id>/<icône>` | copie de `site_icon.path` pour que l'URL relative marche après déploiement. |
+| `index.html` (racine) | portail, régénéré à chaque appel. |
+| Code retour | `0` ; `2` si `<output_dir>` manque. |
+
+## Filtres de la page
+- **Thèmes** : un bouton par catégorie du site (`categories`, sinon les `default_category` distincts des sources). Un article dont la catégorie stockée n'existe plus (ancien nom) est affiché sous la catégorie **équivalente** du site (`map_category`).
+- **Marques** : boutons construits à partir de `account_filters.owned_brands` + `in_acquisition` + `brands`. Affichés si **au moins 2** marques sont trouvées dans les articles affichés. Détection en mot entier, insensible aux accents, à la casse et aux apostrophes.
+- **Briefing** : une ligne par catégorie **du site** ayant du contenu.
+
+## Cas particuliers
+- `status: "under_construction"` ou **aucun article** : page d'attente 🚧 à la place du site.
+- Un site avec `rolling_days` plus court que l'historique : l'accueil ne montre que la fenêtre, les archives gardent tout.
+
+## Exemples d'exécution
+```powershell
+# Un site vers un dossier jetable
+python scripts/render.py --site loreal .tmp_out
+# -> [loreal] index.html: 39 articles (last 30 days); 7 monthly archive page(s); briefing=no
+
+# Tous les sites (ce que fait le workflow, dans le dossier de la branche de publication)
+foreach ($s in (python -c "import json;print(' '.join(x['id'] for x in json.load(open('config.json'))['sites']))").Split()) {
+  python scripts/render.py --site $s site
+}
+```
+Ouvrir `.tmp_out/index.html` dans un navigateur pour contrôler le rendu (les liens sont relatifs).
+
+## Limites connues
+- **Sans `--site`, il rend le premier site sans prévenir** ; combiné à un `<output_dir>` partagé, une faute de frappe dans le workflow écraserait le mauvais site.
+- Le fichier fait ~950 lignes, avec HTML, CSS et JS écrits en chaînes : une modification de style demande de relire tout le fichier. Aucun test automatisé.
+- Le code s'exécute à l'import (lecture de `sys.argv` et de `config.json`) : on ne peut pas importer ses fonctions pour les tester.
+- Le **portail est réécrit à chaque site rendu** : N rendus = N écritures identiques (inoffensif, mais bruyant).
+- Le dernier briefing trouvé sur disque est affiché, même s'il date de plusieurs jours ; sa date est visible dans le bloc.
+- Les marques sont comparées à titre + extrait uniquement ; une marque citée seulement dans le corps de l'article n'est pas détectée.
+- La liste des mois d'archive inclut aussi les pages déjà présentes dans `<output_dir>`, donc un dossier de sortie qui traîne peut faire apparaître des mois vides (`—`).
+- Dépend de `common.py` (même dossier) : lancer le script depuis un autre répertoire reste possible, mais le copier seul ne l'est pas.
