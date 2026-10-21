@@ -659,8 +659,10 @@ def render_portal(output_dir, updated):
             extra_cls = " portal-card--wip" if status == "under_construction" else ""
             cards += (
                 f'<a href="{url}" class="portal-card{extra_cls}">'
+                f'<div class="portal-card-header">'
                 f'<div class="portal-icon">{icon}</div>'
                 f'<div class="portal-name">{name}{badge}</div>'
+                f'</div>'
                 f'<div class="portal-desc">{desc}</div>'
                 f'</a>'
             )
@@ -678,13 +680,14 @@ def render_portal(output_dir, updated):
   .portal-section { margin-bottom:36px; text-align:left; }
   .portal-section-title { font-size:13px; font-weight:700; color:#57606a; text-transform:uppercase; letter-spacing:.06em; margin:0 0 16px; padding-bottom:8px; border-bottom:1px solid #e5e7eb; }
   .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }
-  .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:24px; text-decoration:none; color:#1f2328; transition:border-color .15s; }
-  .portal-card:hover { border-color:#3b82d4; }
+  .portal-card { display:block; background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:20px 22px; text-decoration:none; color:#1f2328; transition:border-color .15s, box-shadow .15s; }
+  .portal-card:hover { border-color:#3b82d4; box-shadow:0 2px 8px rgba(0,0,0,.04); }
   .portal-card--wip { background:#fffbeb; border-color:#fde68a; }
   .portal-card--wip:hover { border-color:#f59e0b; }
-  .portal-icon { font-size:32px; margin-bottom:12px; display:flex; align-items:center; }
-  .portal-icon img { width:40px; height:40px; object-fit:contain; border-radius:6px; }
-  .portal-name { font-size:18px; font-weight:600; margin-bottom:6px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .portal-card-header { display:flex; align-items:center; gap:12px; margin-bottom:10px; }
+  .portal-icon { font-size:28px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+  .portal-icon img { width:32px; height:32px; object-fit:contain; border-radius:6px; }
+  .portal-name { font-size:17px; font-weight:600; margin:0; display:flex; align-items:center; gap:8px; flex-wrap:wrap; color:#1f2328; }
   .portal-badge { font-size:11px; font-weight:600; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:2px 8px; }
   .portal-desc { font-size:13px; color:#57606a; line-height:1.5; }
   footer { text-align:center; color:#57606a; font-size:12px; padding:16px; border-top:1px solid #e5e7eb; margin-top:40px; }
