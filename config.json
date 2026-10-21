@@ -116,7 +116,7 @@
       "site_description": "Daily AI-assisted intelligence on the global beauty and cosmetics market: L'Oréal, Estée Lauder, LVMH, skincare, fragrance, M&A and innovation.",
       "site_icon": {
         "default": "💄",
-        "path": "web_sites/beauty_watch/icon.ico",
+        "path": "web_sites/beauty_watch/icon.svg",
         "url": "https://www.premiumbeautynews.com/favicon.ico"
       },
       "brands": [
@@ -136,7 +136,7 @@
       "site_description": "Daily AI-assisted intelligence on L'Oréal Groupe: strategy, brands, M&A, beauty tech, ESG and innovation.",
       "site_icon": {
         "default": "💄",
-        "path": "web_sites/loreal/loreal.ico",
+        "path": "web_sites/loreal/icon.svg",
         "url": "https://www.loreal.com/favicon.ico"
       },
       "account_filters": {
