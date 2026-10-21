@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-21T10:47:00Z",
+ "updated": "2026-10-21T11:58:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Mars and Royal Canin lead the day with leadership changes, acquisitions, and new pet nutrition launches amid regulatory and sustainability shifts.",
+  "hook": "Mars completes a $36bn Kellanova takeover amid regulatory approvals while launching fresh pet diets and new snack ranges.",
   "categories": {
    "📈 Market": null,
-   "🤝 M&A": "Mars finalizes Kellanova acquisition while alternative protein startups join its Next Generation Pet Food Program.",
-   "⚖️ Regulation": "ESMA prioritizes materiality and sustainability reporting enforcement, and Mars Petcare appoints a new legal head.",
-   "💡 Innovation": "Royal Canin rolls out a fresh therapeutic dog diet and Mars invests in ingredient‑focused startups, while HenArt launches a mycoprotein dog food."
+   "🤝 M&A": "Mars finalizes its $36bn acquisition of Kellanova, reshaping the snacking sector.",
+   "⚖️ Regulation": "The EU Commission and US antitrust authorities approve Mars' $36bn Kellanova deal while the EU opens an investigation.",
+   "💡 Innovation": "Royal Canin introduces a fresh therapeutic diet line, Mars Wrigley unveils an Easter 2027 range, and Big Idea Ventures partners with Mars Petcare on a Global Pet Food Innovation initiative."
   }
  },
  "articles": [
@@ -20,6 +20,15 @@
    "date": "2026-10-21",
    "ai_summary": "Measure, Then Manage: Danone’s Journey to Unified Quality — Identifying the right data points to make fast and accurate quality decisions is critical to producing safe food.",
    "excerpt": "Identifying the right data points to make fast and accurate quality decisions is critical to producing safe food."
+  },
+  {
+   "title": "Ara Partners Raises $2.5 Billion for Inaugural Conventional Energy Optimization Fund",
+   "url": "https://www.esgtoday.com/ara-partners-raises-2-5-billion-for-inaugural-conventional-energy-optimization-fund/?utm_source=rss&utm_medium=rss&utm_campaign=ara-partners-raises-2-5-billion-for-inaugural-conventional-energy-optimization-fund",
+   "source": "ESG Today",
+   "category": "🌱 Sustainability & Sourcing",
+   "date": "2026-10-21",
+   "ai_summary": "Ara Partners has raised $2.5 billion for its inaugural Conventional Energy Optimization Fund.",
+   "excerpt": "Energy and industrial transition-focused private equity investor Ara Partners announced that it has raised $2.5 […]"
   },
   {
    "title": "Hyundai, Peak Energy Launch Platform to Expand Renewable Energy in Automotive Supply Chain",
@@ -308,6 +317,15 @@
    "date": "2026-10-16",
    "ai_summary": "Pet supplement compliance risks can hide between audits — An SGS quality expert outlined how animal supplement companies can use supplier, testing and complaint data to build on certification...",
    "excerpt": "An SGS quality expert outlined how animal supplement companies can use supplier, testing and complaint data to build on certification..."
+  },
+  {
+   "title": "Mars Wrigley Unveils Easter 2027 Range With New M&M’S And Maltesers Products - KamCity",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOVhWSmNSUjM5cEU1Y3hmektqZldSMlRZUWw5OHgxT29SbktTYVFNYlQySjVxR0wtZ1JEMDhfUHZmQV9vaEt1T0tfUTlmalU3emQxUm5UVGFoQmJucTYxeVZEdWNqNEFjMDJLUkFYcHdNZlljT3BMeldMTE5DbXJOMFJQbWhOcXRTV0xlRDBVUXVrNWIyaGl6eGgtLTJXejB2WTA4M3gwckk4Tjd0YlBjM1VWODdrblJHT1Q4T1A4a2JPc1hOTkE?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-10-16",
+   "ai_summary": "Mars Wrigley launches an Easter 2027 range featuring new M&M’S and Maltesers products.",
+   "excerpt": "Mars Wrigley Unveils Easter 2027 Range With New M&M’S And Maltesers Products KamCity"
   },
   {
    "title": "Europe’s heat wave sends a warning to pet food makers",
