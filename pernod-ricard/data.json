@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/",
- "updated": "2026-10-21T16:27:00Z",
+ "updated": "2026-10-21T18:28:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Pernod Ricard faces regulatory scrutiny in India while boosting its financial profile with a new tender offer and a higher analyst target.",
+  "hook": "Pernod Ricard sees activity across strategy, brand partnerships, market scrutiny and financial moves.",
   "categories": {
-   "🤝 Strategy & M&A": "Revenue intelligence searches in India target Diageo and Pernod Ricard, highlighting regulatory attention on their Scotch imports.",
-   "🥃 Spirits & Brands": "Nelson-Jameson partners with Strahman Group as an authorized service provider, expanding its service network.",
-   "📈 Market": "Tax officials in India investigate Pernod Ricard and Diageo over bulk Scotch import classification, adding regulatory pressure.",
-   "💡 Innovation & RTD": "Pernod Ricard launches a tender offer for its Seven Notes Series and plans a new subordinated notes issue, while analysts raise its target to EUR 71."
+   "🤝 Strategy & M&A": "Revenue intelligence searches in India spotlight Diageo and Pernod Ricard, while Corby Spirit and Wine Limited questions the sustainability of Pernod Ricard’s generous payouts.",
+   "🥃 Spirits & Brands": "Jameson revives its Cats on Tap program for the 2026‑27 season, partners with Strahman Group for service provision, and its ambassador Jameson Williams discusses marijuana legality amid NFL changes.",
+   "📈 Market": "Tax officials in India investigate Pernod Ricard and Diageo over the classification of some bulk Scotch imports.",
+   "💡 Innovation & RTD": "RBC lifts its target for Pernod Ricard stock, the company launches a tender offer for Seven Notes Series and plans a new subordinated notes issue, while Corby Spirit’s shares rise on sentiment around RTD growth and Pernod Ricard distribution support."
   }
  },
  "articles": [
+  {
+   "title": "Florida Panthers and Jameson Bring Back ‘Cats on Tap’ for the 2026-27 Season - NHL.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmhiUkU0MWFJU0ZuSHVIOUMzUWNyU0VHQlVPOGZsSVM0Y0hYODFsVm5BY3lfc3hyaEUyQzdWV2JsSS1XdkRNOC1OaHFMNHZZd0JsLWRIaUZYOHFtdVNVc05TV0ZyRWRnbzRyY0ZqeUY0Y2UzMk1nRnA5NEVWa21pa21mc2lWUVNLcGRLTHlNSHQ2Y2lrMHRCOTExSldNZ1Jna3pwRzM0MTF5OXl6?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-10-21",
+   "ai_summary": "Florida Panthers and Jameson Bring Back ‘Cats on Tap’ for the 2026-27 Season – The Florida Panthers and Jameson are reintroducing the ‘Cats on Tap’ program for the 2026-27 season. This initiative is highlighted on NHL.com.",
+   "excerpt": "Florida Panthers and Jameson Bring Back ‘Cats on Tap’ for the 2026-27 Season NHL.com"
+  },
   {
    "title": "Diageo, Pernod Ricard hit by Revenue Intelligence searches in India - Global Drinks Intel",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekV5TzBSY2ZqLUdCeUpFdHVOcUl5T0U2SFZCWjdSdkYzbzQ3UFBSRWlGRDRqem9DcHRTUllPV2pkUy0wbXhVY1VYU0VzWG1PNWI5WXc1SmZHd2pHNmVyUEZ0eGEtc2NwaXh4TnhMRVBfQ3l3ZnZtaWZSeGNYTDhYSWd0Y1l5Znlobm5nWkVLdkZHZEdoUFJTU0Nwbm5hcDl4cUE?oc=5",
@@ -290,6 +299,15 @@
    "date": "2026-10-19",
    "ai_summary": "",
    "excerpt": "Corby Spirit and Wine Limited (TSX:CSW.A) Class A Shares Advance as Ready-to-Drink Growth and Pernod Ricard Distribution Alliance Support Sentiment kalkine.ca"
+  },
+  {
+   "title": "Lions WR Jameson Williams argues ‘marijuana is legal’ as NFL rescinds celebration fine - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkh0UHFkZWRrbkUtT0wwNW53c0xlTl9MZmdPakJ0RFJyV1QtNXBmWWxxVV9wX0xQOFIyR2VhRWhCOFlXeVFIazhLbHhnTTAwQnAtQTd1LVRnQlNybEZxeVBHcHd1Um1qVUNjWlQ5bzRCTXdrcUdLUXBKdS05a0ZNQVF3ZU9vbXVYYnpta3hDSlg1SlF0YUVGTjd3eV9FX0pPenFLaGEtUS1MazVLTWtv?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-10-19",
+   "ai_summary": "Lions WR Jameson Williams argues ‘marijuana is legal’ as NFL rescinds celebration fine – Jameson Williams discusses the legality of marijuana amid the NFL’s decision to lift a celebration fine. The article appears in The New York Times.",
+   "excerpt": "Lions WR Jameson Williams argues ‘marijuana is legal’ as NFL rescinds celebration fine The New York Times"
   },
   {
    "title": "Pernod Ricard’s 19% India Whisky Growth Is Real, but the Number Flatters It - The Whiskey Wash",

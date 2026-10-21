@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-21T16:27:00Z",
+ "updated": "2026-10-21T18:28:00Z",
  "briefing": {
   "date": "2026-10-21",
-  "hook": "Today’s highlights show fragrance and skincare brands pushing growth while innovation and sustainability shape the market.",
+  "hook": "Beauty brands celebrate growth and innovation while strategic shifts reshape the market.",
   "categories": {
-   "📈 Market": "The Curl Jar Style + Treat™ Curl Activator wins Best Styling Product in the 2026 Pure Beauty Awards Readers’ Choice.",
-   "💄 Brands & Retail": "Puig and Interparfums report Q3 sales gains, driven by fragrance and makeup, while wellness subscription boxes and celebrity collaborations expand brand reach.",
-   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, signaling a shift in its manufacturing partnership strategy.",
-   "💡 Innovation & Regulation": "Revieve launches BeautyCatalyst and a Beauty LLM Suite, and packaging experts emphasize the need for product protection, premium appeal, and recyclability in skincare."
+   "📈 Market": "The Pure Beauty Awards crowned Curl Jar Style + Treat™ Curl Activator as best styling product, highlighting consumer focus on performance.",
+   "💄 Brands & Retail": "Puig and Interparfums saw Q3 sales gains, while Ipsy explores wellness subscriptions and John Hardy partners with Billie Eilish for new collections.",
+   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, and FaiveleyTech invested in a new manufacturing facility to boost capacity.",
+   "💡 Innovation & Regulation": "Revieve launched BeautyCatalyst and an AI‑powered LLM suite, and packaging trends now balance protection, premium appeal and recyclability."
   }
  },
  "articles": [
+  {
+   "title": "Inside The Fragrance Foundation’s 2026 Circle of Champions Dinner",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/fragrance-foundation-2026-circle-champions-david-greenberg-1239378688/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-21",
+   "ai_summary": "Inside The Fragrance Foundation’s 2026 Circle of Champions Dinner — The night celebrated David Greenberg, chairman and former chief executive officer of L’Oréal USA, as he was inducted into the circle.",
+   "excerpt": "The night celebrated David Greenberg, chairman and former chief executive officer of L’Oréal USA, as he was inducted into the circle."
+  },
   {
    "title": "Puig Q3 Sales Rise 7.2 Percent",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/puig-q3-sales-rise-7-2-percent-fragrance-makeup-all-regions-1239378422/",
