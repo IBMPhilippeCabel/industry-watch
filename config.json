@@ -34,6 +34,20 @@
         "url": "https://www.mars.com/favicon.ico",
         "path": "web_sites/mars/Mars-inc.png"
       },
+      "account_filters": {
+        "divisions": [
+          "mars inc", "mars incorporated", "mars snacking", "mars petcare",
+          "mars wrigley", "mars food", "waltham"
+        ],
+        "owned_brands": [
+          "m&m's", "m&ms", "snickers", "twix", "skittles", "extra", "orbit", "maltesers", "bounty", "milky way",
+          "royal canin", "pedigree", "whiskas", "sheba", "cesar", "iams", "eukanuba", "nutro", "temptations", "greenies",
+          "anicura", "vca", "banfield", "linnaeus", "ben's original", "masterfoods", "kind snack"
+        ],
+        "in_acquisition": [
+          "kellanova", "pringles", "cheez-it", "pop-tarts", "rice krispies", "eggo", "rxbar"
+        ]
+      },
       "rolling_days": 30,
       "sources_file": "web_sites/mars/sources.json",
       "data_dir": "web_sites/mars/data"

@@ -24,11 +24,11 @@
     "default_category": "🍫 Snacking & FMCG Market"
   },
   {
-    "name": "Confectionery News",
-    "url": "https://www.confectionerynews.com/",
-    "rss": "https://www.confectionerynews.com/RSS/Feed/news",
-    "description": "Chocolat, confiserie, chaîne d'approvisionnement cacao et packaging.",
-    "score": "8.5",
+    "name": "Mars Snacking & Brands (Google News)",
+    "url": "https://www.mars.com/our-brands/mars-wrigley",
+    "rss": "https://news.google.com/rss/search?q=%22Mars+Wrigley%22+OR+%22M%26M%27s%22+OR+%22Snickers%22+OR+%22Skittles%22+OR+%22Kellanova%22+OR+%22Pringles%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Chocolat, confiserie, snacking, Kellanova, Pringles et packaging.",
+    "score": "9.0",
     "default_category": "🍫 Snacking & FMCG Market"
   },
   {

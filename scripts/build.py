@@ -49,6 +49,7 @@ DATA_DIR = ROOT / _CFG["data_dir"]
 SOURCES_FILE = ROOT / _CFG["sources_file"]
 
 SOURCES = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+ACCOUNT_FILTERS = _CFG.get("account_filters")
 
 
 def fetch_site_icon():
@@ -115,10 +116,21 @@ def parse_date(value):
         return None
 
 
+def _matches_account_filters(full_text):
+    """Check if article text mentions any configured account keyword."""
+    if not ACCOUNT_FILTERS:
+        return True
+    all_kws = []
+    for kws in ACCOUNT_FILTERS.values():
+        if isinstance(kws, list):
+            all_kws.extend(kws)
+    return any(kw in full_text for kw in all_kws)
+
+
 def classify(text, default):
     text = text.lower()
     for category in ("🤝 M&A", "⚖️ Regulation", "💡 Innovation"):
-        if any(k in text for k in KEYWORDS[category]):
+        if category in KEYWORDS and any(k in text for k in KEYWORDS[category]):
             return category
     return default
 
@@ -136,6 +148,7 @@ def load_articles():
             continue
         items = root.findall("./channel/item")[:MAX_PER_SOURCE]
         print(f"{name}: {len(items)} articles")
+        is_targeted_feed = "news.google.com" in url or "search" in url
         for item in items:
             title = strip_tags(item.findtext("title"))
             link = (item.findtext("link") or "").strip()
@@ -144,13 +157,19 @@ def load_articles():
             summary = strip_tags(item.findtext("description"))
             tags = " ".join(c.text or "" for c in item.findall("category"))
             date = parse_date(item.findtext("pubDate"))
+            full_text = f"{title} {summary} {tags}".lower()
+
+            # For company accounts: filter out generic articles that don't mention any brand
+            if ACCOUNT_FILTERS and not is_targeted_feed and not _matches_account_filters(full_text):
+                continue
+
             articles.append({
                 "source": name,
                 "title": title,
                 "link": link,
                 "summary": summary[:220] + ("…" if len(summary) > 220 else ""),
                 "date": date.isoformat() if date else None,
-                "category": classify(f"{title} {summary} {tags}", default),
+                "category": classify(full_text, default),
             })
     seen_links, seen_titles, unique = set(), set(), []
     for a in articles:
