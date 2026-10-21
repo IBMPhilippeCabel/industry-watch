@@ -31,6 +31,7 @@
     {
       "id": "mars",
       "section": "Companies & Accounts",
+      "industry": ["petfood-watch"],
       "status": "live",
       "site_name": "Mars Corporation",
       "site_description": "Daily AI-assisted intelligence on Mars corporation: strategy, investments, ESG and innovations.",
@@ -81,6 +82,7 @@
     {
       "id": "pernod-ricard",
       "section": "Companies & Accounts",
+      "industry": ["beverage-watch"],
       "status": "live",
       "site_name": "Pernod Ricard",
       "site_description": "Daily AI-assisted intelligence on Pernod Ricard: strategy, luxury spirits, premiumisation, digital transformation and M&A.",
@@ -131,6 +133,7 @@
     {
       "id": "loreal",
       "section": "Companies & Accounts",
+      "industry": ["beauty-watch"],
       "status": "live",
       "site_name": "L'Oréal",
       "site_description": "Daily AI-assisted intelligence on L'Oréal Groupe: strategy, brands, M&A, beauty tech, ESG and innovation.",

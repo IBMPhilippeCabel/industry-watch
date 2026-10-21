@@ -56,6 +56,7 @@ Clés d'un site (dans `sites[]`) :
 | `id` | oui | identifiant, utilisé dans l'URL (`.../industry-watch/<id>/`) et par `--site <id>`. |
 | `section` | non | titre du groupe sur le portail (« Industries & Markets », « Companies & Accounts »). |
 | `status` | non | `live` (défaut) ou `under_construction` (page d'attente 🚧). |
+| `industry` | non | pour un site compte : id (ou liste d'ids) du ou des sites marché auxquels il appartient. Affiche « Industry : … » sur le compte, « Accounts : … » sur le site marché, et sur les cartes du portail. Un id inconnu est ignoré sans erreur. |
 | `site_name`, `site_description` | oui | affichés sur le site, **et injectés dans les prompts IA** (résumés et briefing). |
 | `site_icon` | non | `{"default": "emoji", "path": "fichier local", "url": "icône distante"}`. Ordre : fichier local, puis URL, puis emoji. Préférer un **SVG** : un `.ico` 16×16 est flou une fois agrandi. |
 | `rolling_days` | non | fenêtre de la page d'accueil (30 par défaut) ; les archives gardent tout. |

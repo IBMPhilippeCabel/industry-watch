@@ -120,6 +120,10 @@ CSS = """
   ul.months li { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:10px 16px; margin-bottom:8px; display:flex; justify-content:space-between; }
   .muted { color:var(--muted); }
   .page-updated { font-size:12px; color:var(--muted); margin:12px 0 4px; }
+  .site-rel { font-size:13px; color:var(--muted); margin:8px 0 0; }
+  .site-rel span { font-weight:600; }
+  .site-rel a { color:var(--accent); text-decoration:none; }
+  .site-rel a:hover { text-decoration:underline; }
   footer { text-align:center; color:var(--muted); font-size:12px; padding:24px 16px; border-top:1px solid var(--border); margin-top:48px; line-height:1.6; }
   .footer-disclaimer { margin:0 0 8px; max-width:680px; margin-left:auto; margin-right:auto; }
   .footer-updated { margin:0; font-size:11px; opacity:.85; }
@@ -274,6 +278,30 @@ def _portal_footer_html(updated):
         f'</p>'
         f'<p class="footer-updated">Last updated: <time>{updated}</time></p>'
         f'</footer>'
+    )
+
+
+def _industries(site_cfg):
+    """Ids of the industry sites a company account belongs to (`industry`: id or list of ids)."""
+    ind = site_cfg.get("industry", [])
+    return [ind] if isinstance(ind, str) else list(ind)
+
+
+def _related_sites(site_cfg):
+    """[(label, [site cfg, ...])]: parent industries of an account, or accounts tracked under an industry."""
+    sites = _GLOBAL_CFG["sites"]
+    parents = [s for s in sites if s["id"] in _industries(site_cfg)]
+    children = [s for s in sites if site_cfg["id"] in _industries(s)]
+    return [(label, group) for label, group in (("Industry", parents), ("Accounts", children)) if group]
+
+
+def _site_relations_html():
+    """Links to the related sites, shown under the title of a site's home page."""
+    return "".join(
+        f'<p class="site-rel"><span>{label}:</span> '
+        + ", ".join(f'<a href="../{esc(s["id"])}/index.html">{esc(s["site_name"])}</a>' for s in group)
+        + "</p>"
+        for label, group in _related_sites(_CFG)
     )
 
 
@@ -769,6 +797,10 @@ def render_portal(output_dir, updated):
             url = esc(sid + "/index.html")
             badge = '<span class="portal-badge">🚧 Under construction</span>' if status == "under_construction" else ""
             extra_cls = " portal-card--wip" if status == "under_construction" else ""
+            rel = "".join(
+                f'<div class="portal-rel"><span>{label}:</span> {esc(", ".join(g["site_name"] for g in group))}</div>'
+                for label, group in _related_sites(s)
+            )
             cards += (
                 f'<a href="{url}" class="portal-card{extra_cls}">'
                 f'<div class="portal-card-header">'
@@ -776,6 +808,7 @@ def render_portal(output_dir, updated):
                 f'<div class="portal-name">{name}{badge}</div>'
                 f'</div>'
                 f'<div class="portal-desc">{desc}</div>'
+                f'{rel}'
                 f'</a>'
             )
         sec_title = f'<h2 class="portal-section-title">{esc(sec_name)}</h2>' if len(sections) > 1 else ''
@@ -802,6 +835,8 @@ def render_portal(output_dir, updated):
   .portal-name { font-size:17px; font-weight:600; margin:0; display:flex; align-items:center; gap:8px; flex-wrap:wrap; color:#1f2328; }
   .portal-badge { font-size:11px; font-weight:600; background:#fef3c7; color:#92400e; border:1px solid #fde68a; border-radius:20px; padding:2px 8px; }
   .portal-desc { font-size:13px; color:#57606a; line-height:1.5; }
+  .portal-rel { font-size:12px; color:#57606a; margin-top:10px; padding-top:8px; border-top:1px solid #eef0f2; }
+  .portal-rel span { font-weight:600; }
   footer { text-align:center; color:#57606a; font-size:12px; padding:24px 16px; border-top:1px solid #e5e7eb; margin-top:48px; line-height:1.6; }
   .footer-disclaimer { margin:0 0 8px; max-width:680px; margin-left:auto; margin-right:auto; }
   .footer-updated { margin:0; font-size:11px; opacity:.85; }
@@ -893,7 +928,7 @@ def main():
     # ── <id>/index.html (rolling N days) ─────────────────────────────
     recent = [a for a in articles if (a.get("date") or a["first_seen"].isoformat())[:10] >= cutoff.isoformat()]
     updated_line = f'<p class="page-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
-    body = updated_line + briefing_block(briefing) + cards_section(recent)
+    body = updated_line + _site_relations_html() + briefing_block(briefing) + cards_section(recent)
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
     (site / "index.html").write_text(
         shell(f"{SITE_NAME} — news", body, updated,
