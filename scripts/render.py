@@ -240,7 +240,7 @@ def _footer_html(updated):
     return (
         f'<footer>'
         f'<p class="footer-disclaimer">'
-        f'All sources are publicly available. AI-assisted intelligence compiled for internal consulting use only.<br>'
+        f'All sources are publicly available. AI-assisted intelligence compiled for consulting team use only.<br>'
         f'Independent publication — does not represent the official views of the referenced companies.'
         f'</p>'
         f'<p class="footer-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
@@ -253,7 +253,7 @@ def _portal_footer_html(updated):
     return (
         f'<footer>'
         f'<p class="footer-disclaimer">'
-        f'All sources are publicly available. AI-assisted intelligence compiled for internal consulting use only.<br>'
+        f'All sources are publicly available. AI-assisted intelligence compiled for consulting team use only.<br>'
         f'Independent portal — does not represent the official views of the referenced companies.'
         f'</p>'
         f'<p class="footer-updated">Last updated: <time>{updated}</time></p>'
