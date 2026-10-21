@@ -1,1 +1,1 @@
-{"hook": "Partnerships and legal rulings shape the day.", "categories": {"📈 Market": null, "🤝 M&A": "Nelson-Jameson partners with Strahman Group as an authorized service provider.", "⚖️ Regulation": null, "💡 Innovation": null}}
+{"hook": "Heineken faces a €100m damages ruling in Greece, impacting its competitive stance.", "categories": {"📈 Market": "Heineken ordered to pay over €100m in damages to Macedonian Thrace Brewery in a Greek competition case.", "🤝 M&A": null, "⚖️ Regulation": null, "💡 Innovation": null}}
