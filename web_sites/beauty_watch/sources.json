@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cosmetics Business",
+    "url": "https://www.cosmeticsbusiness.com/",
+    "rss": "https://www.cosmeticsbusiness.com/rss",
+    "description": "International B2B reference on cosmetics, beauty brands, ingredients and packaging.",
+    "score": "9.5",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Premium Beauty News",
+    "url": "https://www.premiumbeautynews.com/",
+    "rss": "https://www.premiumbeautynews.com/spip.php?page=backend&lang=en",
+    "description": "Beauty industry news: brands, distribution, supply chain, packaging and finance.",
+    "score": "9.0",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Glossy",
+    "url": "https://www.glossy.co/",
+    "rss": "https://www.glossy.co/feed/",
+    "description": "Beauty and fashion business: DTC, retail, marketing and brand strategy.",
+    "score": "8.5",
+    "default_category": "💄 Brands & Retail"
+  },
+  {
+    "name": "Beauty Independent",
+    "url": "https://www.beautyindependent.com/",
+    "rss": "https://www.beautyindependent.com/feed/",
+    "description": "Indie beauty brands, founders, funding and retail trends.",
+    "score": "8.0",
+    "default_category": "💄 Brands & Retail"
+  },
+  {
+    "name": "WWD Beauty",
+    "url": "https://wwd.com/beauty-industry-news/",
+    "rss": "https://wwd.com/beauty-industry-news/feed/",
+    "description": "Beauty industry news from WWD: launches, executives, deals and results.",
+    "score": "8.0",
+    "default_category": "💄 Brands & Retail"
+  },
+  {
+    "name": "Beauty M&A & Corporate (Google News)",
+    "url": "https://news.google.com",
+    "rss": "https://news.google.com/rss/search?q=(%22L%27Or%C3%A9al%22+OR+%22Est%C3%A9e+Lauder%22+OR+%22Coty%22+OR+%22Shiseido%22+OR+%22Puig%22+OR+%22Beiersdorf%22)+AND+(acquisition+OR+results+OR+strategy+OR+launch)&hl=en-US&gl=US&ceid=US:en",
+    "description": "Corporate news, financial results and M&A across the major beauty groups.",
+    "score": "9.0",
+    "default_category": "🤝 Strategy & M&A"
+  },
+  {
+    "name": "Beauty Innovation & Tech (Google News)",
+    "url": "https://news.google.com",
+    "rss": "https://news.google.com/rss/search?q=(%22beauty+tech%22+OR+%22skincare+innovation%22+OR+%22clean+beauty%22+OR+%22cosmetics+regulation%22+OR+%22beauty+sustainability%22)&hl=en-US&gl=US&ceid=US:en",
+    "description": "Beauty tech, skincare science, clean beauty, regulation and sustainability.",
+    "score": "8.0",
+    "default_category": "💡 Innovation & Regulation"
+  }
+]

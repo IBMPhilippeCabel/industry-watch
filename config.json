@@ -19,6 +19,11 @@
         "default": "🐾",
         "url": "https://www.petfoodindustry.com/favicon.ico"
       },
+      "brands": [
+        "Royal Canin", "Purina", "Hill's", "Pedigree", "Whiskas", "Mars Petcare", "Freshpet",
+        "Blue Buffalo", "Colgate", "General Mills", "Smucker", "Champion Petfoods", "Orijen",
+        "Iams", "Nutro", "Stella & Chewy's", "Farmina", "Affinity Petcare", "Chewy", "Petco", "PetSmart", "Zooplus"
+      ],
       "rolling_days": 30,
       "sources_file": "web_sites/petfood_watch/sources.json",
       "data_dir": "web_sites/petfood_watch/data"
@@ -63,6 +68,12 @@
         "path": "web_sites/beverage_watch/icon.svg",
         "url": "https://www.just-drinks.com/favicon.ico"
       },
+      "brands": [
+        "Pernod Ricard", "Heineken", "Diageo", "AB InBev", "Carlsberg", "Brown-Forman", "Bacardi",
+        "Campari", "Rémy Cointreau", "Suntory", "Constellation", "Molson Coors", "Coca-Cola", "PepsiCo",
+        "Red Bull", "Monster", "Jameson", "Absolut", "Guinness", "Jack Daniel's", "Johnnie Walker",
+        "Smirnoff", "Budweiser", "Moët Hennessy", "Asahi", "Kirin"
+      ],
       "rolling_days": 30,
       "sources_file": "web_sites/beverage_watch/sources.json",
       "data_dir": "web_sites/beverage_watch/data"
@@ -96,6 +107,58 @@
       "rolling_days": 30,
       "sources_file": "web_sites/pernod_ricard/sources.json",
       "data_dir": "web_sites/pernod_ricard/data"
+    },
+    {
+      "id": "beauty-watch",
+      "section": "Industries & Markets",
+      "status": "live",
+      "site_name": "Beauty & Cosmetics",
+      "site_description": "Daily AI-assisted intelligence on the global beauty and cosmetics market: L'Oréal, Estée Lauder, LVMH, skincare, fragrance, M&A and innovation.",
+      "site_icon": {
+        "default": "💄",
+        "path": "web_sites/beauty_watch/icon.ico",
+        "url": "https://www.premiumbeautynews.com/favicon.ico"
+      },
+      "brands": [
+        "L'Oréal", "Estée Lauder", "LVMH", "Coty", "Shiseido", "Unilever", "Procter & Gamble",
+        "Beiersdorf", "Henkel", "Natura", "Amorepacific", "Kao Corporation", "Puig", "Revlon",
+        "Sephora", "Ulta", "Chanel", "Dior", "Nivea", "Kering Beauté"
+      ],
+      "rolling_days": 30,
+      "sources_file": "web_sites/beauty_watch/sources.json",
+      "data_dir": "web_sites/beauty_watch/data"
+    },
+    {
+      "id": "loreal",
+      "section": "Companies & Accounts",
+      "status": "live",
+      "site_name": "L'Oréal",
+      "site_description": "Daily AI-assisted intelligence on L'Oréal Groupe: strategy, brands, M&A, beauty tech, ESG and innovation.",
+      "site_icon": {
+        "default": "💄",
+        "path": "web_sites/loreal/loreal.ico",
+        "url": "https://www.loreal.com/favicon.ico"
+      },
+      "account_filters": {
+        "divisions": [
+          "l'oréal", "l’oréal", "l'oreal", "l’oreal", "loreal", "l'oréal groupe", "l'oréal luxe",
+          "l'oréal dermatological beauty", "l'oréal consumer products", "l'oréal professional products",
+          "nicolas hieronimus"
+        ],
+        "owned_brands": [
+          "Lancôme", "Garnier", "Maybelline", "NYX Professional Makeup", "Kiehl's", "La Roche-Posay", "CeraVe",
+          "Vichy", "SkinCeuticals", "Yves Saint Laurent Beauté", "Giorgio Armani Beauty", "Kérastase",
+          "L'Oréal Professionnel", "Redken", "Shu Uemura", "Urban Decay", "IT Cosmetics", "Biotherm",
+          "Helena Rubinstein", "Aesop", "Medik8", "Pureology", "Mizani", "Dermablend", "Stylenanda",
+          "Valentino Beauty", "Prada Beauty", "Mugler", "Azzaro", "Cacharel", "Viktor&Rolf", "Decléor", "Carita"
+        ],
+        "in_acquisition": [
+          "Kering Beauté", "Creed"
+        ]
+      },
+      "rolling_days": 30,
+      "sources_file": "web_sites/loreal/sources.json",
+      "data_dir": "web_sites/loreal/data"
     }
   ]
 }

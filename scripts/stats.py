@@ -286,7 +286,7 @@ def render_global_stats(hits, countries, browsers, cfg, gc_dashboard_url, update
 <body>
 <header>
   <h1>📊 {esc(portal_name)} — Stats</h1>
-  <nav><a href="index.html">🏠 Portal</a></nav>
+  <nav><a href="index.html" class="src-btn">🏠 Home</a></nav>
 </header>
 <main class="wrap">
   <div class="kpi-row">
@@ -337,9 +337,9 @@ def render_site_stats(site_cfg, site_hits, countries, browsers, portal_name, gc_
 <header>
   <h1>📊 {name} — Stats</h1>
   <nav>
-    <a href="index.html">← {name}</a>
-    <a href="../stats.html">🌐 Global stats</a>
-    <a href="../index.html">🏠 Portal</a>
+    <a href="index.html" class="src-btn">← {name}</a>
+    <a href="../stats.html" class="src-btn">🌐 Global stats</a>
+    <a href="../index.html" class="src-btn">🏠 Home</a>
   </nav>
 </header>
 <main class="wrap">
@@ -430,7 +430,7 @@ def main():
         # No token or no URL configured — write pending pages so the site has no 404
         print("WARN: GOATCOUNTER_API_KEY not set or goatcounter_url missing — writing pending pages", file=sys.stderr)
         (output_dir / "stats.html").write_text(
-            _render_pending(f"{portal_name} — Stats", "index.html", "🏠 Portal", gc_dashboard_url, updated),
+            _render_pending(f"{portal_name} — Stats", "index.html", "🏠 Home", gc_dashboard_url, updated),
             encoding="utf-8",
         )
         for s in cfg["sites"]:

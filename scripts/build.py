@@ -123,7 +123,7 @@ def _matches_account_filters(full_text):
     all_kws = []
     for kws in ACCOUNT_FILTERS.values():
         if isinstance(kws, list):
-            all_kws.extend(kws)
+            all_kws.extend(k.lower() for k in kws)
     return any(kw in full_text for kw in all_kws)
 
 

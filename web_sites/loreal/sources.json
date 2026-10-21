@@ -1,0 +1,50 @@
+[
+  {
+    "name": "L'Oréal Corporate & M&A (Google News)",
+    "url": "https://www.loreal.com",
+    "rss": "https://news.google.com/rss/search?q=%22L%27Or%C3%A9al%22+OR+%22Nicolas+Hieronimus%22+OR+%22L%27Oreal+Groupe%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Corporate news, financial results, global strategy, appointments and M&A.",
+    "score": "9.5",
+    "default_category": "🤝 Strategy & M&A"
+  },
+  {
+    "name": "L'Oréal Brands (Google News)",
+    "url": "https://www.loreal.com/en/our-brands/",
+    "rss": "https://news.google.com/rss/search?q=%22L%27Or%C3%A9al%22+OR+%22Lanc%C3%B4me%22+OR+%22Maybelline%22+OR+%22La+Roche-Posay%22+OR+%22CeraVe%22+OR+%22K%C3%A9rastase%22+OR+%22Yves+Saint+Laurent+Beaut%C3%A9%22&hl=en-US&gl=US&ceid=US:en",
+    "description": "Brand campaigns, launches, partnerships and limited editions.",
+    "score": "9.5",
+    "default_category": "💄 Brands & Launches"
+  },
+  {
+    "name": "L'Oréal Beauty Tech & ESG (Google News)",
+    "url": "https://www.loreal.com/en/beauty-science-and-technology/",
+    "rss": "https://news.google.com/rss/search?q=%22L%27Or%C3%A9al%22+AND+(%22beauty+tech%22+OR+%22AI%22+OR+%22sustainability%22+OR+%22green+sciences%22+OR+%22L%27Or%C3%A9al+for+the+Future%22)&hl=en-US&gl=US&ceid=US:en",
+    "description": "Beauty tech, AI, green sciences, packaging and ESG commitments.",
+    "score": "8.5",
+    "default_category": "💡 Beauty Tech & ESG"
+  },
+  {
+    "name": "Cosmetics Business",
+    "url": "https://www.cosmeticsbusiness.com/",
+    "rss": "https://www.cosmeticsbusiness.com/rss",
+    "description": "International B2B reference on cosmetics and beauty brands.",
+    "score": "9.0",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Premium Beauty News",
+    "url": "https://www.premiumbeautynews.com/",
+    "rss": "https://www.premiumbeautynews.com/spip.php?page=backend&lang=en",
+    "description": "Beauty industry news: brands, distribution, supply chain and finance.",
+    "score": "8.5",
+    "default_category": "📈 Market"
+  },
+  {
+    "name": "Glossy",
+    "url": "https://www.glossy.co/",
+    "rss": "https://www.glossy.co/feed/",
+    "description": "Beauty and fashion business: DTC, retail and marketing.",
+    "score": "8.0",
+    "default_category": "📈 Market"
+  }
+]

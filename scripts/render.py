@@ -306,8 +306,10 @@ def _sites_dropdown_html(depth=1):
     return f'<ul class="sources" style="min-width:200px">{items}</ul>'
 
 
-def shell(title, nav_links, body, updated, script="", path="", description=SITE_DESC, jsonld=None, sources_html="", archive_html="", depth=1):
+def shell(title, body, updated, script="", path="", description=SITE_DESC, jsonld=None, sources_html="", archive_html="", depth=1):
     url = SITE_URL + path
+    home_prefix = "../" * depth
+    home_btn = f'<a href="{home_prefix}index.html" class="src-btn">🏠 Home</a>'
     sites_btn = (
         f'<div class="src-wrap">'
         f'<button class="src-btn" id="sites-btn">🗂️ Sites</button>'
@@ -350,7 +352,7 @@ def shell(title, nav_links, body, updated, script="", path="", description=SITE_
 <body>
 <header>
   <h1>{_site_header_icon()}{esc(SITE_NAME)}</h1>
-  <nav>{nav_links}{stats_btn}{sites_btn}{arc_btn}{src_btn}</nav>
+  <nav>{home_btn}{stats_btn}{sites_btn}{arc_btn}{src_btn}</nav>
 </header>
 <main class="wrap">
 {body}
@@ -409,7 +411,7 @@ def _get_tracked_brands():
         if not b_clean:
             continue
         slug = re.sub(r"[^a-z0-9]+", "-", b_clean.lower()).strip("-")
-        name = " ".join(w.capitalize() for w in b_clean.split())
+        name = " ".join(w[:1].upper() + w[1:] for w in b_clean.split())
         name = name.replace("M&m's", "M&M's").replace("M&ms", "M&M's")
         name = name.replace("Rtd", "RTD").replace("Esg", "ESG")
         tracked[b_clean.lower()] = (slug, name)
@@ -889,10 +891,9 @@ def main():
     recent = [a for a in articles if (a.get("date") or a["first_seen"].isoformat())[:10] >= cutoff.isoformat()]
     updated_line = f'<p class="page-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
     body = updated_line + briefing_block(briefing) + cards_section(recent)
-    nav = f'<a href="../index.html">🏠 Portal</a>'
     home_desc = (briefing[1].get("hook") if briefing else "") or SITE_DESC
     (site / "index.html").write_text(
-        shell(f"{SITE_NAME} — news", nav, body, updated,
+        shell(f"{SITE_NAME} — news", body, updated,
               FILTER_JS, path=f"{_CFG['id']}/", description=home_desc,
               jsonld=page_jsonld(SITE_NAME, f"{_CFG['id']}/", home_desc, recent),
               sources_html=sources_dropdown_html(),
@@ -902,11 +903,10 @@ def main():
 
     # ── <id>/archive/YYYY-MM.html ─────────────────────────────────────
     for ym, items in months.items():
-        nav = f'<a href="../../index.html">🏠 Portal</a>'
         body = updated_line + cards_section(items)
         desc = f"{SITE_NAME} archive {ym}: {len(items)} articles."
         (archive / f"{ym}.html").write_text(
-            shell(f"{SITE_NAME} — Archive {ym}", nav, body, updated, FILTER_JS,
+            shell(f"{SITE_NAME} — Archive {ym}", body, updated, FILTER_JS,
                   path=f"{_CFG['id']}/archive/{ym}.html", description=desc,
                   jsonld=page_jsonld(f"{SITE_NAME} archive {ym}", f"{_CFG['id']}/archive/{ym}.html", desc, items),
                   archive_html=archive_dropdown_html(all_months_keys, months),
@@ -921,9 +921,8 @@ def main():
         + '</li>'
         for ym in all_months_keys
     )
-    nav = f'<a href="../../index.html">🏠 Portal</a>'
     (archive / "index.html").write_text(
-        shell(f"{SITE_NAME} — Archive", nav, f'<ul class="months">{rows}</ul>', updated,
+        shell(f"{SITE_NAME} — Archive", f'<ul class="months">{rows}</ul>', updated,
               path=f"{_CFG['id']}/archive/index.html",
               description=f"Monthly archive of {SITE_NAME} articles.",
               archive_html=archive_dropdown_html(all_months_keys, months),
