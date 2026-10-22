@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-22T02:26:00Z",
+ "updated": "2026-10-22T04:28:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "AI-driven platforms, strategic stake shifts, and sustainability focus shape today’s beauty landscape.",
+  "hook": "Today’s focus spans new M&A moves, brand expansion, AI‑driven innovation, and evolving market trends in beauty.",
   "categories": {
-   "📈 Market": "Hair longevity trends and Sephora’s 2027 expansion plans highlight a shift toward long‑lasting hair care and larger boutique footprints.",
-   "💄 Brands & Retail": "Ning Li’s Italian launch and the Fragrance Foundation’s Circle of Champions dinner underscore continued growth and recognition in fragrance.",
-   "🤝 Strategy & M&A": "Chanel’s sale of its majority stake in Capsum to Motion Equity Partners signals a divestment from microfluidics while FaiveleyTech’s new facility expands manufacturing capacity.",
-   "💡 Innovation & Regulation": "Revieve’s BeautyCatalyst and Beauty LLM Suite introduce AI‑powered intelligence, while new packaging aims to balance protection, premium appeal and recyclability."
+   "📈 Market": "Hair longevity trends and Sephora’s 2027 expansion plans signal a shift toward long‑lasting hair care and larger boutique footprints.",
+   "💄 Brands & Retail": "Brands are broadening into niche fragrances and new markets while celebrating leaders, reflecting growth in fragrance and makeup sales.",
+   "🤝 Strategy & M&A": "Chanel’s sale of Capsum to Motion Equity Partners and Cymbiotika’s entry into beauty supplements highlight strategic realignments and diversification.",
+   "💡 Innovation & Regulation": "AI platforms like Revieve’s BeautyCatalyst and sustainability‑focused packaging innovations illustrate the push for smarter, greener beauty solutions."
   }
  },
  "articles": [
+  {
+   "title": "Cymbiotika sold 200 million liposomal sachets. Now it’s taking on the beauty supplement market",
+   "url": "https://www.glossy.co/podcasts/cymbiotika-sold-200-million-liposomal-sachets-now-its-taking-on-the-beauty-supplement-market/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "Cymbiotika sold 200 million liposomal sachets and is now entering the beauty supplement market with a fashion-forward advertising campaign.",
+   "excerpt": "In a lot of ways, supplement company Cymbiotika has perfected the form factor and distribution for modern day vitamins. Now, it's taking on the beauty supplement category with a splashy, fashion-forward advertising campa…"
+  },
+  {
+   "title": "Fashion Briefing: Live from New York – Why ‘SNL’ stars are becoming mainstays in fashion marketing",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-live-from-new-york-why-snl-stars-are-becoming-mainstays-in-fashion-marketing/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-22",
+   "ai_summary": "Fashion Briefing: Live from New York highlights how SNL stars are becoming key figures in fashion marketing, featuring J.Crew’s new campaign with the comedy group Please Don’t Destroy.",
+   "excerpt": "J.Crew's latest brand campaign features an unlikely trio of brand ambassadors: Ben Marshall, Martin Herlihy and John Higgins, who make up the comedy group Please Don't Destroy."
+  },
   {
    "title": "CADIVEU, a professional hair brand of beauty tech company Albiech Co., Ltd. (CEO Lee Sang-kyu), anno.. - 매일경제",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XMjFmMDYyVkRnXzRnTGpGei1FVVNNWTBQX1VzSFdxZXFYbW9qMFZHYmZ6dy1YX3RZczVsdFJicnR2V3F0cEhTUGRwX1JrYVV1RTdF?oc=5",
@@ -902,6 +920,15 @@
    "date": "2026-09-26",
    "ai_summary": "It highlights a clean beauty brand’s debut in the first natural skincare collection.",
    "excerpt": "Naturally Serious Skincare: First In Clean Beauty The Purist"
+  },
+  {
+   "title": "The Estée Lauder Companies and the Breast Cancer Research Foundation Launch Largest Global Research Initiative on Breast Cancer in Younger Women - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTVyRG1Vc3BLS3RHZkRPRFc0YXE5T2FjN2lGV1lWV08tTGV1R0JOekFhNlhCdWRFakhkWnc5MDJEaWVlTk9TYUQzUFMtalBtYnFSVlRESnlPTGRqanBhbThBRmRHSDBNU1F4UnRMNVB2c1gzdUU3cTJtbXRFcjYwY003cmJYVkdvc0Y1QTlGWm84SGcz?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-09-23",
+   "ai_summary": "The Estée Lauder Companies and the Breast Cancer Research Foundation have launched the largest global research initiative focused on breast cancer in younger women.",
+   "excerpt": "The Estée Lauder Companies and the Breast Cancer Research Foundation Launch Largest Global Research Initiative on Breast Cancer in Younger Women Yahoo Finance"
   }
  ]
 }

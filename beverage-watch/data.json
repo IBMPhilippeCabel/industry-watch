@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-22T02:26:00Z",
+ "updated": "2026-10-22T04:28:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Heineken faces legal and financial challenges while expanding digital engagement, as market shifts and new RTD entries reshape the beverage landscape.",
+  "hook": "Heineken faces legal and financial pressure while expanding digital engagement, as market shifts and M&A moves shape the global beverage landscape.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken faces a €111 million Greek court order and plans to appeal a US$125 million fine, underscoring ongoing legal and financial pressures.",
-   "📈 Market": "Whitebox Cocktails enters the U.S. market while PepsiCo shuts a Tennessee bottling plant, reflecting shifting production and regulatory pressures.",
-   "🍸 Spirits & Premium": "Tax officials in India probe bulk Scotch imports by Pernod Ricard and Diageo, highlighting regulatory scrutiny in premium spirits.",
-   "🍺 Beer & Brewing": "Adnams reviews its canning contracts as Heineken is ordered to pay over €100 million in a Greek competition case, while Amber Beverage UK enters administration.",
-   "💡 Innovation & No-Low": "Heineken launches a streaming service with Amazon Ads and partners with MGM Resorts for high‑octane fan experiences, pushing digital engagement in the beverage sector."
+   "🤝 Strategy & M&A": "Heineken faces a €111 million Greek court ruling and plans to appeal a US$125m fine, underscoring legal and financial challenges.",
+   "📈 Market": "Adnams reviews contracts, Whitebox Cocktails enters the U.S., PepsiCo shuts a Tennessee plant, India probes Scotch imports, and Amber Beverage UK falls into administration.",
+   "🍸 Spirits & Premium": "Pernod Ricard and Diageo face Indian tax scrutiny over Scotch imports, while Whitebox Cocktails launches its ready‑to‑drink line in the U.S.",
+   "🍺 Beer & Brewing": "Adnams reviews its production contracts, Heineken must pay over €100 million in Greece, and Amber Beverage UK enters administration.",
+   "💡 Innovation & No-Low": "Heineken launches a streaming service with Amazon Ads, MGM Resorts introduces high‑octane fan experiences for the 2026 F1 Las Vegas Grand Prix, and German bodies oppose a sugar tax."
   }
  },
  "articles": [
@@ -399,6 +399,15 @@
    "date": "2026-10-20",
    "ai_summary": "Pernod Ricard signs up Charli XCX for Absolut - Global Drinks Intel reports that the brand has partnered with the pop artist for a promotional campaign. The collaboration is intended to boost Absolut’s visibility among younger consumers.",
    "excerpt": "Pernod Ricard signs up Charli XCX for Absolut Global Drinks Intel"
+  },
+  {
+   "title": "Pernod Ricard Reworks Its Balance Sheet as Drinkers Pull Back - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzJxSjRFOWo0UDROSExTbzF0cVBkS2cxclB3STZiZlBvRVZ1b0p0RThjUVFIWjJERGtlYzVUdUJxb3B4U2RVa3QxSWVIY3Ywb1poaEkwQ0t3cEhKa3dHejFsM0RZbVNMeTRiMEVHenFFRllFSHozOXNRWTVsT01LcUNDZnVwWUZUcTRYbTdnelNZRmZNR1RScXdqeUJWVm9WY0E?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-20",
+   "ai_summary": "Pernod Ricard is adjusting its balance sheet in response to declining consumer activity. The move reflects a broader trend of drinkers pulling back from the market.",
+   "excerpt": "Pernod Ricard Reworks Its Balance Sheet as Drinkers Pull Back Yahoo Finance"
   },
   {
    "title": "Diageo, Pernod Scotch imports under investigation in India",
