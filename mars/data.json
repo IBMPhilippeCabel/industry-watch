@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-22T18:26:00Z",
+ "updated": "2026-10-22T20:24:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Mars Corp sees new marketing pushes, tech upgrades, and sustainability funding shaping its portfolio.",
+  "hook": "Mars Corp sees a mix of marketing shifts, tech focus, and green investments shaping its next quarter.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars Petcare appoints a new legal head while boosting inventory and marketing ahead of holidays, and its partners secure multi‑billion sustainability investments.",
-   "🐾 Petcare & Royal Canin": "Retail and e‑commerce shift is driving pet owners toward nutrition‑focused, longevity‑oriented products, as HenArt launches a new dog food line with mycoprotein.",
-   "🍫 Snacking & FMCG Market": "Pringles challenges brand loyalty with bold marketing, while M&M’s and other brands launch Halloween campaigns, and gum arabic sourcing highlights Sudan’s role.",
-   "⚡ Tech & Operations": "Danone’s unified quality data strategy and AI adoption in sales and marketing underscore a focus on data‑led innovation and operational excellence.",
-   "🌱 Sustainability & Sourcing": "Major green finance moves include $2.5B for conventional energy optimization, Amazon’s nuclear project, and large carbon‑removal deals, signaling a surge in sustainable infrastructure."
+   "🤝 Mars Corporate & M&A": "Mars Petcare appoints new legal head while boosting inventory and marketing ahead of holidays.",
+   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners prioritize nutrition and wellness.",
+   "🍫 Snacking & FMCG Market": "Pringles challenges brand loyalty, while M&M’s launches spooky cinema and exits a local newspaper.",
+   "⚡ Tech & Operations": "Danone and others emphasize data‑driven quality and AI in sales, with new leadership driving product and operational excellence.",
+   "🌱 Sustainability & Sourcing": "Multiple green projects fund renewable energy, carbon removal, and virtual power plants, underscoring a surge in sustainable infrastructure."
   }
  },
  "articles": [
@@ -30,6 +30,15 @@
    "date": "2026-10-22",
    "ai_summary": "M&M's, Orbit gum, mascara, and some medicines all rely on an ingredient that begins as sap from an acacia tree. About 80% of the world's gum arabic comes from Sudan. Farmers make precise cuts in the bark, then collect the sap after it naturally hardens.",
    "excerpt": "M&M's, Orbit gum, mascara, and some medicines all rely on an ingredient that begins as sap from an acacia tree. About 80% of the world's gum arabic comes from Sudan. Farmers make precise cuts in the bark, then collect th…"
+  },
+  {
+   "title": "M&M's Unleash Spooky Cinema Chaos - Creative Salon",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Yd29MZjEtZHdCN0M1REVvSnVCckVPNDd0a0RPTGdUS1FHX282Wm1ON3pScURKaGpHbTh0SlFCY1ZvbFFHYlJFYWlzSzZUR2lVM0M5UUZ2cTV2WWl2WWYwUWpBSkNyZV82TFVNR0xYdGs5ekliUldENQ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-22",
+   "ai_summary": "M&M's unleashes spooky cinema chaos in a creative salon setting. The event blends candy branding with a horror-themed film experience.",
+   "excerpt": "M&M's Unleash Spooky Cinema Chaos Creative Salon"
   },
   {
    "title": "Together forever: M&M's quiet departure from Shell Rock - Community Newspaper Group",
