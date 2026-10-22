@@ -5,22 +5,34 @@ on:
     - cron: "0 */2 * * *"   # every 2 hours
   workflow_dispatch:       # manual run from the Actions tab
 
-permissions:
-  contents: write
+# No permission by default: each job declares the ones it needs.
+permissions: {}
 
-env:
-  GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-  GOATCOUNTER_API_KEY: ${{ secrets.GOATCOUNTER_API_KEY }}
+# One run at a time: two runs would push to main / the site branch at the same moment.
+# A run already in progress is never cancelled (it may be committing data); a waiting one is replaced.
+concurrency:
+  group: site-update
+  cancel-in-progress: false
+
+# Third-party actions are pinned to a commit SHA (a tag can be moved, a SHA cannot).
+# Dependabot (.github/dependabot.yml) proposes the updates.
+#   actions/checkout       fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09  # v5.1.0
+#   actions/setup-python   ece7cb06caefa5fff74198d8649806c4678c61a1  # v6.3.0
 
 jobs:
   # ── Step 1: build matrix of site ids from config.json ────────────────────
   setup:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
     outputs:
       matrix: ${{ steps.read.outputs.matrix }}
       site_branch: ${{ steps.read.outputs.site_branch }}
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+        with:
+          persist-credentials: false
       - name: Read config.json
         id: read
         run: |
@@ -36,29 +48,37 @@ jobs:
   fetch:
     needs: setup
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write   # pushes the data to main
     strategy:
       matrix: ${{ fromJson(needs.setup.outputs.matrix) }}
       fail-fast: false
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "3.12"
 
       # A failure on one site must not block the others: this step never fails by itself.
       # It records the exit code of build.py; the data is committed next, and the job is
       # failed only in the last step (so partial data is never lost).
+      # GROQ_API_KEY is given to this step only (it is the only one that calls Groq).
       - name: Fetch RSS feeds
         id: fetch
         shell: bash
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           LOG=/tmp/build-${{ matrix.id }}.log
           rc=0
           # `shell: bash` runs with -eo pipefail: rc is build.py's (not tee's), and every grep
           # that may match nothing needs `|| true` or it would abort this step.
-          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee "$LOG" || rc=$?
+          # The sed defuses any line starting with "::" (feed or AI text could otherwise
+          # be read by the runner as a workflow command); the unfiltered text stays in $LOG.
+          python scripts/build.py --site ${{ matrix.id }} 2>&1 | tee "$LOG" | sed -u 's/^[[:space:]]*::/> ::/' || rc=$?
           echo "rc=$rc" >> $GITHUB_OUTPUT
 
           warns=$(grep '^WARN' "$LOG" | sort -u | head -10 || true)
@@ -134,37 +154,60 @@ jobs:
     needs: [setup, fetch]
     if: always()
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write   # pushes the rendered pages to the site branch
     steps:
+      # Code and data come from main; nothing is pushed to main from this job,
+      # so the token is not kept in its git config.
       - name: Checkout main
-        uses: actions/checkout@v5
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
         with:
           ref: main   # pull latest data committed by fetch jobs
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
 
+      # The site branch is checked out by the action (the token goes through git's
+      # credential config, not through a URL). It is kept: the push step below uses it.
       - name: Checkout site branch
+        id: site
+        continue-on-error: true   # the branch does not exist yet on the very first run
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+        with:
+          ref: ${{ needs.setup.outputs.site_branch }}
+          path: site
+          fetch-depth: 1
+
+      # First run only: the site branch does not exist, create it empty.
+      - name: Reset site directory (first run only)
+        if: steps.site.outcome == 'failure'
         shell: bash
+        run: rm -rf site
+
+      - name: Checkout main as base of the new site branch (first run only)
+        if: steps.site.outcome == 'failure'
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+        with:
+          path: site
+
+      - name: Create empty site branch (first run only)
+        if: steps.site.outcome == 'failure'
+        shell: bash
+        env:
+          BRANCH: ${{ needs.setup.outputs.site_branch }}
         run: |
-          BRANCH="${{ needs.setup.outputs.site_branch }}"
-          git clone --branch "$BRANCH" --depth=1 \
-            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
-            site || {
-            # Branch doesn't exist yet: create an empty one
-            mkdir -p site
-            cd site
-            git init
-            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-            git checkout --orphan "$BRANCH"
-            git reset --hard
-            echo "# $BRANCH" > README.md
-            git add README.md
-            git -c user.name="github-actions[bot]" \
-                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
-                commit -m "init $BRANCH"
-            git push origin "$BRANCH"
-          }
+          cd site
+          git checkout --orphan "$BRANCH"
+          git rm -rf . > /dev/null
+          git clean -fdx
+          echo "# $BRANCH" > README.md
+          git add README.md
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "init $BRANCH"
+          git push origin "$BRANCH"
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "3.12"
 
@@ -179,20 +222,26 @@ jobs:
           print(' '.join(s['id'] for s in cfg['sites']))
           "); do
             echo "--- Rendering $site_id ---"
-            python scripts/render.py --site "$site_id" site 2>&1 | tee -a /tmp/render.log || echo "$site_id" >> /tmp/render_failed.txt
+            # sed: same protection as in the fetch job (a line starting with "::" is a workflow command)
+            python scripts/render.py --site "$site_id" site 2>&1 | tee -a /tmp/render.log | sed -u 's/^[[:space:]]*::/> ::/' || echo "$site_id" >> /tmp/render_failed.txt
           done
           # The step itself stays green so that the sites which did render are still published;
           # the job is failed at the very end (last step) if /tmp/render_failed.txt is not empty.
 
+      # GOATCOUNTER_API_KEY is given to this step only.
       - name: Generate stats page
         shell: bash
         continue-on-error: true   # stats are secondary: a crash is shown as a failed step but must not block publication
+        env:
+          GOATCOUNTER_API_KEY: ${{ secrets.GOATCOUNTER_API_KEY }}
         run: |
           set -o pipefail
-          python scripts/stats.py site 2>&1 | tee -a /tmp/render.log
+          python scripts/stats.py site 2>&1 | tee -a /tmp/render.log | sed -u 's/^[[:space:]]*::/> ::/'
 
       - name: Commit and push to site branch
         id: push
+        env:
+          BRANCH: ${{ needs.setup.outputs.site_branch }}
         run: |
           cd site
           git config user.name "github-actions[bot]"
@@ -203,7 +252,7 @@ jobs:
             echo "published=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Nightly update $(date -u +%Y-%m-%d)"
-            git push origin ${{ needs.setup.outputs.site_branch }}
+            git push origin "$BRANCH"
             echo "published=true" >> $GITHUB_OUTPUT
           fi
 
