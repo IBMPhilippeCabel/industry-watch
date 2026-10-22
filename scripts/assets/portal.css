@@ -5,7 +5,6 @@
   .stats-btn { border:1px solid #e5e7eb; background:#fff; color:#3b82d4; padding:6px 16px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; font-weight:600; }
   .stats-btn:hover { background:#3b82d4; color:#fff; border-color:#3b82d4; }
   .portal-wrap { flex:1; width:100%; max-width:1400px; margin:40px auto; padding:0 24px; box-sizing:border-box; }
-  .portal-updated { font-size:12px; color:#57606a; margin:0 0 28px; letter-spacing:.01em; }
   .portal-section { margin-bottom:36px; text-align:left; }
   .portal-section-title { font-size:13px; font-weight:700; color:#57606a; text-transform:uppercase; letter-spacing:.06em; margin:0 0 16px; padding-bottom:8px; border-bottom:1px solid #e5e7eb; }
   .portal-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; text-align:left; }

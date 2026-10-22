@@ -226,6 +226,8 @@ _STATS_CSS = """
   header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; }
   header h1 { margin:0; font-size:20px; }
   header nav a { color:var(--accent); text-decoration:none; font-size:14px; margin-left:20px; }
+  .src-btn { border:1px solid var(--border); background:var(--card); color:var(--text); padding:5px 12px; border-radius:16px; font:inherit; font-size:14px; cursor:pointer; margin-left:20px; }
+  .src-btn:hover { border-color:var(--accent); color:var(--accent); }
   .wrap { flex:1; max-width:1100px; margin:0 auto; padding:24px; width:100%; box-sizing:border-box; }
   .kpi-row { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:16px; margin-bottom:24px; }
   .kpi { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:16px 20px; }
@@ -385,7 +387,7 @@ def _render_pending(title, back_href, back_label, gc_dashboard_url, updated):
 <body>
 <header>
   <h1>📊 {esc(title)}</h1>
-  <nav><a href="{esc(back_href)}">{esc(back_label)}</a></nav>
+  <nav><a href="{esc(back_href)}" class="src-btn">{esc(back_label)}</a></nav>
 </header>
 <main class="wrap" style="text-align:center;padding-top:80px;">
   <div style="font-size:48px;margin-bottom:16px;">📈</div>

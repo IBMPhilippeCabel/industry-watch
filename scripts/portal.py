@@ -119,7 +119,6 @@ def render_portal(cfg, output_dir, updated, gc_snippet):
   <nav><a href="stats.html" class="stats-btn">📊 Stats</a></nav>
 </header>
 <div class="portal-wrap">
-  <p class="portal-updated">Last updated: <time>{updated}</time></p>
   {content_sections}
 </div>
 {_portal_footer_html(updated)}
