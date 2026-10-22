@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-22T20:24:00Z",
+ "updated": "2026-10-22T22:25:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Mars Corp sees a mix of marketing shifts, tech focus, and green investments shaping its next quarter.",
+  "hook": "Mars Corp’s day highlights marketing shifts, investment moves, and sustainability pushes across petcare, FMCG, and tech.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars Petcare appoints new legal head while boosting inventory and marketing ahead of holidays.",
-   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners prioritize nutrition and wellness.",
-   "🍫 Snacking & FMCG Market": "Pringles challenges brand loyalty, while M&M’s launches spooky cinema and exits a local newspaper.",
-   "⚡ Tech & Operations": "Danone and others emphasize data‑driven quality and AI in sales, with new leadership driving product and operational excellence.",
-   "🌱 Sustainability & Sourcing": "Multiple green projects fund renewable energy, carbon removal, and virtual power plants, underscoring a surge in sustainable infrastructure."
+   "🤝 Mars Corporate & M&A": "Mars Petcare is boosting inventory and personalization ahead of holidays while appointing a new legal head.",
+   "🐾 Petcare & Royal Canin": "Retail and e‑commerce are reshaping veterinary pet food sales, with owners prioritizing nutrition and wellness for senior pets.",
+   "🍫 Snacking & FMCG Market": "Pringles is challenging brand loyalty with new marketing, while M&M’s launches a spooky cinema event and exits a local newspaper group.",
+   "⚡ Tech & Operations": "Manufacturers are strengthening AI adoption in sales and marketing, focusing on data‑driven quality and operational excellence.",
+   "🌱 Sustainability & Sourcing": "Hyundai and Peak Energy launch a renewable platform, and Amazon backs a nuclear project, reflecting diverse green investment strategies."
   }
  },
  "articles": [
@@ -39,6 +39,15 @@
    "date": "2026-10-22",
    "ai_summary": "M&M's unleashes spooky cinema chaos in a creative salon setting. The event blends candy branding with a horror-themed film experience.",
    "excerpt": "M&M's Unleash Spooky Cinema Chaos Creative Salon"
+  },
+  {
+   "title": "Ageing pets theme at international Royal Canin Vet Symposium - Vet Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON081S01KSjVUQk5GMzJMOTA2SzFiYjBFWEV4ZVNpZzZsOVZHTU80d2FWM0cydU1vU3RmbGxXX0syZmpsZTd4XzJtbG43Mkh0NEZMWFpQUVlEWGhsZ0NoQ3JhUGdvWDkyb1hMMHg0VFlpSm9mdEdnMlpYUVA2QXJOV2hjeHdHZndNNEVncm1WUUxGYmZBalN0R2JYSGVsSEF2SDhMR3JJRGp4c3FqZWc?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "The article discusses the focus on ageing pets at the Royal Canin Vet Symposium. It highlights the symposium’s emphasis on veterinary topics related to older animals.",
+   "excerpt": "Ageing pets theme at international Royal Canin Vet Symposium Vet Times"
   },
   {
    "title": "Together forever: M&M's quiet departure from Shell Rock - Community Newspaper Group",

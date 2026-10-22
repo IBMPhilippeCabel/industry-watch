@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-22T20:24:00Z",
+ "updated": "2026-10-22T22:25:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Today’s highlights show L’Oréal’s earnings surge, new sustainable packaging trends, and strategic moves in fragrance and tech.",
+  "hook": "Sustainability, AI, and strategic shifts shape today’s beauty landscape.",
   "categories": {
-   "📈 Market": "Retail supply chains await AI‑powered shopping, while Nivea Sun’s five‑year Tour de France partnership expands European sun protection.",
-   "💄 Brands & Retail": "L’Oréal’s Q3 earnings jump was driven by its Professional Products and Dermatological Beauty divisions, and Puig’s sales rose 7.2% across all regions.",
-   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while the company shifts ownership.",
-   "💡 Innovation & Regulation": "Regulatory pressure has spurred the adoption of six sustainable packaging materials, and Musely’s affiliate revenue grew 1,200% through partner insights."
+   "📈 Market": "Retail supply chains await AI-powered shopping, while Nivea Sun partners with the Tour de France for a five‑year promotion across Europe.",
+   "💄 Brands & Retail": "L’Oréal’s Q3 earnings were driven by its Professional Products and Dermatological Beauty divisions, and Puig’s sales rose 7.2% across all regions.",
+   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while the partner shifts to a new ownership structure.",
+   "💡 Innovation & Regulation": "Target’s revamped Soho location aims to become a discovery destination amid competition, and six sustainable packaging materials are being adopted under regulatory pressure."
   }
  },
  "articles": [
+  {
+   "title": "Target unveils its revamped Soho location as big-box stores seek to become retail destinations",
+   "url": "https://www.glossy.co/fashion/target-unveils-its-revamped-soho-location-as-big-box-stores-seek-to-become-retail-destinations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-22",
+   "ai_summary": "Target unveils its revamped Soho location as big-box stores seek to become retail destinations — As the Minneapolis-based retailer faces increased competition and ongoing calls for boycotts, the design-forward space is tasked with repositioning Target as a space for discovery.",
+   "excerpt": "As the Minneapolis-based retailer faces increased competition and ongoing calls for boycotts, the design-forward space is tasked with repositioning Target as a space for discovery."
+  },
   {
    "title": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
    "url": "https://www.glossy.co/sponsored/how-prescription-skincare-brand-musely-drove-1200-affiliate-revenue-growth/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -191,6 +200,15 @@
    "date": "2026-10-22",
    "ai_summary": "Puig hits record Q3 sales on makeup and fragrance growth — The Spanish beauty group delivered record third-quarter sales in 2026, with net revenue reaching EUR 1.39 billion (USD 1.12 billion), up 5.6% on a like-for-like (LFL) basis and 7.2% at reported exchange rates. The perfor…",
    "excerpt": "The Spanish beauty group delivered record third-quarter sales in 2026, with net revenue reaching EUR 1.39 billion (USD 1.12 billion), up 5.6% on a like-for-like (LFL) basis and 7.2% at reported exchange rates. The perfor…"
+  },
+  {
+   "title": "Beauty drives Procter & Gamble's growth as group raises forecasts",
+   "url": "https://www.premiumbeautynews.com/en/beauty-drives-procter-gamble-s,28395",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Beauty drives Procter & Gamble's growth as group raises forecasts — Shares of Procter & Gamble (P&G) popped on Thursday, October 22, after the group reported broad-based sales growth despite worsening inflation pressures buffeting consumers of the company's household goods. P&G, whose br…",
+   "excerpt": "Shares of Procter & Gamble (P&G) popped on Thursday, October 22, after the group reported broad-based sales growth despite worsening inflation pressures buffeting consumers of the company's household goods. P&G, whose br…"
   },
   {
    "title": "Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
