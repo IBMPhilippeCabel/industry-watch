@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-22T04:28:00Z",
+ "updated": "2026-10-22T06:32:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Mars Corp sees strategic shifts in M&A, petcare, sustainability, tech, and snacking, with new investments and product launches shaping the day.",
+  "hook": "Mars Corp sees growth in sustainability, petcare, and tech while navigating M&A and market shifts.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars Petcare selects new legal head, while the company ramps up inventory investment and marketing ahead of holidays, reflecting a focus on operational readiness.",
-   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners prioritize nutrition and wellness, driving trends toward longevity and smoother transitions from adult to senior pets.",
-   "🍫 Snacking & FMCG Market": "M&M’s quietly exits Shell Rock Community Newspaper Group, while Halloween campaigns feature Fanta, McDonald’s, Bacardi, and M&M’s, underscoring seasonal marketing shifts.",
-   "⚡ Tech & Operations": "Danone’s data‑driven quality journey and strong AI adoption in sales highlight manufacturers’ focus on high‑value applications and operational excellence.",
-   "🌱 Sustainability & Sourcing": "Major green investments surge, from Ara Partners’ $2.5 bn Conventional Energy Fund to Amazon’s nuclear project and Rabot’s virtual power plant funding, signaling a push toward clean energy."
+   "🤝 Mars Corporate & M&A": "Mars Petcare appoints a new legal head and boosts inventory and marketing ahead of the holiday season.",
+   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners focus on nutrition, wellness and longevity for pets.",
+   "🍫 Snacking & FMCG Market": "M&M’s quietly exits Shell Rock, while Halloween campaigns feature Fanta, McDonald’s, Bacardi and M&M’s.",
+   "⚡ Tech & Operations": "Danone’s data‑driven quality journey and strong AI adoption in sales and marketing highlight a focus on innovation and operational excellence.",
+   "🌱 Sustainability & Sourcing": "Hyundai and Peak Energy launch a renewable platform, Amazon backs a nuclear project, and Rabot raises funds for virtual power plants."
   }
  },
  "articles": [
@@ -111,6 +111,15 @@
    "date": "2026-10-20",
    "ai_summary": "",
    "excerpt": "The Candy Brand Ice Cream Bar That Outshines Snickers And Twix (And Tastes Better Than The Original) Tasting Table"
+  },
+  {
+   "title": "The Candy Brand Ice Cream Bar That Outshines Snickers And Twix (And Tastes Better Than The Original) - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2xyeHJiekN4Nk42dmVuVS05NmdTNTQ1cVV6S3pjMWNHMnlrRW5aWC1QSTFmeW45aklVZ25WQTA5cGtpUE16TG91VVVvd0ZxWVdTV1BYZjFUcHFEaWRRaFJrWDVLMVZWVnpleTNqZHJvYnd4b184QVB2OFBYbVoteEt1cmhPdUk1?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-20",
+   "ai_summary": "The Candy Brand Ice Cream Bar That Outshines Snickers And Twix (And Tastes Better Than The Original) Yahoo",
+   "excerpt": "The Candy Brand Ice Cream Bar That Outshines Snickers And Twix (And Tastes Better Than The Original) Yahoo"
   },
   {
    "title": "Ghirardelli parent ousts CEO as growth slows",
@@ -345,6 +354,15 @@
    "date": "2026-10-19",
    "ai_summary": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities — EU markets regulator ESMA released its priorities for sustainability reporting enforcement. The focus will be on materiality, impacts, risks, opportunities and targets.",
    "excerpt": "EU markets regulator the European Securities and Markets Authority (ESMA) announced the release of its […]"
+  },
+  {
+   "title": "The International Snickers Flavor That Turns Up The Caramel To A Sweet New Level - Tasting Table",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2VlN2tDdThMdTRwSW0wdnEwUVpyZFQ1YWNITjgxQWF2elVackJVNU5iVmRNcktPdVZvNmNZblR5dk1vazJNVW9jXzE1Wk82ZnJZZ19lSVg0VldhYjVCVW0yNVk3X3lpNERjdnZTbnNRVllIWlBWZXFZZHVaLWZOeA?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-19",
+   "ai_summary": "The International Snickers Flavor That Turns Up The Caramel To A Sweet New Level Tasting Table",
+   "excerpt": "The International Snickers Flavor That Turns Up The Caramel To A Sweet New Level Tasting Table"
   },
   {
    "title": "Exploitative Portfolio Effects In EU Merger Control: From Mars/Kellanova to the Draft Merger Guidelines - PYMNTS.com",
