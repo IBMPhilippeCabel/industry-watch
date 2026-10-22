@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-22T14:30:00Z",
+ "updated": "2026-10-22T16:30:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Pet food sees new flavors, plant‑based growth, and pricing tweaks while markets expand and regulatory focus shifts to pet‑owner trends.",
+  "hook": "Pet food sector sees growth in pet ownership, legal focus, flavor innovation, and packaging rebound.",
   "categories": {
-   "📈 Market": "Unconditional launches a premium brand at SUPERZOO 2026 and Mexico’s pet‑related businesses grow 5.2% between 2023 and 2025.",
-   "⚖️ Regulation": "US rental operators report rising pet ownership, while Mars Petcare emphasizes legal excellence in its department selection.",
-   "💡 Innovation": "Pet Honesty, HenArt, and Joyride Dogs introduce new peanut butter, mycoprotein, and single‑ingredient treats, and manufacturers adjust pricing strategies for better value.",
+   "📈 Market": "Distribution expansion and a rebound in packaging equipment shipments signal a positive market outlook.",
+   "⚖️ Regulation": "Pet ownership rises in rentals while legal leadership gains prominence in the industry.",
+   "💡 Innovation": "New flavor options and a growing plant‑based market highlight innovation momentum.",
    "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "5 takeaways: Leading through crisis takes calm, credibility and courage",
+   "url": "https://www.petfoodindustry.com/business-strategy/article/15838195/5-takeaways-leading-through-crisis-takes-calm-credibility-and-courage",
+   "source": "Petfood Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-22",
+   "ai_summary": "Former Pet Food Institute CEO Dana Brooks Christy shares five leadership lessons emphasizing calm, credibility, and courage drawn from three decades in food, agriculture, and policy.",
+   "excerpt": "Former Pet Food Institute CEO Dana Brooks Christy shared five leadership lessons from three decades in food, agriculture and policy..."
+  },
   {
    "title": "Pet Honesty launches peanut butter flavor of Hip + Joint soft chews",
    "url": "https://www.petfoodprocessing.net/articles/21010-pet-honesty-launches-peanut-butter-flavor-of-hip-joint-soft-chews",
@@ -65,6 +74,15 @@
    "date": "2026-10-22",
    "ai_summary": "Mexico sees growth in pet-related businesses, with a 5.2% increase between 2023 and 2025 and 42,600 registered companies last year. The data comes from the National Statistical Directory of Economic Units (DENUE) published by the Nation.",
    "excerpt": "Pet-related businesses in Mexico grew 5.2% between 2023 and 2025, with 42,600 registered companies in the country last year. Data from the National Statistical Directory of Economic Units (DENUE), published by the Nation…"
+  },
+  {
+   "title": "Ageing pets theme at international Royal Canin Vet Symposium - Vet Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON081S01KSjVUQk5GMzJMOTA2SzFiYjBFWEV4ZVNpZzZsOVZHTU80d2FWM0cydU1vU3RmbGxXX0syZmpsZTd4XzJtbG43Mkh0NEZMWFpQUVlEWGhsZ0NoQ3JhUGdvWDkyb1hMMHg0VFlpSm9mdEdnMlpYUVA2QXJOV2hjeHdHZndNNEVncm1WUUxGYmZBalN0R2JYSGVsSEF2SDhMR3JJRGp4c3FqZWc?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-10-22",
+   "ai_summary": "The Royal Canin Vet Symposium focuses on the theme of ageing pets, as reported by Vet Times.",
+   "excerpt": "Ageing pets theme at international Royal Canin Vet Symposium Vet Times"
   },
   {
    "title": "Food futurist Jack Bobo keynotes Petfood Forum 2027",
