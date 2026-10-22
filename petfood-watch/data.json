@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-22T08:36:00Z",
+ "updated": "2026-10-22T10:29:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Pet‑food news today highlights Mexico’s growing pet‑business sector, a Benelux consolidation, and new mycoprotein products, while U.S. rentals see more pet tenants and a Pedigree recall.",
+  "hook": "Mexico’s pet‑related sector expands while US rentals welcome more pet owners, HenArt innovates with mycoprotein dog food, and no major M&A moves today.",
   "categories": {
-   "📈 Market": "Mexico’s pet‑business sector grew 5.2% from 2023 to 2025, and Fressnapf | Maxi Zoo is consolidating its Benelux operations into a single cluster.",
-   "⚖️ Regulation": "U.S. rental operators report a rise in pet‑owning tenants, while Mars Petcare appoints a new legal head and Pedigree recalls a dog‑food line for metal and plastic pieces.",
-   "💡 Innovation": "HenArt’s new Levendo dog food uses Enifer mycoprotein, Joyride Dogs expands a single‑ingredient treat line, and manufacturers adjust pricing and pack sizes to balance value and profit.",
+   "📈 Market": "Mexico’s pet‑related businesses grew 5.2% between 2023 and 2025, adding 42,600 new companies.",
+   "⚖️ Regulation": "US rental operators report a rise in pet‑owning tenants, with 81% noting more pets in their portfolios.",
+   "💡 Innovation": "HenArt introduced a dog food line featuring Enifer mycoprotein to boost digestibility and palatability.",
    "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "Swedencare’s pharma and dental growth offsets US weakness in Q3",
+   "url": "https://globalpetindustry.com/news/swedencares-pharma-and-dental-growth-offsets-us-weakness-in-q3/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Swedencare’s pharma and dental growth offsets US weakness in Q3 — Swedencare reported revenue of SEK 732.2 million in the third quarter of fiscal year 2026, up 3% year-on-year. This represented slower growth compared with the 11% increase…",
+   "excerpt": "Swedencare reported revenue of SEK 732.2 million ($77.6M/€67.4M) in the third quarter of fiscal year (FY) 2026, ended 30 September, up 3% year-on-year (YoY). This represented slower growth compared with the 11% increase …"
+  },
   {
    "title": "Mexico: New retail formats and players gain ground",
    "url": "https://globalpetindustry.com/news/mexico-new-retail-formats-and-players-gain-ground/",

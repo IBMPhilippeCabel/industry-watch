@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-22T08:36:00Z",
+ "updated": "2026-10-22T10:29:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Pernod Ricard raises €1.5 billion in hybrid bonds while Heineken faces a €100 million Greek damages order, amid new streaming and ready‑to‑drink launches.",
+  "hook": "Heineken and Pernod Ricard move on finance and new tech while the market sees shifts in contracts and new entrants.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard completes a €1.5 billion hybrid bonds issuance to reduce debt.",
-   "📈 Market": "Heineken ordered to pay over €100 million in a Greek competition case, while Whitebox Cocktails enters the U.S. market.",
-   "🍸 Spirits & Premium": "Tax officials in India investigate Pernod Ricard and Diageo’s bulk Scotch imports classification.",
-   "🍺 Beer & Brewing": "Adnams reviews its canning and bottling contracts as PepsiCo shuts a Tennessee bottling plant.",
-   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, and MGM Resorts introduces high‑octane fan experiences for the 2026 Formula 1 Heineken Las Vegas Grand Prix."
+   "🤝 Strategy & M&A": "Pernod Ricard raises €1.5 billion in hybrid bonds to reduce debt, while Heineken faces a €111 million damages payment in Greece.",
+   "📈 Market": "Whitebox Cocktails enters the U.S. market and Adnams reviews its canning and bottling contracts amid broader industry changes.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, marking a new digital engagement strategy."
   }
  },
  "articles": [
+  {
+   "title": "Heineken to pay €111 million in damages to Macedonian Thrace Brewery - The Drinks Business",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdndIZmdjcTNWVXFRUHJMZ24tNm5aMTNiNTQ3Y0pCT1NLZjdCS2o2bUU2S1RWaVlNdEhJQzcyQzEwUEVaanA2c0xIRE5LeTdfMXBSSHktWGV1cUVwcThncVVId0Z4N2RtaUtKamRNbHFnV1NPTEpaSkZCTVM4aDhDam1ZMmZ0cHBfZ21Ea2RKMHhrcC1tMkVzZmdIR3R5U3o5Ml9CX2dLcnUtSzBfUmNfZA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "Heineken agrees to pay €111 million in damages to Macedonian Thrace Brewery, according to The Drinks Business.",
+   "excerpt": "Heineken to pay €111 million in damages to Macedonian Thrace Brewery The Drinks Business"
+  },
+  {
+   "title": "Charli XCX & Absolut Vodka Toast Partnership With Extra Dirty Martini Recipe - Maxim",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0xQVG9IS2xid0tDMUxWbGdXRkFQUDJNUTNaU0VmckdyNU9taHBYa1BKb2hQa3hOTWxxS3VvMnpTMTRMclUzaDRiT3pCQzdlVW1UWHZWMFVKdE9FYXk4dkZBbHA1QllBY3p6S09EYTFZc0JRUjhCZkNqT3g2Z3ZRMEFWU1BmTVVyODdtdDdzNjlWZjdaNUUzd1I0ZXJNRGRIQWhKd3hSeTdTN0Nk?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "Charli XCX partners with Absolut Vodka to promote a new Toast and Extra Dirty Martini recipe, highlighted in a Maxim feature.",
+   "excerpt": "Charli XCX & Absolut Vodka Toast Partnership With Extra Dirty Martini Recipe Maxim"
+  },
+  {
+   "title": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VkRlh1TXRhMHpxY2VRS1BKSG9BRDBsS1hoRWxDdVVXSzNfZmVnOTRaOHhNaEZQMjFWcWdieVJCbTdpUG1CV21pZklmOHFMRFJiaHdkaWlTZXlfMVhwYVlXZHpJMmV2U3kzdHFVa2hQMmNSRV9UZ0pTaGFfajZWbWRNM0twWm5xc09VUldHdG9UeS12VV9VaTd5Z1RLLVNyTjZiYzdB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "Pernod Ricard plans to issue EUR1.5 billion in hybrid bonds, as detailed on Marketscreener.com.",
+   "excerpt": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds www.marketscreener.com"
+  },
+  {
+   "title": "Heineken and Amazon Ads Launch World's First Streaming Service for Nights Out — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeTRnVWNhWWY5Y3A2LWVMUGFPNXBNWGFmSlNhSmVsY2xYdHNPbnZLR3hPc05VTDNBN0plekxiREExd3M4VlBUb3RiUHA0alVaTzdaTEN2cjJZNlNwNHNBOThBM0dfRGxOSnpSaHhSUzNrZzNvNThyZXJZZzFiYWxieVBybVd1ajJwV3h3UFdQX0Y4VGFubEFFRnB4cXlqQTExTDlqZ0ZB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-10-22",
+   "ai_summary": "Heineken and Amazon Ads introduce the first streaming service for nights out, as reported by LBB – Little Black Book.",
+   "excerpt": "Heineken and Amazon Ads Launch World's First Streaming Service for Nights Out — LBB LBB - Little Black Book"
+  },
   {
    "title": "Attorney Jameson Doub Appointed to Local Rules Committee for U.S. Bankruptcy Court for the Eastern District of North Carolina - Ward and Smith, P.A.",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSmMwZXVvMlJnVlQ2UzNkSTFMTXVqNVJEcFRwODBOSzUtczlHRFc3ODRRWWpfMy1QRHZkTkc0MElOS3lWVTRGZ2U2QlBMREY4OTVWclA1ZndPX2pjemxWVzdMYlUzbkdCbGRYLTItQVV3QjI2Q2hULTA1akg2Um9LM3lUZ1RzYlpremNiUmhYN2tMNW02T3pHS3p3WGVKUUtud0RuX2drYmRyY1lIa0ZvTDhCbXA2RWdHektVUG9rSXZNRkgtS2hBY0F5MHBDY1ZEMURqNUZDZVYwY0RXUmFXVzFRNDFZano5ckF6bDNEZw?oc=5",
