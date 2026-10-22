@@ -4,7 +4,6 @@
 Groq (free plan) is optional: without GROQ_API_KEY, or if a call fails, articles are stored
 without `ai_summary` and no briefing is written. The build never fails because of Groq.
 """
-import html
 import json
 import os
 import re
@@ -17,7 +16,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-from common import map_category, mentions, norm, parse_args, pick_site, site_categories
+from common import clean_text, map_category, mentions, norm, parse_args, pick_site, safe_url, site_categories
 
 ROOT = Path(__file__).resolve().parent.parent
 MAX_PER_SOURCE = 15
@@ -85,7 +84,7 @@ def fetch(url):
 
 
 def strip_tags(text):
-    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", text or ""))).strip()
+    return clean_text(text)
 
 
 def _title_key(title):
@@ -141,8 +140,10 @@ def load_articles():
         print(f"{name}: {len(items)} articles")
         for item in items:
             title = strip_tags(item.findtext("title"))
-            link = (item.findtext("link") or "").strip()
+            link = safe_url(item.findtext("link"))
             if not title or not link:
+                if title:
+                    print(f"WARN {name}: item skipped, unusable link: {title[:60]!r}", file=sys.stderr)
                 continue
             summary = strip_tags(item.findtext("description"))
             tags = " ".join(c.text or "" for c in item.findall("category"))

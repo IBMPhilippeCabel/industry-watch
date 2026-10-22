@@ -21,6 +21,10 @@ de marques** et la **grille de cartes**. Module importé par `render.py`, pas un
 - Chaque carte affiche **2 marques au maximum** (ordre alphabétique) mais porte **toutes** les marques détectées dans `data-brands`, donc le filtre fonctionne même pour les marques non affichées.
 - Les filtres eux-mêmes sont du JavaScript (`assets/filter.js`), pas du Python.
 
+## Sécurité
+- Le lien d'un titre passe par `safe_url` : s'il est invalide (donnée ancienne ou modifiée à la main), le titre est affiché **sans lien**.
+- Titre, extrait, source, catégorie, résumé IA et briefing sont tous échappés par `esc()`.
+
 ## Exemple
 ```python
 from cards import tracked_brands

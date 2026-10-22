@@ -24,7 +24,8 @@ class SiteCtx:
 def jsonld_tag(obj):
     if not obj:
         return ""
-    raw = json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")
+    # < and > as \u003c / \u003e: same JSON for a reader, but no "<!--" or "<script" can reach the HTML parser.
+    raw = json.dumps(obj, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e")
     return f'<script type="application/ld+json">{raw}</script>'
 
 

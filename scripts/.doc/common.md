@@ -15,6 +15,8 @@ article soit accepté par l'un et rejeté par l'autre. Ce n'est pas un script ex
 | `esc`, `art_day`, `updated_iso` | valeur / article / horodatage | échappement HTML, jour d'un article, date ISO 8601 (côté rendu). |
 | `icon_src(icon_cfg)` | bloc `site_icon` / `portal_icon` | chemin local (si le fichier existe) sinon URL, sinon `None`. |
 | `industries(site_cfg)`, `related_sites(sites, site_cfg)` | bloc du site (+ liste des sites) | ids des marchés d'un compte ; groupes « Industry » / « Accounts » liés. |
+| `safe_url(url)` | un lien venant d'un flux | le lien s'il est `http(s)` absolu, sans espace ni caractère de contrôle ; sinon `""`. À appeler **avant tout `href`** : `esc()` protège les guillemets mais pas le schéma `javascript:`. |
+| `clean_text(text)` | du texte de flux (HTML possible) | texte brut : balises et commentaires retirés avant et après décodage des entités. |
 | `ROOT`, `ASSETS` | — | racine du dépôt, dossier `scripts/assets/`. |
 
 ## Exemples

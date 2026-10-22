@@ -28,7 +28,9 @@ ensuite que mettre en forme.
 2. `load_articles()` — lit chaque flux (15 articles max par source), puis :
    - **sites compte** (`account_filters`) : garde un article seulement s'il mentionne un mot-clé du compte, **y compris pour les flux Google News**. La comparaison se fait sur le texte normalisé (accents, apostrophes `’`/`'`, casse) et en **mot entier** (`extra` ne matche pas `extraordinary`) ;
    - `classify()` — repère M&A / Regulation / Innovation par mots-clés et traduit ce thème vers la catégorie **du site** (`💡 Innovation` → `💡 Innovation & RTD`) ; à défaut, `default_category` de la source ;
-   - déduplique par lien **et** par titre normalisé.
+   - déduplique par lien **et** par titre normalisé ;
+   - **n'accepte que des liens `http(s)` absolus** (`safe_url`) : un article dont le lien est `javascript:`, `data:`, relatif ou contient un espace est écarté avec un `WARN` ;
+   - nettoie titres et extraits (`clean_text`) : balises retirées **avant et après** le décodage des entités, pour qu'un flux qui envoie son HTML en `&lt;script&gt;` ne le fasse pas réapparaître comme vraie balise. Un `<` ou `>` isolé (« marge > 20 % ») est conservé.
 3. Retire ce qui est déjà stocké ; s'il ne reste rien : « No new article… nothing written », code `0`.
 4. `summarize()` — par lots de 6, 20 s de pause entre lots (quota Groq gratuit). Prompt construit avec `site_name` et `site_description`.
 5. Écrit les fichiers jour par jour.

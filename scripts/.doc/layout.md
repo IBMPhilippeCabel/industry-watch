@@ -38,6 +38,7 @@ html = shell(ctx, "L'Oréal Watch — news", "<p>...</p>", "2026-10-22 12:00 UTC
 ## Limites connues
 - Le HTML est écrit en **chaînes f** : un changement de structure demande de relire `shell()` en entier.
 - La liste des sites du menu « Sites » est lue dans `ctx.global_cfg` : une icône absente n'affiche rien (pas de repli emoji).
-- `jsonld_tag` n'échappe que `</` : suffisant pour les données actuelles, pas une garantie générale.
+- `jsonld_tag` écrit `<` et `>` en `\u003c` / `\u003e` : le JSON décodé est identique, mais aucune séquence `<!--` ou `<script` ne peut atteindre le parseur HTML (qui, sinon, pouvait avaler la suite de la page).
+- Pas de Content-Security-Policy : elle demanderait de retirer les `onerror` inline et un test en navigateur.
 - Le pied de page du portail vit dans `portal.py` (texte presque identique, copié).
 - Aucun test automatisé.

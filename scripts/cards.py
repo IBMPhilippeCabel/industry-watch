@@ -2,7 +2,7 @@
 import hashlib
 import re
 
-from common import art_day, esc, map_category, mentions, norm
+from common import art_day, esc, map_category, mentions, norm, safe_url
 
 
 def art_id(a):
@@ -95,13 +95,17 @@ def cards_section(ctx, articles):
 
         # Stored categories may predate the site's category list: show them under the matching button.
         cat = map_category(a["category"], ctx.categories) or a["category"]
+        link = safe_url(a["link"])
+        title_html = (
+            f'<a href="{esc(link)}" target="_blank" rel="noopener">{esc(a["title"])}</a>' if link else esc(a["title"])
+        )
         rows.append(
             f'<article class="card" id="{art_id(a)}" data-cat="{esc(cat)}" data-brands="{esc(brands_attr)}">'
             f'<div class="meta"><span class="tag">{esc(cat)}</span>'
             f'{brand_tags}'
             f'<span>{esc(a["source"])}</span><time datetime="{d}">{d}</time></div>'
             f'{ai_html}'
-            f'<h2><a href="{esc(a["link"])}" target="_blank" rel="noopener">{esc(a["title"])}</a></h2>'
+            f'<h2>{title_html}</h2>'
             f'<p>{esc(a["summary"])}</p></article>'
         )
 

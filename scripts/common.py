@@ -5,6 +5,7 @@ import re
 import unicodedata
 from functools import lru_cache
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
 ASSETS = Path(__file__).resolve().parent / "assets"
@@ -116,3 +117,30 @@ def related_sites(sites, site_cfg):
     parents = [s for s in sites if s["id"] in industries(site_cfg)]
     children = [s for s in sites if site_cfg["id"] in industries(s)]
     return [(label, group) for label, group in (("Industry", parents), ("Accounts", children)) if group]
+
+
+def safe_url(url):
+    """The url if it is an absolute http(s) link without control characters or spaces, else "".
+
+    `esc()` protects attributes from quotes but not from `javascript:` / `data:` schemes: any link
+    that comes from a feed must pass through here before it is written into an href.
+    """
+    url = (url or "").strip()
+    if re.search(r"[\x00-\x20\x7f]", url):
+        return ""
+    parts = urlparse(url)
+    return url if parts.scheme in ("http", "https") and parts.netloc else ""
+
+
+def clean_text(text):
+    """Plain text from feed markup: tags and comments removed, entities decoded.
+
+    Markup is removed again after decoding, because a feed may ship its HTML as entities
+    (`&lt;script&gt;`), which would otherwise turn into a real tag in the stored text. Only things
+    that look like a tag or a comment are removed: a lone `<` or `>` ("margin > 20%") is real text
+    and stays (every HTML sink escapes it with esc(), and the JSON-LD writer encodes it).
+    """
+    markup = re.compile(r"<!--.*?(?:-->|$)|</?[A-Za-z!?][^>]*>", re.S)
+    text = markup.sub(" ", text or "")
+    text = markup.sub(" ", html.unescape(text))
+    return re.sub(r"\s+", " ", text).strip()
