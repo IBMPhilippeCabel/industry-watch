@@ -28,7 +28,7 @@ qui liste tous les sites. Aucun appel réseau, aucune IA.
 - **Thèmes** : un bouton par catégorie du site (`categories`, sinon les `default_category` distincts des sources). Un article dont la catégorie stockée n'existe plus (ancien nom) est affiché sous la catégorie **équivalente** du site (`map_category`).
 - **Marques** : boutons construits à partir de `account_filters.owned_brands` + `in_acquisition` + `brands`. Affichés si **au moins 2** marques sont trouvées dans les articles affichés. Détection en mot entier, insensible aux accents, à la casse et aux apostrophes.
 - **Briefing** : une ligne par catégorie **du site** ayant du contenu.
-- **Relations industrie ↔ comptes** : la clé `industry` d'un site compte (id ou liste d'ids) produit une ligne « Industry : … » sous la date de mise à jour du compte, la ligne inverse « Accounts : … » sur le site marché, et la même mention sur les cartes du portail. Aucune validation : un id inexistant est ignoré, et la relation n'est pas déduite des listes de marques.
+- **Relations industrie ↔ comptes** : la clé `industry` d'un site compte (id ou liste d'ids) produit une ligne « Industry : … » sous le titre du compte, la ligne inverse « Accounts : … » sur le site marché, et la même mention sur les cartes du portail. Aucune validation : un id inexistant est ignoré, et la relation n'est pas déduite des listes de marques.
 
 ## Cas particuliers
 - `status: "under_construction"` ou **aucun article** : page d'attente 🚧 à la place du site.

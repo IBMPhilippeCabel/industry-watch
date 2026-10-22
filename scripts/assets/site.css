@@ -56,7 +56,6 @@
   ul.months { list-style:none; padding:0; margin:20px 0 32px; max-width:600px; }
   ul.months li { background:var(--card); border:1px solid var(--border); border-radius:8px; padding:10px 16px; margin-bottom:8px; display:flex; justify-content:space-between; }
   .muted { color:var(--muted); }
-  .page-updated { font-size:12px; color:var(--muted); margin:12px 0 4px; }
   .site-rel { font-size:13px; color:var(--muted); margin:8px 0 0; }
   .site-rel span { font-weight:600; }
   .site-rel a { color:var(--accent); text-decoration:none; }

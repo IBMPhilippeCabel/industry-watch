@@ -24,9 +24,9 @@ Dataclass qui remplace les anciennes variables globales de `render.py`. Elle est
 | `page_jsonld(ctx, name, path, description, articles)` | données structurées schema.org (`WebSite` + `CollectionPage` + liste de 50 articles max). |
 | `jsonld_tag`, `item_list_jsonld` | sérialisation du JSON-LD (échappe `</`) et liste des articles. |
 | `site_header_icon`, `favicon_tag` | icône du titre ; favicon (retombe sur l'icône du portail). |
-| `footer_html(updated)` | avertissement + date de mise à jour. |
+| `footer_html(updated)` | avertissement, mention sur l'icône 🤖 (contenu généré par IA, peut être inexact) + date de mise à jour. |
 | `sites_dropdown_html`, `archive_dropdown_html`, `sources_dropdown_html` | trois menus de l'en-tête. |
-| `site_relations_html(related)` | lignes « Industry / Accounts » sous la date d'un site. |
+| `site_relations_html(related)` | lignes « Industry / Accounts » sous le titre d'un site. |
 | `render_under_construction(ctx, site, updated)` | page d'attente 🚧 (`assets/under_construction.css`). |
 
 ## Exemple

@@ -17,7 +17,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from cards import briefing_block, cards_section
-from common import ASSETS, ROOT, parse_args, pick_site, related_sites, site_categories, updated_iso
+from common import ASSETS, ROOT, parse_args, pick_site, related_sites, site_categories
 from layout import (SiteCtx, archive_dropdown_html, page_jsonld, render_under_construction,
                     shell, site_relations_html, sources_dropdown_html)
 from loader import load_all
@@ -100,8 +100,7 @@ def main():
 
     # ── <id>/index.html (rolling N days) ─────────────────────────────
     recent = [a for a in articles if (a.get("date") or a["first_seen"].isoformat())[:10] >= cutoff.isoformat()]
-    updated_line = f'<p class="page-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
-    body = (updated_line + site_relations_html(related_sites(GLOBAL_CFG["sites"], CFG))
+    body = (site_relations_html(related_sites(GLOBAL_CFG["sites"], CFG))
             + briefing_block(CTX, briefing) + cards_section(CTX, recent))
     home_desc = (briefing[1].get("hook") if briefing else "") or CTX.desc
     (site / "index.html").write_text(
@@ -115,7 +114,7 @@ def main():
 
     # ── <id>/archive/YYYY-MM.html ─────────────────────────────────────
     for ym, items in months.items():
-        body = updated_line + cards_section(CTX, items)
+        body = cards_section(CTX, items)
         desc = f"{CTX.name} archive {ym}: {len(items)} articles."
         (archive / f"{ym}.html").write_text(
             shell(CTX, f"{CTX.name} — Archive {ym}", body, updated, CTX.filter_js,
