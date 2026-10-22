@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-22T10:29:00Z",
+ "updated": "2026-10-22T12:33:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Mars Corp sees growth in sustainability, petcare, and tech while navigating M&A and market shifts.",
+  "hook": "Mars Corp focuses on sustainability investments and product strategy amid market shifts.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars Petcare appoints a new legal head and boosts inventory and marketing ahead of the holiday season.",
-   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners focus on nutrition, wellness and longevity for pets.",
-   "🍫 Snacking & FMCG Market": "M&M’s quietly exits Shell Rock, while Halloween campaigns feature Fanta, McDonald’s, Bacardi and M&M’s.",
-   "⚡ Tech & Operations": "Danone’s data‑driven quality journey and strong AI adoption in sales and marketing highlight a focus on innovation and operational excellence.",
-   "🌱 Sustainability & Sourcing": "Hyundai and Peak Energy launch a renewable platform, Amazon backs a nuclear project, and Rabot raises funds for virtual power plants."
+   "🤝 Mars Corporate & M&A": "Mars Petcare appoints a new legal head while boosting inventory and marketing ahead of holidays.",
+   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape pet food sales as owners prioritize nutrition and longevity.",
+   "🍫 Snacking & FMCG Market": "M&M’s quietly exits a local newspaper group, while Halloween campaigns feature major brands like Fanta and McDonald’s.",
+   "⚡ Tech & Operations": "Danone emphasizes data‑driven quality decisions and manufacturers strengthen AI in sales and marketing.",
+   "🌱 Sustainability & Sourcing": "Hyundai and Peak Energy launch a renewable platform, and Amazon backs a nuclear project at a former coal plant."
   }
  },
  "articles": [
@@ -309,6 +309,15 @@
    "date": "2026-10-19",
    "ai_summary": "Primo Brands opens first new factory post merger — The Arkansas plant will increase production for sparkling water brand Mountain Valley as demand for premium beverages surges.",
    "excerpt": "The Arkansas plant will increase production for sparkling water brand Mountain Valley as demand for premium beverages surges."
+  },
+  {
+   "title": "Can you taste the difference in dye-free Skittles and Starburst? - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd181NndfLVB5VkFFSzlTUmRfYjNIWGlDNTE2SG1Jd2E2ZTdBdG8tSG5iZE84bXNWZFZPNF9MaGV5VjBrbzA2NnptYWltOFFoazhnOTNlRVBYWWhKcWJWRlhMZklNNjB5MW1DNjdKSGNTT0xsck1kWW16WE5VMDh6d3dzb3AycGY1Q2VQZjcwZGJWc0ZYZHUwMGU4Vl9iSFZtM09yZHViaw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-19",
+   "ai_summary": "CBS News reports on a taste test comparing dye-free Skittles and Starburst. The article explores whether consumers can detect differences between the two products.",
+   "excerpt": "Can you taste the difference in dye-free Skittles and Starburst? CBS News"
   },
   {
    "title": "Proactive pet owners driving pet food longevity trends",

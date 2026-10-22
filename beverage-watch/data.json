@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-22T10:29:00Z",
+ "updated": "2026-10-22T12:33:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Heineken and Pernod Ricard move on finance and new tech while the market sees shifts in contracts and new entrants.",
+  "hook": "Heineken faces a €100m damages verdict while launching a streaming nights‑out service, and Pernod Ricard raises €1.5bn in hybrid bonds to trim debt.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard raises €1.5 billion in hybrid bonds to reduce debt, while Heineken faces a €111 million damages payment in Greece.",
-   "📈 Market": "Whitebox Cocktails enters the U.S. market and Adnams reviews its canning and bottling contracts amid broader industry changes.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, marking a new digital engagement strategy."
+   "🤝 Strategy & M&A": "Pernod Ricard raises €1.5bn in hybrid bonds to reduce debt, while Heineken agrees to pay €111m in damages to Macedonian Thrace Brewery.",
+   "📈 Market": "Heineken ordered to pay over €100m in a Greek competition case, and Whitebox Cocktails enters the U.S. market.",
+   "🍸 Spirits & Premium": "Charli XCX partners with Absolut Vodka to promote a new Toast and Extra Dirty Martini recipe.",
+   "🍺 Beer & Brewing": "Adnams reviews its canning and bottling contracts, and PepsiCo shuts a Tennessee bottling plant.",
+   "💡 Innovation & No-Low": "Heineken and Amazon Ads launch a streaming service for nights out, and MGM Resorts introduces fan experiences for the 2026 Formula 1 Heineken Las Vegas Grand Prix."
   }
  },
  "articles": [
+  {
+   "title": "Amante 1530 on why spritz growth is “just getting started”",
+   "url": "https://www.just-drinks.com/interviews/amante-1530-on-why-spritz-growth-is-just-getting-started/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Amante 1530 CEO Ana Rosentein discusses spritz growth and future plans for the brand.",
+   "excerpt": "Just Drinks speaks to CEO Ana Rosentein on the future plans for Amante 1530 and why she thinks the spritz segment has more room for growth."
+  },
+  {
+   "title": "Abbott to spin-off nutrition into standalone business",
+   "url": "https://www.just-drinks.com/news/abbott-nutrition-business-spin-off/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Abbott plans to spin off its global nutrition business into a standalone publicly traded company.",
+   "excerpt": "Abbott is to separate its global nutrition business into an independent, publicly traded company with approximately $8.5bn in annual sales."
+  },
   {
    "title": "Heineken to pay €111 million in damages to Macedonian Thrace Brewery - The Drinks Business",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdndIZmdjcTNWVXFRUHJMZ24tNm5aMTNiNTQ3Y0pCT1NLZjdCS2o2bUU2S1RWaVlNdEhJQzcyQzEwUEVaanA2c0xIRE5LeTdfMXBSSHktWGV1cUVwcThncVVId0Z4N2RtaUtKamRNbHFnV1NPTEpaSkZCTVM4aDhDam1ZMmZ0cHBfZ21Ea2RKMHhrcC1tMkVzZmdIR3R5U3o5Ml9CX2dLcnUtSzBfUmNfZA?oc=5",
@@ -84,6 +102,15 @@
    "date": "2026-10-22",
    "ai_summary": "Pernod Ricard completes a €1.5 billion hybrid bonds issuance, as reported by Yahoo Finance Singapore.",
    "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion Yahoo Finance Singapore"
+  },
+  {
+   "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUxIMGEyOGluc1FrdE1FbXdaaHNUSDQ0MW1SYzFXc2JkWlR2MkJmSFhkMmdscjJ1clp6WXdxVTJMaFVSR3huenBLeDFhbVlhYXd0U2IxYzhaX1pRa1c2TmVzRkFod3N2dF9OZlQ3X3p6Nm5oVnZDWDNka2h3TVpYbl9BZWNsY3hPenlhak5fc0ZLS3F5ZmFrRHVvbkhJYVRITWZMZlNQcEZsWTNX?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "Pernod Ricard completes a €1.5 billion hybrid bonds issuance.",
+   "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion Yahoo Finance"
   },
   {
    "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance Of €1.5 Billion - TradingView",

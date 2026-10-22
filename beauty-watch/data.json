@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-22T10:29:00Z",
+ "updated": "2026-10-22T12:33:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Today’s highlights span digital fragrance campaigns, AI‑driven beauty platforms, strategic stake sales, and expanding retail footprints across the globe.",
+  "hook": "Sustainable packaging gains traction while brands push new fragrance launches and market expansions.",
   "categories": {
-   "📈 Market": "Hair longevity trends and Sephora’s 2027 expansion plans signal a shift toward long‑term care and larger format stores in the UK.",
-   "💄 Brands & Retail": "Brands are leveraging celebrity marketing, expanding into Italy, and seeing sales gains, while retailers like Puig and Interparfums report strong growth and men’s skincare pop‑ups gain traction.",
-   "🤝 Strategy & M&A": "Beiersdorf’s upcoming earnings, Chanel’s divestment of Capsum, and a new CEO at Allies of Skin illustrate shifting leadership and ownership in the sector.",
-   "💡 Innovation & Regulation": "Digital fragrance campaigns, a new Italian hair brand, an oud collection, and AI‑powered beauty platforms highlight innovation across the industry."
+   "📈 Market": "Interparfums and Puig report strong Q3 sales, with Interparfums noting flat overall figures but growth in Asia and Puig showing gains across all regions.",
+   "💄 Brands & Retail": "Puig and Interparfums highlight fragrance and makeup growth, while a new Italian fragrance venture is announced by a brand founder.",
+   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, keeping a minority share, while Allies of Skin names a new CEO amid leadership changes.",
+   "💡 Innovation & Regulation": "Regulators push six sustainable packaging materials, and DEMIblue Natural Nails launches clean beauty products for breast cancer survivors."
   }
  },
  "articles": [
+  {
+   "title": "DEMIblue Natural Nails supports breast cancer survivors with clean beauty products - Ladue News",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNczl3S0NTZElQMGJuaFVVcHVKYU1hamhBMFpFaUFkcVp6U2VpeTlHcjZYOEhpUEZmUG4yelpsNmZTcDdzNlhjR1RyVkNhVTZUUm9fVmNnWlBqUllma1NXakphaDY1UkU0VWw5Um0zR1BHaXpNVllDNlEwdllCRWN5T3d3RVNpUjl3MUhPT2F4LVR3Q0tiSVBqR3JGUVY1OUV5MnRwQy1fX1VHX29Jc19lZTdHOEZxdFJvWWRZMkpkNDZ1bF8zazdtaVZ0VjZhcFF6ZGxlNlNZem1wZUxsNGFVRWthQlJBUnBZQUFqRGlOeEpWaWNpdDBV?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-22",
+   "ai_summary": "DEMIblue Natural Nails offers clean beauty products to support breast cancer survivors. The initiative is highlighted in Ladue News.",
+   "excerpt": "DEMIblue Natural Nails supports breast cancer survivors with clean beauty products Ladue News"
+  },
+  {
+   "title": "Nivea Sun gears up to become Official Sun Protection of the Tour de France",
+   "url": "https://www.cosmeticsbusiness.com/nivea-sun-official-sun-protection-tour-de-france",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Nivea Sun partners with the Tour de France for a five-year deal, promoting sun protection across 20 European countries starting March 2027.",
+   "excerpt": "The five-year partnership between Nivea Sun and the Tour de France will see the Beiersdorf-owned brand promote sun protection across 20 European countries, beginning in March 2027"
+  },
+  {
+   "title": "Interparfums Q3 sales surge of 4.8% triggers stock price jump",
+   "url": "https://www.cosmeticsbusiness.com/interparfums-q3-sales-surge-triggers-stock-price-jump",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Interparfums' Q3 sales rise 4.8%, leading to a stock price increase after the company reported strong market performance.",
+   "excerpt": "The fragrance company, which makes scents for Jimmy Choo, Coach, Lacoste and DKNY, saw stock prices rise on 20 October after its Q3 2026 financial report signalled a strong market performance"
+  },
+  {
+   "title": "Puig’s fragrance and make-up brands drive record Q3 revenue of €1.4 billion",
+   "url": "https://www.cosmeticsbusiness.com/puig-fragrance-make-brands-drive-record-revenue",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Puig's Q3 revenue hits €1.4 billion, with all divisions and regions showing growth, especially in niche fragrances and the Asia-Pacific market.",
+   "excerpt": "All of Puig’s business divisions and regions saw revenue growth, with a double-digit increase in niche fragrances, dermocosmetics, make-up and the Asia-Pacific region"
+  },
+  {
+   "title": "Mona Kattan’s Kayali expands gourmand fragrance line Yum with Vanilla Cupcake I 108",
+   "url": "https://www.cosmeticsbusiness.com/kayali-expands-yum-fragrance-line-with-vanilla-cupcake",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Kayali expands its Yum gourmand line with a Vanilla Cupcake fragrance, described by CEO Mona Kattan as a natural next chapter.",
+   "excerpt": "The scent-layering brand is bolstering its hero House of Yum gourmand fragrance collection with birthday cake-inspired Vanilla Cupcake | 108. Kayali CEO Mona Kattan explains why this was a ‘natural next chapter’ for the …"
+  },
+  {
+   "title": "6 sustainable beauty packaging materials replacing plastic",
+   "url": "https://www.cosmeticsbusiness.com/6-sustainable-beauty-packaging-materials-replacing-plastic",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-22",
+   "ai_summary": "Regulatory pressure drives the adoption of six sustainable packaging materials in beauty, ranging from bamboo to shellfish waste.",
+   "excerpt": "Regulatory pressure is increasing demand for green packaging. Julia Wray explores the renewable materials transforming beauty packaging, from bamboo to shellfish waste"
+  },
   {
    "title": "Shiseido Travel Retail and SHIFT launch digital Max Mara fragrance campaign - DFNI",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHI4MVdIZlFJYkctekFPUzJQckhhTFN1VFNyZTJTQTdOOS1Xa29iZ2xKQUFYdEN3U0l4bkkxOFdTdnBLVWI0bEdEQk10cmRsSXdPSzE5RVZTTkhpbWhHRXNLMnlaei1Zc3c5R2MyTzlXUFN1a1JkekhnOF9CYmFzTDNYOV9MUmpPSTVXbUxlZk1FN1prZXQ3ZWk3UmVTNEhnVXE5TmZCNFg3cnYzR3JQUGs2TFdmaXhVRG9EMTJVZS1ScDVXY3FoSWhtYXR1clhJMXc?oc=5",
@@ -65,6 +119,15 @@
    "date": "2026-10-22",
    "ai_summary": "CADIVEU, a professional hair brand of beauty tech company Albiech Co., Ltd. (CEO Lee Sang-kyu), anno.. - 매일경제 — CADIVEU, a professional hair brand of beauty tech company Albiech Co., Ltd. (CEO Lee Sang-kyu), anno.. 매일경제",
    "excerpt": "CADIVEU, a professional hair brand of beauty tech company Albiech Co., Ltd. (CEO Lee Sang-kyu), anno.. 매일경제"
+  },
+  {
+   "title": "Interparfums' Q3 sales flat, as European operations offset US decline",
+   "url": "https://www.premiumbeautynews.com/en/interparfums-q3-sales-flat-as,28391",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Interparfums reports flat Q3 sales, with European operations balancing a US decline, resulting in unchanged net sales of USD 430 million.",
+   "excerpt": "Interparfums Inc. reported stable third-quarter net sales of USD 430 million, unchanged from the same period last year. For the first nine months of the year, sales increased by 1% to USD 1.115 billion, compared with USD…"
   },
   {
    "title": "Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
