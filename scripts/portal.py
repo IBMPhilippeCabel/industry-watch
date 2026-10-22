@@ -20,7 +20,7 @@ def _portal_footer_html(updated):
     return (
         f'<footer>'
         f'<p class="footer-disclaimer">'
-        f'All sources are publicly available. AI-assisted intelligence compiled for consulting team use only.<br>'
+        f'Information provided as is, compiled automatically from publicly available sources, with no warranty of any kind. It is not advice and does not commit its publisher in any way.<br>'
         f'Independent portal — does not represent the official views of the referenced companies.'
         f'</p>'
         f'<p class="footer-updated">Last updated: <time>{updated}</time></p>'

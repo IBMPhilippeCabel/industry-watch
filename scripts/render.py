@@ -41,7 +41,7 @@ CTX = SiteCtx(
     url=GLOBAL_CFG["site_root_url"].rstrip("/") + "/" + CFG["id"] + "/",
     rolling_days=int(CFG.get("rolling_days", 30)),
     gc_snippet=(
-        f'<script data-goatcounter="{GOATCOUNTER_URL}" async src="//gc.zgo.at/count.js"></script>'
+        f'<script data-goatcounter="{GOATCOUNTER_URL}" async src="https://gc.zgo.at/count.js"></script>'
         if GOATCOUNTER_URL else ""
     ),
     css=(ASSETS / "site.css").read_text(encoding="utf-8"),

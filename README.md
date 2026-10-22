@@ -124,6 +124,15 @@ Déclencheurs : toutes les 2 heures (`cron: 0 */2 * * *`) et manuellement (*work
 2. **fetch** — un job par site, en parallèle : `python scripts/build.py --site <id>`, puis commit des nouveaux fichiers sous `web_sites/` sur `main`.
 3. **render** — rend tous les sites avec `render.py`, génère les stats avec `stats.py`, puis pousse le résultat sur la branche `SiteWeb`.
 
+Durcissement du workflow :
+
+- **Permissions** : aucune par défaut (`permissions: {}`) ; `setup` en lecture, `fetch` et `render` en écriture (`contents: write`) car ils poussent.
+- **Secrets limités à une étape** : `GROQ_API_KEY` seulement à l'étape `build.py`, `GOATCOUNTER_API_KEY` seulement à l'étape `stats.py`.
+- **Jeton GitHub** : `actions/checkout` le gère ; il n'apparaît plus dans une URL de clone. Le job `render` ne le garde pas pour `main`, seulement pour la branche de publication.
+- **Actions épinglées par SHA** (`actions/checkout`, `actions/setup-python`) ; `.github/dependabot.yml` propose les mises à jour chaque semaine.
+- **`timeout-minutes`** sur chaque job (5, 30 et 20 min) et **`concurrency`** (`site-update`) : un seul run à la fois, sans annuler celui en cours.
+- Les lignes de log qui commencent par `::` sont neutralisées (`> ::`) avant d'être affichées : un flux ou une réponse IA ne peut pas déclencher de commande de workflow. Le log brut gardé pour le résumé n'est pas modifié.
+
 Une erreur sur un site ne bloque jamais les autres (`fail-fast: false`) :
 
 - **Flux isolé en erreur / échec Groq** (`WARN` dans les logs) : annotation `::warning::` en haut du run, bloc ⚠️ dans le résumé du job du site ; le job reste vert.
@@ -162,6 +171,11 @@ Sous Windows, si la console affiche des erreurs d'encodage : `$env:PYTHONIOENCOD
 | Icône floue | remplacer le `.ico` par un SVG et mettre à jour `site_icon.path`. |
 | Pas de briefing | `GROQ_API_KEY` absent, ou réponse IA rejetée (voir `WARN briefing` dans le log). |
 
+## Sécurité
+
+Voir [`SECURITY.md`](SECURITY.md) pour signaler une vulnérabilité (signalement privé via l'onglet *Security* de GitHub).
+
 ## Avertissement
-Toutes les sources sont publiques. Contenu assisté par IA, compilé pour un usage interne de conseil. Publication
-indépendante : elle ne représente pas les positions officielles des entreprises citées.
+Information fournie en l'état, compilée automatiquement à partir de sources publiques, sans garantie d'aucune sorte.
+Elle ne constitue pas un conseil et n'engage pas son éditeur. Publication indépendante : elle ne représente pas les
+positions officielles des entreprises citées. Le contenu marqué 🤖 est généré par IA et peut être inexact.
