@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/",
- "updated": "2026-10-22T00:30:00Z",
+ "updated": "2026-10-22T02:26:00Z",
  "briefing": {
-  "date": "2026-10-21",
-  "hook": "Pernod Ricard pushes new financing while facing regulatory scrutiny in India.",
+  "date": "2026-10-22",
+  "hook": "Pernod Ricard announces debt tender offer amid India import probe and prepares for spirits conference.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard launches a tender offer for its Seven Notes Series and plans a new subordinated notes issue.",
-   "🥃 Spirits & Brands": "Jameson reintroduces its ‘Cats on Tap’ program for the 2026‑27 NHL season and partners with Strahman Group for service provision.",
-   "📈 Market": "Tax officials in India investigate Pernod Ricard and Diageo over bulk Scotch import classification.",
-   "💡 Innovation & RTD": "RBC raises its target price for Pernod Ricard stock to EUR 71.00."
+   "🤝 Strategy & M&A": "Pernod Ricard launches a tender offer for seven existing debt series and plans new subordinated notes, signalling a focus on capital structure amid market scrutiny.",
+   "🥃 Spirits & Brands": null,
+   "📈 Market": "Tax officials in India investigate Pernod Ricard and Diageo over bulk Scotch imports, raising regulatory concerns.",
+   "💡 Innovation & RTD": "Pernod Ricard will feature at the Just Drinks spirits conference in London, highlighting its innovation agenda."
   }
  },
  "articles": [
+  {
+   "title": "Jameson Williams - Fantasy Football Risers, Breakouts for Week 7 (2026) - NFL News - RotoBaller",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa01mRXFJYXVZOG9KTGlTMW9SOHhZUnNqQ2IzSFVqaHBLM1dtZUc4LXVhVmlVX25PMnpzaGFTWHRCdFJCRVl6YU55R0c4ZGR5UGkwaGxSd25YTVd6cnRmU1ZXQjlzWFR5NGVOeTNULVFYdzc1cHBRaUZPNThNV0FXRThscWJNa1N5UjVzMg?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-10-22",
+   "ai_summary": "Jameson Williams is highlighted as a potential riser and breakout player for Week 7 in the 2026 NFL season. The article focuses on fantasy football projections and rankings for the upcoming week.",
+   "excerpt": "Jameson Williams - Fantasy Football Risers, Breakouts for Week 7 (2026) - NFL News RotoBaller"
+  },
   {
    "title": "Jameson Dashawn Hogans - timesdaily.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTc5TnhwcUxLTmFVXzRNM1o0TkZRZnZkMkxhb0psVnpaWEoxM0pLRDhNZmhBdnRtTTBaYV8yUnJXcWdlVVRZYUdxS3ZBeEY3blU3REVZQVNZZEhKOEU2bG14M1FQOXlhUk5QVjgtYkVXazFaR1JwQU00NVBhOTNaVjItZDhQQW1BSjNnb3dwN3lyM1BzTDFnOG92bURhZw?oc=5",
@@ -292,6 +301,15 @@
    "excerpt": "Pernod Ricard annonce une offre de rachat sur sept souches d'obligations existantes et son intention d'émettre TradingView"
   },
   {
+   "title": "Pernod Ricard : announces the launch of a Tender Offer on seven existing series of notes maturing in september 2027, october 2027, november 2028, april 2030, november 2030, march 2032 and november 2032, and announces its intention to issue new dee - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNW9DN2k0RXZoVFhiT2NKcDdSbXJFbTFySkFJZGtHTVU2eE5oVGozVF9nVF8xV28zNGg3YXR4MjNVTnJWTk5CcjIzSFhKemwwZEdpMDZ4QWVhLXJJOHlSa1JOLUVOLTJiMlZFVlQ4Vl9nWEdDWmczdlo2dVJrOU1BQkowQXlRRVBUM24zVTRUTjhFT2c3VUNDX2hZSnYxWXpRNnYybk15Rk9SV3pXMGVueFVGMVp3TzdGejJLUXpVdXdfU0NhRDZjSVJVZEJVaDVSaU81VDFzTWtHODBUc0FzZVNIU3F4dw?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "💡 Innovation & RTD",
+   "date": "2026-10-20",
+   "ai_summary": "Pernod Ricard announces a Tender Offer for seven existing series of notes maturing in 2027, 2028, 2030, 2032, and indicates its intention to issue new debt.",
+   "excerpt": "Pernod Ricard : announces the launch of a Tender Offer on seven existing series of notes maturing in september 2027, october 2027, november 2028, april 2030, november 2030, march 2032 and november 2032, and announces its…"
+  },
+  {
    "title": "India Probes Pernod Ricard, Diageo Over Scotch Import Tariffs - marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnRyNlpfWlRHS3lheGVyYW56SlpWelFOMjQ3YXprUTg5UXEwREFpajRDQmpDRThad2ExbDJfMFpRMGRJcVRMV2NtMU5GMmVfcktkNkpHdHRreHpUUXpVUklHSlhVMXN4eHhJNC1qREpncnpQd3ZBTTlIYzgzSFQ4NklhVUJTSlAwXzBpV0ZOdERCWER3TzZIMnNTR3VOS0hLYUNKZ0ZQeFkxUE1Zb1h3aWJkRQ?oc=5",
    "source": "Pernod Ricard Corporate & M&A (Google News)",
@@ -328,6 +346,15 @@
    "excerpt": "Corby Spirit and Wine Limited (TSX:CSW.A) Class A Shares Advance as Ready-to-Drink Growth and Pernod Ricard Distribution Alliance Support Sentiment kalkine.ca"
   },
   {
+   "title": "Pernod Ricard reiterates India IPO plan as sales jump 19% in Q1 - Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1BfSlRoSG0yR0xoa0w3am1FYWx3NzhnSmV6NVpKWjd5Nzl5SlUxU2lBSzFrNk1UMDVwZG5VUkN4ME96bmgyNThWU0swVXVMNnlONzRFMmZaX2xEbUt1aGtrVHIwM2k4QkhQbkswNkNjWGl0cENZcFZyREdNWWFUYVhZSWRHSG9iQUFJNzh3R1lTclpDS0FTeXYwTWlmS094M2pFemp5UUlNaUlnM2RNY0hWaVlRTXVWYUNsMHVDWQ?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-19",
+   "ai_summary": "Pernod Ricard reiterates its India IPO plan as sales jump 19% in Q1.",
+   "excerpt": "Pernod Ricard reiterates India IPO plan as sales jump 19% in Q1 Storyboard18"
+  },
+  {
    "title": "Lions WR Jameson Williams argues ‘marijuana is legal’ as NFL rescinds celebration fine - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkh0UHFkZWRrbkUtT0wwNW53c0xlTl9MZmdPakJ0RFJyV1QtNXBmWWxxVV9wX0xQOFIyR2VhRWhCOFlXeVFIazhLbHhnTTAwQnAtQTd1LVRnQlNybEZxeVBHcHd1Um1qVUNjWlQ5bzRCTXdrcUdLUXBKdS05a0ZNQVF3ZU9vbXVYYnpta3hDSlg1SlF0YUVGTjd3eV9FX0pPenFLaGEtUS1MazVLTWtv?oc=5",
    "source": "Pernod Ricard Premium Brands (Google News)",
@@ -355,6 +382,24 @@
    "excerpt": "Lena Martell obituary The Guardian"
   },
   {
+   "title": "Pernod Ricard US Sales Fall 10% as Small Formats Gain Focus - Brewbound",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3Q0cE5FSlpPbWVhR2l0emx1OXN5TXNBM0pLM01BVkNqZ3pQdUlBT1J5b0FZT0tUSkxhVGtzN0JneWtQdG96d0prUlNYeDdnY3VvcERyWEwxeUUyTXlrYURMbHNIdmNQWTY1cVFFY3JXcDdHY3pwYkJieXNKN0VXeHZrV2hlUGhGRHNUZ01tdVMtdUNR?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-15",
+   "ai_summary": "Pernod Ricard US sales fall 10% as the company focuses on small formats.",
+   "excerpt": "Pernod Ricard US Sales Fall 10% as Small Formats Gain Focus Brewbound"
+  },
+  {
+   "title": "Pernod Ricard Hindered by China and the United States at the Start of the Fiscal Year - Luxus Plus",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjNGZVJqcVdYYTV5aG5oR3RKNndFQkZUaFByNDU0RFZrNF8tQ3pXVTZ2Q0Z1bzlEaV8wTDNSSFl4ZVNOVGwtMUdES3dzNlRjbWdsVm8wal9GMFk3M3Iwa0VNcDNGVGZwX3l6TTlUck03LUd6d1VfQnVDREMzWDlfZEppUVVHa0lvN3JXajJLLXNiNlhlMDNKdWNFN3pUUTNLZ0ZZdFRqUWJWQzhSbmI4WUZ3?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-15",
+   "ai_summary": "Pernod Ricard is hindered by China and the United States at the start of the fiscal year.",
+   "excerpt": "Pernod Ricard Hindered by China and the United States at the Start of the Fiscal Year Luxus Plus"
+  },
+  {
    "title": "Pernod Ricard Primes Potential Mumbai Listing as Drinking Booms in India - WSJ",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEMzV0tWQnhUaEItQl9sMzBVdndCcmFzRTh6RzBlVWZnNm9NenpVSk9KUFczUF9WVmhmMjgxeUtrWHJSMFZxeG1QanJxSkNUeG1YX2cwdENGN1VkdnBSaC1VWWV4alhGNVh3WGpGZ3FPanA0VHBacWg4YTN6SjZ1R1gzQ09uTmVYTFVlODhVZ05KSVlQOVVrSDRHUVhtR0VmOVl4LVdXYXdfRnRldEpUWWVCYUZ2SkpNMHpGTGhB?oc=5",
    "source": "Pernod Ricard Corporate & M&A (Google News)",
@@ -380,6 +425,15 @@
    "date": "2026-10-15",
    "ai_summary": "",
    "excerpt": "Pernod Ricard Sales Decline Softened by Strength in India (2) Bloomberg Law News"
+  },
+  {
+   "title": "Pernod Ricard Should Be Able to Defend Its Margins Against Headwinds - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUo2bVk2TDdMbUlRUVBqemVKOE9ZRlhaYlgycDJrckl0T1pyS1laMmdBT1dGUTJwdmJVU1VlQUlSWGV3cF8yZWcydDBpSjViM040bkh3Wm1vT3RjMlp6X0xmWFYtUEhfc3hubnduRURUS1VrUWd1aWVXVVY4OEdhUVhsSjJObGlfV0hKS0VvWVptUm43ZXhabTdyb2QxdmFpUm0ydEhaTkNTbWZsUU0taEluYmhuS0E5ZjFNVA?oc=5",
+   "source": "Pernod Ricard Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-15",
+   "ai_summary": "Pernod Ricard should be able to defend its margins against headwinds.",
+   "excerpt": "Pernod Ricard Should Be Able to Defend Its Margins Against Headwinds Morningstar"
   },
   {
    "title": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment - Business Wire",
