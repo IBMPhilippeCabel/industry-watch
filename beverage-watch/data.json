@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-22T13:30:00Z",
+ "updated": "2026-10-22T14:30:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Heineken faces €111m damages while Pernod Ricard raises hybrid bonds, and new streaming and US expansion moves spark innovation.",
+  "hook": "Heineken faces €111m damages while launching streaming and subscription services, as Pernod Ricard raises hybrid bonds to cut debt.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard raises €1.5 billion in hybrid bonds to reduce debt, while Heineken agrees to pay €111 million in damages to Macedonian Thrace Brewery.",
-   "📈 Market": "Whitebox Cocktails enters the U.S. market and Adnams reviews its canning and bottling contracts amid broader market shifts.",
-   "🍸 Spirits & Premium": "Strucchi launches its vermouth brand in the U.S., marking its first expansion outside Europe.",
+   "🤝 Strategy & M&A": "Heineken must pay €111m damages to Macedonian Thrace Brewery and Pernod Ricard issues €1.5bn hybrid bonds to reduce debt.",
+   "📈 Market": "Whitebox Cocktails enters the U.S. market and Adnams reviews its canning contracts amid broader market shifts.",
+   "🍸 Spirits & Premium": "Strucchi launches its vermouth in the U.S., expanding beyond Europe.",
    "🍺 Beer & Brewing": "Adnams is reviewing its canning and bottling contracts for beer production.",
-   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, and MGM Resorts introduces fan experiences for the 2026 Formula 1 Heineken Las Vegas Grand Prix."
+   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out and a subscription service called “Pubscription.”"
   }
  },
  "articles": [
@@ -21,6 +21,15 @@
    "date": "2026-10-22",
    "ai_summary": "Pets of the week: Jameson and Strawberry - Fort Bragg Advocate-News — Pets of the week: Jameson and Strawberry Fort Bragg Advocate-News",
    "excerpt": "Pets of the week: Jameson and Strawberry Fort Bragg Advocate-News"
+  },
+  {
+   "title": "Nestlé tracks toward mid-term targets but not immune from Russia seizure",
+   "url": "https://www.just-drinks.com/news/nestle-tracks-toward-mid-term-targets-but-not-immune-from-russia-seizure/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Nestlé’s CEO Philipp Navratil marked his one-year anniversary with results that put the company on track to meet mid-term targets. The company remains vulnerable to potential Russian seizure risks.",
+   "excerpt": "Philipp Navratil marked his one-year anniversary as Nestlé CEO with a set of results putting the company on course to meet mid-term targets."
   },
   {
    "title": "Vermouth brand Strucchi enters US",
