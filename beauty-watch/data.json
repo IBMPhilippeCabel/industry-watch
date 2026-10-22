@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-22T16:30:00Z",
+ "updated": "2026-10-22T18:26:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "L’Oréal beats Q3 earnings, Beiersdorf eyes results, and new beauty supplement entrant Cymbiotika expands, while Chanel divests Capsum stake, signaling a dynamic market shift.",
+  "hook": "L’Oréal beats earnings, Beiersdorf eyes Q3, and sustainability drives innovation.",
   "categories": {
-   "📈 Market": "Nivea Sun’s five‑year Tour de France partnership and Interparfums’ Q3 sales rise highlight strong regional performance, while Puig’s record Q3 sales underscore growth in niche fragrances.",
-   "💄 Brands & Retail": "L’Oréal’s Q3 earnings beat was powered by its Professional Products and Dermatological Beauty divisions, while Puig and Interparfums also reported strong sales growth.",
-   "🤝 Strategy & M&A": "Beiersdorf prepares to announce Q3 results, Cymbiotika enters the beauty supplement market, and Chanel divests its majority stake in Capsum, reflecting strategic realignments.",
-   "💡 Innovation & Regulation": "Clean‑beauty initiative DEMIblue supports breast cancer survivors, regulatory pressure drives adoption of six sustainable packaging materials, and new fragrance launches like Dossier’s Oud collection showcase innovation."
+   "📈 Market": "Retail supply chains await AI‑powered shopping revolution, while Nivea Sun partners with the Tour de France to promote sun protection across Europe.",
+   "💄 Brands & Retail": "L’Oréal’s Q3 earnings beat was powered by its Professional and Dermatological Beauty divisions, while Puig and Interparfums also reported sales gains.",
+   "🤝 Strategy & M&A": "Beiersdorf heads into Q3 earnings, and Chanel divests its majority stake in Capsum to Motion Equity Partners.",
+   "💡 Innovation & Regulation": "ICHIMARU’s cheek micro‑lift ingredient won a BSB Innovation Award, while DEMIblue supports breast‑cancer survivors and regulators push six sustainable packaging materials."
   }
  },
  "articles": [
@@ -29,6 +29,24 @@
    "date": "2026-10-22",
    "ai_summary": "L’Oréal Reports Q3 2026 Earnings Beat — The group’s Professional Products and Dermatological Beauty divisions helped drive the 11.9 percent reported quarterly gain.",
    "excerpt": "The group’s Professional Products and Dermatological Beauty divisions helped drive the 11.9 percent reported quarterly gain."
+  },
+  {
+   "title": "Retail supply chains still waiting for AI-Powered shopping revolution",
+   "url": "https://www.cosmeticsbusiness.com/retail-supply-chains-still-waiting-for-ai-powered",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Retail supply chains are still awaiting the AI-powered shopping revolution, as consumer adoption remains in its early stages.",
+   "excerpt": "Retail supply chains are yet to experience the disruption of AI-powered shopping, as consumer adoption remains in its early stages, according to retail logistics business Paxon"
+  },
+  {
+   "title": "“BSB Innovation Award 2026” ICHIMARU PHARCOS Honored with BSB Award for Environment / Raw Materials “Active”",
+   "url": "https://www.cosmeticsbusiness.com/bsb-innovation-award-2026-ichimaru-pharcos-honored-with",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-22",
+   "ai_summary": "ICHIMARU PHARCOS Co., Ltd. announces that its natural active ingredient for cheek micro-lift, HappiClov, has received the BSB Innovation Award 2026 for Environment / Raw Materials.",
+   "excerpt": "ICHIMARU PHARCOS Co., Ltd. (Headquarters: Gifu Prefecture,Japan) is delighted to announce that our revolutionary HappiClov, a natural active ingredient for cheek micro-lift, has been honored with BSB Innovation Award 202…"
   },
   {
    "title": "DEMIblue Natural Nails supports breast cancer survivors with clean beauty products - Ladue News",
