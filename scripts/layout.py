@@ -1,0 +1,242 @@
+"""Page chrome of a site: <head>, header and its dropdowns, footer, JSON-LD, under-construction page."""
+import json
+from dataclasses import dataclass
+
+from common import ASSETS, art_day, esc, icon_src, updated_iso
+
+
+@dataclass
+class SiteCtx:
+    """Everything the page builders need to know about the site being rendered."""
+    cfg: dict            # the site's block of config.json
+    global_cfg: dict     # the whole config.json
+    sources: list
+    categories: list
+    name: str
+    desc: str
+    url: str             # public URL of the site, with trailing slash
+    rolling_days: int
+    gc_snippet: str      # GoatCounter <script> tag, or ""
+    css: str
+    filter_js: str
+
+
+def jsonld_tag(obj):
+    if not obj:
+        return ""
+    raw = json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")
+    return f'<script type="application/ld+json">{raw}</script>'
+
+
+def item_list_jsonld(articles, limit=50):
+    items = []
+    for i, a in enumerate(articles[:limit], 1):
+        items.append({
+            "@type": "ListItem",
+            "position": i,
+            "item": {
+                "@type": "NewsArticle",
+                "headline": a["title"],
+                "url": a["link"],
+                "datePublished": art_day(a),
+                "description": a.get("ai_summary") or a.get("summary", ""),
+                "articleSection": a["category"],
+                "publisher": {"@type": "Organization", "name": a["source"]},
+            },
+        })
+    return items
+
+
+def page_jsonld(ctx, name, path, description, articles):
+    return {
+        "@context": "https://schema.org",
+        "@graph": [
+            {"@type": "WebSite", "name": ctx.name, "url": ctx.url,
+             "description": ctx.desc, "inLanguage": "en"},
+            {"@type": "CollectionPage", "name": name, "url": ctx.url + path,
+             "description": description, "inLanguage": "en",
+             "isPartOf": {"@type": "WebSite", "url": ctx.url},
+             "mainEntity": {"@type": "ItemList", "itemListElement": item_list_jsonld(articles)}},
+        ],
+    }
+
+
+def site_header_icon(ctx):
+    """Return an <img> tag (path→url resolution), no fallback to emoji."""
+    src = icon_src(ctx.cfg.get("site_icon"))
+    if not src:
+        return ""
+    name = esc(ctx.cfg.get("site_name", ""))
+    return f'<img src="{esc(src)}" alt="{name}" onerror="this.style.display=\'none\'">'
+
+
+def favicon_tag(ctx, depth=0):
+    """Return <link rel="icon"> HTML for the current site (portal icon as fallback)."""
+    src = icon_src(ctx.cfg.get("site_icon"))
+    if not src:
+        src = icon_src(ctx.global_cfg.get("portal_icon"))
+    if not src:
+        return ""
+    if not src.startswith("http://") and not src.startswith("https://"):
+        prefix = "../" * depth
+        src = f"{prefix}{src}"
+    if src.endswith(".svg"):
+        return f'<link rel="icon" type="image/svg+xml" href="{esc(src)}">'
+    return f'<link rel="icon" href="{esc(src)}">'
+
+
+def footer_html(updated):
+    """Return the disclaimer and timestamp footer."""
+    return (
+        f'<footer>'
+        f'<p class="footer-disclaimer">'
+        f'All sources are publicly available. AI-assisted intelligence compiled for consulting team use only.<br>'
+        f'Independent publication — does not represent the official views of the referenced companies.'
+        f'</p>'
+        f'<p class="footer-updated">Last updated: <time datetime="{updated_iso(updated)}">{updated}</time></p>'
+        f'</footer>'
+    )
+
+
+def site_relations_html(related):
+    """Links to the related sites, shown under the title of a site's home page.
+    `related` is common.related_sites(...) for this site."""
+    return "".join(
+        f'<p class="site-rel"><span>{label}:</span> '
+        + ", ".join(f'<a href="../{esc(s["id"])}/index.html">{esc(s["site_name"])}</a>' for s in group)
+        + "</p>"
+        for label, group in related
+    )
+
+
+def sites_dropdown_html(ctx, depth=1):
+    """List all sites as links for the header dropdown. depth=1 for site pages, 2 for archive pages."""
+    prefix = "../" * depth
+    items = ""
+    for s in ctx.global_cfg["sites"]:
+        sid = s["id"]
+        status = s.get("status", "live")
+        name = esc(s["site_name"])
+        src = icon_src(s.get("site_icon"))
+        img = (
+            f'<img src="{esc(src)}" alt="" onerror="this.style.display=\'none\'" '
+            f'style="width:16px;height:16px;object-fit:contain;border-radius:3px;vertical-align:middle;margin-right:6px;">'
+        ) if src else ""
+        wip = " 🚧" if status == "under_construction" else ""
+        active = " style=\"font-weight:700;color:var(--text);\"" if sid == ctx.cfg["id"] else ""
+        items += f'<li><a href="{esc(prefix)}{esc(sid)}/index.html"{active}>{img}{name}{wip}</a></li>'
+    return f'<ul class="sources" style="min-width:200px">{items}</ul>'
+
+
+def archive_dropdown_html(keys, months=None):
+    """keys: ordered list of YYYY-MM strings. months: dict with article counts (optional)."""
+    items = "".join(
+        f'<li><a href="archive/{esc(ym)}.html">{esc(ym)}</a>'
+        + (f' <span class="muted">({len(months[ym])} articles)</span>' if months and ym in months else '')
+        + '</li>'
+        for ym in keys
+    )
+    return f'<h3>Archive</h3><ul class="sources">{items}</ul>'
+
+
+def sources_dropdown_html(ctx):
+    items = "".join(
+        f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])}</a>'
+        f' — {esc(s["description"])}</li>'
+        for s in ctx.sources
+    )
+    return f'<h3>Tracked sources</h3><ul class="sources">{items}</ul>'
+
+
+def shell(ctx, title, body, updated, script="", path="", description=None, jsonld=None,
+          sources_html="", archive_html="", depth=1):
+    description = ctx.desc if description is None else description
+    url = ctx.url + path
+    home_prefix = "../" * depth
+    home_btn = f'<a href="{home_prefix}index.html" class="src-btn">🏠 Home</a>'
+    sites_btn = (
+        f'<div class="src-wrap">'
+        f'<button class="src-btn" id="sites-btn">🗂️ Sites</button>'
+        f'<div class="src-dropdown" id="sites-dropdown">{sites_dropdown_html(ctx, depth)}</div>'
+        f'</div>'
+    )
+    src_btn = (
+        f'<div class="src-wrap">'
+        f'<button class="src-btn" id="src-btn">📡 Sources</button>'
+        f'<div class="src-dropdown" id="src-dropdown">{sources_html}</div>'
+        f'</div>'
+    ) if sources_html else ""
+    arc_btn = (
+        f'<div class="src-wrap">'
+        f'<button class="src-btn" id="arc-btn">📚 Archive</button>'
+        f'<div class="src-dropdown" id="arc-dropdown">{archive_html}</div>'
+        f'</div>'
+    ) if archive_html else ""
+    stats_prefix = "../" * (depth - 1)
+    stats_btn = f'<a href="{stats_prefix}stats.html" class="src-btn">📊 Stats</a>'
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{esc(title)}</title>
+<meta name="description" content="{esc(description)}">
+<link rel="canonical" href="{esc(url)}">
+<link rel="alternate" type="application/atom+xml" title="{ctx.name} feed" href="{ctx.url}feed.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{ctx.name}">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(description)}">
+<meta property="og:url" content="{esc(url)}">
+<meta name="twitter:card" content="summary">
+{favicon_tag(ctx, depth)}
+{jsonld_tag(jsonld)}
+<style>{ctx.css}</style>
+</head>
+<body>
+<header>
+  <h1>{site_header_icon(ctx)}{esc(ctx.name)}</h1>
+  <nav>{home_btn}{stats_btn}{sites_btn}{arc_btn}{src_btn}</nav>
+</header>
+<main class="wrap">
+{body}
+</main>
+{footer_html(updated)}
+<script>{script}</script>
+{ctx.gc_snippet}
+</body>
+</html>
+"""
+
+
+def render_under_construction(ctx, site, updated, portal_url="../index.html"):
+    """Write a single index.html under-construction page for a site."""
+    uc_css = (ASSETS / "under_construction.css").read_text(encoding="utf-8")
+    name = esc(ctx.name)
+    img_tag = site_header_icon(ctx)
+    site.mkdir(parents=True, exist_ok=True)
+    html_out = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{name} — Under Construction</title>
+{favicon_tag(ctx, 1)}
+<style>
+{uc_css}</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="icon">{img_tag} 🚧</div>
+  <h1>{name}</h1>
+  <div class="badge">Under Construction</div>
+  <p>This site is currently being set up. Check back soon!</p>
+  <a href="{esc(portal_url)}" class="btn">← Back to portal</a>
+</div>
+{footer_html(updated)}
+{ctx.gc_snippet}
+</body>
+</html>
+"""
+    (site / "index.html").write_text(html_out, encoding="utf-8")
+    print(f"[{ctx.cfg['id']}] under-construction page written")

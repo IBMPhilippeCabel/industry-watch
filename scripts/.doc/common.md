@@ -1,7 +1,7 @@
 # `common.py` — fonctions partagées
 
 ## But
-Regrouper la logique que `build.py` et `render.py` doivent appliquer **de la même façon**, pour éviter qu'un
+Regrouper la logique que `build.py`, `render.py` et ses modules doivent appliquer **de la même façon**, pour éviter qu'un
 article soit accepté par l'un et rejeté par l'autre. Ce n'est pas un script exécutable : il est importé
 (`from common import ...`).
 
@@ -12,6 +12,10 @@ article soit accepté par l'un et rejeté par l'autre. Ce n'est pas un script ex
 | `mentions(norm_text, term)` | texte déjà passé par `norm()`, terme brut | `True` si `term` apparaît comme **mot ou groupe de mots entier**. |
 | `site_categories(site_cfg, sources)` | bloc du site + liste de sources | liste des catégories : `categories` de la config, sinon les `default_category` distincts, sinon 4 catégories génériques. |
 | `map_category(cat, categories)` | une catégorie stockée + celles du site | la catégorie du site correspondante, ou `None`. |
+| `esc`, `art_day`, `updated_iso` | valeur / article / horodatage | échappement HTML, jour d'un article, date ISO 8601 (côté rendu). |
+| `icon_src(icon_cfg)` | bloc `site_icon` / `portal_icon` | chemin local (si le fichier existe) sinon URL, sinon `None`. |
+| `industries(site_cfg)`, `related_sites(sites, site_cfg)` | bloc du site (+ liste des sites) | ids des marchés d'un compte ; groupes « Industry » / « Accounts » liés. |
+| `ROOT`, `ASSETS` | — | racine du dépôt, dossier `scripts/assets/`. |
 
 ## Exemples
 ```python

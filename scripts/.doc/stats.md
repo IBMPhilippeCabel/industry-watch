@@ -44,5 +44,5 @@ python scripts/stats.py site
 - Pays et navigateurs sont **globaux** : la page d'un site affiche les chiffres de tous les sites, pas les siens.
 - Les compteurs ne couvrent que les visiteurs sans bloqueur de scripts, puisque GoatCounter est chargé côté navigateur.
 - Drapeaux : seuls ~25 pays ont un drapeau ; les autres reçoivent 🌐.
-- Le workflow lance cette étape avec `|| true` : un échec complet n'est jamais remonté.
+- Le workflow lance cette étape avec `continue-on-error: true` : un plantage apparaît comme étape en échec mais ne bloque pas la publication.
 - Le CSS est dupliqué par rapport à `render.py` (même charte, copiée), donc un changement de style doit être fait aux deux endroits.

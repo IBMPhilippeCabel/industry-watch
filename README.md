@@ -40,7 +40,7 @@ flowchart LR
 | `web_sites/<dossier>/sources.json` | flux RSS du site. |
 | `web_sites/<dossier>/data/` | articles (`AAAA/MM/JJ.json`) et briefings (`JJ.briefing.txt`). Versionnés sur `main`. |
 | `web_sites/<dossier>/` | icône du site. |
-| `scripts/` | `build.py`, `render.py`, `stats.py`, `common.py`. Documentation de chacun dans [`scripts/.doc/`](scripts/.doc/). |
+| `scripts/` | `build.py`, `render.py` (+ `layout.py`, `cards.py`, `loader.py`, `machine_files.py`, `portal.py`, `assets/` : CSS/JS), `stats.py`, `common.py`. Documentation dans [`scripts/.doc/`](scripts/.doc/). |
 | `.github/workflows/OnSchedule_Site_Update.yml` | automatisation. |
 
 Le HTML généré **n'est pas** sur `main` : il est publié sur la branche `SiteWeb` (valeur `site_branch`).

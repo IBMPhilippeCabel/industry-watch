@@ -1,8 +1,13 @@
-"""Helpers shared by build.py and render.py (imported as `from common import ...`)."""
+"""Helpers shared by build.py, render.py and its modules (imported as `from common import ...`)."""
 import argparse
+import html
 import re
 import unicodedata
 from functools import lru_cache
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+ASSETS = Path(__file__).resolve().parent / "assets"
 
 DEFAULT_CATEGORIES = ["📈 Market", "🤝 M&A", "⚖️ Regulation", "💡 Innovation"]
 
@@ -72,3 +77,42 @@ def map_category(cat, categories):
         if label in c.lower():
             return c
     return None
+
+
+# ── HTML / site helpers (render side) ─────────────────────────────────────
+def esc(v):
+    return html.escape(v or "", quote=True)
+
+
+def art_day(a):
+    return (a.get("date") or "")[:10] or a["first_seen"].isoformat()
+
+
+def updated_iso(updated):
+    return updated.replace(" UTC", "").replace(" ", "T") + ":00Z"
+
+
+def icon_src(icon_cfg):
+    """Resolve icon src in order: local path (if file exists) → url → None.
+    Returns a URL/path string usable in HTML, or None."""
+    if not isinstance(icon_cfg, dict):
+        return None
+    local = icon_cfg.get("path", "").strip()
+    if local and (ROOT / local).exists():
+        # Just the filename — icon is copied into site/<id>/ at render time
+        return Path(local).name
+    url = icon_cfg.get("url", "").strip()
+    return url or None
+
+
+def industries(site_cfg):
+    """Ids of the industry sites a company account belongs to (`industry`: id or list of ids)."""
+    ind = site_cfg.get("industry", [])
+    return [ind] if isinstance(ind, str) else list(ind)
+
+
+def related_sites(sites, site_cfg):
+    """[(label, [site cfg, ...])] among `sites`: parent industries of an account, or accounts tracked under an industry."""
+    parents = [s for s in sites if s["id"] in industries(site_cfg)]
+    children = [s for s in sites if site_cfg["id"] in industries(s)]
+    return [(label, group) for label, group in (("Industry", parents), ("Accounts", children)) if group]

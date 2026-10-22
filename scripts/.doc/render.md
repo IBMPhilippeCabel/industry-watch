@@ -47,12 +47,30 @@ foreach ($s in (python -c "import json;print(' '.join(x['id'] for x in json.load
 ```
 Ouvrir `.tmp_out/index.html` dans un navigateur pour contrôler le rendu (les liens sont relatifs).
 
+## Organisation du code
+`render.py` ne fait plus qu'orchestrer (160 lignes : lecture de la config, boucle sur les pages, appels). Le reste est dans des modules du même dossier :
+
+| Fichier | Rôle |
+|---|---|
+| `scripts/render.py` | point d'entrée : config → `SiteCtx`, `main()` (accueil, archives, copie de l'icône). |
+| `scripts/layout.py` | `SiteCtx` (contexte du site), `shell()` (gabarit de page), en-tête, menus déroulants, pied de page, JSON-LD, page « Under Construction ». |
+| `scripts/cards.py` | cartes d'articles, filtres thèmes/marques (`tracked_brands`), bloc briefing. |
+| `scripts/loader.py` | `load_all(data_dir)` : lecture des JSON, dédoublonnage, dernier briefing. |
+| `scripts/machine_files.py` | `robots.txt`, `sitemap.xml`, `feed.xml`, `data.json`, `llms.txt`. |
+| `scripts/portal.py` | page d'accueil du portail. |
+| `scripts/common.py` | fonctions partagées (voir `common.md`). |
+| `scripts/assets/*.css`, `filter.js` | style et script, lus au démarrage et inlinés dans chaque page. |
+
+Les modules ne lisent ni `sys.argv` ni `config.json` : ils reçoivent un `SiteCtx` ou des paramètres, donc leurs fonctions sont importables et testables. Seul `render.py` lit la ligne de commande et la config.
+
+Le HTML produit est **identique octet par octet** à celui d'avant le découpage (6 sites, 107 fichiers, plus les cas « Under Construction » et « aucun article »).
+
 ## Limites connues
 - Le workflow tente de rendre **tous** les sites même si l'un échoue, publie ceux qui ont réussi, puis fait échouer le job à la fin en nommant les sites en erreur.
-- Le fichier fait ~950 lignes, avec HTML, CSS et JS écrits en chaînes : une modification de style demande de relire tout le fichier. Aucun test automatisé.
-- Le code s'exécute à l'import (lecture de `sys.argv` et de `config.json`) : on ne peut pas importer ses fonctions pour les tester.
+- Aucun test automatisé permanent : la non-régression du découpage a été vérifiée par comparaison de rendus, avec un script jetable supprimé ensuite.
+- `render.py` lui-même lit `sys.argv` et `config.json` à l'import : seuls ses modules compagnons sont importables seuls.
 - Le **portail est réécrit à chaque site rendu** : N rendus = N écritures identiques (inoffensif, mais bruyant).
 - Le dernier briefing trouvé sur disque est affiché, même s'il date de plusieurs jours ; sa date est visible dans le bloc.
 - Les marques sont comparées à titre + extrait uniquement ; une marque citée seulement dans le corps de l'article n'est pas détectée.
 - La liste des mois d'archive inclut aussi les pages déjà présentes dans `<output_dir>`, donc un dossier de sortie qui traîne peut faire apparaître des mois vides (`—`).
-- Dépend de `common.py` (même dossier) : lancer le script depuis un autre répertoire reste possible, mais le copier seul ne l'est pas.
+- Dépend des modules et de `assets/` du même dossier : lancer le script depuis un autre répertoire reste possible, mais le copier seul ne l'est pas.
