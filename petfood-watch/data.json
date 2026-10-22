@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-22T06:32:00Z",
+ "updated": "2026-10-22T07:54:00Z",
  "briefing": {
   "date": "2026-10-22",
-  "hook": "Pet‑food demand curves shift as new products and market reorganisations spark fresh growth signals.",
+  "hook": "Pet food market shows growth signals, regulatory focus on pet-friendly housing, new protein innovations, and a legal leadership move in the sector.",
   "categories": {
-   "📈 Market": "Demand curves are poised to break away as new product launches and regional reorganisations signal a shift in consumer behaviour.",
-   "⚖️ Regulation": "Pet‑ownership is rising in rental housing, with 81% of operators reporting more pet‑owning tenants.",
-   "💡 Innovation": "New mycoprotein dog food and expanded treat lines highlight a focus on ingredient innovation and value‑oriented pricing.",
+   "📈 Market": "Mexico’s pet business sector grows 5.2% and 42,600 companies register, while Fressnapf | Maxi Zoo consolidates Benelux operations and Mars Impact Fund backs veterinary careers.",
+   "⚖️ Regulation": "US rental operators report rising pet ownership, and Mars Petcare appoints a new legal head to strengthen compliance.",
+   "💡 Innovation": "HenArt launches a mycoprotein dog food and Joyride Dogs expands single‑ingredient treats for dogs and cats, while manufacturers rethink pricing for value.",
    "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "Mexico: New retail formats and players gain ground",
+   "url": "https://globalpetindustry.com/news/mexico-new-retail-formats-and-players-gain-ground/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-22",
+   "ai_summary": "Mexico sees growth in pet-related businesses, with a 5.2% increase between 2023 and 2025 and 42,600 registered companies last year. The data comes from the National Statistical Directory of Economic Units (DENUE) published by the Nation.",
+   "excerpt": "Pet-related businesses in Mexico grew 5.2% between 2023 and 2025, with 42,600 registered companies in the country last year. Data from the National Statistical Directory of Economic Units (DENUE), published by the Nation…"
+  },
   {
    "title": "Food futurist Jack Bobo keynotes Petfood Forum 2027",
    "url": "https://www.petfoodindustry.com/news-newsletters/petfood-forum-news/article/15838077/food-futurist-jack-bobo-keynotes-petfood-forum-2027",
