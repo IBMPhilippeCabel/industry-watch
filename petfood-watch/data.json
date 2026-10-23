@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-23T10:26:00Z",
+ "updated": "2026-10-23T12:28:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Pet food sees new flavors, plant‑based growth, and market expansion amid rising pet ownership.",
+  "hook": "Today’s highlights show pet‑food retail expansion, rising plant‑based demand, new product launches, and investment in vaccine and regenerative agriculture.",
   "categories": {
-   "📈 Market": "Unconditional expands distribution through Pet Food Experts, while Fressnapf | Maxi Zoo consolidates Benelux operations, signalling growth in pet‑food retail.",
-   "⚖️ Regulation": "No regulatory developments reported for the day.",
-   "💡 Innovation": "Pet Honesty introduces peanut butter Hip + Joint chews, HenArt launches Enifer mycoprotein dog food, and a research center explores cats’ gravy preference, highlighting flavor and ingredient innovation.",
-   "🤝 M&A": "No mergers or acquisitions reported for the day."
+   "📈 Market": "Retail reach widens as Nulo partners with Hollywood Feed and Unconditional expands distribution, while packaging equipment shipments are set to rebound.",
+   "⚖️ Regulation": null,
+   "💡 Innovation": "New freeze‑dried chicken treats, peanut‑butter joint chews, and a forecast of a $34.1 billion plant‑based market underscore innovation momentum.",
+   "🤝 M&A": "Funding moves support an avian vaccine and regenerative agriculture, with IKEA, Royal Canin and Yara backing projects despite ongoing financing challenges."
   }
  },
  "articles": [
+  {
+   "title": "Funding to advance avian metapneumovirus vaccine development",
+   "url": "https://www.petfoodprocessing.net/articles/21014-funding-to-advance-avian-metapneumovirus-vaccine-development",
+   "source": "Pet Food Processing",
+   "category": "🤝 M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Funding to advance avian metapneumovirus vaccine development — A vaccine could help safeguard the poultry supply chain and stabilize the availability and cost of poultry-based pet food ingredients.",
+   "excerpt": "A vaccine could help safeguard the poultry supply chain and stabilize the availability and cost of poultry-based pet food ingredients."
+  },
+  {
+   "title": "Nulo expands retail reach through Hollywood Feed partnership",
+   "url": "https://www.petfoodprocessing.net/articles/21013-nulo-expands-retail-reach-through-hollywood-feed-partnership",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "Nulo expands retail reach through Hollywood Feed partnership — All 179 Hollywood Feed locations will be selling Nulo’s premium pet food lines starting in November.",
+   "excerpt": "All 179 Hollywood Feed locations will be selling Nulo’s premium pet food lines starting in November."
+  },
+  {
+   "title": "Maev debuts new freeze-dried chicken varieties",
+   "url": "https://www.petfoodprocessing.net/articles/21012-maev-debuts-new-freeze-dried-chicken-varieties",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-23",
+   "ai_summary": "Maev debuts new freeze-dried chicken varieties — The single-ingredient treats are made from chicken breast and chicken hearts.",
+   "excerpt": "The single-ingredient treats are made from chicken breast and chicken hearts."
+  },
+  {
+   "title": "Industry unites for emerging research, networking at Pet Food Collab 2026",
+   "url": "https://www.petfoodprocessing.net/articles/21011-industry-unites-for-emerging-research-networking-at-pet-food-collab-2026",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-23",
+   "ai_summary": "Industry unites for emerging research, networking at Pet Food Collab 2026 — The event offered insights into current challenges, research and innovations pertaining to the industry.",
+   "excerpt": "The event offered insights into current challenges, research and innovations pertaining to the industry."
+  },
+  {
+   "title": "Nestlé: Cat food and therapeutics support Q3 performance",
+   "url": "https://globalpetindustry.com/news/nestle-cat-food-and-therapeutics-support-q3-performance/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "Nestlé: Cat food and therapeutics support Q3 performance — The pet portfolio of Nestlé posted a 7% year-over-year (YoY) increase in sales, reaching CHF 4.6 billion ($5.67B/€5.06B) in the third quarter (Q3) of fiscal year (FY) 2026. Purina recorded organic growth of 5.3% in Q3 20…",
+   "excerpt": "The pet portfolio of Nestlé posted a 7% year-over-year (YoY) increase in sales, reaching CHF 4.6 billion ($5.67B/€5.06B) in the third quarter (Q3) of fiscal year (FY) 2026. Purina recorded organic growth of 5.3% in Q3 20…"
+  },
   {
    "title": "‘Cats Love Gravy’: How a Reporter Ended Up at a Pet Food Research Center - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rZllKSi1JcVBLakZHRDRVQVB2SmJnbU1tZW40V05lVGk2MkxwSHJXeERjVEFPT0lQTFFTMW1iSnprSzktVnBZOTRGQmlIeTkzSEs5UmNyWHZMRzEzYjYtSEJGNjc3VzF6SEpiWTRXOVVCaWxG?oc=5",
@@ -877,6 +922,15 @@
    "excerpt": "Respectful communication does not require avoiding the word obesity. The guide favors precise descriptions over euphemisms that..."
   },
   {
+   "title": "Your Picky Cat Is the Best Pricing Power in Pet Food - Business Model Analyst",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3RzWUI5cXh5TFhTZGxObmdlSUdKakQzWUFDZ0JPLWk0MlhGVUtaZFVGanhFc0FPQzdhcVJBbjE0Z2JsR3Y1clAxYkVSdkQyQzVVNndxTHlRTS1jaGU1T2labjUtOXVDUXZfdGEwVmhzc0pXVGk4WmdSQUNmdDRXNE90OU1fZw?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-10-07",
+   "ai_summary": "Your Picky Cat Is the Best Pricing Power in Pet Food - Business Model Analyst — Your Picky Cat Is the Best Pricing Power in Pet Food Business Model Analyst",
+   "excerpt": "Your Picky Cat Is the Best Pricing Power in Pet Food Business Model Analyst"
+  },
+  {
    "title": "$43B: Global pet grooming market to more than double by 2035",
    "url": "https://globalpetindustry.com/news/43b-global-pet-grooming-market-to-more-than-double-by-2035/",
    "source": "Global Pet Industry",
@@ -938,6 +992,15 @@
    "date": "2026-09-30",
    "ai_summary": "One year in, Royal Canin’s Lewisburg plant is raising the standard for pet nutrition, according to Dayton Daily News. The facility demonstrates advanced pet nutrition practices.",
    "excerpt": "One year in, Royal Canin’s Lewisburg plant is raising the standard for pet nutrition Dayton Daily News"
+  },
+  {
+   "title": "Who’s paying? IKEA, Royal Canin and Yara back regen ag but funding remains unresolved - FeedNavigator.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdTFtb0YyZHNXYnN0M2NqbGNMN1pIT004c3hoSS13cWpmTzVsUlZrNkZxalRGdHdsRmd0LU82Z3BXTDc1MVEyQUg0U2RpVWFYbFBJemRQM0c5Vk14M1dhVV9xUWdfeUJhV0lKbncwSUVSUkFVN3JKWnpCaHBicS1OVDhEVmVsNHhnSHNWR1RNbkpwZzBrYVNTcmwweF94bTBRY0VRaFpybG1hQzlWM05VMGhxVTZXY0drRURmNmpWSV8teWo2NndJTWZZdE4?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-09-30",
+   "ai_summary": "IKEA, Royal Canin and Yara support regenerative agriculture but funding issues persist.",
+   "excerpt": "Who’s paying? IKEA, Royal Canin and Yara back regen ag but funding remains unresolved FeedNavigator.com"
   },
   {
    "title": "Mars Petcare, Big Idea Ventures pick three ingredient startups - PetfoodIndustry",

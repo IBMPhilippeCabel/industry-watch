@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-23T10:26:00Z",
+ "updated": "2026-10-23T12:28:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Today’s beauty market buzz centers on L’Oréal’s double‑digit Q3 surge, fresh brand earnings, and a wave of innovation from celebrity ventures to AI‑driven retail.",
+  "hook": "L’Oréal’s Q3 sales surge and new sunscreen approvals drive market momentum.",
   "categories": {
-   "📈 Market": "L’Oréal’s Q3 sales rose double‑digit across all divisions, while Interparfums and Puig also posted gains and Nivea Sun secured a five‑year Tour de France partnership.",
-   "💄 Brands & Retail": "L’Oréal’s Q3 earnings jump was driven by its Professional and Dermatological divisions, while SharkNinja expands its creator strategy and luxury brands trim smaller stores amid unrest.",
-   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, signalling a shift in its manufacturing partnership.",
-   "💡 Innovation & Regulation": "BITE 2026 highlighted new scent formats and next‑gen sunscreens, while Target revamps its Soho store, Musely reports explosive affiliate growth, and ICHIMARU’s HappiClov wins a BSB Innovation Award."
+   "📈 Market": "L’Oréal’s third‑quarter sales rose double digits across all divisions, with strong demand in professional, dermatological and China markets.",
+   "💄 Brands & Retail": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, while SharkNinja expands its creator strategy to customers and employees.",
+   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while the partner focuses on innovation and manufacturing.",
+   "💡 Innovation & Regulation": "La Roche‑Posay, Neutrogena and other brands introduced BEMT sunscreens in the US after FDA approval of the ingredient."
   }
  },
  "articles": [
+  {
+   "title": "Procter & Gamble sales top $23.3 billion in strong Q1 2027",
+   "url": "https://www.cosmeticsbusiness.com/procter-gamble-sales-top-23-bn-q1-2027",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "Procter & Gamble’s Q1 2027 sales rose 4% driven by its beauty division, especially hair care demand.",
+   "excerpt": "The Q1 2027 4% sales increase for Procter & Gamble (P&G), the owner of Olay and Herbal Essences, was driven by its beauty division, which benefited particularly from hair care demand"
+  },
+  {
+   "title": "Selfridges unveils Christmas campaign in London, Manchester, Birmingham and digital stores",
+   "url": "https://www.cosmeticsbusiness.com/selfridges-unveils-christmas-campaign-2026-london-manchester-birmingham",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-23",
+   "ai_summary": "Selfridges launched a Christmas campaign featuring festive cityscapes and in-store experiences across its UK locations and digital stores.",
+   "excerpt": "Luxury British department store chain Selfridges has released its Christmas campaign, taking consumers around the world through festive cityscapes and in-store experiences"
+  },
+  {
+   "title": "Armani Beauty ambassador Jonathan Bailey fronts new ‘The Power of Will’ interview series",
+   "url": "https://www.cosmeticsbusiness.com/armani-beauty-ambassador-jonathan-bailey-fronts-new-the",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-23",
+   "ai_summary": "Armani Beauty’s ambassador Jonathan Bailey leads a new interview series for the ‘The Power of Will’ fragrance, joined by other ambassadors.",
+   "excerpt": "British actor Jonathan Bailey, who is ambassador for Armani Beauty’s I Will men’s fragrance, stars in a new video series for the scent, alongside fellow ambassadors, musician J Balvin, Formula 1 driver Carlos Sainz and e…"
+  },
+  {
+   "title": "La Roche-Posay to Neutrogena: New BEMT sunscreens hitting shelves in the US",
+   "url": "https://www.cosmeticsbusiness.com/la-roche-posay-to-neutrogena-new-bemt-sunscreens",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-23",
+   "ai_summary": "La Roche-Posay, Neutrogena and other brands introduce BEMT sunscreens in the US following FDA approval of the ingredient.",
+   "excerpt": "Bemotrizinol (BEMT) is the first new ingredient approved by the US Food and Drug Administration (FDA) for use in over-the-counter SPFs in the states since 1999. Now, brands such as La Roche-Posay, Neutrogena and Ultra Vi…"
+  },
+  {
+   "title": "L’Oréal hails ‘exceptional’ third quarter 2026 led by dermatological and professional beauty",
+   "url": "https://www.cosmeticsbusiness.com/l-or%C3%A9al-hails-exceptional-quarter-and-return-of-skin",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "L’Oréal’s third quarter 2026 saw growth in all divisions, highlighted by strong performance in professional and dermatological beauty.",
+   "excerpt": "The CeraVe and Kérastase owner’s business grew across all divisions in the third quarter of 2026, with a ‘remarkable’ performances from professional products and dermatological beauty"
+  },
+  {
+   "title": "Dove launches first fragrance inspired by its Original Beauty Bar due to demand",
+   "url": "https://www.cosmeticsbusiness.com/dove-launches-fragrance-inspired-by-original-beauty-bar",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-23",
+   "ai_summary": "Dove released a limited‑edition fragrance inspired by its Original Beauty Bar, responding to long‑standing customer demand.",
+   "excerpt": "The Unilever-owned beauty brand has broken into the perfume category with a limited edition fine fragrance that smells like its 69-year-old hero sku, Original Beauty Bar, stating its community has ‘been asking for years’…"
+  },
   {
    "title": "Halsey’s Mass-Market Makeup Brand Af94 Shuts Down",
    "url": "https://www.beautyindependent.com/halsey-mass-market-makeup-brand-af94-shuts-down/",
