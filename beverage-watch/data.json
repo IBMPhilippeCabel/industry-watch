@@ -1,17 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-23T12:28:00Z",
+ "updated": "2026-10-23T14:32:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Heineken warns pubs of weight‑loss drugs, while Danone tweaks recycling claims and Strucchi expands to the US.",
+  "hook": "Heineken warns pubs of weight‑loss drug impact while expanding digital and experiential offerings, and the market sees new distribution deals and regulatory shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken cautions UK pubs that GLP‑1 weight‑loss drugs could curb beer sales, urging adaptation to shifting drinking habits.",
-   "📈 Market": "Danone will adjust its plastic bottle recycling claims in Europe, following moves by Coca‑Cola and Nestlé, amid ongoing regulatory scrutiny.",
-   "🍸 Spirits & Premium": "Rohan Radhakrishnan highlights Demi’s US‑first strategy and the case for a new mid‑strength spirits category.",
-   "🍺 Beer & Brewing": "Heineken warns that weight‑loss drugs threaten beer sales, prompting pubs to adapt to changing consumer habits."
+   "🤝 Strategy & M&A": "Heineken advises UK pubs to adapt to GLP‑1 weight‑loss drugs, warning of potential beer sales decline.",
+   "📈 Market": "Anora appoints Quintessential Brands as exclusive UK distributor for its spirits, and the EU consults on bio‑based plastics packaging.",
+   "🍸 Spirits & Premium": "Strucchi launches its vermouth and bitter liqueur in the US, marking its first market expansion outside Europe.",
+   "🍺 Beer & Brewing": "Heineken warns pubs about GLP‑1 drugs affecting beer sales, while Zevia secures investment for a strategic reset.",
+   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, and MGM Resorts introduces fan experiences for the 2026 Formula 1 Heineken Las Vegas Grand Prix."
   }
  },
  "articles": [
+  {
+   "title": "Albert Heijn resumes online deliveries after cyber outage",
+   "url": "https://www.just-drinks.com/news/albert-heijn-resumes-online-deliveries-after-cyber-outage/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "Albert Heijn resumes online deliveries after cyber outage – Ahold Delhaize has restored its Dutch online operations, including for Albert Heijn, following the cyber breach that hit the business earlier this month.",
+   "excerpt": "Ahold Delhaize has restored its Dutch online operations – including for Albert Heijn – following the cyber breach that hit the business earlier this month."
+  },
+  {
+   "title": "US soft-drinks firm Zevia attracts “milestone” investment",
+   "url": "https://www.just-drinks.com/news/zevia-attracts-investment/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "US soft-drinks firm Zevia attracts “milestone” investment – Zevia has secured new investment to fund a “strategic reset” of the business.",
+   "excerpt": "Zevia, the US soft-drinks maker, has secured new investment to fund a “strategic reset” of the business."
+  },
+  {
+   "title": "Anora picks Quintessential Brands for UK distribution",
+   "url": "https://www.just-drinks.com/news/anora-picks-quintessential-brands-for-uk-distribution/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "Anora picks Quintessential Brands for UK distribution – Anora Group has appointed Quintessential Brands as the exclusive UK distributor for its spirits portfolio.",
+   "excerpt": "Anora Group has appointed Quintessential Brands as the exclusive UK distributor for its spirits portfolio."
+  },
   {
    "title": "Heineken tells UK pubs to adapt as GLP-1s to put a dent in beer sales (HEINY:OTCMKTS) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnd2WnlaZHZKU0pTOHotem5LNU15M0M4NjVTVVhqMUdkZ3E4cmg4aS1qOXhWeDB0R29kQ1ZJMUc3czBlS2NHdkxuMmtwMXRPS0pjclRfOFFBMGVJSWtRN0FTSExnTUJkamVFaWk4S2Y3V2tTdXVoT3ZHRXFmVl83N1VDRENDUmttYlNaRzYwcXREcGRGNnp4YldMUE5paFozbFRZQ3RqWF9WQ1E?oc=5",
@@ -92,6 +120,15 @@
    "date": "2026-10-23",
    "ai_summary": "The European Commission has started a public consultation to evaluate the position of bio‑based plastics in EU packaging policy.",
    "excerpt": "The European Commission (EC) has started a public consultation to evaluate the position of bio-based plastics in EU packaging policy."
+  },
+  {
+   "title": "UK retailers demand Budget tax cut as consumer confidence weakens",
+   "url": "https://www.just-drinks.com/news/brc-uk-consumers-retail/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "UK retailers demand Budget tax cut as consumer confidence weakens – UK consumer confidence deteriorated further in October, with expectations for the state of the economy and personal finances both falling.",
+   "excerpt": "UK consumer confidence deteriorated further in October, with expectations for the state of the economy and personal finances both falling."
   },
   {
    "title": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs - The Guardian",
