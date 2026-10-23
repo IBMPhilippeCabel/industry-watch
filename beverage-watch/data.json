@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-23T08:30:00Z",
+ "updated": "2026-10-23T10:26:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Heineken faces regulatory and market pressures while exploring new digital and product innovations.",
+  "hook": "Heineken faces weight‑loss drug pressure while expanding digital pub services, as markets shift and new US vermouth launches hit the scene.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken is concerned about weight‑loss drugs affecting beer sales and has been ordered to pay damages in a Greek competition case.",
-   "📈 Market": "Whitebox Cocktails has entered the U.S. market, and Adnams is reviewing its canning and bottling contracts.",
-   "🍸 Spirits & Premium": "Strucchi is launching its vermouth in the U.S., marking its first expansion outside Europe.",
-   "🍺 Beer & Brewing": "Heineken was ordered to pay over €100 million to Macedonian Thrace Brewery in a Greek competition case.",
-   "💡 Innovation & No-Low": "Heineken and Amazon Ads are launching a streaming service for nights out called “Pubscription.”"
+   "🤝 Strategy & M&A": "Heineken warns UK pubs that GLP‑1 drugs could cut beer sales, sparking concerns over future demand.",
+   "📈 Market": "PepsiCo renews a Taco Bell drinks supply deal after KFC switched to Coca‑Cola, reflecting shifting fast‑food beverage contracts.",
+   "🍸 Spirits & Premium": "Strucchi launches its Italian vermouth and bitter liqueur in the US, marking its first market expansion outside Europe.",
+   "🍺 Beer & Brewing": "Adnams reviews its canning and bottling contracts, while Heineken faces a €100 million Greek competition damages order.",
+   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch “Pubscription,” the first streaming service for nights out, and also introduces a new subscription model for pubs."
   }
  },
  "articles": [
+  {
+   "title": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHE3NkxPMGRiZ3dYODdfRmFpSzhvTWJ5Nmh5UUhfVC1mLVA3QWlxMUVZRm5PTzRwODBUZ3UtUVZMQ1lyNVBuYUlpMWJYbVhhTEpiZHNUT1c2N1NmOG1mdVRPOE53Z2RhYTJqdkE1UHZ2LVZFa2xPYUF0c2pzeVRVSm5mdmFCU2tnbk9VOUdGV2cweTE2TFNGVmpDeHZxbG9veHZIYXhxSTV1UQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Boom in weight‑loss drugs could reduce beer sales, prompting Heineken to warn British pubs.",
+   "excerpt": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs The Guardian"
+  },
+  {
+   "title": "PepsiCo renews deal to supply Taco Bell",
+   "url": "https://www.just-drinks.com/news/pepsico-renews-deal-taco-bell/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "PepsiCo has renewed a drinks supply deal with Taco Bell, announced shortly after KFC switched to Coca‑Cola.",
+   "excerpt": "PepsiCo has renewed a deal to supply Taco Bell with drinks, announcing the new contract days after sister chain KFC defected to Coca-Cola."
+  },
   {
    "title": "Lions’ Jameson Williams gives brutally honest review of his play to start 2026 - Yahoo Sports",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmJza09Fd1ZwTjdKcHZ5VEJSV2J1M0pDNWYyOUpnSktPZWZZb0hTOWVvX1Z1TXp4UFlMR3FNYUJWektSalFObXVpWTFpWkM0VTByd2Y2NVNPQnpDam8yaU1STE11VzdqeXBzbjBSc1cySHlvUHFURFRlY0czcG8tcHBTY0RSRFlvck1HN1hsNA?oc=5",
