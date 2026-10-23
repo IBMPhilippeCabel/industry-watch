@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-23T06:31:00Z",
+ "updated": "2026-10-23T08:30:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Today’s focus: AI‑driven retail lag, L’Oréal’s earnings lift, Chanel’s stake shift, and new beauty‑tech trends reshaping the market.",
+  "hook": "Today’s beauty market buzz centers on L’Oréal’s double‑digit Q3 surge, fresh brand earnings, and a wave of innovation from celebrity ventures to AI‑driven retail.",
   "categories": {
-   "📈 Market": "Retail supply chains remain in early AI adoption stages while Nivea Sun’s five‑year Tour de France partnership and Interparfums’ 4.8% Q3 sales rise underscore steady brand performance.",
-   "💄 Brands & Retail": "L’Oréal’s Q3 earnings beat, driven by professional and dermatological divisions, contrasts with luxury brands shuttering smaller stores and SharkNinja’s new creator‑seller model.",
-   "🤝 Strategy & M&A": "Chanel’s sale of most of its Capsum stake to Motion Equity Partners signals a shift in luxury manufacturing, while Beiersdorf awaits Q3 results and Cymbiotika expands into beauty supplements.",
-   "💡 Innovation & Regulation": "BITE 2026 highlighted next‑gen sunscreens and new scent formats, Musely’s 1,200% affiliate growth, ICHIMARU PHARCOS’s BSB award, DEMIblue’s breast‑cancer‑survivor line, and Target’s Soho redesign illustrate evolving innovation."
+   "📈 Market": "L’Oréal’s Q3 sales rose double‑digit across all divisions, while Interparfums and Puig also posted gains and Nivea Sun secured a five‑year Tour de France partnership.",
+   "💄 Brands & Retail": "L’Oréal’s Q3 earnings jump was driven by its Professional and Dermatological divisions, while SharkNinja expands its creator strategy and luxury brands trim smaller stores amid unrest.",
+   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, signalling a shift in its manufacturing partnership.",
+   "💡 Innovation & Regulation": "BITE 2026 highlighted new scent formats and next‑gen sunscreens, while Target revamps its Soho store, Musely reports explosive affiliate growth, and ICHIMARU’s HappiClov wins a BSB Innovation Award."
   }
  },
  "articles": [
@@ -56,6 +56,15 @@
    "date": "2026-10-23",
    "ai_summary": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, with a focus on earnings and standout performers this week.",
    "excerpt": "This week, a look at why luxury brands are closing smaller stores and spending more on their biggest locations, just as unrest in France forces some doors shut. Plus, the standouts from this week’s earnings, exclusive Tr…"
+  },
+  {
+   "title": "L'Oréal accelerates in Q3, with growth across all divisions",
+   "url": "https://www.premiumbeautynews.com/en/l-oreal-accelerates-in-q3-with,28397",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-10-23",
+   "ai_summary": "L'Oréal accelerates in Q3, with growth across all divisions — L'Oréal said Thursday, October 22, its third quarter sales rose by double digits. Sales growth was driven by strong demand across all divisions and regions, including China.",
+   "excerpt": "L'Oréal said Thursday, October 22, its third quarter sales rose by double digits. Sales growth was driven by strong demand across all divisions and regions, including China. The French cosmetics giant, whose brands inclu…"
   },
   {
    "title": "Target unveils its revamped Soho location as big-box stores seek to become retail destinations",
@@ -1118,6 +1127,15 @@
    "date": "2026-10-09",
    "ai_summary": "",
    "excerpt": "Beauty Tech Group Heads These 3 British Growth Stocks To Watch Yahoo Finance"
+  },
+  {
+   "title": "EU cosmetics face PFHxA limits as REACH transition ends - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZhTm94cV9Rb08wckFmc1BxWE9lQ3JwZExwMThIQ05HY1hmZ09PeFBhWjhnRHpMU3pGZzdHcUl6SVJ3NkN0ZkFvdi1wUHZiRWt1N05Ud1B0VmJJWVMtMzlHbHZVYjFIQXN6enk5NkRweTFkNXAwaDY1MWNPYVFRNEhCOUw?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-09",
+   "ai_summary": "EU cosmetics face PFHxA limits as REACH transition ends - Personal Care Insights — EU cosmetics face PFHxA limits as REACH transition ends Personal Care Insights",
+   "excerpt": "EU cosmetics face PFHxA limits as REACH transition ends Personal Care Insights"
   },
   {
    "title": "Bridging Clean Beauty and High Performance: Seppic Unveils Sepilife™ NEOS - Cosmetics & Toiletries",
