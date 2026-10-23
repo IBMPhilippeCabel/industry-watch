@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-23T14:32:00Z",
+ "updated": "2026-10-23T16:31:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Heineken warns pubs of weight‑loss drug impact while expanding digital and experiential offerings, and the market sees new distribution deals and regulatory shifts.",
+  "hook": "Heineken warns pubs of weight‑loss drug impact while launching streaming service, and the market sees online delivery resumption and new UK distribution deals.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken advises UK pubs to adapt to GLP‑1 weight‑loss drugs, warning of potential beer sales decline.",
-   "📈 Market": "Anora appoints Quintessential Brands as exclusive UK distributor for its spirits, and the EU consults on bio‑based plastics packaging.",
-   "🍸 Spirits & Premium": "Strucchi launches its vermouth and bitter liqueur in the US, marking its first market expansion outside Europe.",
-   "🍺 Beer & Brewing": "Heineken warns pubs about GLP‑1 drugs affecting beer sales, while Zevia secures investment for a strategic reset.",
-   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, and MGM Resorts introduces fan experiences for the 2026 Formula 1 Heineken Las Vegas Grand Prix."
+   "🤝 Strategy & M&A": "Heineken cautions pubs about GLP‑1 weight‑loss drugs potentially reducing beer sales.",
+   "📈 Market": "Albert Heijn resumes online deliveries after cyber outage and Anora appoints Quintessential Brands as exclusive UK distributor.",
+   "🍸 Spirits & Premium": "Strucchi launches its vermouth in the US, expanding beyond Europe.",
+   "🍺 Beer & Brewing": "Heineken warns pubs of weight‑loss drug impact on beer sales.",
+   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, called Pubscription."
   }
  },
  "articles": [
@@ -21,6 +21,15 @@
    "date": "2026-10-23",
    "ai_summary": "Albert Heijn resumes online deliveries after cyber outage – Ahold Delhaize has restored its Dutch online operations, including for Albert Heijn, following the cyber breach that hit the business earlier this month.",
    "excerpt": "Ahold Delhaize has restored its Dutch online operations – including for Albert Heijn – following the cyber breach that hit the business earlier this month."
+  },
+  {
+   "title": "Heineken warns: weight-loss products threaten beer sales - RetailDetail EU",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFdYdG56Uld4b1VQTG1rUDdXZTdDOUpiUERmM19PTV91NnViRmF0UVozbk9MZVNYYXR5Uzg5cmpkcDN0OVBxbjZ1LU1ickFmUEZPWEpQNzdCR0Nab1VIUGpVb1hGeW1EUTNLcDk0WVM3RGYyYzIxUkt2djVzeXcydDRoX0ZoSUtFeTBBWHk2OU9IVHR2Z0lfTGdR?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Heineken cautions that weight‑loss products could impact beer sales. The company highlights this concern in a RetailDetail EU report.",
+   "excerpt": "Heineken warns: weight-loss products threaten beer sales RetailDetail EU"
   },
   {
    "title": "US soft-drinks firm Zevia attracts “milestone” investment",

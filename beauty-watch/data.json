@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-23T14:32:00Z",
+ "updated": "2026-10-23T16:31:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "L’Oréal’s Q3 double‑digit sales and P&G’s beauty‑led growth dominate the day, while new sunscreen tech and a major stake sale reshape the market.",
+  "hook": "Day highlights L’Oréal’s strong Q3, new BEMT sunscreens, and celebrity brand exits.",
   "categories": {
-   "📈 Market": "L’Oréal’s Q3 sales rose double digits across all divisions, driven by strong demand in professional and dermatological beauty, while P&G’s beauty division lifted its Q1 sales 4%.",
-   "💄 Brands & Retail": "L’Oréal’s Q3 earnings beat was powered by its Professional Products and Dermatological Beauty divisions, boosting the group’s 11.9% quarterly gain.",
-   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, leaving the luxury brand as a minority shareholder in the innovation and manufacturing partner.",
-   "💡 Innovation & Regulation": "La Roche‑Posay, Neutrogena and other brands introduced BEMT sunscreens in the US after FDA approval of the ingredient."
+   "📈 Market": "L’Oréal’s Q3 2026 sales rose double‑digit across all divisions, driven by strong demand in China and professional and dermatological beauty.",
+   "💄 Brands & Retail": "L’Oréal’s Q3 earnings jump was led by its professional and dermatological divisions, while luxury brands shift to larger stores amid unrest.",
+   "🤝 Strategy & M&A": "Chanel divests its majority stake in Capsum to Motion Equity Partners, keeping a minority share.",
+   "💡 Innovation & Regulation": "FDA approval of BEMT sunscreens spurs new US launches, while Jana Craig’s lash line debuts and Halsey’s Af94 brand closes."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: ‘Love Island USA’ Star Jana Craig Launches New Lash Line",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/love-island-jana-craig-beauty-launch-1239380824/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-23",
+   "ai_summary": "EXCLUSIVE: ‘Love Island USA’ Star Jana Craig Launches New Lash Line — Debuting direct-to-consumer on Nov. 6, the collection opens with six lash packs and a cluster set.",
+   "excerpt": "Debuting direct-to-consumer on Nov. 6, the collection opens with six lash packs and a cluster set."
+  },
   {
    "title": "Procter & Gamble sales top $23.3 billion in strong Q1 2027",
    "url": "https://www.cosmeticsbusiness.com/procter-gamble-sales-top-23-bn-q1-2027",
@@ -1199,6 +1208,15 @@
    "date": "2026-10-09",
    "ai_summary": "EU cosmetics face PFHxA limits as REACH transition ends - Personal Care Insights — EU cosmetics face PFHxA limits as REACH transition ends Personal Care Insights",
    "excerpt": "EU cosmetics face PFHxA limits as REACH transition ends Personal Care Insights"
+  },
+  {
+   "title": "Beauty Tech Group bosses sell £6 million of shares after buyback - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXJKRHpHOVZPaW9KZXR4X0JFVG91N1NVQmJlczV3cUJLS2Ryb2tyM1M4Uk5oOWdDQmRCc3ZrdWhHeWJUM3puX0VvdnlUMjlqem5SR0Y3YTdtYm9LRzdEWDhraXk5QXNTUzdpSTFWdXhaRTd5azE0NC1DRGVjVGRTQXNlVmw?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-08",
+   "ai_summary": "Beauty Tech Group bosses sell £6 million of shares after buyback - Yahoo Finance UK — Beauty Tech Group bosses sell £6 million of shares after buyback Yahoo Finance UK",
+   "excerpt": "Beauty Tech Group bosses sell £6 million of shares after buyback Yahoo Finance UK"
   },
   {
    "title": "Bridging Clean Beauty and High Performance: Seppic Unveils Sepilife™ NEOS - Cosmetics & Toiletries",
