@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-23T20:23:00Z",
+ "updated": "2026-10-23T22:25:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Heineken highlights GLP‑1 drug impact on beer sales while partnering with Amazon Ads for a new streaming service, amid market guidance lifts.",
+  "hook": "Heineken expands digital reach while warning pubs of weight‑loss drug impact, and partners with Amazon for a new streaming service.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken warns pubs that GLP‑1 weight‑loss drugs could reduce beer sales, urging adaptation.",
-   "📈 Market": "Vita Coco ups guidance again, signalling continued growth in the coconut water market.",
-   "🍸 Spirits & Premium": "Anora appoints Quintessential Brands as exclusive UK distributor for its spirits portfolio.",
-   "🍺 Beer & Brewing": "No specific beer‑brewing signal in the summaries.",
-   "💡 Innovation & No-Low": "Heineken and Amazon Ads launch Pubscription, the first streaming service for nights out."
+   "🤝 Strategy & M&A": "Heineken partners with Amazon Fire TV for a streaming service and warns pubs about weight‑loss drugs, signaling a shift toward digital engagement and health‑related risk management.",
+   "📈 Market": "Anora appoints Quintessential Brands as its UK distributor, and Danone adjusts plastic bottle recycling claims, reflecting ongoing regulatory and distribution changes.",
+   "🍸 Spirits & Premium": "Strucchi launches its vermouth in the US, marking its first expansion outside Europe.",
+   "🍺 Beer & Brewing": "No specific beer or brewing market signal is present in the summaries.",
+   "💡 Innovation & No-Low": "Heineken and Amazon Ads launch a streaming service for nights out, the first of its kind, and MGM Resorts introduces high‑octane fan experiences for the 2026 Formula 1 Heineken Las Vegas Grand Prix."
   }
  },
  "articles": [
+  {
+   "title": "Viewing Locations presented by Jameson: LA Galaxy at LAFC | October 25, 2026 - LA Galaxy",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTFORWdHRGtVQnYwcktneDhSWkNCdnI0WF9oTkp1amJLbTFXX0VoMWE2YnNLaXpfZkkyQ250X1kzU0FtRzVwTWhmbDZ4YWhhZ3BuMW1ScXhMZThxbEFuVnhpdFZxM2JlWTdQajhtUFMyeThIT0JJTzQySF9FbE0yUG16RExBVURWQWhheERfcEdtWFA0c2VGVERXNEdwYTloTkE2RA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Viewing Locations presented by Jameson: LA Galaxy at LAFC | October 25, 2026 - LA Galaxy — Viewing Locations presented by Jameson: LA Galaxy at LAFC | October 25, 2026 LA Galaxy",
+   "excerpt": "Viewing Locations presented by Jameson: LA Galaxy at LAFC | October 25, 2026 LA Galaxy"
+  },
+  {
+   "title": "Heineken Partners With Amazon Fire TV For 'Pubscription' Streaming Service 10/26/2026 - MediaPost",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVUtUng0OGU1T01jei1rdEF2Y1ZOTHMyTmt1Z2dDa201WXFxTzJEaDBOWXJ4dTFCa3pPWHRxY2ZUX21IMW80ZTdyc0VuSk9pSUhYLVp3ZWJFZUowSkdyWDJGWndXRHNPTzFQckh0R3VjZndISExFeHF1cm50QUtWQlNCd0NoclNPSlh4TkZLd1hxUHdWVWthWnF0YXBiYW9rRXd3LWI2dnpiQ3lw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Heineken Partners With Amazon Fire TV For 'Pubscription' Streaming Service 10/26/2026 - MediaPost — Heineken Partners With Amazon Fire TV For 'Pubscription' Streaming Service 10/26/2026 MediaPost",
+   "excerpt": "Heineken Partners With Amazon Fire TV For 'Pubscription' Streaming Service 10/26/2026 MediaPost"
+  },
+  {
+   "title": "Heineken Is Warning Pubs About Weight-Loss Drugs - Newser",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnl0U0p2ZXR2d2xxUDh3Z3B0SGNXMWhieV9QSGsxSHdpWnlpU29CVXpBSHB5cFNIRnlIQVBkbDd4N05fVFVuelFkVkUyd3FjSjgzYlY2VVNQcEhlR3pPNXBKb2kxa29zM0tjczgwZEpXSjhRX3I1MWdBYUZWX0d0aDBVSS1XMlJVTjIyUjU2bWhpOG8?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Heineken Is Warning Pubs About Weight-Loss Drugs - Newser — Heineken Is Warning Pubs About Weight-Loss Drugs Newser",
+   "excerpt": "Heineken Is Warning Pubs About Weight-Loss Drugs Newser"
+  },
+  {
+   "title": "Jameson Taillon Injury: Recovering from flexor surgery - RotoWire",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVZYUktFTkppQU5CV2taRUUwSGRGXzNLcktHUWV2bHFSXzBiQ2xwUndvRndzTFJwcnNaM1BiLXlZX0x4WV93cWZxYWtHdnFOWXoyMUtMWVI5dU8xZWxOT29abHZEZ2RHMHVMdzBTb3NMYV9uNDYydHE2X3hDMWNUOF9qd0xwR09iY3diN2VzYjB4X3hTTnBtZFJHSkowaUEyUWRYMjU0aEY?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Jameson Taillon Injury: Recovering from flexor surgery - RotoWire — Jameson Taillon Injury: Recovering from flexor surgery RotoWire",
+   "excerpt": "Jameson Taillon Injury: Recovering from flexor surgery RotoWire"
+  },
   {
    "title": "Fantasy Football Week 7 Start 'Em Sit 'Em: Jameson Williams or Jaylen Waddle? - Sports Illustrated",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEdJRk5ZWmRWcHdiV3NMTm1Wc0JuRU9lNllWUVZGN3hPenBDc2FaZS1MOUNzRGhrWGROV3NiVVZBNTFvalNtWTl2TF80d3BsTkJFc3N0UENKSEh0c3Etd3pBVWhsLWxVSGJmZVVKeW1ZZWN4Ujk0YXNmSGxiQXF0cXE1Y2ZnTGxHY0FkWS1GOFNUMGEyQkdVbHlzeklwQUdyOENBSUNHOVdpYnBIakdaR3Fn?oc=5",

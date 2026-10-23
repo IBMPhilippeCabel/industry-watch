@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-23T20:23:00Z",
+ "updated": "2026-10-23T22:25:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "L’Oréal’s Q3 2026 saw double‑digit growth across luxury, dermatology and professional lines, while new tech and brand launches keep the group ahead.",
+  "hook": "L’Oréal faces a lawsuit over hair relaxer risks while reporting strong Q3 growth and launching new beauty tech and brand initiatives.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal’s Q3 2026 performance, driven by luxury and dermatological beauty, earned a buy rating and highlighted strong growth across all divisions.",
-   "💄 Brands & Launches": "Maybelline New York launched a festive ‘Mithai’ lipstick collection with Kiara Advani and appointed a new brand ambassador in Egypt.",
-   "💡 Beauty Tech & ESG": "L’Oréal’s Agentforce platform handled consumer support cases 64% faster than before.",
-   "📈 Market": "The group’s Q3 sales rose double digits, with notable growth in professional products, dermatological beauty and travel retail, and La Roche‑Posay introduced a BEMT sunscreen."
+   "🤝 Strategy & M&A": "Minnesota sues L’Oréal over alleged cancer risks in hair relaxers, highlighting legal challenges amid market gains.",
+   "💄 Brands & Launches": "Maybelline New York launches a festive ‘Mithai’ lipstick collection with Kiara Advani and partners with Saffron & Mishri for a limited‑edition line.",
+   "💡 Beauty Tech & ESG": "L’Oréal improves customer support speed by 64% using Agentforce technology.",
+   "📈 Market": "L’Oréal reports double‑digit Q3 sales growth across all divisions, driven by strong demand in China and other regions."
   }
  },
  "articles": [
+  {
+   "title": "Minnesota sues L’Oréal, alleging it deceived Black consumers about cancer risks of chemical hair relaxers - Bring Me The News",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS2xBNFBoWWw2VGtkVDQtMGtGOTJkUURMd3ZFWlVObl9PSTNzX2VZVC00OERfbWRYU3l2cDIxWHFTUXp1ME9VNmFpQzRSWVJQaldHS05TcTIxX1pPUnRoS3FSbV9kSjRHN2RuaXRMc0JvcS1KRlRmNUx0Rm9MNkJ0SGo4SUdoZ3QwUEpjMFpLUHFhU01CM0VkRWtmbW9WckN1VlZrZzUxNzNJYTh6U2F0T0Z4SmhjajJvNzRnWXNPRWt6dEFfbU5VOTd6Y1htUmd1UlRUZjVWaXBQVTBpUmpXcFdEMA?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Minnesota sues L’Oréal, alleging it deceived Black consumers about cancer risks of chemical hair relaxers.",
+   "excerpt": "Minnesota sues L’Oréal, alleging it deceived Black consumers about cancer risks of chemical hair relaxers Bring Me The News"
+  },
+  {
+   "title": "Minnesota sues L’Oréal, alleging company hid cancer risks of chemical hair relaxers - Valley News Live",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEtOZTdkVUJEdC1QTE56Vkw4UjY1NDgzTXdTY0k3dkNLMWN1NDlWa05KV3BRVmYwbDFRRVZjTVkySFI2UmVXTnJyTnkwNkI2QmFNeXJjbGVvSkdidDNQT3gtRGxvZ191NW0tRHZjLXRQcEtxVnZIOXdMZl9iSGEySzhYQ3NYT2NCdGlFTEdCVGZMV1BwZGt0TmJtUHppOUtwc3hIb2Foek1uSktvY0YtbDF1NnVkemNCZExXMw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Minnesota sues L’Oréal, alleging company hid cancer risks of chemical hair relaxers.",
+   "excerpt": "Minnesota sues L’Oréal, alleging company hid cancer risks of chemical hair relaxers Valley News Live"
+  },
+  {
+   "title": "Minnesota sues L’Oréal for selling toxic hair products to Black girls and women - Star Tribune",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHN6cW5FYVl4cU5reURkLWdrQlBZdGVYZWNheGJIMzdJLWRZNUxCaTVBcW5SNWpDRXByOUVhN2MyeUczbkhHbk9xeXFjYnNSLUFERmMzVzVIWGhiQ3F1LUlZaEJiNXdzakVPM2N0S1ppN1RFZk1wdE9YVzJxaGpQUTNJUHZGOUpla29xUXgyeF9qUy1LNDJQdk4xXzBuTF9TRzBrTnV2Q1lkLVAxRXU1YkNn?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Minnesota sues L’Oréal for selling toxic hair products to Black girls and women.",
+   "excerpt": "Minnesota sues L’Oréal for selling toxic hair products to Black girls and women Star Tribune"
+  },
+  {
+   "title": "Minnesota AG sues L’Oréal over hair relaxer cancer risks - FOX 9 Minneapolis-St. Paul",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaTRrQVV2VTdSRVhsUUxwZjY4N3RBclZRcjMycHJCMU9wZHJ4bzJvRVozWHpEaGlMUUd0dm15cVEzb2tXd3lEOHRIYzhZVzRsdEFNZGM0Tk5iSndaYWtBQ2pvRUcxeXVtY3RJUFNETzVYWjhHYk1ZMU1QZEkxQ0hhaHZkc1hCeWJ3TURUSGlESDkzQTc0?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Minnesota AG sues L’Oréal over hair relaxer cancer risks.",
+   "excerpt": "Minnesota AG sues L’Oréal over hair relaxer cancer risks FOX 9 Minneapolis-St. Paul"
+  },
   {
    "title": "Minnesota sues L'Oréal over cancer risks in hair relaxers - KIMT",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSG9QYUtoOWdNeHJVaF9oS1BNelhTSXR3c2RPVG1wZHVZa0VLdl83Q05La2p6a3ZhVFFoUlR6b2JjOGdSc0hxaDhLQnZyakxPVldSNnNSR2ZUTk9RSUJieXdOSGM5VkZSb09hRDloY3B5Q2tLUW1vN2ZiNVk0QWo2TnF0TUw4eFUwdS1JY1RvX2JTYk5jOEdob3EyN0llTTk5VjUtMlMzdWNrZno3UTNHblkycVhoVkYzTHdpREpIQU9fZGhtNXlzSEpnMkc?oc=5",
