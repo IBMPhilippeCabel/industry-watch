@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-23T00:31:00Z",
+ "updated": "2026-10-23T02:25:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "L'Oréal showcases growth in sales, tech efficiency, and brand launches while maintaining a neutral outlook.",
+  "hook": "L’Oréal boosts product expertise with Agentforce, celebrates a 7% earnings jump, launches a new sunscreen and Maybelline’s festive collection.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal remains on a neutral stance from JP Morgan, celebrates 2026 Women in Science award winners, and highlights a 7% earnings jump driven by premium haircare and skincare, while expanding on-demand product expertise with Agentforce.",
-   "💄 Brands & Launches": "Maybelline New York appoints Hannah El Zahed as first brand ambassador in Egypt and launches a festive ‘Mithai’ lipstick collection with Kiara Advani, while partnering with Saffron & Mishri for a limited‑edition line.",
-   "💡 Beauty Tech & ESG": "L'Oréal’s Agentforce platform now resolves consumer support cases 64% faster, boosting service efficiency.",
-   "📈 Market": "The 7% earnings surge was led by key brands highlighted in Q3, with La Roche-Posay debuting an Anthelios sunscreen featuring bemotrizinol, and L'Oréal Paris USA announcing its 2026 Women of Worth honourees amid growing travel‑retail focus."
+   "🤝 Strategy & M&A": "L’Oréal offers product expertise on demand through Agentforce Salesforce.",
+   "💄 Brands & Launches": "Maybelline New York launches a festive ‘Mithai’ lipstick collection featuring Kiara Advani.",
+   "💡 Beauty Tech & ESG": "L’Oréal handles consumer support cases 64% faster with Agentforce.",
+   "📈 Market": "The products that led L’Oréal Group’s 7% earnings jump this summer were highlighted in the Q3 investor call."
   }
  },
  "articles": [
@@ -83,6 +83,15 @@
    "date": "2026-10-22",
    "ai_summary": "L’Oréal Third-Quarter Sales Rise 7.2% as Haircare and Dermatological Beauty Lead - Oui Speak Fashion (OSF)",
    "excerpt": "L’Oréal Third-Quarter Sales Rise 7.2% as Haircare and Dermatological Beauty Lead Oui Speak Fashion (OSF)"
+  },
+  {
+   "title": "L’Oréal Revenue Climbs 7.7% to Top 35.3 Billion Euros Through September - Modaes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX3hmUGJpeVFFTk5BcDBDQnFxLTlCUVN5Tk45QWc5MDdJQ25pdFpxYzVRMkoxYVRGMlR5NGVCd3pKTVJPLXI0RkhXMUNXZWd1SFlVUGZPWGtWOFVsZkVEcmxFV3h1UTc1bVo3VF9vYm9acnF1VXJZOVlISHZlc2JrX3pvQWFDancxTXljQjNGUVJCRmJpNXpWYTRiLS1vYnhZUGRVbHZacHVzNVZV?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-22",
+   "ai_summary": "L’Oréal’s revenue increased 7.7% to reach 35.3 billion euros through September.",
+   "excerpt": "L’Oréal Revenue Climbs 7.7% to Top 35.3 Billion Euros Through September Modaes"
   },
   {
    "title": "L’Oréal Group Sees Stable Growth in the Third Quarter - Vogue",
