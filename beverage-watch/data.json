@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-23T04:27:00Z",
+ "updated": "2026-10-23T06:31:00Z",
  "briefing": {
   "date": "2026-10-23",
-  "hook": "Heineken faces a hefty €111‑million payout while expanding its digital footprint and entering new markets.",
+  "hook": "Heineken dominates the day with legal, partnership, and expansion moves while the market sees new entrants and contract reviews.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken ordered to pay €111 million for market abuse, a significant financial hit amid its expansion plans.",
-   "📈 Market": "Whitebox Cocktails enters the U.S. ready‑to‑drink market, while Adnams reviews its production contracts amid broader industry shifts.",
-   "🍸 Spirits & Premium": "Strucchi launches its vermouth in the U.S., marking its first expansion outside Europe.",
-   "🍺 Beer & Brewing": "Adnams is reviewing its canning and bottling contracts for beer production.",
-   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, expanding its digital engagement."
+   "🤝 Strategy & M&A": "Heineken faces a €100 million damages order in Greece while reviewing contracts and exploring new partnerships.",
+   "📈 Market": "Whitebox Cocktails enters the U.S. market and Adnams reviews its canning and bottling contracts amid broader market shifts.",
+   "🍸 Spirits & Premium": "Strucchi launches its first U.S. vermouth line, expanding beyond Europe.",
+   "🍺 Beer & Brewing": "Heineken is ordered to pay damages in Greece and Adnams is reviewing its production contracts.",
+   "💡 Innovation & No-Low": "Heineken partners with Amazon Ads to launch a streaming service for nights out, marking a new subscription model."
   }
  },
  "articles": [
+  {
+   "title": "The logo of Heineken beer is seen on a delivery truck - The Daily News | Texas' Oldest Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzN2TFBNS3hXUHRNeTlHM1FOYXpGeDRVcVdJZEZSc3JYcXhvVUFxb0VFS3J2TWgyTEt6Tm55UUdsZHVQZVhlWW9tWGFaQVpyR3YyYU9NVnY2VGNMLVhBeU9WdlpFUFYtUWpZM3I0ZjNlV19oRGhNbko1SU1zNW5vcnE4a3VUMmdva2E5cEtPOHBCQ2tLNjVpUEdKbGdLd0pMRTJYWTJpR09HbUhJYlVHY2kyNWtRVlhXLVhuekktM0QzQjdZY3JtVURtOXVKbWI2bEpnOXNGRndIa3dBczQwYl9R?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "The logo of Heineken beer is seen on a delivery truck The Daily News | Texas' Oldest Newspaper",
+   "excerpt": "The logo of Heineken beer is seen on a delivery truck The Daily News | Texas' Oldest Newspaper"
+  },
+  {
+   "title": "Heineken document reveals worries over weight-loss drugs and beer sales - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldabER4azRqMlgxRFdqWDF1U2dVUjlfb2l6elIteVd5eGhtd3R0cXlEN19MYlhINlhaWWxsQWdzZGdwRnZ4VkVrcElWRHQ2SEZrZUFVbHBKNl92TFNnY0gzUkhDM0w2c0wtSmlGaGRnLVNndXN0NTFkOHlhc0E4aDVjeWZ3bjFBWU1GM05OUXdqUHpRal9KdzlXd05JM1BRMTIxOTRKYllUWU9TN1owYmtONUhKblJYZ3NSUS1TUGw3Zw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Heineken document reveals worries over weight-loss drugs and beer sales marketscreener.com",
+   "excerpt": "Heineken document reveals worries over weight-loss drugs and beer sales marketscreener.com"
+  },
+  {
+   "title": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxjUl8zRFdLRXdOR1Z3SVFsSEc1WElSMG9OZHRJYW52a3hvN3BVOEJBMHk4YnZpQkRwYnRzWF9qeXhRZjF6M0o5c09xVzZ5a0dwOG1aQ2thYlpKV1RlTFBsVWNGcHdpZ2F4Sld3UWFoY1htZDVld1UwZ0x1MnJ0bnZOdVpMZDlEZ3JmRDhQa3Fsam9UZkl0TnB2eHF3eU1CNGZTWlV4Smt4NDJLbXBzQ1ExekxtWm5uTGtCRg?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales Reuters",
+   "excerpt": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales Reuters"
+  },
+  {
+   "title": "Jameson Lopp warns Bitcoin holders against giving up self custody - Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUhaR2V5YVJQVXpmMmQtdW5vZXJQdTFoZWpjVHBNWmQyN1JVQklwTU5OTlYybmRUdHdOeGFtSFVfMUpxd3hqcHE3bFdtWXFWVldRTGFVUW5VcDBLOWhHT0NQWTllWlBvV2VZbHVTcWlobXpxOTNyQmxpUjJ6eG00SWplU0hMeVFnNUp2dUFSYw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Jameson Lopp warns Bitcoin holders against giving up self custody Crypto News",
+   "excerpt": "Jameson Lopp warns Bitcoin holders against giving up self custody Crypto News"
+  },
   {
    "title": "Editorial | What Jameson failed to accomplish - The Daily Pennsylvanian",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlF2QklpWU1wX09DQ3hoSGYyRThxZTloejRjNElCcHNydG5jSlpiTld6eXhZRVNRY3NGNFdDSjVKd1VPbUwybkVLMG1MLUFFYWE4M19mdGUwbFJxTE1TVC1QbEFJczJCOVBFbTFlbVRsYnBGUmF6N3lLcUJ1ajJkWkstbFJFd245SUZMbXE1STBRSjBNNzh5N0xqRTRWb09zM0dSY1l3bWYzVEd1Uzdz?oc=5",

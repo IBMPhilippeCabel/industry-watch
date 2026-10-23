@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-23T04:27:00Z",
+ "updated": "2026-10-23T06:31:00Z",
  "briefing": {
-  "date": "2026-10-22",
-  "hook": "Mars Corp’s day highlights marketing shifts, investment moves, and sustainability pushes across petcare, FMCG, and tech.",
+  "date": "2026-10-23",
+  "hook": "Mars Corp’s day highlights marketing shifts, investment moves, and sustainability pushes across its brands.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars Petcare is boosting inventory and personalization ahead of holidays while appointing a new legal head.",
-   "🐾 Petcare & Royal Canin": "Retail and e‑commerce are reshaping veterinary pet food sales, with owners prioritizing nutrition and wellness for senior pets.",
-   "🍫 Snacking & FMCG Market": "Pringles is challenging brand loyalty with new marketing, while M&M’s launches a spooky cinema event and exits a local newspaper group.",
-   "⚡ Tech & Operations": "Manufacturers are strengthening AI adoption in sales and marketing, focusing on data‑driven quality and operational excellence.",
-   "🌱 Sustainability & Sourcing": "Hyundai and Peak Energy launch a renewable platform, and Amazon backs a nuclear project, reflecting diverse green investment strategies."
+   "🤝 Mars Corporate & M&A": "The company is boosting high‑demand inventory and sharpening product marketing and personalization ahead of the holiday season.",
+   "🐾 Petcare & Royal Canin": "Retail and e‑commerce are reshaping veterinary pet food sales, with owners focusing more on nutrition and wellness.",
+   "🍫 Snacking & FMCG Market": "Pringles is challenging brand loyalty with a new marketing approach while M&M’s launches a spooky cinema event and exits a local newspaper group.",
+   "⚡ Tech & Operations": "AI adoption in sales and marketing remains strong, with manufacturers focusing on the most valuable applications.",
+   "🌱 Sustainability & Sourcing": "Hyundai and Peak Energy launch a renewable energy platform for automotive supply chains, while Amazon backs a new advanced nuclear power project at a former coal plant."
   }
  },
  "articles": [
@@ -723,6 +723,15 @@
    "date": "2026-10-06",
    "ai_summary": "Pet food testers with four legs are evaluating picky palates.",
    "excerpt": "These Taste Testers Have Four Legs and Picky Palates The New York Times"
+  },
+  {
+   "title": "Mars Unveils ‘Skittles Gummy Crystals’ - NACS",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMllTSDJsWDRfMG9XeUJpX1BGUnVGQmtSaURYZXhXTV9jcHFqMXZnRFF3VnNpanlLLUdtSXVHRUFpSVpfcGxRM3NZWGU3dmlUMHhTWnFSLUNMbnZaaGFfN2NDdWtlTUZud05kU1RKZnotUjhyUVlaS1g5WXpZWjdWeWhIV1lOVnZvaV8tazJQLV8wMnV6VWljdnNTM1h3Sy0zdVBZZjRUQjlBN3lHVm1rekQzTm1Tdw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-05",
+   "ai_summary": "Mars introduces Skittles Gummy Crystals. The product is highlighted at NACS.",
+   "excerpt": "Mars Unveils ‘Skittles Gummy Crystals’ NACS"
   },
   {
    "title": "Alternative protein startups selected for Mars Petcare, Big Idea Ventures Next Generation Pet Food Program - Pet Food Processing",
