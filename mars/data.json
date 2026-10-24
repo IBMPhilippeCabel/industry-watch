@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-23T22:25:00Z",
+ "updated": "2026-10-24T00:34:00Z",
  "briefing": {
-  "date": "2026-10-23",
-  "hook": "Mars Corp’s day blends playful Halloween campaigns, strategic pet‑care focus, and growing sustainability investments, all while sharpening tech and operations.",
+  "date": "2026-10-24",
+  "hook": "Mars Corp pushes creative campaigns while advancing sustainability and petcare research.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars emphasizes product marketing and personalization before holidays while investing in high‑demand inventory and supporting net‑zero tech projects across Europe and Asia.",
-   "🐾 Petcare & Royal Canin": "Retail and e‑commerce reshape veterinary pet food sales as owners prioritize nutrition and wellness, highlighted by HenArt’s new dog food launch.",
-   "🍫 Snacking & FMCG Market": "Snickers partners with WWE star for a Halloween campaign, while Pringles and M&M’s launch spooky promotions, showcasing creative seasonal marketing.",
-   "⚡ Tech & Operations": "Danone focuses on unified quality data, and manufacturers keep AI adoption strong in sales and marketing to drive fast decisions.",
-   "🌱 Sustainability & Sourcing": "Multiple green initiatives rise, from Ara Partners’ energy fund to Hyundai’s renewable platform, Amazon’s nuclear project, and carbon‑removal deals, underscoring a broad sustainability push."
+   "🤝 Mars Corporate & M&A": "Royal Canin highlighted ageing pets at its Vet Symposium, focusing on veterinary care for older animals.",
+   "🐾 Petcare & Royal Canin": "HenArt launched Levendo dog food with Enifer mycoprotein, its first international consumer release of Pekilo fermented product.",
+   "🍫 Snacking & FMCG Market": "Mars brands launch Halloween-themed campaigns, from Snickers’ WWE star ad to Pringles’ loyalty challenge and M&M’s horror cinema event.",
+   "⚡ Tech & Operations": null,
+   "🌱 Sustainability & Sourcing": "Mars partners with renewable energy firms and raises funds for conventional energy optimization, while Canada revises oil‑gas taxonomy for sustainable finance."
   }
  },
  "articles": [
+  {
+   "title": "Of course ‘hungry’ WWE star Danhausen tries to ‘curse’ kids in Halloween Snickers ad - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1ZYbEJobVppdko0QnQ0NGIta3ZUMmhXaFlyUWlQNU9LZi00UUhwMkVJQ1NnS0dNcFFOYzJ5UEVOZHhlbk9ZczgxamEtdlVKSEJHNnkxVTdpSU9hOVU2Snl5QmNWVEJRQTFUUDNZUWJkUHpuOXZUYTRpc1UxUGx5MjktR29RaHNTV2w0Vk9CVVhjQnVzaDU2M0hQZWlQOHQ4UFZXMw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-23",
+   "ai_summary": "The article discusses WWE star Danhausen's appearance in a Halloween-themed Snickers advertisement. It highlights his comedic attempt to curse children within the commercial.",
+   "excerpt": "Of course ‘hungry’ WWE star Danhausen tries to ‘curse’ kids in Halloween Snickers ad Yahoo"
+  },
   {
    "title": "Snickers enlists WWE star Danhausen for very nice, very evil Halloween spot - Ad Age",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQ1h5LXRDU3dVdWpXVU0zb3lIRW9ubVFrNFExTm43Mjg2Vy1qNlhQdGNwc0lKakR3UHBzTUl3cU1qZWdNQzBsWEs4Qk5MUkhxQzBQallicXRmSklEQnNPYmZBeDhoT3FSZXAwMFJzWUJYQ2U4?oc=5",
