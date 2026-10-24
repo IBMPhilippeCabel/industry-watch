@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-24T10:22:00Z",
+ "updated": "2026-10-24T12:25:00Z",
  "briefing": {
   "date": "2026-10-24",
-  "hook": "Beauty market sees L’Oréal’s Q3 surge, new retail experiments, and regulatory approvals shaping the day.",
+  "hook": "Today’s highlights show L’Oréal’s robust Q3 growth, EU tightening on CMR substances, and a shift toward larger retail spaces amid French unrest.",
   "categories": {
-   "📈 Market": "L’Oréal’s third‑quarter sales rose double digits across all divisions, driven by strong demand in professional and dermatological beauty.",
-   "💄 Brands & Retail": "Luxury brands are closing smaller stores while investing in larger locations amid French unrest, and L’Oréal highlighted the brands that drove its 7% earnings jump.",
-   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while the company shifts ownership structure.",
-   "💡 Innovation & Regulation": "La Roche‑Posay, Neutrogena and other brands introduced BEMT sunscreens in the US after FDA approval of the ingredient."
+   "📈 Market": "L’Oréal’s third‑quarter 2026 sales rose double digits across all divisions, driven by strong demand in professional and dermatological beauty.",
+   "💄 Brands & Retail": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, while L’Oréal’s Q3 earnings jump was led by its professional and dermatological divisions.",
+   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while the partner shifts to a new ownership structure.",
+   "💡 Innovation & Regulation": "The EU Parliament approved simpler rules on CMR substances, giving manufacturers more time to withdraw hazardous cosmetics from the market."
   }
  },
  "articles": [
@@ -20,6 +20,15 @@
    "date": "2026-10-24",
    "ai_summary": "Augustinus Bader Spa opens at The Mark Hotel, described as a \"cocoon\" by Charles Rosier, featuring three focus rooms including one with a hyperbaric chamber.",
    "excerpt": "Described as a \"cocoon\" by Charles Rosier, cofounder and chief executive officer of the luxury skin care brand, the new space will feature three focus rooms, one with a hyperbaric chamber."
+  },
+  {
+   "title": "EU: Parliament approves simpler rules on CMR substances in cosmetics",
+   "url": "https://www.premiumbeautynews.com/en/eu-parliament-approves-simpler,28399",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-24",
+   "ai_summary": "EU: Parliament approves simpler rules on CMR substances in cosmetics — From lipsticks to sunscreens, the European Parliament definitively adopted legislation on Thursday, October 22, giving manufacturers more time to withdraw cosmetics containing certain hazardous substances from the market…",
+   "excerpt": "From lipsticks to sunscreens, the European Parliament definitively adopted legislation on Thursday, October 22, giving manufacturers more time to withdraw cosmetics containing certain hazardous substances from the market…"
   },
   {
    "title": "EXCLUSIVE: ‘Love Island USA’ Star Jana Craig Launches New Lash Line",
