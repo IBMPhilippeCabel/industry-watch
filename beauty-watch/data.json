@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-24T02:24:00Z",
+ "updated": "2026-10-24T04:23:00Z",
  "briefing": {
   "date": "2026-10-24",
-  "hook": "Today highlights L'Oréal's strong Q3 growth, new BEMT sunscreens, and celebrity brand exits.",
+  "hook": "Beauty market sees L’Oréal’s Q3 surge, new retail experiments, and regulatory approvals shaping the day.",
   "categories": {
-   "📈 Market": "L'Oréal's Q3 2026 sales rose double digits across all divisions, driven by strong demand in professional and dermatological beauty.",
-   "💄 Brands & Retail": "L'Oréal's Q3 earnings jump was led by its Professional and Dermatological Beauty divisions, boosting the group's 7% earnings rise.",
-   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while expanding its manufacturing partnership.",
-   "💡 Innovation & Regulation": "La Roche-Posay, Neutrogena and others launched BEMT sunscreens in the US after FDA approval of the ingredient."
+   "📈 Market": "L’Oréal’s third‑quarter sales rose double digits across all divisions, driven by strong demand in professional and dermatological beauty.",
+   "💄 Brands & Retail": "Luxury brands are closing smaller stores while investing in larger locations amid French unrest, and L’Oréal highlighted the brands that drove its 7% earnings jump.",
+   "🤝 Strategy & M&A": "Chanel sold its majority stake in Capsum to Motion Equity Partners, keeping a minority share while the company shifts ownership structure.",
+   "💡 Innovation & Regulation": "La Roche‑Posay, Neutrogena and other brands introduced BEMT sunscreens in the US after FDA approval of the ingredient."
   }
  },
  "articles": [
+  {
+   "title": "Augustinus Bader Spa Opens at The Mark Hotel",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/augustinus-bader-spa-the-mark-1239343921/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-24",
+   "ai_summary": "Augustinus Bader Spa opens at The Mark Hotel, described as a \"cocoon\" by Charles Rosier, featuring three focus rooms including one with a hyperbaric chamber.",
+   "excerpt": "Described as a \"cocoon\" by Charles Rosier, cofounder and chief executive officer of the luxury skin care brand, the new space will feature three focus rooms, one with a hyperbaric chamber."
+  },
   {
    "title": "EXCLUSIVE: ‘Love Island USA’ Star Jana Craig Launches New Lash Line",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/love-island-jana-craig-beauty-launch-1239380824/",
@@ -1271,6 +1280,15 @@
    "date": "2026-09-29",
    "ai_summary": "",
    "excerpt": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation PR Newswire"
+  },
+  {
+   "title": "“Skinimalism” and clean beauty fuel multifunctional formulation - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzEtRmRJRGNSVzdyeEFQMTJGUTNnV2NORmo4SzQ2SDMwTWF2MmRJQjByM1RNMWtiVk56bzQ1dUdOVUxQaG9DRkJaZzJ0SVQ3RzFpVDJ1MldUOEVwQmlHM2U2eGktQnMzVzI5X2JjcWFiZU9tdVZOb2t2d0ZaSTJjRlVYbU1raXlteWc1cWEzRU9EQlU?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-09-29",
+   "ai_summary": "The article discusses how \"Skinimalism\" and clean beauty are driving the development of multifunctional formulations in personal care.",
+   "excerpt": "“Skinimalism” and clean beauty fuel multifunctional formulation Personal Care Insights"
   },
   {
    "title": "Naturally Serious Skincare: First In Clean Beauty - The Purist",
