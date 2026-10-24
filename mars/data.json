@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-24T16:22:00Z",
+ "updated": "2026-10-24T18:21:00Z",
  "briefing": {
   "date": "2026-10-24",
-  "hook": "Mars Corp sees playful ad pushes, tech focus, and sustainability moves.",
+  "hook": "Mars Corp sees playful ads, pet care focus, and sustainability moves.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Royal Canin highlighted ageing pets at its Vet Symposium, focusing on veterinary topics for older animals.",
-   "🐾 Petcare & Royal Canin": "HenArt launched Levendo dog food featuring Enifer mycoprotein, its first international consumer launch of the Pekilo fermented product.",
-   "🍫 Snacking & FMCG Market": "Snickers and M&M’s launch Halloween‑themed campaigns, while Pringles challenges brand loyalty and HI‑CHEW promotes a road‑trip campaign.",
-   "⚡ Tech & Operations": "Danone emphasizes unified quality by identifying key data points for fast, accurate food safety decisions.",
-   "🌱 Sustainability & Sourcing": "Ara Partners raised $2.5 billion for a Conventional Energy Optimization Fund, while Hyundai and Peak Energy expand renewable supply chains and Canada revises oil‑gas abatement taxonomy."
+   "🤝 Mars Corporate & M&A": "Royal Canin highlighted ageing pets and precision nutrition at its Vet Symposium, underscoring its focus on breed‑specific formulation.",
+   "🐾 Petcare & Royal Canin": "HenArt launched Levendo dog food with Enifer mycoprotein, marking the first international consumer launch of its Pekilo fermented product.",
+   "🍫 Snacking & FMCG Market": "Snickers and M&M’s launched Halloween campaigns featuring WWE star Danhausen and horror‑themed cinema, while Pringles and HI‑CHEW pushed brand loyalty with new promotions.",
+   "⚡ Tech & Operations": "Danone emphasized unified quality by measuring and managing data points to enable fast, accurate safety decisions.",
+   "🌱 Sustainability & Sourcing": "Ara Partners raised $2.5 billion for a Conventional Energy Optimization Fund, while Hyundai and Peak Energy expanded renewable supply chains and Canada revised oil‑gas abatement taxonomy."
   }
  },
  "articles": [
@@ -633,6 +633,15 @@
    "date": "2026-10-14",
    "ai_summary": "Research identifies commercial perception, product quality and recommendations as factors in pet food purchasing decisions.",
    "excerpt": "Research identifies commercial perception, product quality and recommendations as factors in pet food purchasing decisions."
+  },
+  {
+   "title": "Would you be buried in a Pringles can? Contest offers urn, 200-year chip supply - FOX 8 News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVViTUs0Wm9iY2N5TUExMWxEVXJPQkF0MDJ0SWFYSDUzNllnbE1kc2pDNkx4Q2R3WVRfRkpUZ3BsbzF6elQxQ1JURDh2S1RMZUR5c3Nid1VueFBJV2hTNl9XWGMydzZvV296b3h1aG5zRHpob0l2NU5nQzlyRVl3QjRDOHRxR1QyeUZEOXZPZkVGZmRjb2JrUmJMRUZ6ZldQT2fSAacBQVVfeXFMTkdCRWFmTTNpc2R5V1ZmTTU4Ukw0V1VITUhjTE5hbnU4Wk1tNUxJcmh3Qlc2MmNnUjZTV3VmZ1k3RktBRlduem9QQWpIRXpsQXhzU2xqTkZZS2pwZzRxUjBDeVEzN09ZbVlYaGQ1QldKVUdwRHRUeGI2bUlZSHJQZlpmWkVsYVNnX2VaNXBRNEJ2U0JYdmMxdWtGNVZaaFBoZ2pPOXN6QU0?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-14",
+   "ai_summary": "A contest offers an urn and a 200-year chip supply for those who would be buried in a Pringles can.",
+   "excerpt": "Would you be buried in a Pringles can? Contest offers urn, 200-year chip supply FOX 8 News"
   },
   {
    "title": "P&G to Scale Smart, Touchless Supply Chain Optimizations",
