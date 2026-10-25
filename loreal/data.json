@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-25T00:25:00Z",
+ "updated": "2026-10-25T02:25:00Z",
  "briefing": {
   "date": "2026-10-25",
-  "hook": "L'Oréal faces a high‑profile lawsuit while AI and faster support boost its tech profile and Q3 sales continue to climb.",
+  "hook": "L'Oréal faces a lawsuit over hair relaxers while reporting strong Q3 growth and advancing AI-driven customer support.",
   "categories": {
-   "🤝 Strategy & M&A": "Minnesota files a lawsuit against L'Oréal alleging the company hid cancer risks linked to its chemical hair relaxers.",
-   "💄 Brands & Launches": "Maybelline New York names its first brand ambassador in Egypt and CeraVe launches a new Super Boost Serum focused on skin barrier protection.",
-   "💡 Beauty Tech & ESG": "L'Oréal is expected to benefit from AI capabilities and handles consumer support cases 64% faster with Agentforce.",
+   "🤝 Strategy & M&A": "L'Oréal is confronting a lawsuit in Minnesota alleging concealment of cancer risks from its chemical hair relaxers, impacting its corporate image.",
+   "💄 Brands & Launches": "Maybelline New York has appointed Hannah El Zahed as its first brand ambassador in Egypt.",
+   "💡 Beauty Tech & ESG": "L'Oréal is expected to benefit from AI capabilities and has improved consumer support response times by 64% using Agentforce.",
    "📈 Market": "L'Oréal reported double‑digit sales growth in Q3 2026 across all divisions, driven by strong demand in China and other regions."
   }
  },
  "articles": [
+  {
+   "title": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlBXQ1BEOXB2VGtUdWZ1TTJ5ZnlUeGtlaVRvRkNWOWs4WnlJaDRpYUNlaUo5MTNLYnZpcDN4N1h6aVNHMkF3bVZwQjVid2d2YXBYYUEydDA2dnVYMnRLR3dXMHUya3ZMajBNSlEwbG5va3hEY0ZnalRZbzNXeVVGOUNNdVZacnJ6U0diMENaZDA?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-25",
+   "ai_summary": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report – Yahoo Finance",
+   "excerpt": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report Yahoo Finance"
+  },
   {
    "title": "L'Oreal Likely to Benefit From AI Capabilities -- Market Talk - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanJEZVl3OUltZnVDM1UtckJ5Vm9lazQxM0lLVnJLMnlocGJ1emFwYTlzb0ltWkJlTmNZSWlGZ2w1X3RfbnVMSEhubE9rOEFsekUwTmJZcmpwRGF2TjZUR2VDR1JNOUliVk5aU3hzblpLUkthLVd6WlVHaFBGWm1HNEQ0ZHM3SkpMSVhuTTl1Zk4tUk8zeWlZeHFWSTZ4bEZWa2Z4Sg?oc=5",
@@ -74,6 +83,15 @@
    "date": "2026-10-23",
    "ai_summary": "Minnesota sues L'Oréal over cancer risks in hair relaxers KIMT",
    "excerpt": "Minnesota sues L'Oréal over cancer risks in hair relaxers KIMT"
+  },
+  {
+   "title": "L’Oréal Funds Research and Mentoring Award for Five Women Scientists - American Association for the Advancement of Science (AAAS)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWVXZUpSaUdWR08yRDZlVEQ1V0dsWURYbWl2bmNxOGxuRl9JTW1CRGRucTdOeHRoLXFvaU43NklDdmF6VlhZa3pyUEtHcTNiVEJ6WGpUcTRKLWNtMjF6Tk1RamROa2NWZFR0dG8wbnplTjZDN1hvRTR6LVFqVXhvbWtlVG1iRzhITGJwOVhCUHd4VWtTMUE?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "L’Oréal Funds Research and Mentoring Award for Five Women Scientists – American Association for the Advancement of Science (AAAS)",
+   "excerpt": "L’Oréal Funds Research and Mentoring Award for Five Women Scientists American Association for the Advancement of Science (AAAS)"
   },
   {
    "title": "L’Oréal outpaces the beauty market thanks to luxury and skincare - RetailDetail EU",
