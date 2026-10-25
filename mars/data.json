@@ -1,13 +1,13 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-25T18:22:00Z",
+ "updated": "2026-10-25T20:18:00Z",
  "briefing": {
   "date": "2026-10-25",
-  "hook": "Mars Corporation continues to blend petcare innovation with bold snack marketing moves today.",
+  "hook": "Mars Corp’s day spotlighted Halloween‑themed campaigns across snacking brands and a focus on ageing pets at Royal Canin.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars and Kellanova’s deal signals a strategic push to reshape the global snacking market.",
-   "🐾 Petcare & Royal Canin": "Big Idea Ventures and Mars Petcare selected three startups for the 2026 Next Generation Pet Food Program to advance pet nutrition.",
-   "🍫 Snacking & FMCG Market": "M&M’S and Rylan’s Halloween prank for UK cinemas and Snickers’ WWE‑star campaign showcase creative seasonal marketing in the snack sector.",
+   "🤝 Mars Corporate & M&A": "The Royal Canin Vet Symposium highlighted a focus on ageing pets, underscoring Mars’s commitment to veterinary research for older animals.",
+   "🐾 Petcare & Royal Canin": null,
+   "🍫 Snacking & FMCG Market": "Mars‑owned brands launched Halloween‑themed campaigns, from M&M’s and Snickers featuring WWE star Danhausen to Pringles’ loyalty‑challenging ads, all blending playful and sinister elements.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
@@ -705,6 +705,15 @@
    "date": "2026-10-13",
    "ai_summary": "",
    "excerpt": "PRINGLES® DARES DIE-HARD FANS TO PROVE THEIR LOVE FOR A CHANCE TO WIN A ONE-OF-A-KIND CAN-SHAPED URN AND AN \"AFTERLIFETIME\" SUPPLY OF PRINGLES PR Newswire"
+  },
+  {
+   "title": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn - ADWEEK",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFRjTkJfc3p3a20yekdzcGxTb0FaWElnc1lLaXdSOUdoUmMtd0dFVzBvSWp3SGRqMUxMMXVHY3YyeEd5YjF3ZnBDNGd4cmRLaGNVQ3VpWFBac0tnaWlTUDhaQm9BWS1wVjgzRHduQXdjZVhlXzBzc2UyVkpWM3F4NTFGWnVLWUVxSXV0bzQ1TVJtY0JCbW9VQ0FOSVQ2OTZxN3paOXNYS09xUQ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-13",
+   "ai_summary": "Pringles offers a branded urn as a final resting place for a devoted fan. The initiative is highlighted in ADWEEK.",
+   "excerpt": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn ADWEEK"
   },
   {
    "title": "Where CPG Revenue Goes Missing and How AI Can Find It",
