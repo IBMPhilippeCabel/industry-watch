@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-25T02:25:00Z",
+ "updated": "2026-10-25T04:26:00Z",
  "briefing": {
   "date": "2026-10-25",
-  "hook": "Mars Corp highlights Halloween marketing pushes while deepening pet care focus.",
+  "hook": "Mars Corp’s day highlighted Halloween marketing moves and a focus on ageing pets.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars focuses on ageing pets at Royal Canin Vet Symposium, emphasizing veterinary care for older animals.",
-   "🐾 Petcare & Royal Canin": "Mars focuses on ageing pets at Royal Canin Vet Symposium, emphasizing veterinary care for older animals.",
-   "🍫 Snacking & FMCG Market": "Mars brands push Halloween creativity with Snickers featuring WWE star Danhausen, Pringles challenging loyalty, and M&M's horror cinema event.",
+   "🤝 Mars Corporate & M&A": "The focus on ageing pets was highlighted at the Royal Canin Vet Symposium.",
+   "🐾 Petcare & Royal Canin": null,
+   "🍫 Snacking & FMCG Market": "M&M’S, Rylan, and WWE star Danhausen teamed up for Halloween campaigns, while Pringles challenged brand loyalty and HI-CHEW launched a road‑trip promotion.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M’S and Rylan bring a Halloween prank to UK cinemas - ContentGrip",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yOHBia1JMMUJqY3p5M3RVbFpPVzdkRE9DdnUzUlo2OFM0SldOcWNXN01KZXVUSmlNb3pNM2ZQY0ktTTh6ck00Nkh2cHFJWmxCSE1PWTRGb0c2eG93S2EwMQ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-25",
+   "ai_summary": "M&M’S and Rylan collaborate to create a Halloween prank for UK cinemas. The initiative is highlighted by ContentGrip.",
+   "excerpt": "M&M’S and Rylan bring a Halloween prank to UK cinemas ContentGrip"
+  },
   {
    "title": "What Kind Of Nougat Is In A Snickers Bar? - Tasting Table",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXbWdOa3g5amk5OGk4MUFqWk9yX0JhYmlfbDZCVDZvd3VGQld4N1Brdmtwbm1QeVZTNm5XY1VOWWJSVU5UbEowUG9MYWhQckdjY0tYd1drZFR3RGFSMEJ6b3ZWQ0MyVGVBeGpGSEdQVDU?oc=5",

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-25T02:25:00Z",
+ "updated": "2026-10-25T04:26:00Z",
  "briefing": {
   "date": "2026-10-25",
-  "hook": "Global beauty market sees growth across L’Oréal divisions, new retail openings, and regulatory easing.",
+  "hook": "Today’s highlights show a mix of brand expansion, regulatory easing, and solid sales growth across the beauty sector.",
   "categories": {
-   "📈 Market": "L’Oréal’s Q3 2026 sales rose double digits across all divisions, while P&G’s Q1 2027 beauty sales grew 4% on hair‑care demand.",
-   "💄 Brands & Retail": "L’Oréal’s earnings boost and Augustinus Bader Spa’s launch at The Mark Hotel highlight brand expansion, while SharkNinja’s creator‑seller model expands consumer engagement.",
-   "🤝 Strategy & M&A": "YSL Beauty opens its first physical store in São Paulo, and Silgan Dispensing’s pump bottle design supports Guerlain’s new Longevity Concentrate.",
-   "💡 Innovation & Regulation": "EU Parliament adopts simpler CMR rules, Misti Herbal Remedies expands Ayurveda‑inspired clean beauty worldwide, and Proya Cosmetics opens a new R&D lab in Suresnes."
+   "📈 Market": "L’Oréal’s third‑quarter sales rose double digits, driven by strong demand across all divisions and regions, including China.",
+   "💄 Brands & Retail": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, while YSL Beauty opens its first physical store in São Paulo to boost its Brazilian presence.",
+   "🤝 Strategy & M&A": "Silgan Dispensing’s refillable pump bottle design for Guerlain’s Longevity Concentrate exemplifies collaborative product development in the luxury segment.",
+   "💡 Innovation & Regulation": "The European Parliament approved simpler rules on CMR substances, giving manufacturers more time to withdraw hazardous cosmetics from the market."
   }
  },
  "articles": [
+  {
+   "title": "Agatha Relota Luczo Shares Delectable Recipes Made With Extra Virgin Olive Oil Sourced From Her Farm",
+   "url": "https://wwd.com/beauty-industry-news/wellness/agatha-relota-luczo-extra-virgin-olive-oil-recipes-furtuna-1239335929/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-25",
+   "ai_summary": "Agatha Relota Luczo shares recipes using her farm's extra virgin olive oil, featuring blueberry muffins and cottage cheese pancakes that are highlighted as healthier options.",
+   "excerpt": "Spoiler alert: Blueberry muffins and cottage cheese pancakes have never been healthier."
+  },
   {
    "title": "Silgan Dispensing lends its expertise to Guerlain's Longevity Concentrate",
    "url": "https://www.premiumbeautynews.com/en/silgan-dispensing-lends-its,28405",
