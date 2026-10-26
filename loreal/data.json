@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-26T14:38:00Z",
+ "updated": "2026-10-26T16:41:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "L’Oréal’s Q3 surge, AI focus, and GLP‑1 drug impact drive strategy, brand buzz, tech gains and market growth.",
+  "hook": "L’Oréal’s day highlights strong Q3 growth, AI integration, and the impact of GLP‑1 drugs on skin‑care sales.",
   "categories": {
-   "🤝 Strategy & M&A": "Berenberg lifts L’Oréal to buy status, citing AI‑driven beauty search leadership and GLP‑1 drug influence on skin‑care sales as key strategic drivers.",
-   "💄 Brands & Launches": "Marianela Nuñez fronts L’Oréal Paris while Maybelline New York launches a “Together We’re Brave” campaign for World Mental Health Day.",
-   "💡 Beauty Tech & ESG": "L’Oréal is poised to benefit from AI capabilities, as noted by Market Talk on Moomoo.",
-   "📈 Market": "L’Oréal’s Q3 sales rose double digits, driven by travel‑retail rebound, strong demand in China and growth across all divisions."
+   "🤝 Strategy & M&A": "Dermacosmetics drive growth for L’Oréal and Galderma, while Berenberg upgrades the stock, the company reports exceptional Q3 sales, notes GLP‑1 drugs boosting skin‑care demand, faces a cancer‑risk lawsuit, and plans AI‑powered beauty search.",
+   "💄 Brands & Launches": "Marianela Nuñez is the new face of L’Oréal Paris, partnering with the Royal Ballet and Opera for a beauty collaboration.",
+   "💡 Beauty Tech & ESG": "L’Oréal is poised to gain from AI capabilities, as highlighted by Market Talk on Moomoo.",
+   "📈 Market": "The rise of GLP‑1 drugs is reshaping skin‑care demand, while Garnier’s Micellar Cleansing Water remains a category icon, new BEMT sunscreens launch, CeraVe and Kérastase report division growth, and L’Oréal’s Q3 sales climb double digits."
   }
  },
  "articles": [
+  {
+   "title": "Dermacosmetics drive L’Oréal and Galderma growth amid beauty market resilience. - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU1FkWmJncktrTkI3cmZMamlyZjZVdkZBSFQxU0R5Y0E2NVdISF93OHlDV1lMLXVxakk4SmRrTnZJdkdOSGpEMVhoQnJzTVRNbWtoY3M4LUM5dDY4LTZrWUtETlRyQ1pwZkk0d1RjVGhNaXVsS3J6Vnd3WjZKOVhwQnpB?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Dermacosmetics drive L’Oréal and Galderma growth amid beauty market resilience.",
+   "excerpt": "Dermacosmetics drive L’Oréal and Galderma growth amid beauty market resilience. Personal Care Insights"
+  },
   {
    "title": "Berenberg Research Affirms L'Oréal at Buy, Lifts PT - www.marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGRXVmVHdTQ4UVdzVjhTS0dNWUZCSVFxczZpVEpmVkhVRUh6dTJNTUJZWW5FZW9mLWZJOEdsVU01SDFod3V5eUxjS2RjRFN6ZUVQSEVka1dqd0pjbFhrTm4zcjdLcGZhTFBmWDVBM21Zc2xYYmZPTW9YOEdrQjYtRXpaNzRSYWtqLVdPOTRaMFNxVlNLUjJJR1ZZZ0tKTjhLOVh3OFpB?oc=5",
@@ -56,6 +65,15 @@
    "date": "2026-10-26",
    "ai_summary": "The L’Oréal-owned brand Garnier explains how its 13‑year‑old Micellar Cleansing Water became and remains a category‑defining multipurpose skin care item in Cosmetics Business’ Untold Story series.",
    "excerpt": "The L’Oréal-owned legacy beauty brand lifts the lid on how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item in Cosmetics Business’ ‘Untold Story’ series"
+  },
+  {
+   "title": "Arizona Sues L’Oréal Over Alleged Cancer Risks in Hair Relaxers - LawyersandSettlements.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcWtlcUdTUFRDdlFFdTMtd3Ryb1E4YlkzLXZRTTcxdlRWSk5NSDh2TFBOVXVlekt6M0RqZFp0bU5hMzBWNThkMVF3WkxmMUItWVJDT2Z2SWdEQ2hTOWR1M2RGaXQ1NlBMajhRMU5Sbkpxa29oNl91dlRrOU0tZWRiUHpUaWxIRHdhbl9XekRhSWlGUWE2dzFibzd2VldaUy1ubTBDOVZrcWdDSHg3U0gtYmZDZURfSkdxN0drQTFETnprOWJpOUs2RkVZM3NJYW1hTS1iRE10c05hVk0zclE?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Arizona Sues L’Oréal Over Alleged Cancer Risks in Hair Relaxers.",
+   "excerpt": "Arizona Sues L’Oréal Over Alleged Cancer Risks in Hair Relaxers LawyersandSettlements.com"
   },
   {
    "title": "Berenberg Sees L’Oréal Pulling Ahead In AI Beauty Search - Finimize",

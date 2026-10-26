@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-26T14:38:00Z",
+ "updated": "2026-10-26T16:41:00Z",
  "briefing": {
-  "date": "2026-10-25",
-  "hook": "Mars Corp’s day spotlighted Halloween‑themed campaigns across snacking brands and a focus on ageing pets at Royal Canin.",
+  "date": "2026-10-26",
+  "hook": "Today’s focus is on Halloween candy trends and a UK cinema prank, highlighting consumer preferences and brand collaborations.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "The Royal Canin Vet Symposium highlighted a focus on ageing pets, underscoring Mars’s commitment to veterinary research for older animals.",
+   "🤝 Mars Corporate & M&A": null,
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "Mars‑owned brands launched Halloween‑themed campaigns, from M&M’s and Snickers featuring WWE star Danhausen to Pringles’ loyalty‑challenging ads, all blending playful and sinister elements.",
+   "🍫 Snacking & FMCG Market": "Peanut M&M’s tops Halloween candy sales across Minnesota, Texas, Nebraska and Iowa, while a UK cinema prank pairs M&M’s with Rylan and a nougat profile is explored in Snickers.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "Instacart’s Minnesota Halloween report: Peanut M&M’s is No.1, regional candy quirks and the iconic banana costume - Fergus Now",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdW5nVWoxenI2eThRbnp6V2VHd19qV3phbUt2TVFOWEtBOXd5V2FHdHd1SE5xSVV0VXdZWEtkNFVBNm1kN1JkTUk5aDZoTFhwd05VdGRNNXlzMFM2VFBvNnBSanVEYnpvUVNoR0QwSUNZMzJMeThjXy0tdWVVcV9EVU55UFdkUTgwM2EzYV9GMHFjbVNUeWlBRl93OEVFVWlzeEpZTVJQYnhZc3Fqb0ZjS3NQbnZnNVBxWVQyeGFkWkQ4eFhIYTBSamxvRk8tc2RoeFBRQUNORlJ1Zw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-26",
+   "ai_summary": "Instacart’s Minnesota Halloween report: Peanut M&M’s is No.1, regional candy quirks and the iconic banana costume – Fergus Now reports on the top candy choice and regional preferences for Halloween treats in Minnesota.",
+   "excerpt": "Instacart’s Minnesota Halloween report: Peanut M&M’s is No.1, regional candy quirks and the iconic banana costume Fergus Now"
+  },
+  {
+   "title": "Instacart's Texas Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume - Cleburne Times-Review",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTUViZ3FicXJVN1owTkxhZUpJTnZQUUN1Q1pFY0ZsbkZxTjkxbHByWDRvdkVTSkZORUlHd2FYM1ZpWXBjc0JPYl9Ldl9walI3UHY5ODV1bDdZeUNqV0xzTVFjNkxKZ2FQWGl4RjBSNmxsWU5RYVhBZjdzaHJvQm5uNkc4X0g4OEdlYjhvZVNYQ0tIUTlKRjdzdGpLLWR4TEhQUTR1WExXLWg3VTFQa2gzZC1iQTZMOGtsN0RNcC1nSDBTb1BFN05qV05kQ2I2d0VkZkZvM2xlSWh2eEZkdzFWZkNqTTJQQzdub2Z3SG01aVF3STY0cERTQkMxSkN6Wi00T0RnRXNn?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-26",
+   "ai_summary": "Instacart's Texas Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume – Cleburne Times-Review discusses the top candy and regional quirks in Texas.",
+   "excerpt": "Instacart's Texas Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume Cleburne Times-Review"
+  },
+  {
+   "title": "Instacart's Nebraska Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume - Wahoo Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazl1ZnhFZDVsSlZpbHRkNEtsUm40ZXRaV0gwVk1uTDZiTDlqYmlUTG82SHFfd3JBMmpiVTc1SEwtRTFPMXFoR2NYZ0RUZmlndktYalVKbGhfM0FxSV9rU3dSN1psbUVNd3JXMkhnZTVpQnJhaGx5eGx2eE9aU1IyVjdSMUFJdEFXWllFemFGUjVhNjRIMnZZQmZidHBJc0pIOXUxSU1pbXlBeThrWlhmTnpB?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-26",
+   "ai_summary": "Instacart's Nebraska Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume – Wahoo Newspaper covers the leading candy and local preferences in Nebraska.",
+   "excerpt": "Instacart's Nebraska Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume Wahoo Newspaper"
+  },
+  {
+   "title": "Instacart's Iowa Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume - swiowanewssource.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzhFQVgyVlh1RFFLWGg3RWxkMGZTajB0U1A0SVZONUFxR2tHSVdhQmRtVzFwLXV4NC03czJzS0VOVXpxemFDUmx2SURHWDdkUEF1VVlGMWs4cEFieFRzcVoycm11Qi12RnFyR3FiNkRIN3BFaVNuLW5mWjNsWkg3TnBLNjh6S1JYbzROTTFfRDhHV3o1VXlKUw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-26",
+   "ai_summary": "Instacart's Iowa Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume – swiowanewssource.com highlights the leading candy and local variations in Iowa.",
+   "excerpt": "Instacart's Iowa Halloween report: Peanut M&M's is No.1, regional candy quirks and the iconic banana costume swiowanewssource.com"
+  },
   {
    "title": "M&M’S and Rylan bring a Halloween prank to UK cinemas - ContentGrip",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yOHBia1JMMUJqY3p5M3RVbFpPVzdkRE9DdnUzUlo2OFM0SldOcWNXN01KZXVUSmlNb3pNM2ZQY0ktTTh6ck00Nkh2cHFJWmxCSE1PWTRGb0c2eG93S2EwMQ?oc=5",
@@ -579,6 +615,15 @@
    "date": "2026-10-16",
    "ai_summary": "Mars Wrigley launches an Easter 2027 range featuring new M&M’S and Maltesers products.",
    "excerpt": "Mars Wrigley Unveils Easter 2027 Range With New M&M’S And Maltesers Products KamCity"
+  },
+  {
+   "title": "See the new artificial dye-free Skittles, Starbursts and M&Ms - USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkhqZzJWUi1INWRzYTRzOHMtWENSQy1GWkVmbVdabmQwWVM1WXNBLXFpa1lSVzZSTXZaZzJ6cVZFUVpFVzkzTlJONzdnTkVJU1hPdDd0dG9wX2J6dExkbW9xa2xYa0xQV1NtWnY3X2x6U0Ffa2NJNDlJSl91cGRic29sbDdsa2p3NnpVSlk0VDFXSlgzTUpwRUZlN0JpSGgzbkg1T1hMYnYybjZhRU54amN6Z3F0RWpTSjdjbG9OUEg4NUt6U3p3ag?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-16",
+   "ai_summary": "See the new artificial dye-free Skittles, Starbursts and M&Ms – USA Today announces the release of dye-free versions of popular candy brands.",
+   "excerpt": "See the new artificial dye-free Skittles, Starbursts and M&Ms USA Today"
   },
   {
    "title": "Europe’s heat wave sends a warning to pet food makers",
