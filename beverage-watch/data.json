@@ -1,18 +1,72 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-26T10:34:00Z",
+ "updated": "2026-10-26T14:38:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Heineken’s €1.5B buyback and court order, Anora’s UK distribution deal, and Vita Coco’s new guidance set the tone for today’s beverage market.",
+  "hook": "Heineken’s share buyback proceeds amid India’s Scotch probe and rising energy drinks reshape the global beverage landscape.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken NV is executing a €1.5 billion share buyback while a €111 million court order is in place, signalling ongoing shareholder value actions.",
-   "📈 Market": "Anora Group’s appointment of Quintessential Brands as its exclusive UK distributor and Vita Coco’s updated guidance highlight strategic moves in the spirits and beverage sectors.",
-   "🍸 Spirits & Premium": "No new premium spirits developments were reported today.",
-   "🍺 Beer & Brewing": "No significant beer market updates were noted today.",
-   "💡 Innovation & No-Low": "No innovation or no‑low initiatives were mentioned in the summaries."
+   "🤝 Strategy & M&A": "Heineken continues its €1.5 B buyback programme while a €111 M court order is in place.",
+   "📈 Market": "India’s bulk Scotch investigation is said to undermine a UK agreement, while the “ade” segment sees significant action.",
+   "🍸 Spirits & Premium": "Vita Coco has raised its guidance again, signalling continued growth in the premium spirits space.",
+   "🍺 Beer & Brewing": "Allied Blenders faces an India tax officials visit, and Albert Heijn has restored online deliveries after a cyber outage.",
+   "💡 Innovation & No-Low": "Celsius CEO projects a bullish energy outlook in the US and highlights a big retail opportunity."
   }
  },
  "articles": [
+  {
+   "title": "India bulk Scotch probe ‘undermining UK agreement, trade group says’",
+   "url": "https://www.just-drinks.com/news/india-scotch-probe-against-uk/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "India bulk Scotch probe ‘undermining UK agreement, trade group says’.",
+   "excerpt": "An industry body representing Diageo and Pernod Ricard said India’s exclusion of bulk Scotch imports from reduced tariffs violates the terms of its trade accord with the UK."
+  },
+  {
+   "title": "We graded every Lions player from the Packers win; Jameson Williams was perfect, but one defender hit a brutal low - A to Z Sports",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjNyR0ZJN25fVTk5NmhfbjV6LWdqNmRMMDZjVmNrYm96SjhrTnVEMUVWLWdULXpjcDJDdVBMSVJ6UV9RWnpBUGdjWTJ0b1FnMm96TzY2UTVvSWcxZDhibWNIUkJtUWFzclhqWnJ4REh1dUtmclkxT0hON011bDZVcmlsNTRaVi1EeGNkMU1ON1ItU09WUTNCdkdfallCQ1pON0tqaV85U1VsZUNMVUNQUktISHIxdGZaTzE5NlY4WHZmeXQ4Y3ZHT0IwWnRQNTR1MnpzemZzZkNRY3lfWHd3NEg3MjBqRkRCTEtOWGNlaEo?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "We graded every Lions player from the Packers win; Jameson Williams was perfect, but one defender hit a brutal low.",
+   "excerpt": "We graded every Lions player from the Packers win; Jameson Williams was perfect, but one defender hit a brutal low A to Z Sports"
+  },
+  {
+   "title": "Spirits “ade” segment “where a lot of action is” – Boston Beer CEO Jim Koch",
+   "url": "https://www.just-drinks.com/news/spirits-ade-segment-where-lot-of-action-is-boston-beer-ceo/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Spirits “ade” segment “where a lot of action is” – Boston Beer CEO Jim Koch.",
+   "excerpt": "The emerging \"ade\" segment in spirits will be \"where a lot of the action is\" over the next year, according to The Boston Beer Co.'s CEO."
+  },
+  {
+   "title": "Celsius CEO outlines “bullish” energy outlook in US and “big opportunity” in retail",
+   "url": "https://www.just-drinks.com/interviews/celsius-ceo-outlines-bullish-energy-outlook/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Celsius CEO outlines “bullish” energy outlook in US and “big opportunity” in retail.",
+   "excerpt": "Just Drinks speaks to CEO John Fieldly on the company’s outlook for next year and the energy category in the US."
+  },
+  {
+   "title": "Jameson Williams scores two touchdowns in win Sunday - FantasyPros",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdk92ek81Y1R5VWNmd2lXZjB0X19jMTZvY1YxcjMyMThkNVBGT2JmaHlkWHEzQzRwaF9XeWFzZkQ3Y2lZcmU1Y19UZVM4VFRvSUw2QXQwY0x1WHZLUERKMGg5eDBSbWg0Mk5fam5kMmItd2NTWVgxTGM5R0MwaG5BaFk0bW51d1o0RC1obHllWkd2eEQ2ZHVGLU80bDVyZ9IBowFBVV95cUxQc005MzcwdGpCN0xvdFFPaXVWWTNiamt4LWEzbDhsRG9rZ0VaMFRwZ1h3a3EtSnY0dHFJQjhMMHhHUjhzaUFwWmFMUjRtaWYxT0M3czNodi1OY0VMU0NQWDNTRXF6TDdISDdyelY5b1ZjZnNSV24zM1Ffdl9yVXdfT1pSS0I2djJXZFVqcktOWkhuNzh5WXJZbzBMRnBCaUliWXlr?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Jameson Williams scores two touchdowns in win Sunday.",
+   "excerpt": "Jameson Williams scores two touchdowns in win Sunday FantasyPros"
+  },
+  {
+   "title": "Heineken N.V. reports the progress of transactions under its current share buyback programme - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzFTcDVYX3ROdEEyMzlINkc3LUt0QWFFeUtBXzZPNC1CdDdrR0JfNGFBdVc5Vmp6YkNjYXI4MU9RVXlIMzNSQWZFS2Z5czk3bEllOXBTTk54bEFEbm1vd1VlSVVwNk44QlJHS0Zsc2VzUmdJa2VrakFWcjFHRXlBUzA4NjBuR0FLT2hza1lZZ2t1alFJZUZhVGtn?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Heineken N.V. reports the progress of transactions under its current share buyback programme.",
+   "excerpt": "Heineken N.V. reports the progress of transactions under its current share buyback programme Yahoo Finance"
+  },
   {
    "title": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order - TradingView",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjhmRF84RUVsM3JSbHd3Y1JqankzV2JqZWFZcnEwaU52YXdaRXEzUU0wZVJoa0tCQkk0WnlnUGJ6cEVmMHJBUldRVUhnbGZTMFV0aUx5Q1NOWjZiWm1Sdzh0LTd0dVJQVlR2YWY0djdoWU5iWTlVNXVwMFhLYWVDSVZQOC0yejVKejVvVTdsOGRkaUxpWGQ1TURWYThKUDlaUGxLZDZCZ3RhVUdIVkNxRWl3eFUyY1JnMzE2WVpsUktqUEdjOG5RMlhn?oc=5",

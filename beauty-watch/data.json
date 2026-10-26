@@ -1,17 +1,116 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-26T10:34:00Z",
+ "updated": "2026-10-26T14:38:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Today’s highlights show a surge in M&A activity, fresh innovation, and steady market growth across beauty giants.",
+  "hook": "Kayali launches in China, L’Oréal notes GLP‑1 impact, and YSL expands in Brazil amid shifting retail focus.",
   "categories": {
-   "📈 Market": "L’Oréal and P&G both report strong Q3/Q1 sales growth driven by their beauty divisions, with L’Oréal seeing double‑digit gains across all segments.",
-   "💄 Brands & Retail": "Luxury brands are consolidating stores while new retail concepts, such as Augustinus Bader Spa and SharkNinja’s creator‑seller model, expand experiential and e‑commerce reach.",
-   "🤝 Strategy & M&A": "Boscia Skin Care’s relaunch, YSL Beauty’s new São Paulo store, and Silgan’s pump design for Guerlain illustrate ongoing brand acquisitions, store openings, and product‑design collaborations.",
-   "💡 Innovation & Regulation": "Ethnic’s new barrier lines, Dermaself’s AI‑driven clinical trials, and Albéa’s packaging tech showcase a shift toward tech‑enabled, clean‑beauty, and streamlined regulatory processes."
+   "📈 Market": "L’Oréal CEO highlighted GLP‑1 weight‑loss drugs' impact on skin‑care consumption.",
+   "💄 Brands & Retail": "YSL Beauty is increasing its investment in Brazil by opening its first physical store in São Paulo after launching an e‑commerce platform in 2024.",
+   "🤝 Strategy & M&A": "L’Oréal sharpens India strategy with quick commerce and local content.",
+   "💡 Innovation & Regulation": "Kayali launches in China exclusively with Sephora, pairing a 300‑plus‑store rollout with a founder‑led push."
   }
  },
  "articles": [
+  {
+   "title": "Kayali Launches in China Exclusively With Sephora",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/kayali-launches-china-exclusively-with-sephora-1239385248/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Kayali Launches in China Exclusively With Sephora — The Dubai-based fragrance brand has launched exclusively with the LVMH-owned beauty retailer, pairing a 300-plus-store rollout with a founder-led push.",
+   "excerpt": "The Dubai-based fragrance brand has launched exclusively with the LVMH-owned beauty retailer, pairing a 300-plus-store rollout with a founder-led push."
+  },
+  {
+   "title": "Analysis: Is oral care’s category glow-up working?",
+   "url": "https://www.cosmeticsbusiness.com/oral-care-category-glow-up-working-analysis",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Oral care is adopting skin‑care‑style ingredients, design, and sensorial experiences to elevate the category, aiming to shift from a fleeting trend to a lasting evolution.",
+   "excerpt": "Oral care is following in the footsteps of skin care, with ingredients, design and sensorial experience now elevating the category. But the glow-up is aiming to transform from a buzzy moment into a sustainable evolution,…"
+  },
+  {
+   "title": "Mona Kattan's Kayali eyes China top three fragrance spot in exclusive Sephora launch",
+   "url": "https://www.cosmeticsbusiness.com/mona-kattan-kayali-eyes-china-top-three-fragrance-spot-sephora",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Kayali, founded by Mona Kattan, launched an exclusive omnichannel debut in China across over 300 stores and Sephora’s digital platforms, targeting a top-three spot in Sephora China’s fragrance lineup.",
+   "excerpt": "Fragrance brand Kayali, founded by Mona Kattan, made its exclusive omnichannel debut in China on 15 October across more than 300 stores and Sephora’s digital platforms, aiming to become one of Sephora China’s top three f…"
+  },
+  {
+   "title": "Patrick Ta Beauty shakes up leadership team with CMO and Creative VP appointments",
+   "url": "https://www.cosmeticsbusiness.com/patrick-ta-beauty-shakes-up-leadership-team",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Patrick Ta’s cosmetics brand announced new leadership with Angela Simpson as Chief Marketing Officer and Carolyne Rapp as VP of Creative, reinforcing its current momentum and positioning.",
+   "excerpt": "The cosmetics brand, founded by make-up artist Patrick Ta, said the new appointments of Angela Simpson as Chief Marketing Officer and Carolyne Rapp as VP of Creative build on its current momentum and positioning"
+  },
+  {
+   "title": "L’Oréal CEO Nicolas Hieronimus on GLP-1’s ‘impact’ on skin care sales",
+   "url": "https://www.cosmeticsbusiness.com/loreal-ceo-on-glp-1-impact-on-skin-care-consumption",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "L’Oréal’s CEO highlighted the significant impact of GLP‑1 weight‑loss drugs on skin‑care consumption, noting its importance for the cosmetics industry.",
+   "excerpt": "Nicolas Hieronimus, CEO of French beauty giant L’Oréal, says the rise in GLP-1 weight loss drugs is ‘a very important phenomenon’ for the cosmetics industry, affecting skin care consumption, following the company’s Q3 20…"
+  },
+  {
+   "title": "All eyes on Paris as registration opens for Paris Packaging Week’s biggest edition yet",
+   "url": "https://www.cosmeticsbusiness.com/all-eyes-on-paris-as-registration-opens-for",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Paris Packaging Week will host 950 exhibitors and over 80 conference sessions, showcasing packaging innovation and future industry perspectives.",
+   "excerpt": "Paris Packaging Week will see 950 exhibitors put packaging innovation centre stage in Paris on 3 & 4 February 2027, with more than 80 conference sessions offering fresh perspectives on the industry’s future"
+  },
+  {
+   "title": "Pantene reunites with ‘Ultimate Ambassador’ John Stamos after more than three decades",
+   "url": "https://www.cosmeticsbusiness.com/pantene-reunites-with-john-stamos",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Pantene has re‑partnered with actor John Stamos as its ‘Ultimate Ambassador’, launching a new video series that revisits his iconic hair‑care partnership from more than thirty years ago.",
+   "excerpt": "Pantene has tapped actor John Stamos as its ‘Ultimate Ambassador’ 30-plus years after his original partnership with the Procter & Gamble-owned hair care brand, fronting a new video series in which he proves his famous ha…"
+  },
+  {
+   "title": "Ouai partners with You actor Victoria Pedretti on horror-inspired content series",
+   "url": "https://www.cosmeticsbusiness.com/ouai-partners-with-victoria-pedretti-horror-content-series",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Ouai partners with You actor Victoria Pedretti on horror-inspired content series — Ouai has teamed up with American actress Victoria Pedretti, who starred in Netflix thriller You, for a new content series tapping into the world of horror films as a mysterious ‘Hairtrosity’ sweeps the hair care brand’s …",
+   "excerpt": "Ouai has teamed up with American actress Victoria Pedretti, who starred in Netflix thriller You, for a new content series tapping into the world of horror films as a mysterious ‘Hairtrosity’ sweeps the hair care brand’s …"
+  },
+  {
+   "title": "Aaron Terence Hughes’ ‘Hombre’ claims Pure Beauty Awards 2026: The fragrance win driving a new era of organic and natural materials",
+   "url": "https://www.cosmeticsbusiness.com/aaron-terence-hughes-hombre-claims-pure-beauty-awards",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Aaron Terence Hughes’ ‘Hombre’ claims Pure Beauty Awards 2026: The fragrance win driving a new era of organic and natural materials — The Readers’ Vote at the Pure Beauty Awards 2026 has crowned Aaron Terence Hughes’ Hombre Eau de Parfum as Best Fragrance. This consumer-driven victory serves as a definitive proof of concept for the brand's expanding hi…",
+   "excerpt": "The Readers’ Vote at the Pure Beauty Awards 2026 has crowned Aaron Terence Hughes’ Hombre Eau de Parfum as Best Fragrance. This consumer-driven victory serves as a definitive proof of concept for the brand's expanding hi…"
+  },
+  {
+   "title": "The untold story of Garnier’s Micellar Cleansing Water",
+   "url": "https://www.cosmeticsbusiness.com/the-untold-story-of-garnier-micellar-cleansing-water",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "The untold story of Garnier’s Micellar Cleansing Water — The L’Oréal-owned legacy beauty brand lifts the lid on how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item in Cosmetics Business’ ‘Untold Story’ series",
+   "excerpt": "The L’Oréal-owned legacy beauty brand lifts the lid on how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item in Cosmetics Business’ ‘Untold Story’ series"
+  },
+  {
+   "title": "L’Oréal sharpens India strategy with quick commerce and local content - Indian Television Dot Com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUNpdG9LbUItRVdXSzJCRnlYSE5mME5valpRam1hWHkyNnRiS3lNOXlUb1JvZ3FVSjZwZ0xRVjB3cnJGWkN4UXhBNFg3OHUxMzZQRmRFU2xMWG5td2pYX3piYUVTWTY0V3FPbmIxWWNZcEh0YXRmU05zMWRjNFFHWFRDWURYZjktenA2ZzdCYXUtX0FOTVlsaTJZMjd4amhpOHpRQTFrX0k?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "L’Oréal sharpens India strategy with quick commerce and local content - Indian Television Dot Com — L’Oréal sharpens India strategy with quick commerce and local content Indian Television Dot Com",
+   "excerpt": "L’Oréal sharpens India strategy with quick commerce and local content Indian Television Dot Com"
+  },
   {
    "title": "EXCLUSIVE: The Center and Dr. Mamina Turegano Acquire Boscia Skin Care Brand",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/the-center-dr-mamina-turegano-aqcuire-boscia-skin-care-1239352147/",

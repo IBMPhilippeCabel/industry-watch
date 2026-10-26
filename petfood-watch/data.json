@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-26T10:34:00Z",
+ "updated": "2026-10-26T14:38:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Pet owners are boosting Halloween pet costume spending, while retailers expand product lines and research pushes new innovations.",
+  "hook": "Today’s highlights show growth in pet food manufacturing, rising demand for specialty treats, and a surge in Halloween pet spending.",
   "categories": {
-   "📈 Market": "American pet owners are expected to spend $920 million on Halloween pet costumes, up from $860 million last year, driving retailers to tap the seasonal surge.",
+   "📈 Market": "Nestlé Petcare’s Q3 organic growth of 5.3% reflects strong cat food demand and momentum in emerging markets.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Zooplus has launched a marketplace in Spain, adding 10,000 products and expanding its European presence ahead of further 2027 plans.",
-   "🤝 M&A": "Funding has been secured to develop an avian metapneumovirus vaccine, aiming to protect poultry supplies and stabilize pet food ingredient costs."
+   "💡 Innovation": "Pet food brands are expanding single‑ingredient freeze‑dried treats while HPAI continues to threaten US poultry supplies.",
+   "🤝 M&A": "i‑Tail’s acquisition of Phelps Pet Products adds US manufacturing capacity, and funding is advancing an avian vaccine to protect poultry supplies."
   }
  },
  "articles": [
+  {
+   "title": "i-Tail acquires Phelps Pet Products",
+   "url": "https://www.petfoodprocessing.net/articles/21021-i-tail-acquires-phelps-pet-products",
+   "source": "Pet Food Processing",
+   "category": "🤝 M&A",
+   "date": "2026-10-26",
+   "ai_summary": "i-Tail acquires Phelps Pet Products — The Thai co‑manufacturer adds US manufacturing capacity to accelerate growth in its largest market.",
+   "excerpt": "The Thai co-manufacturer adds US manufacturing capacity to accelerate growth in its largest market."
+  },
+  {
+   "title": "Nestlé Petcare delivers 5.3% organic growth in Q3",
+   "url": "https://www.petfoodprocessing.net/articles/21020-nestle-petcare-delivers-53-organic-growth-in-q3",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Nestlé Petcare delivers 5.3% organic growth in Q3 — Petcare’s strong results are driven by strong cat food demand and accelerating momentum in emerging market.",
+   "excerpt": "Petcare’s strong results are driven by strong cat food demand and accelerating momentum in emerging market."
+  },
+  {
+   "title": "Vital Essentials launches single-ingredient, freeze-dried salmon treats",
+   "url": "https://www.petfoodprocessing.net/articles/21019-vital-essentials-launches-single-ingredient-freeze-dried-salmon-treats",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-26",
+   "ai_summary": "Vital Essentials launches single‑ingredient, freeze‑dried salmon treats — The introduction responds to rising demand from pet parents for more variety in protein options for their pets.",
+   "excerpt": "The introduction responds to rising demand from pet parents for more variety in protein options for their pets."
+  },
+  {
+   "title": "JustFoodforDogs brings back limited-time Thanksgiving Feast recipe",
+   "url": "https://www.petfoodprocessing.net/articles/21018-justfoodfordogs-brings-back-limited-time-thanksgiving-feast-recipe",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "JustFoodforDogs brings back limited‑time Thanksgiving Feast recipe — For the first time, the seasonal recipe can now be purchased online.",
+   "excerpt": "For the first time, the seasonal recipe can now be purchased online."
+  },
+  {
+   "title": "HPAI continues to threaten US poultry",
+   "url": "https://www.petfoodprocessing.net/articles/21017-hpai-continues-to-threaten-us-poultry",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-26",
+   "ai_summary": "HPAI continues to threaten US poultry — Twenty‑one flocks, including commercial and backyard flocks, have confirmed having the virus.",
+   "excerpt": "Twenty-one flocks, including commercial and backyard flocks, have confirmed having the virus."
+  },
+  {
+   "title": "A century of postbiotic science, built for pet food",
+   "url": "https://www.petfoodprocessing.net/articles/21015-a-century-of-postbiotic-science-built-for-pet-food",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "A century of postbiotic science, built for pet food — Cutting‑edge gut health science – translated into real solutions.",
+   "excerpt": "Cutting-edge gut health science – translated into real solutions."
+  },
   {
    "title": "Pet brands and retailers tap into the Halloween spending spree",
    "url": "https://globalpetindustry.com/news/pet-brands-and-retailers-tap-into-the-halloween-spending-spree/",
