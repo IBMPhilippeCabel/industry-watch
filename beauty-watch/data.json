@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-26T02:29:00Z",
+ "updated": "2026-10-26T04:30:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Day highlights clean‑beauty launches, AI skin trials, EU rule easing, and strong sales growth for L’Oréal and P&G.",
+  "hook": "Today’s beauty market buzz centers on strategic acquisitions, new retail pushes, AI‑driven innovation, and solid sales growth across major brands.",
   "categories": {
-   "📈 Market": "P&G’s Q1 2027 sales rose 4% driven by its beauty division, while L’Oréal’s Q3 2026 sales grew double digits across all divisions.",
-   "💄 Brands & Retail": "Augustinus Bader Spa opened a new ‘cocoon’ at The Mark Hotel, SharkNinja incentivizes customers to sell beauty products, and luxury brands are closing smaller stores to focus on larger locations amid French unrest.",
-   "🤝 Strategy & M&A": "Silgan Dispensing helped design Guerlain’s refillable pump bottle, and YSL Beauty expanded in Brazil with a new São Paulo store and TikTok presence.",
-   "💡 Innovation & Regulation": "Ethnic launched skin barrier lines, Dermaself broadened AI skin analysis for clinical trials, a fragrance flagship opened in NYC, Misti Herbal Remedies expanded worldwide, and the EU Parliament approved simpler CMR rules."
+   "📈 Market": "L’Oréal reported double‑digit Q3 sales growth across all divisions, while P&G’s Q1 beauty sales rose 4%.",
+   "💄 Brands & Retail": "YSL opens its first São Paulo store to boost Brazil presence, while Bath & Body Works faces holiday pressure and luxury brands shift to larger locations amid unrest.",
+   "🤝 Strategy & M&A": "Boscia Skin Care is relaunched after acquisition, YSL expands in Brazil, Silgan designs a refillable pump for Guerlain, and Bath & Body Works confronts a critical holiday period.",
+   "💡 Innovation & Regulation": "Dermaself expands AI skin analysis to remote trials, Ethnic launches barrier care lines, a fragrance flagship opens in NYC, and Misti Herbal Remedies expands Ayurveda‑inspired products worldwide."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: The Center and Dr. Mamina Turegano Acquire Boscia Skin Care Brand",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/the-center-dr-mamina-turegano-aqcuire-boscia-skin-care-1239352147/",
+   "source": "WWD Beauty",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "The Center and Dr. Mamina Turegano have acquired and relaunch Boscia Skin Care Brand, blending Asian traditions with modern formulations.",
+   "excerpt": "Ben Bennett’s The Center has partnered with board-certified dermatologist Dr. Mamina Turegano to acquire and relaunch Boscia, blending Asian skin care traditions with modern formulations."
+  },
+  {
+   "title": "Glossy+ Research: Brands’ focus on owned channels wavers for the 2026 holiday season",
+   "url": "https://www.glossy.co/research/glossy-research-brands-focus-on-owned-channels-wavers-for-the-2026-holiday-season/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Brands and retailers are less focused on using their owned channels for the 2026 holiday season, according to the Glossy+ Research report.",
+   "excerpt": "This is an excerpt from our Glossy+ Research report The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual, which found that brands and retailers are less focused on using their o…"
+  },
+  {
+   "title": "Bath & Body Works has a successful holiday season on its wishlist. Can Zooey Deschanel help it deliver?",
+   "url": "https://www.glossy.co/beauty/bath-body-works-has-a-successful-holiday-season-on-its-wishlist-can-zooey-deschanel-help-it-deliver/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Bath & Body Works faces a critical holiday gifting period amid increased competition and a still evolving turnaround plan.",
+   "excerpt": "Like with many retailers, the holiday gifting period can be a make-or-break period for the fragrance and body-care company. And with increased competition in the mass market, a still evolving turnaround plan and macro ec…"
+  },
+  {
+   "title": "3 months after the World Cup, fashion brands are tapping soccer stars like Bellingham and Yamal for partnerships",
+   "url": "https://www.glossy.co/fashion/3-months-after-the-world-cup-fashion-brands-are-tapping-soccer-stars-like-bellingham-and-yamal-for-partnerships/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-26",
+   "ai_summary": "Fashion brands are partnering with soccer stars like Bellingham and Yamal to capitalize on the residual energy from the World Cup.",
+   "excerpt": "Residual energy from the World Cup is inspiring fashion brands to keep minting new partnerships with star players and teams. For U.S. brands, in particular, many of those players are now household names, adding even more…"
+  },
   {
    "title": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young - 매일경제",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzM0JMZlUzRzhOUW5LWmRpVmhlR2ZIZDhrcVVXSHlwbUpGWWFDenRxcW9LMUMteVBneWw3WXkyRWktTjJGbl9VaU5xSXNoTU1OQXhZ?oc=5",

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-26T02:29:00Z",
+ "updated": "2026-10-26T04:30:00Z",
  "briefing": {
-  "date": "2026-10-25",
-  "hook": "L'Oréal faces a lawsuit over hair relaxers while reporting strong Q3 growth and advancing AI-driven customer support.",
+  "date": "2026-10-26",
+  "hook": "L'Oréal faces a Minnesota lawsuit over hair relaxer risks while AI gains and Q3 double‑digit growth highlight resilience, and a new mental‑health initiative launches.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal is confronting a lawsuit in Minnesota alleging concealment of cancer risks from its chemical hair relaxers, impacting its corporate image.",
-   "💄 Brands & Launches": "Maybelline New York has appointed Hannah El Zahed as its first brand ambassador in Egypt.",
-   "💡 Beauty Tech & ESG": "L'Oréal is expected to benefit from AI capabilities and has improved consumer support response times by 64% using Agentforce.",
+   "🤝 Strategy & M&A": "Minnesota sues L'Oréal over alleged concealment of cancer risks linked to its chemical hair relaxers, raising legal and reputational concerns.",
+   "💄 Brands & Launches": "ADAA and Lancôme launch the global 'I’m Fine' initiative to break the silence on women’s mental health.",
+   "💡 Beauty Tech & ESG": "L'Oréal is expected to benefit from AI capabilities, according to Market Talk on Moomoo.",
    "📈 Market": "L'Oréal reported double‑digit sales growth in Q3 2026 across all divisions, driven by strong demand in China and other regions."
   }
  },
  "articles": [
+  {
+   "title": "2 x L'Oréal Paris Infallible Paints Eyeshadow Metallics 400 Rose Chrome - khorasantimes.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zNUswbXFMcTRTUzNVQmQzUV9NMUFuMTFHLXlVOGkzdkl5V0g5ako1RjFBWUgwOS1LVlNLTFVVaDdGR2hwZ1ZhQ1RYRTZtRkE?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-25",
+   "ai_summary": "2 x L'Oréal Paris Infallible Paints Eyeshadow Metallics 400 Rose Chrome – a product listing for two shades of eyeshadow from L'Oréal Paris.",
+   "excerpt": "2 x L'Oréal Paris Infallible Paints Eyeshadow Metallics 400 Rose Chrome khorasantimes.com"
+  },
   {
    "title": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlBXQ1BEOXB2VGtUdWZ1TTJ5ZnlUeGtlaVRvRkNWOWs4WnlJaDRpYUNlaUo5MTNLYnZpcDN4N1h6aVNHMkF3bVZwQjVid2d2YXBYYUEydDA2dnVYMnRLR3dXMHUya3ZMajBNSlEwbG5va3hEY0ZnalRZbzNXeVVGOUNNdVZacnJ6U0diMENaZDA?oc=5",
@@ -704,6 +713,15 @@
    "date": "2026-10-13",
    "ai_summary": "L’Oréal’s AI search push raises a new question: who controls brand discovery?",
    "excerpt": "L’Oréal’s AI search push raises a new question: who controls brand discovery? Marketing Tech News"
+  },
+  {
+   "title": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health - The Oklahoman",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ1VuWTByZTBib0hyUkJzeFVRWTlKZjBBX2ZrN2sxa2RNdkl1TlhLRjFSRnI5eDNIWTJsaDlQOUdJeVZ1dUJrV2JPb0c2RG1pTGVuQUF4ejNUc2hTekthU285bHI2WGJOaUFtR09WY2hvaFEwbHlnT2NXUExkWUdxQ0VGZXpzNmttZDduT2ZsbF9xS2ItdExLQmRBcHBSVHRvMVB2WlhpQWF5bXlmRmtUQjhBM3VDWFpoal9ONHVXSVZXMXZ6NXlCb0plbWsySGQ4OXQ3dkdjLXVRSmQ1SXpXdDF3?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-10-13",
+   "ai_summary": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health – a joint launch of a global initiative by ADAA and Lancôme to address women's mental health.",
+   "excerpt": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health The Oklahoman"
   },
   {
    "title": "Royal Ballet & Opera Announces Beauty Partnership With L’Oréal Paris - OperaWire",
