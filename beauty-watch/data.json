@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-26T20:26:00Z",
+ "updated": "2026-10-26T22:28:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Today’s focus spans new brand collaborations, tech‑driven beauty deals, and strategic moves in India and Brazil.",
+  "hook": "Today’s focus spans clean‑beauty standards, retail creator strategies, market shifts driven by GLP‑1 drugs, and L’Oréal’s sharpened India push.",
   "categories": {
-   "📈 Market": "L’Oréal CEO highlighted GLP‑1 weight‑loss drugs boosting skin‑care demand, underscoring the link between health trends and cosmetics.",
-   "💄 Brands & Retail": "Amazon unveiled early Black Friday beauty tech deals, while Kayali launched an exclusive omnichannel debut in China with Sephora, expanding its fragrance reach.",
-   "🤝 Strategy & M&A": "L’Oréal sharpened its India strategy with quick commerce and local content, and YSL Beauty expanded in Brazil by opening a physical store in São Paulo.",
-   "💡 Innovation & Regulation": "Paris Packaging Week showcased 950 exhibitors and 80 sessions on packaging innovation, highlighting future industry perspectives."
+   "📈 Market": "L’Oréal’s CEO highlighted the impact of GLP‑1 weight‑loss drugs on skin‑care consumption, underscoring a new consumer trend.",
+   "💄 Brands & Retail": "SharkNinja’s creator‑seller model offers up to 15% commissions, expanding its holiday gift‑guide strategy to customers and employees.",
+   "🤝 Strategy & M&A": "L’Oréal sharpens its India strategy with quick commerce and local content, reinforcing its market presence.",
+   "💡 Innovation & Regulation": "IconicA’s stabilised retinaldehyde offers a new vitamin‑A option, while Beecee’s ingredient standards define its clean‑beauty approach."
   }
  },
  "articles": [
+  {
+   "title": "The best vitamin a products Contain stabilised retinaldehyde using IconicA",
+   "url": "https://www.cosmeticsbusiness.com/the-best-vitamin-a-products-contain-stabilised-retinaldehyde",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "The best vitamin a products contain stabilised retinaldehyde using IconicA, with retinol as the industry benchmark for improving aging skin but facing formulation challenges and irritation issues.",
+   "excerpt": "Retinol is currently used as the industry benchmark, by virtue of its own capability to improve the appearance of aging skin. However, formulation challenges and irritation phenomena reduce retinol’s broad acceptance amo…"
+  },
+  {
+   "title": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards - Her Campus",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHBocUUyaXNCamJwaVJKNG90Y2xzYlhLR0NmcXI4OWlCQ0FVRm1RV3FZX2lnRXN3ckR4anMtUnY3Vnc4djZOQWl1VU93aWFlVEJjTnc3bDBfaU1IUklONG9tR3dsN2RCVnRpT0N1c3JOY2JfQXBoX2c3c3dSNF9DeVdST1BHNVN5RTBxRWFaUGl6NWpPay1EQXdXZlczd0xKWlRJcVpBUVFFS3lWZzJZ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards - Her Campus explores the ingredient standards that define Beecee's clean beauty approach.",
+   "excerpt": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards Her Campus"
+  },
   {
    "title": "5 of Your Favorite Makeup Artists on Their Favorite Lip Combos",
    "url": "https://wwd.com/beauty-industry-news/color-cosmetics/best-lip-combos-celebrity-makeup-artist-tips-1239343025/",
@@ -200,6 +218,24 @@
    "date": "2026-10-26",
    "ai_summary": "Esxence hosted its second AURA event in New York, bringing 30 Italian niche fragrance brands to the Aspire venue on October 22, 2026.",
    "excerpt": "Following its inaugural edition in 2025, the second edition of AURA took place at Aspire at One World Observatory in New York on October 22, 2026. Organized by Esxence - The Art Perfumery Event in partnership with the It…"
+  },
+  {
+   "title": "With growth exceeding 50% in 2026, The Gift Lab scales up",
+   "url": "https://www.premiumbeautynews.com/en/with-growth-exceeding-50-in-2026,28417",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "With growth exceeding 50% in 2026, The Gift Lab scales up, having designed, sourced, produced, and shipped gift sets, advent calendars, pouches, and promotional accessories for beauty, luxury, and lifestyle brands since 2010.",
+   "excerpt": "Since 2010, The Gift Lab has been designing, sourcing, producing, and shipping gift sets, advent calendars, pouches, and promotional accessories (GWP) for beauty, luxury, and lifestyle brands. Founded by Alexandre Escarr…"
+  },
+  {
+   "title": "Ingredients: Seppic's Montanov emulsifiers also help repair hair",
+   "url": "https://www.premiumbeautynews.com/en/ingredients-seppic-s-montanov,28415",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Ingredients: Seppic's Montanov emulsifiers also help repair hair, demonstrating effectiveness in hydrating skin across all phototypes and highlighting benefits for hair repair.",
+   "excerpt": "After demonstrating the effectiveness of its Montanov emulsifier range in hydrating skin across all phototypes, Seppic presents new data highlighting the benefits of these ingredients for hair repair. According to Seppic…"
   },
   {
    "title": "Dermaself takes its AI skin analysis into remote clinical studies",

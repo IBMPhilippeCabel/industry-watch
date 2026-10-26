@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-26T20:26:00Z",
+ "updated": "2026-10-26T22:28:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Today’s highlights show pet food firms expanding product lines and market reach amid steady growth and ongoing poultry health concerns.",
+  "hook": "Today’s pet‑food news highlights Brazil’s new eating‑occasion strategy, Nestlé’s Q3 growth, and a surge in Halloween pet‑costume sales.",
   "categories": {
-   "📈 Market": "Nestlé Petcare’s Q3 organic growth and JustFoodforDogs’ new Thanksgiving recipe signal robust demand and seasonal opportunities.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": "Hill’s opens a dedicated Small Paws Innovation Center and Vital Essentials launches freeze‑dried salmon treats, reflecting a focus on niche breeds and protein variety.",
-   "🤝 M&A": "i‑Tail’s acquisition of Phelps Pet Products expands US manufacturing capacity, while funding for an avian vaccine aims to protect the poultry supply chain."
+   "📈 Market": "Brazil’s pet‑food industry is shifting focus from volume to new eating occasions, while Nestlé Petcare reports 5.3% organic growth driven by cat‑food demand and emerging markets.",
+   "⚖️ Regulation": "A voluntary recall of Pedigree canned dog food over plastic and metal contamination underscores ongoing safety concerns, even as Mars notes consumers still spend heavily on pets.",
+   "💡 Innovation": "New developments include Hill’s Small Paws Innovation Center, Vital Essentials’ single‑ingredient salmon treats, and Zooplus’s expanded marketplace in Spain, reflecting a push toward specialized products.",
+   "🤝 M&A": "i‑Tail’s acquisition of Phelps Pet Products expands its US manufacturing, and funding for an avian metapneumovirus vaccine aims to protect poultry supplies for pet‑food ingredients."
   }
  },
  "articles": [
+  {
+   "title": "Brazil looks beyond pet food volume to new eating occasions",
+   "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/15975488/brazil-looks-beyond-pet-food-volume-to-new-eating-occasions",
+   "source": "Petfood Industry",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Brazil looks beyond pet food volume to new eating occasions — A new growth strategy for Brazil’s pet food industry centers not only on how much pets consume, but also on the different occasions...",
+   "excerpt": "A new growth strategy for Brazil’s pet food industry centers not only on how much pets consume, but also on the different occasions..."
+  },
   {
    "title": "Hill’s celebrates 5th anniversary of Small Paws Innovation Center",
    "url": "https://www.petfoodprocessing.net/articles/21016-hills-celebrates-5th-anniversary-of-small-paws-innovation-center",
@@ -20,6 +29,15 @@
    "date": "2026-10-26",
    "ai_summary": "Hill’s celebrates 5th anniversary of Small Paws Innovation Center — The center is the first US pet food facility dedicated solely to the unique needs of small and mini dog breeds.",
    "excerpt": "The center is the first US pet food facility dedicated solely to the unique needs of small and mini dog breeds."
+  },
+  {
+   "title": "Mars finds that consumers don’t skimp on their pets - RetailDetail EU",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE4wZXZRb21QRmg5bS1SakI2c2VjUTV2UVZ3ZlNxb0RoMUZwRl8zczRLT05UaG92NEVsamN0WnV4QjI5WDB4bk5rS1RjUFdsWThVaU42U1pSMnRVRkdGMTZ3dWx2OXEzM29PeS1ZN2QwakEwZng1bXdSUVBlQzgydEJrY0xXMFFGVXlvTmpISEZ1aU0?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Mars finds that consumers don’t skimp on their pets - RetailDetail EU — Mars finds that consumers don’t skimp on their pets RetailDetail EU",
+   "excerpt": "Mars finds that consumers don’t skimp on their pets RetailDetail EU"
   },
   {
    "title": "i-Tail acquires Phelps Pet Products",
