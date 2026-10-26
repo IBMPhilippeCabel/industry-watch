@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-26T08:39:00Z",
+ "updated": "2026-10-26T10:34:00Z",
  "briefing": {
-  "date": "2026-10-25",
-  "hook": "Today’s pet‑food news highlights fresh product launches, plant‑based market growth, and strategic retail expansions.",
+  "date": "2026-10-26",
+  "hook": "Pet owners are boosting Halloween pet costume spending, while retailers expand product lines and research pushes new innovations.",
   "categories": {
-   "📈 Market": "Retail reach expands as Nulo partners with Hollywood Feed, while packaging equipment shipments are set to rebound through 2027.",
+   "📈 Market": "American pet owners are expected to spend $920 million on Halloween pet costumes, up from $860 million last year, driving retailers to tap the seasonal surge.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Innovation focus shifts to plant‑based growth, new freeze‑dry chicken varieties, and research into flavor preferences.",
-   "🤝 M&A": "Funding moves aim to develop an avian vaccine to secure poultry‑based pet food ingredients."
+   "💡 Innovation": "Zooplus has launched a marketplace in Spain, adding 10,000 products and expanding its European presence ahead of further 2027 plans.",
+   "🤝 M&A": "Funding has been secured to develop an avian metapneumovirus vaccine, aiming to protect poultry supplies and stabilize pet food ingredient costs."
   }
  },
  "articles": [
+  {
+   "title": "Pet brands and retailers tap into the Halloween spending spree",
+   "url": "https://globalpetindustry.com/news/pet-brands-and-retailers-tap-into-the-halloween-spending-spree/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "Pet brands and retailers tap into the Halloween spending spree — American pet owners are expected to spend $920 million (€789M) on pet costumes for Halloween this year, up from $860 million (€738 million) in 2025. This is according to a National Retail Federation (NRF) survey that pol…",
+   "excerpt": "American pet owners are expected to spend $920 million (€789M) on pet costumes for Halloween this year, up from $860 million (€738 million) in 2025. This is according to a National Retail Federation (NRF) survey that pol…"
+  },
+  {
+   "title": "Zooplus expands marketplace offer in Spain, with more markets planned for 2027",
+   "url": "https://globalpetindustry.com/news/zooplus-expands-marketplace-offer-in-spain-with-more-markets-planned-for-2027/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-26",
+   "ai_summary": "Zooplus expands marketplace offer in Spain, with more markets planned for 2027 — Online pet retailer zooplus has launched a marketplace in Spain, adding 10,000 products to its local offering. The company now operates marketplaces in three European countries, following launches in Germany and France a…",
+   "excerpt": "Online pet retailer zooplus has launched a marketplace in Spain, adding 10,000 products to its local offering. The company now operates marketplaces in three European countries, following launches in Germany and France a…"
+  },
   {
    "title": "These taste testers have four legs and picky palates - The Straits Times",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEpmbEdhbHpDSkcwWk1iRDBvWE5VRjVZSjJ5VGk3b0RNU3NMdnBBbmtvR0xmMWh4ejAyMWp1Q0VWMVN4eVItNTg2ZGd4RVk0cnoyMlZIZHh0MC1iWjllUEQ4SVd5UHJTTTliQ1lXclZjdGlaU1dpS3VuLU94SkFhWDV2YTRwaGpQakFLNHVWUQ?oc=5",
