@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-25T22:18:00Z",
+ "updated": "2026-10-26T00:36:00Z",
  "briefing": {
-  "date": "2026-10-25",
-  "hook": "Today’s beauty landscape shows growth in L’Oréal’s Q3, expanding retail footprints, new fragrance hubs, and regulatory easing on hazardous substances.",
+  "date": "2026-10-26",
+  "hook": "Clean beauty launches, EU regulation eases, and L’Oréal’s Q3 growth dominate the day.",
   "categories": {
-   "📈 Market": "L’Oréal’s Q3 2026 sales rose double digits across all divisions, while P&G’s Q1 2027 beauty division grew 4% and Nivea Sun secured a five‑year Tour de France partnership.",
-   "💄 Brands & Retail": "Luxury brands are shuttering smaller stores to focus on larger locations amid French unrest, while Augustinus Bader Spa opens a new retreat, SharkNinja expands creator sales, and L’Oréal highlights products driving its 7% earnings jump.",
-   "🤝 Strategy & M&A": "Silgan’s refillable pump for Guerlain’s Longevity Concentrate, YSL’s first São Paulo store, and L’Oréal’s Q3 earnings beat illustrate continued product‑centric expansion, while Cymbiotika launches a fashion‑forward supplement line.",
-   "💡 Innovation & Regulation": "A new 44,000‑sq‑ft fragrance flagship opens in NYC, Misti Herbal Remedies expands Ayurveda‑clean beauty worldwide, the EU adopts simpler CMR rules, Proya opens a Paris R&D lab, and Jana Craig launches a direct‑to‑consumer lash line."
+   "📈 Market": "L’Oréal’s third‑quarter sales rose double digits, driven by strong demand across all divisions and regions, including China.",
+   "💄 Brands & Retail": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, focusing on earnings and standout performers this week.",
+   "🤝 Strategy & M&A": "YSL Beauty is expanding in Brazil with a new São Paulo store and enhanced TikTok presence after its 2024 e‑commerce launch.",
+   "💡 Innovation & Regulation": "The EU Parliament approved simpler rules on CMR substances, giving manufacturers more time to withdraw hazardous cosmetics, while clean‑beauty brands launch new lines and labs."
   }
  },
  "articles": [
+  {
+   "title": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzM0JMZlUzRzhOUW5LWmRpVmhlR2ZIZDhrcVVXSHlwbUpGWWFDenRxcW9LMUMteVBneWw3WXkyRWktTjJGbl9VaU5xSXNoTU1OQXhZ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young",
+   "excerpt": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young 매일경제"
+  },
   {
    "title": "Agatha Relota Luczo Shares Delectable Recipes Made With Extra Virgin Olive Oil Sourced From Her Farm",
    "url": "https://wwd.com/beauty-industry-news/wellness/agatha-relota-luczo-extra-virgin-olive-oil-recipes-furtuna-1239335929/",
@@ -1271,6 +1280,24 @@
    "date": "2026-10-14",
    "ai_summary": "Watch L’Oréal’s Strategy for a New Era of Beauty - Bloomberg.com — Watch L’Oréal’s Strategy for a New Era of Beauty Bloomberg.com",
    "excerpt": "Watch L’Oréal’s Strategy for a New Era of Beauty Bloomberg.com"
+  },
+  {
+   "title": "Reliance and Estée Lauder foundations launch skills program for girls in India - Diya TV",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0NzQ2tzWUFkUzUxLV9wTURoZXRVenpuWUllTkd6Y1liZHFmb2Mza1FVODdKdEZYVUl2MG92cy1WSU5iSW5IR1g1TEw5RXdGWnZpZkRKaFM1UnlwTWhxS1Bzb1psQng1UXhmZGI4aGUydGRfa3FpRGZ6NVd1M0tYWFRjeGNYZFV6Y1ZidC1qcTRFTGhyR1FrdHVia0d1SWM4RnA4?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-14",
+   "ai_summary": "Reliance and Estée Lauder foundations launch skills program for girls in India",
+   "excerpt": "Reliance and Estée Lauder foundations launch skills program for girls in India Diya TV"
+  },
+  {
+   "title": "What Is Beauty Tech - The Complete Guide 2027 - www.perfectcorp.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWg5dmctLWUwWDFTVnc4MEZZalhYdG9DSmtJUXpBeGpNOEVQeHI2Q3dOLTk2c2s3NHNmWmRXb0RZeUdHaG5qZTRkX2ZmeTBMM1I1eVdIWUlOdWZTM2FXQWxmWF9wUWZLWnhlN2NEa0RxcTcxdHJuLTh5UnZxVE1YWWVPeGhkbnk3S2VB?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-14",
+   "ai_summary": "What Is Beauty Tech - The Complete Guide 2027",
+   "excerpt": "What Is Beauty Tech - The Complete Guide 2027 www.perfectcorp.com"
   },
   {
    "title": "Elina Svitolina - Monica Puig - Flashscore.com",
