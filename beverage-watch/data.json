@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-26T06:35:00Z",
+ "updated": "2026-10-26T08:39:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Today's market moves cover guidance hikes, regulatory visits, cyber recovery, distribution deals, sustainability tweaks, and a looming anti‑trust trial.",
+  "hook": "Heineken’s €1.5B buyback and court order, Anora’s UK distribution deal, and Vita Coco’s new guidance set the tone for today’s beverage market.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Vita Coco raised guidance, Allied Blenders faces tax scrutiny, Ahold Delhaize restored online sales after a cyber outage, Anora secured UK distribution, Danone adjusted plastic recycling claims, and Keurig Dr Pepper faces an anti‑trust trial.",
-   "🍸 Spirits & Premium": "Anora has appointed Quintessential Brands as its exclusive UK distributor for its spirits portfolio.",
-   "🍺 Beer & Brewing": "Ahold Delhaize has restored Albert Heijn's online delivery service following a cyber outage.",
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Heineken NV is executing a €1.5 billion share buyback while a €111 million court order is in place, signalling ongoing shareholder value actions.",
+   "📈 Market": "Anora Group’s appointment of Quintessential Brands as its exclusive UK distributor and Vita Coco’s updated guidance highlight strategic moves in the spirits and beverage sectors.",
+   "🍸 Spirits & Premium": "No new premium spirits developments were reported today.",
+   "🍺 Beer & Brewing": "No significant beer market updates were noted today.",
+   "💡 Innovation & No-Low": "No innovation or no‑low initiatives were mentioned in the summaries."
   }
  },
  "articles": [
+  {
+   "title": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjhmRF84RUVsM3JSbHd3Y1JqankzV2JqZWFZcnEwaU52YXdaRXEzUU0wZVJoa0tCQkk0WnlnUGJ6cEVmMHJBUldRVUhnbGZTMFV0aUx5Q1NOWjZiWm1Sdzh0LTd0dVJQVlR2YWY0djdoWU5iWTlVNXVwMFhLYWVDSVZQOC0yejVKejVvVTdsOGRkaUxpWGQ1TURWYThKUDlaUGxLZDZCZ3RhVUdIVkNxRWl3eFUyY1JnMzE2WVpsUktqUEdjOG5RMlhn?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order.",
+   "excerpt": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order TradingView"
+  },
   {
    "title": "Jameson Williams Finds end zone twice in win over Pack - Fantasy Footballers Podcast",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnYxeXRyWVFXbFdaSGVQUUI3REV0WGdtRnFtNlQ5Ti0xa0gtZzY1Q1FpXzFCOE9mdzRxNmlCYUpFTVBiaEtHek9xNmluNUtaWVNiaGpCNi16THZ4b08tQVRJTjBUUHJ1UmZwZVBWNUkwd3VaOG1LdTFEbExfVHNLZFRZaDdrOHU5QlVBNVZQLUtEaXpONU8xd3I4dmZobEFwdWs4MDJteFk?oc=5",
@@ -21,6 +30,15 @@
    "date": "2026-10-26",
    "ai_summary": "Jameson Williams Finds end zone twice in win over Pack - Fantasy Footballers Podcast — The podcast episode discusses Jameson Williams scoring twice in a victory over the Packers. It examines how his performance contributed to the team's win.",
    "excerpt": "Jameson Williams Finds end zone twice in win over Pack Fantasy Footballers Podcast"
+  },
+  {
+   "title": "Jameson Williams totals 91 yards, scores twice - NBC Sports",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkpWTVZvNXNrNEQ1aW54RWlDV2pHQkxWOXlZblBXMlIySmh4YTRVN0VMZjlEdkxIeTFWcUkyMVhiUUk4Vkp1Q0Z6U1Q3cThZekxmRm42NUplTW5ZbUhNbHZsYkFjeDlUeFN0elllZnJKUEdBbmlHVGdEekh5ZlhaM19HTC1uSU1hSFNhRkdRN2VEaHBTZGJ0NTZBSFVXcnhkcUEtbVB3YWNrUFpXbFVNSw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-26",
+   "ai_summary": "Jameson Williams totals 91 yards, scores twice.",
+   "excerpt": "Jameson Williams totals 91 yards, scores twice NBC Sports"
   },
   {
    "title": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 - Detroit Lions",
@@ -75,6 +93,15 @@
    "date": "2026-10-25",
    "ai_summary": "Drink Vergina Beer: The Green Case Against Heineken – The National Herald",
    "excerpt": "Drink Vergina Beer: The Green Case Against Heineken The National Herald"
+  },
+  {
+   "title": "Jared Goff's 30-yard connection with Jameson Williams gets Lions into Packers' territory - NFL.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1draXVKUzFLOENBQkpFeklOQjlKckdsQmF5eDlaWjBwcGxBU2lpLVY1V1VJOUlSMVQtRWs3dEt4QnVUemtqTXZvUHNSZWVNVU1UVmxKLUQzem56OTZpRG9TdEE5MHNDbVRzaFhlcl9EVUNmYUhKM2VDZWlpVVNlbDlHX3RpVVFwUHdoMk1DeWVaRWNkOTJqUkIwb2x3cnZocEtDWkhLUVljQ195UUZ6LS0xdzA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-25",
+   "ai_summary": "Jared Goff's 30-yard connection with Jameson Williams gets Lions into Packers' territory.",
+   "excerpt": "Jared Goff's 30-yard connection with Jameson Williams gets Lions into Packers' territory NFL.com"
   },
   {
    "title": "Jameson Williams scores second TD, Lions lead 17-14 - NBC Sports",
