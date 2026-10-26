@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-26T00:36:00Z",
+ "updated": "2026-10-26T02:29:00Z",
  "briefing": {
   "date": "2026-10-26",
-  "hook": "Clean beauty launches, EU regulation eases, and L’Oréal’s Q3 growth dominate the day.",
+  "hook": "Day highlights clean‑beauty launches, AI skin trials, EU rule easing, and strong sales growth for L’Oréal and P&G.",
   "categories": {
-   "📈 Market": "L’Oréal’s third‑quarter sales rose double digits, driven by strong demand across all divisions and regions, including China.",
-   "💄 Brands & Retail": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, focusing on earnings and standout performers this week.",
-   "🤝 Strategy & M&A": "YSL Beauty is expanding in Brazil with a new São Paulo store and enhanced TikTok presence after its 2024 e‑commerce launch.",
-   "💡 Innovation & Regulation": "The EU Parliament approved simpler rules on CMR substances, giving manufacturers more time to withdraw hazardous cosmetics, while clean‑beauty brands launch new lines and labs."
+   "📈 Market": "P&G’s Q1 2027 sales rose 4% driven by its beauty division, while L’Oréal’s Q3 2026 sales grew double digits across all divisions.",
+   "💄 Brands & Retail": "Augustinus Bader Spa opened a new ‘cocoon’ at The Mark Hotel, SharkNinja incentivizes customers to sell beauty products, and luxury brands are closing smaller stores to focus on larger locations amid French unrest.",
+   "🤝 Strategy & M&A": "Silgan Dispensing helped design Guerlain’s refillable pump bottle, and YSL Beauty expanded in Brazil with a new São Paulo store and TikTok presence.",
+   "💡 Innovation & Regulation": "Ethnic launched skin barrier lines, Dermaself broadened AI skin analysis for clinical trials, a fragrance flagship opened in NYC, Misti Herbal Remedies expanded worldwide, and the EU Parliament approved simpler CMR rules."
   }
  },
  "articles": [
@@ -20,6 +20,15 @@
    "date": "2026-10-26",
    "ai_summary": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young",
    "excerpt": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young 매일경제"
+  },
+  {
+   "title": "Dermaself takes its AI skin analysis into remote clinical studies",
+   "url": "https://www.cosmeticsbusiness.com/dermaself-takes-its-ai-skin-analysis-into-remote",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-25",
+   "ai_summary": "Dermaself expands its AI skin analysis from personalized routines to remote clinical studies, enabling testing laboratories to conduct efficacy trials on thousands of volunteers. The technology uses selfie-based measurements to streamline large-scale photographic data collection for skincare research.",
+   "excerpt": "Dermaself's AI already turns a selfie into a personalised skincare routine on brand websites and in stores. The same measurement now lets testing laboratories run efficacy studies on up to 10,000 volunteers who photograp…"
   },
   {
    "title": "Agatha Relota Luczo Shares Delectable Recipes Made With Extra Virgin Olive Oil Sourced From Her Farm",
