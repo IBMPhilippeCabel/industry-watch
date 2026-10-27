@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-27T20:31:00Z",
+ "updated": "2026-10-27T22:30:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Today’s buzz spans AI‑driven skin tech, high‑profile launches, market shifts tied to GLP‑1 drugs, and strategic moves in active ingredient portfolios.",
+  "hook": "Regulatory scrutiny, AI‑driven insights, and strategic moves shape the beauty market today.",
   "categories": {
-   "📈 Market": "L’Oréal’s CEO highlighted GLP‑1 weight‑loss drugs boosting skin‑care demand, while Beiersdorf’s Nivea sales slipped in Q3 amid Middle East war concerns.",
-   "💄 Brands & Retail": "Burberry unveiled its Prorsum fragrance line, Ulta Beauty earned 2026 Public Beauty Company of the Year, Korean brands dominated U.S. skin‑care buzz, and QVC is integrating TikTok shows for its 40th holiday season.",
-   "🤝 Strategy & M&A": "LipoTrue added marine, plant‑based, and biomimetic actives at in‑cosmetics Asia, while Willow acquired Swehl and appointed a new CEO.",
-   "💡 Innovation & Regulation": "AI skin‑analysis models miss real issues, prompting brands to test vendors, while Light Filtering Glass reshapes clean beauty packaging, Coty partners with Brandlight for AI visibility, and mes° launches a biodesigned hair line."
+   "📈 Market": "L'Oréal CEO highlighted GLP‑1 weight‑loss drugs driving increased skin‑care demand, while Beiersdorf saw Nivea sales dip amid Middle East war concerns.",
+   "💄 Brands & Retail": "Ulta Beauty earns 2026 WWD Honor for Public Beauty Company of the Year, and QVC gears up for its 40th holiday season with TikTok shows and live events.",
+   "🤝 Strategy & M&A": "LipoTrue expands its portfolio with three new actives at in‑cosmetics Asia 2026, while L'Oréal sharpens its India strategy with quick commerce and local content.",
+   "💡 Innovation & Regulation": "Regulators are now reviewing higher‑dose claims after a wellness brand declined NAD inquiries, while AI skin‑analysis models reveal misreads that brands must test."
   }
  },
  "articles": [
+  {
+   "title": "HigherDose Advertising Claims Referred to Regulators After Noncompliance With NAD Inquiries",
+   "url": "https://wwd.com/beauty-industry-news/wellness/higherdose-advertising-claims-referred-to-regulators-1239388176/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "HigherDose Advertising Claims Referred to Regulators After Noncompliance With NAD Inquiries — The wellness brand declined to participate in two NAD inquiries into performance claims about its Red Light Hat and Red Light Face Mask, prompting a referral to regulatory authorities.",
+   "excerpt": "The wellness brand declined to participate in two NAD inquiries into performance claims about its Red Light Hat and Red Light Face Mask, prompting a referral to regulatory authorities."
+  },
   {
    "title": "EXCLUSIVE: Valentino Is Launching in China Its First Haute Beauté Product",
    "url": "https://wwd.com/beauty-industry-news/color-cosmetics/valentino-launches-first-haute-beaute-product-china-1239387646/",
@@ -1766,6 +1775,15 @@
    "date": "2026-10-15",
    "ai_summary": "Estée Lauder and Reliance Foundation launch a partnership to empower one million girls in India.",
    "excerpt": "Estée Lauder and Reliance Foundation launch partnership to empower one million girls in India DFNI"
+  },
+  {
+   "title": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance - Coty",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pTWxseGt2QVc2QXBmaS1ZajRHXy05ckNUbk1iS1RlZTR2MEExQU9fSjRpLWlfUjdOcTlhbjhBOFJkdVlUa0xzdVdZMWdMSmpiQ0ZJNXNDQjc5WFRxLWdXbGhmV21jY2d5cjcwTUh3?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-15",
+   "ai_summary": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance — Coty launches a global fragrance club to create a community that shapes the future of fragrance.",
+   "excerpt": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance Coty"
   },
   {
    "title": "Amid an executive shakeup, Gap Beauty expands with its first gourmand fragrance",
