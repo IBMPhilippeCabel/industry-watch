@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-26T22:28:00Z",
+ "updated": "2026-10-27T00:30:00Z",
  "briefing": {
-  "date": "2026-10-26",
-  "hook": "Today’s focus spans clean‑beauty standards, retail creator strategies, market shifts driven by GLP‑1 drugs, and L’Oréal’s sharpened India push.",
+  "date": "2026-10-27",
+  "hook": "GLP‑1 trends drive new product focus while L’Oréal highlights its impact on skin‑care, and clean‑beauty standards gain traction.",
   "categories": {
-   "📈 Market": "L’Oréal’s CEO highlighted the impact of GLP‑1 weight‑loss drugs on skin‑care consumption, underscoring a new consumer trend.",
-   "💄 Brands & Retail": "SharkNinja’s creator‑seller model offers up to 15% commissions, expanding its holiday gift‑guide strategy to customers and employees.",
-   "🤝 Strategy & M&A": "L’Oréal sharpens its India strategy with quick commerce and local content, reinforcing its market presence.",
-   "💡 Innovation & Regulation": "IconicA’s stabilised retinaldehyde offers a new vitamin‑A option, while Beecee’s ingredient standards define its clean‑beauty approach."
+   "📈 Market": "L’Oréal CEO notes GLP‑1 weight‑loss drugs significantly influence skin‑care demand, underscoring the sector’s shift.",
+   "💄 Brands & Retail": "Kayali launches exclusively with Sephora in China, expanding its presence through a large store rollout.",
+   "🤝 Strategy & M&A": "L’Oréal sharpens its India strategy with quick commerce and local content to strengthen market position.",
+   "💡 Innovation & Regulation": "Clean‑beauty standards are highlighted by Beecee’s ingredient approach, while oral care adopts skin‑care‑style sensorial experiences."
   }
  },
  "articles": [
@@ -20,6 +20,15 @@
    "date": "2026-10-26",
    "ai_summary": "The best vitamin a products contain stabilised retinaldehyde using IconicA, with retinol as the industry benchmark for improving aging skin but facing formulation challenges and irritation issues.",
    "excerpt": "Retinol is currently used as the industry benchmark, by virtue of its own capability to improve the appearance of aging skin. However, formulation challenges and irritation phenomena reduce retinol’s broad acceptance amo…"
+  },
+  {
+   "title": "Stop the shedding: Hair care is entering its GLP-1 era",
+   "url": "https://www.cosmeticsbusiness.com/stop-the-shedding-hair-care-is-entering-its",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-26",
+   "ai_summary": "Hair care is moving into a new era focused on GLP-1. Demand for products and supplements that address hair loss is growing as consumer appetites shrink.",
+   "excerpt": "As consumer appetites quite literally shrink, demand for products and supplements that promise to help with the undesired side effect of hair loss is expanding"
   },
   {
    "title": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards - Her Campus",
@@ -1631,15 +1640,6 @@
    "date": "2026-09-29",
    "ai_summary": "The article discusses how \"Skinimalism\" and clean beauty are driving the development of multifunctional formulations in personal care.",
    "excerpt": "“Skinimalism” and clean beauty fuel multifunctional formulation Personal Care Insights"
-  },
-  {
-   "title": "Naturally Serious Skincare: First In Clean Beauty - The Purist",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkFMZGRUU2lyRktYdXpXbWVqekFrN2NXWVU3eTUzcFQtRVlGelBwQjZzY055cnRCX3p3T3Nncl9aRzRXeFg3Qk5keDhKa1h5Z29zcURQMjZJSXRRS2dLaF9nQzk1N0tJMVB4bHZESVpaM2JfTWtWOFRGQlRYVV9sMDNwUGdkSHl3NExNVy1B?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-09-26",
-   "ai_summary": "It highlights a clean beauty brand’s debut in the first natural skincare collection.",
-   "excerpt": "Naturally Serious Skincare: First In Clean Beauty The Purist"
   }
  ]
 }
