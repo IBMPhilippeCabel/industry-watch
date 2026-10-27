@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-27T00:30:00Z",
+ "updated": "2026-10-27T02:26:00Z",
  "briefing": {
-  "date": "2026-10-26",
-  "hook": "Today’s pet‑food news highlights Brazil’s new eating‑occasion strategy, Nestlé’s Q3 growth, and a surge in Halloween pet‑costume sales.",
+  "date": "2026-10-27",
+  "hook": "Today’s pet‑food news highlights a mix of charitable initiatives, product innovation, market growth, regulatory concerns, and a new acquisition.",
   "categories": {
-   "📈 Market": "Brazil’s pet‑food industry is shifting focus from volume to new eating occasions, while Nestlé Petcare reports 5.3% organic growth driven by cat‑food demand and emerging markets.",
-   "⚖️ Regulation": "A voluntary recall of Pedigree canned dog food over plastic and metal contamination underscores ongoing safety concerns, even as Mars notes consumers still spend heavily on pets.",
-   "💡 Innovation": "New developments include Hill’s Small Paws Innovation Center, Vital Essentials’ single‑ingredient salmon treats, and Zooplus’s expanded marketplace in Spain, reflecting a push toward specialized products.",
-   "🤝 M&A": "i‑Tail’s acquisition of Phelps Pet Products expands its US manufacturing, and funding for an avian metapneumovirus vaccine aims to protect poultry supplies for pet‑food ingredients."
+   "📈 Market": "Brazil’s pet‑food sector shifts focus to new eating occasions while Nestlé Petcare reports 5.3% organic growth and the U.S. market sees a surge in Halloween pet‑costume spending.",
+   "⚖️ Regulation": "Mars reports that consumers are willing to spend more on their pets, indicating a shift in purchasing priorities.",
+   "💡 Innovation": "Royal Canin Korea donates 8 tons of food, Hill’s opens a small‑breed innovation center, Vital Essentials launches freeze‑dried salmon treats, and Zooplus expands its marketplace in Spain.",
+   "🤝 M&A": "i‑Tail acquires Phelps Pet Products, adding U.S. manufacturing capacity to its Thai operations."
   }
  },
  "articles": [
+  {
+   "title": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day - 파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMEcwX0VXVlNvZUxzQnhjUjBqbllkbmFUM0ZaTU9Vam5mNy1BWW1tU2x1Q05DajVIOUxZaEgxbjAyQ0hNYXd6LVdSZnFlWFJ6ZEJic3Zkdjc?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-10-27",
+   "ai_summary": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day. The donation was reported by 파이낸셜뉴스.",
+   "excerpt": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day 파이낸셜뉴스"
+  },
   {
    "title": "Brazil looks beyond pet food volume to new eating occasions",
    "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/15975488/brazil-looks-beyond-pet-food-volume-to-new-eating-occasions",
