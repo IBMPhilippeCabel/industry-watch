@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-27T02:26:00Z",
+ "updated": "2026-10-27T04:29:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "GLP‑1 drives new skin‑care focus while clean‑beauty standards and tech deals shape the market.",
+  "hook": "GLP‑1 drugs are reshaping beauty, driving new product lines, marketing shifts, and strategic moves across the industry.",
   "categories": {
-   "📈 Market": "L’Oréal CEO highlighted GLP‑1 weight‑loss drugs’ impact on skin‑care consumption, underscoring a shift in consumer demand.",
-   "💄 Brands & Retail": "Kayali launched exclusively with Sephora in China, expanding its presence through a large store rollout.",
-   "🤝 Strategy & M&A": "L’Oréal sharpens its India strategy with quick commerce and local content to boost market penetration.",
-   "💡 Innovation & Regulation": "Clean‑beauty brand Beecee’s ingredient standards and oral care’s adoption of skin‑care‑style sensorial experiences signal a trend toward holistic product design."
+   "📈 Market": "L’Oréal’s CEO highlighted GLP‑1 weight‑loss drugs as a key driver of skin‑care consumption, underscoring their industry impact.",
+   "💄 Brands & Retail": "Ulta Beauty’s 2026 WWD Honor as Public Beauty Company of the Year signals its growing influence in specialty beauty.",
+   "🤝 Strategy & M&A": "L’Oréal is sharpening its India strategy with quick commerce and local content while also noting GLP‑1’s impact on sales.",
+   "💡 Innovation & Regulation": "Hair care is pivoting to GLP‑1‑based products and supplements to address hair loss, reflecting a new era of science‑driven solutions."
   }
  },
  "articles": [
+  {
+   "title": "Jennifer Lawrence Enters Beauty Business With Hair Care Brand Mes°",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/jennifer-lawrence-beauty-hair-care-brand-mes-1239365065/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Jennifer Lawrence has launched a science-driven hair care brand called Mes°, aiming to simplify routines and improve hair health.",
+   "excerpt": "The Oscar-winning actress has teamed up with biotech entrepreneur Jasmina Aganovic to launch Mes°, a science-driven hair care brand designed to simplify routines and enhance hair health."
+  },
+  {
+   "title": "Inside Ulta Beauty’s Big, Bold Year",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/ulta-beauty-growth-tiktok-shop-stores-retail-1239379404/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-27",
+   "ai_summary": "Ulta Beauty is highlighted as the 2026 WWD Honor recipient for Public Beauty Company of the Year, reflecting its significant impact in the specialty beauty sector.",
+   "excerpt": "The specialty beauty retailer is the recipient of the 2026 WWD Honor for Public Beauty Company of the Year."
+  },
+  {
+   "title": "Korean Brands Now Account for a Quarter of Skin Care VIT",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/medicube-cerave-skin-care-brands-k-beauty-1239381886/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-27",
+   "ai_summary": "Korean brands are responsible for about a quarter of online skin care buzz in the U.S. during the third quarter, according to Traackr data.",
+   "excerpt": "Data from Traackr shows that in the U.S., nearly one-fourth of online skin care buzz during the third quarter was driven by and about K-beauty brands."
+  },
+  {
+   "title": "Glossy+ Research: Brands’ holiday marketing tactics shift in 2026",
+   "url": "https://www.glossy.co/research/glossy-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "The Glossy+ Research report outlines how brands and retailers plan to adjust holiday marketing tactics in 2026, featuring insights from A-Frame Brands, Mastercard, and Ritual.",
+   "excerpt": "This is an excerpt from our Glossy+ Research report The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual, which found that brands and retailers plan to adjust the marketing tact…"
+  },
+  {
+   "title": "How QVC is building a flywheel across TikTok and TV ahead of the holidays",
+   "url": "https://www.glossy.co/fashion/how-qvc-is-building-a-flywheel-across-tiktok-and-tv-ahead-of-the-holidays/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-27",
+   "ai_summary": "QVC is preparing for its 40th holiday season by creating a flywheel that integrates TikTok shows, exclusive products, and mega live events.",
+   "excerpt": "From \"mega lives\" to TikTok shows to exclusive products, here's how QVC is gearing up for its 40th holiday season."
+  },
+  {
+   "title": "How Ben Bennett and The Center Are Shaping the Beauty Industry",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/ben-bennett-the-center-beauty-brands-1239379239/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-27",
+   "ai_summary": "How Ben Bennett and The Center Are Shaping the Beauty Industry — With three major exits in four years, the entrepreneur reflects on his decades-long career.",
+   "excerpt": "With three major exits in four years, the entrepreneur reflects on his decades-long career."
+  },
+  {
+   "title": "Curology Taps Dove Cameron to Create Nonprescription Skin Care Brand",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/dove-cameron-curology-skin-care-line-1239381828/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Curology Taps Dove Cameron to Create Nonprescription Skin Care Brand — The line will include three drops, starting with the first collection, Ethereal Glow, which is available now.",
+   "excerpt": "The line will include three drops, starting with the first collection, Ethereal Glow, which is available now."
+  },
+  {
+   "title": "Noel Deyzel's account suspension reignites debate over fragrance dupes",
+   "url": "https://www.premiumbeautynews.com/en/noel-deyzel-s-account-suspension,28418",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Noel Deyzel's account suspension and restoration have sparked renewed tensions between luxury perfume brands and content creators who promote cheaper alternatives.",
+   "excerpt": "The suspension and subsequent restoration of fragrance influencer Noel Deyzel's TikTok and Instagram accounts has reignited tensions between luxury perfume brands and content creators promoting cheaper alternatives. At t…"
+  },
   {
    "title": "The best vitamin a products Contain stabilised retinaldehyde using IconicA",
    "url": "https://www.cosmeticsbusiness.com/the-best-vitamin-a-products-contain-stabilised-retinaldehyde",
