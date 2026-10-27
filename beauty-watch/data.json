@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-27T16:42:00Z",
+ "updated": "2026-10-27T18:36:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Today’s buzz spans luxury fragrance launches, AI‑driven retail tactics, market shifts from GLP‑1 influence, and new tech partnerships reshaping beauty.",
+  "hook": "Today’s buzz centers on AI‑driven beauty tech, stricter sunscreen rules, and market shifts driven by GLP‑1 drugs and quick‑commerce strategies.",
   "categories": {
-   "📈 Market": "L’Oréal’s CEO highlighted GLP‑1 weight‑loss drugs as a key driver for skin‑care consumption, while Beiersdorf’s Nivea sales fell due to temporary sell‑in headwinds amid Middle East war concerns.",
-   "💄 Brands & Retail": "Burberry unveiled its Prorsum fragrance line, Ulta Beauty earned the 2026 WWD Honor for Public Beauty Company of the Year, and QVC is integrating TikTok shows and exclusive products for its 40th holiday season.",
-   "🤝 Strategy & M&A": "LipoTrue added three new actives at in‑cosmetics Asia 2026, and Willow acquired Swehl, appointing a new CEO, signaling continued consolidation in the sector.",
-   "💡 Innovation & Regulation": "Coty partnered with Brandlight to boost AI assistant visibility, while the Australian Therapeutic Goods Administration proposed stricter sunscreen rules to enhance SPF confidence."
+   "📈 Market": "L’Oréal CEO highlighted GLP‑1 drugs’ influence on skin‑care sales, underscoring a shift in consumer demand.",
+   "💄 Brands & Retail": "Ulta Beauty’s 2026 Public Beauty Company of the Year award and QVC’s TikTok‑powered holiday strategy signal a focus on digital engagement.",
+   "🤝 Strategy & M&A": "LipoTrue broadened its active portfolio at in‑cosmetics Asia 2026, while Willow’s acquisition of Swehl marks a notable move in the breast‑pump market.",
+   "💡 Innovation & Regulation": "Light‑filtering glass is reshaping clean‑beauty packaging, while new sunscreen regulations aim to boost SPF claim confidence."
   }
  },
  "articles": [
+  {
+   "title": "How Light Filtering Glass Is Reshaping Clean Beauty and Supplement Packaging - finchannel",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjgwdWltandnS01oTVk2cXcxSHpYODlqNmw2enNNUERIWnlFRXgtUDdwaFZtSWNrZzBCOUY0LTR0U25RYzF0QXl2emFjV09yTEpnWENfa044NS1GMDR1V1ZyVFYxQVdhaEszZTM1aXlkLVdKOVBfVUNHSEw0NTJuNElCUlI4R3M5SENfVjE1V01PRU9ueDU3ZzJ4a0NsMnlfeVd6clBvTjY1bXNBVVY5Z3AyaDdDWUZXMi1LQllFSkV1NndacUMzWnNieDg?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "How Light Filtering Glass Is Reshaping Clean Beauty and Supplement Packaging - finchannel — How Light Filtering Glass Is Reshaping Clean Beauty and Supplement Packaging finchannel",
+   "excerpt": "How Light Filtering Glass Is Reshaping Clean Beauty and Supplement Packaging finchannel"
+  },
+  {
+   "title": "SkinBench: six AI models saw skin problems that were not there",
+   "url": "https://www.cosmeticsbusiness.com/skinbench-six-ai-models-saw-skin-problems-that",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "SkinBench: six AI models saw skin problems that were not there — SkinBench, an AI skin analysis benchmark, shows where general-purpose models misread skin, and what beauty brands should test before trusting any vendor's results.",
+   "excerpt": "SkinBench, an AI skin analysis benchmark, shows where general-purpose models misread skin, and what beauty brands should test before trusting any vendor's results."
+  },
   {
    "title": "EXCLUSIVE: The Burberry Prorsum Collection of Fragrance Debuts",
    "url": "https://wwd.com/beauty-industry-news/fragrance/the-burberry-prorsum-collection-of-fragrance-debuts-1239387116/",
