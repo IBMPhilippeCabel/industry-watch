@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-27T14:43:00Z",
+ "updated": "2026-10-27T16:42:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Mars clears liability and faces a candy health showdown.",
+  "hook": "M&M’s celebrate National Chocolate Day with long‑lasting deals while the company clears liability from a peanut‑butter allergy lawsuit.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars won a lawsuit clearing liability over Peanut Butter M&M's.",
-   "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "Mars wins a lawsuit clearing liability over Peanut Butter M&M's, while a health comparison pits Reese's against Snickers, showing Reese's slightly lower calorie content.",
+   "🤝 Mars Corporate & M&A": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
+   "🐾 Petcare & Royal Canin": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
+   "🍫 Snacking & FMCG Market": "M&M’s National Chocolate Day deals run until Halloween and the company was cleared of liability in a peanut‑butter allergy lawsuit.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M’s Reveals National Chocolate Day Deals That Don’t Expire Until Halloween - Parade Magazine",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9senlKbmZSYVpYZFJmaFZETktLa1YyY04tS29NYy1UaEd5OTZYRWQ4SjJRbWlGXzZBOTlicGV5bkY2enlCMzBjbWlFRXpiX0U1U0FqRVNoajBDUndpQWhHNi1FVFp3YmhXRVgxeXppcjk4dzQ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-27",
+   "ai_summary": "M&M’s Reveals National Chocolate Day Deals That Don’t Expire Until Halloween",
+   "excerpt": "M&M’s Reveals National Chocolate Day Deals That Don’t Expire Until Halloween Parade Magazine"
+  },
   {
    "title": "Reese's Peanut Butter Cups Vs Snickers: Which Classic Candy Is Actually Healthier? - Tasting Table",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVNIdnFQd29uSzZhc2loYmRuS0VkczNGeUdBOUkwV1Z5YWNTaW8zOHRXSlJMYmFfbi1ZTllsTGdvd3AxYXhqdFFnQzN2N0VRQ0JqeFhKcWQ5c0VFalpxVkhwZXRaRVJXVzVZWWxEUnE0WXNFdl91ckxfd0lUV1lXUWJ2SmxFZFZ1WDVmcQ?oc=5",
@@ -822,6 +831,15 @@
    "date": "2026-10-14",
    "ai_summary": "A contest offers an urn and a 200-year chip supply for those who would be buried in a Pringles can.",
    "excerpt": "Would you be buried in a Pringles can? Contest offers urn, 200-year chip supply FOX 8 News"
+  },
+  {
+   "title": "Want to spend eternity in a Pringles can? You could win 200 years of chips - WFAA",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGxMdkJScEw1dU9pc2J2dV9uUnA0TzhCZ1Nicll6Rk41RFhSMkxkdHNRUkIxcW5TS2FyUFF0QkZiMEtjZDR0UEdfYndpTm1PNjBhLVFNVmVUOGcwWDViZWsxZGlPUnBiRnhTTzZmQ1FfWDFyRy1Ma0dkTkoyNXo2U1QtTDl6dHpQZ0ZEU1J5NGpOWG04Tl8tQ2VlTTVIY0lHaUktcFg3OXAzUGFWWXZ4TGJB?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-14",
+   "ai_summary": "Want to spend eternity in a Pringles can? You could win 200 years of chips",
+   "excerpt": "Want to spend eternity in a Pringles can? You could win 200 years of chips WFAA"
   },
   {
    "title": "P&G to Scale Smart, Touchless Supply Chain Optimizations",

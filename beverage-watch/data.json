@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-27T14:43:00Z",
+ "updated": "2026-10-27T16:42:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Heineken faces antitrust pressure while market moves hint at whiskey diversification and a bullish energy outlook.",
+  "hook": "Heineken faces legal and market challenges while the spirits market sees new protection and distribution moves.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken hit with a $124M antitrust judgment amid market scrutiny.",
-   "📈 Market": "Proposed Irish whiskey technical file amendments promise greater diversity, while a US judge rejects a bid to halt a potential Uncle Nearest sale.",
-   "🍸 Spirits & Premium": "Boston Beer CEO notes the spirits “ade” segment is a hot spot for activity.",
-   "🍺 Beer & Brewing": "No beer‑specific signal today.",
-   "💡 Innovation & No-Low": "Celsius CEO signals a bullish energy outlook and retail opportunity."
+   "🤝 Strategy & M&A": "Heineken faces an antitrust judgment and a warning to British pubs over weight loss drugs, while Absolut Vodka licensing expands through Haven Global.",
+   "📈 Market": "Maison Boinaud receives judicial protection and LMB secures an absinthe distribution deal in the UK, with new sherry and brandy distributor in Germany.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Heineken serves warning to British pubs over weight loss drugs - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHh6a3dpSXJmZWg2RGFYVDFvblFUV2dZV1N6emxIVFRlU2x3bXVUOE1zWGl0UW5DM2ZPYkZZeUJBWjA5TXk5RElnNUVQQzhyUWlXakxEd2JlNkFwQThET3B0a0FWWlNpTm9qTUpldGExazBYaVllNVJJM080MVhQSlZTLXd1XzA1U3NIRHNR?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Heineken serves warning to British pubs over weight loss drugs.",
+   "excerpt": "Heineken serves warning to British pubs over weight loss drugs Yahoo"
+  },
   {
    "title": "Heineken hit with $124M antitrust judgment - Business Insurance",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW5URVZlWnBZYS03OWNyT3RDNVpJSDRCdURqMExVUGFCRmtPT2FOUTMxMmllb29KUlMyY2poU0xFcGVmQ3ZONFhBOEN3QU11MTJwTThFWXdiQjU4S05mQU9FMlpiU2FCSkxFRlFoYVJQMk9BN19EN1BaQlk0Ym5QdzR3?oc=5",
@@ -21,6 +30,42 @@
    "date": "2026-10-27",
    "ai_summary": "Heineken hit with $124M antitrust judgment",
    "excerpt": "Heineken hit with $124M antitrust judgment Business Insurance"
+  },
+  {
+   "title": "Cognac maker Maison Boinaud granted judicial protection",
+   "url": "https://www.just-drinks.com/news/cognac-maker-maison-boinaud-granted-judicial-protection/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "Cognac maker Maison Boinaud granted judicial protection.",
+   "excerpt": "French Cognac house Maison Boinaud has been placed under judicial protection in a bid to restructure its debt."
+  },
+  {
+   "title": "LMB strikes absinthe distribution deal in UK",
+   "url": "https://www.just-drinks.com/news/lmb-absinthe-uk-distribution-deal/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "LMB strikes absinthe distribution deal in UK.",
+   "excerpt": "La Martiniquaise-Bardinet has secured UK distribution rights for French absinthe label La Fée."
+  },
+  {
+   "title": "González Byass picks new distributor for sherry, brandy in Germany",
+   "url": "https://www.just-drinks.com/news/gonzalez-byass-picks-new-distributor-in-germany/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "González Byass picks new distributor for sherry, brandy in Germany.",
+   "excerpt": "González Byass has named local wholesaler Schlumberger as its new distributor for some of the Spanish group's spirits and sherries."
+  },
+  {
+   "title": "Goldman Sachs, Houlihan Lokey top consumer M&A charts in Q1–Q3 – data",
+   "url": "https://www.just-drinks.com/news/top-consumer-ma-advisers-q1-2-26/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "Goldman Sachs, Houlihan Lokey top consumer M&A charts in Q1–Q3 – data.",
+   "excerpt": "Goldman Sachs and Houlihan Lokey were the leading financial advisers for consumer-sector M&A during the first nine months of 2026."
   },
   {
    "title": "US judge rejects bid to halt possible Uncle Nearest assets sale",
