@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-27T12:35:00Z",
+ "updated": "2026-10-27T14:43:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Celebrity launches, tech trends, and strategic moves shape today’s beauty landscape.",
+  "hook": "AI, regulation, and new launches keep the beauty market buzzing today.",
   "categories": {
-   "📈 Market": "Estée Lauder’s new communications head signals a social‑first push for its makeup brands.",
-   "💄 Brands & Retail": "Ulta Beauty’s 2026 award underscores its growing influence in specialty retail, while QVC’s TikTok‑driven holiday strategy highlights evolving consumer engagement.",
-   "🤝 Strategy & M&A": "L’Oréal’s focus on GLP‑1 impacts and quick commerce in India illustrates its adaptive strategy, and The Center’s acquisition of Boscia Skin Care blends tradition with modernity.",
-   "💡 Innovation & Regulation": "Jennifer Lawrence’s science‑driven hair brand, Philips’ beauty‑tech roadmap, and Fixderma’s targeted skincare innovation showcase the sector’s shift toward data‑backed, personalized solutions."
+   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 amid Middle East war concerns, while L’Oréal’s CEO highlighted GLP‑1 drugs boosting skin‑care demand.",
+   "💄 Brands & Retail": "Ulta Beauty wins 2026 WWD Public Beauty Company of the Year, Korean brands drive a quarter of U.S. online skin‑care buzz, and QVC plans a TikTok‑powered holiday flywheel.",
+   "🤝 Strategy & M&A": "LipoTrue expands with three marine‑plant actives at in‑cosmetics Asia, while Willow acquires Swehl and names a new CEO.",
+   "💡 Innovation & Regulation": "Three beauty tech trends emerge, Coty partners with Brandlight for AI visibility, Jennifer Lawrence launches biodesigned hair brand, Australia tightens sunscreen rules, Boots prioritises 2027 onboarding, and Drake drops a unisex fragrance."
   }
  },
  "articles": [
+  {
+   "title": "The three trends transforming beauty tech - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tRzJQQ2lkWFcybEQ2Tm80aFJjQ3lkLXBPSV9XdG5nTVlXNG5qQmFrWjJfeWhGbDRVZExNV3UxSWFNNEIxZUJRdUhpSWlaVFpNMy0weWFMeE0wLXVBcFptUkQxVWkxVHR2b2xFNXU3NWVjOHM5WHBqVUQ0SkhhUQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "The article discusses three trends that are transforming beauty technology, as highlighted by Personal Care Insights.",
+   "excerpt": "The three trends transforming beauty tech Personal Care Insights"
+  },
+  {
+   "title": "Coty partners with Brandlight to boost beauty brand presence across AI search and discovery",
+   "url": "https://www.cosmeticsbusiness.com/coty-partners-with-brandlight-to-boost-beauty-brand",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Coty partners with Brandlight to enhance its beauty brands’ visibility across AI assistants and generative search platforms.",
+   "excerpt": "The Rimmel London and Marc Jacobs Beauty owner is ramping up its focus on artificial intelligence (AI), partnering with AI platform Brandlight to boost the presence of its beauty brands across AI assistants and generativ…"
+  },
+  {
+   "title": "Jennifer Lawrence launches hair care brand mes° – everything we know so far",
+   "url": "https://www.cosmeticsbusiness.com/jennifer-lawrence-launches-hair-care-brand-mes",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Jennifer Lawrence launches the biodesigned hair care brand mes° in collaboration with Jasmina Aganovic, with details revealed by Cosmetics Business.",
+   "excerpt": "Hunger Games actress Jennifer Lawrence has teamed up with Arcaea’s Jasmina Aganovic to launch biodesigned hair care brand mes°. Cosmetics Business reveals all you need to know about the newly launched celebrity hair care…"
+  },
+  {
+   "title": "Australia plots tougher sunscreen regulation",
+   "url": "https://www.cosmeticsbusiness.com/australia-tougher-sunscreen-regulation-tga-spf-claims",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "The Australian Therapeutic Goods Administration proposes stricter sunscreen regulations to boost consumer confidence in SPF claims.",
+   "excerpt": "The Therapeutic Goods Administration (TGA) has proposed reforms to sunscreen regulation in Australia to improve consumer confidence in SPF claims"
+  },
+  {
+   "title": "What beauty buyers from UK retailers Boots and Lookfantastic are looking for in 2027",
+   "url": "https://www.cosmeticsbusiness.com/what-beauty-buyers-from-uk-retailers-want-2027",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "UK retailers Boots and Lookfantastic outline their 2027 brand onboarding priorities, focusing on trends, categories, ingredients, and formats.",
+   "excerpt": "The brains behind some of the UK’s biggest beauty retailers reveal what they are looking for when onboarding new brands in 2027, covering the trends, categories, ingredients and formats they will be investing in"
+  },
+  {
+   "title": "Nivea sales drag down Beiersdorf in Q3 2026 amid Middle East war concerns",
+   "url": "https://www.cosmeticsbusiness.com/nivea-sales-drag-down-beiersdorf-in-q3-2026",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "Beiersdorf’s Nivea sales decline in Q3 2026 due to temporary sell‑in headwinds amid Middle East war concerns.",
+   "excerpt": "Beiersdorf’s hero skin care brand Nivea was impacted by temporary sell-in headwinds, which resulted in group net sales declining 1.3% to €2.4bn"
+  },
+  {
+   "title": "Drake launches new fragrance Dosayado to celebrate 40th birthday",
+   "url": "https://www.cosmeticsbusiness.com/drake-launches-new-fragrance-dosayado-to-celebrate-40th-birthday",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Drake releases the unisex fragrance Dosayado, created with Better World Fragrance House and his Canadian lifestyle brand, October's Very Own.",
+   "excerpt": "The new Dosayado unisex fragrance was created by Better World Fragrance House in collaboration with rapper Drake’s Canadian lifestyle brand, record label and entertainment group, October's Very Own"
+  },
+  {
+   "title": "Sephora unveils Seth Rogen as 2026 holiday campaign star following ‘Sethphora’ marketing stunt",
+   "url": "https://www.cosmeticsbusiness.com/sephora-unveils-seth-rogen-as-2026-holiday-campaign-star",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Sephora US and Canada partners with comedic actor Seth Rogen for its 2026 ‘We All Sephora’ Christmas campaign, following a recent guerrilla marketing stunt that aimed to make beauty gifting more approachable.",
+   "excerpt": "Sephora US and Canada has partnered with comedic actor Seth Rogen on its 2026 ‘We All Sephora’ Christmas campaign following the retailer’s recent guerrilla marketing stunt, aiming to make beauty gifting ‘more approachabl…"
+  },
   {
    "title": "Beauty Briefing: Jennifer Lawrence steps into the celebrity beauty arena",
    "url": "https://www.glossy.co/beauty/beauty-briefing-jennifer-lawrence-steps-into-the-celebrity-beauty-arena/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -20,6 +92,15 @@
    "date": "2026-10-27",
    "ai_summary": "The article covers Jennifer Lawrence’s entry into the celebrity beauty market, Dove’s expansion into fine fragrance, and a new brand addition by The Center.",
    "excerpt": "This week, I checked in on how Jennifer Lawrence’s new hair-care brand stacks up in an uneven celebrity beauty market. Additionally, Dove expands into fine fragrance, and The Center adds a new brand to its portfolio."
+  },
+  {
+   "title": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme",
+   "url": "https://www.cosmeticsbusiness.com/lipotrue-introduces-three-new-biotechnological-actives-glintarine-red",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "LipoTrue expands its portfolio at in-cosmetics Asia 2026 with three new actives—Glintarine, Red Aternaliss and Kalizyme—combining marine biotechnology, plant-based technologies and biomimetic science to address skin concerns.",
+   "excerpt": "At in-cosmetics Asia 2026, LipoTrue expands its portfolio with Glintarine, Red Aternaliss and Kalizyme, three new actives combining marine biotechnology, plant-based technologies and biomimetic science to address skin ra…"
   },
   {
    "title": "EXCLUSIVE: Breast Pump Maker Willow Acquires Swehl, Momtech",

@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-27T12:35:00Z",
+ "updated": "2026-10-27T14:43:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Pet food market sees steady growth, new packaging event, and a notable acquisition as brands focus on cat nutrition and premium segments.",
+  "hook": "Pet food industry sees safety focus, growth in cat nutrition, and new US manufacturing capacity amid steady market expansion.",
   "categories": {
-   "📈 Market": "Pet food sales continue to rise, with the biggest opportunities coming from cat nutrition, premium products and younger consumers, as seen in Nestlé’s Q3 growth and Brazil’s new eating‑occasion strategy.",
-   "⚖️ Regulation": "Mars reports that consumers are not skimping on their pets, indicating a willingness to spend more on pet care.",
-   "💡 Innovation": "Vital Essentials launches single‑ingredient freeze‑dried salmon treats to meet rising demand for diverse protein options.",
-   "🤝 M&A": "i‑Tail expands its US manufacturing footprint by acquiring Phelps Pet Products."
+   "📈 Market": "Pet food sales rise, especially in cat nutrition and premium products, with Brazil exploring new eating occasions and Nestlé Petcare posting organic growth.",
+   "⚖️ Regulation": "Tractor Supply’s pet business grew 5% in Q3, while Mars notes consumers continue to invest in pet care.",
+   "💡 Innovation": "New product launches include Vital Essentials freeze‑dried salmon treats and JustFoodforDogs Thanksgiving Feast, while Zooplus expands its Spanish marketplace.",
+   "🤝 M&A": "i‑Tail acquires Phelps Pet Products to add US manufacturing capacity, and pet food makers boost investment in safety and quality controls."
   }
  },
  "articles": [
+  {
+   "title": "Analysis: Pet food makers step up in quality assurance and food safety",
+   "url": "https://globalpetindustry.com/news/analysis-pet-food-makers-step-up-in-quality-assurance-and-food-safety/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Pet food makers are increasing investment in food safety and quality controls, focusing on traceability, testing, and operational improvements across the industry.",
+   "excerpt": "Food safety and quality controls are attracting greater investment across the food and beverage industry, with manufacturers allocating more resources to traceability, testing and operational improvements. A 2026 report …"
+  },
+  {
+   "title": "Tractor Supply’s pet business grows 5% in Q3 as sales trends improve",
+   "url": "https://globalpetindustry.com/news/tractor-supplys-pet-business-grows-5-in-q3-as-sales-trends-improve/",
+   "source": "Global Pet Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Tractor Supply’s pet business experienced a 5% growth in Q3, reflecting improved sales trends for the company.",
+   "excerpt": "Tractor Supply’s net sales rose 5.1% year on year (YoY) to $3.91 billion (€3.40B) in the third quarter (Q3) of fiscal year (FY) 2026, ended 26 September. For Hal Lawton, President and Chief Executive Officer of Tractor S…"
+  },
   {
    "title": "PFI announces board officers for 2027-28",
    "url": "https://www.petfoodprocessing.net/articles/21024-pfi-announces-board-officers-for-2027-28",

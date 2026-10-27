@@ -1,18 +1,63 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-27T12:35:00Z",
+ "updated": "2026-10-27T14:43:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Heineken dominates the day with new streaming, Gen Z insights and market outlooks while Irish whiskey rules shift.",
+  "hook": "Heineken faces antitrust pressure while market moves hint at whiskey diversification and a bullish energy outlook.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken partners with Amazon for a streaming service and sees slight upside in Q3 volume growth.",
-   "📈 Market": "Irish whiskey technical file amendments promise more diversity, while India probes bulk Scotch, Boston Beer highlights action in the spirits ‘ade’ segment, and Celsius sees a bullish US retail opportunity.",
-   "🍸 Spirits & Premium": "Boston Beer CEO notes the spirits ‘ade’ segment is a hot spot of activity.",
-   "🍺 Beer & Brewing": "Heineken reports Gen Z is not leaving bars but has high expectations, and warns GLP‑1 drugs could curb beer sales in bars.",
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Heineken hit with a $124M antitrust judgment amid market scrutiny.",
+   "📈 Market": "Proposed Irish whiskey technical file amendments promise greater diversity, while a US judge rejects a bid to halt a potential Uncle Nearest sale.",
+   "🍸 Spirits & Premium": "Boston Beer CEO notes the spirits “ade” segment is a hot spot for activity.",
+   "🍺 Beer & Brewing": "No beer‑specific signal today.",
+   "💡 Innovation & No-Low": "Celsius CEO signals a bullish energy outlook and retail opportunity."
   }
  },
  "articles": [
+  {
+   "title": "Heineken hit with $124M antitrust judgment - Business Insurance",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW5URVZlWnBZYS03OWNyT3RDNVpJSDRCdURqMExVUGFCRmtPT2FOUTMxMmllb29KUlMyY2poU0xFcGVmQ3ZONFhBOEN3QU11MTJwTThFWXdiQjU4S05mQU9FMlpiU2FCSkxFRlFoYVJQMk9BN19EN1BaQlk0Ym5QdzR3?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Heineken hit with $124M antitrust judgment",
+   "excerpt": "Heineken hit with $124M antitrust judgment Business Insurance"
+  },
+  {
+   "title": "US judge rejects bid to halt possible Uncle Nearest assets sale",
+   "url": "https://www.just-drinks.com/news/us-judge-rejects-bid-to-halt-possible-uncle-nearest-assets-sale/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "US judge rejects bid to halt possible Uncle Nearest assets sale",
+   "excerpt": "A judge in the US has rejected an attempt by Uncle Nearest's former CEO to halt the potential sale of most of the whiskey business' assets."
+  },
+  {
+   "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path - Bitcoin Magazine",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYk1VSEFUMFVLbmRvRV9zZ29KVUVoX3FaMFBWRW1idFVUemozNVZsa1FmSkdrZk9zNVVITzU5T0c5bWtHbVBmd1pUclFpQ3d5azVWN29YR2JfalZHcXVCcVJYWW53WFBOWGJiQUV6X3FJbGZ0UUQzVklheVp0aFhMNkx4NzhYdi1kTXhoczJHb2FNLTExX2dFTFVMeVpRY0gyMkx2dDE3Zw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path",
+   "excerpt": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path Bitcoin Magazine"
+  },
+  {
+   "title": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing - Total Licensing",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWFjVkNjNlU2cUQ5QTZjaHRKV3BiMEFqQVFHT0x6ZTI1OXJvRnFaem5qSnpXTDdYMDBWQzM4RzViX2Vvd2JIbDJvYjNzSk9fV1FXQ1JnMWpOeFMwaG83UURIRjJmRm9yUVpod1kwWWgxNWoxaktOYWZRTUVfb20xVWQ1X3U3RjRrZVJjS1YzWHVtdWZQTjdFSFV4cHBiY2hjb3NmaUxUZEZhbWJ2dTZHOGRuUW1WT3dZ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing",
+   "excerpt": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing Total Licensing"
+  },
+  {
+   "title": "Grades: Lions earn early season statement win over division rival - Macomb Daily",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURFWG5wTnBHZk9PYXc3TXdoOFMyanZsMk96YmZDRVRNdmVnbmJVbXNfb0lLeXJBdFRvVHRZcUd0c2k3Zmw3U3NMNWZ5RFhyVUgxYVdQcXF6REZwRFFPd2ZPWnUzXzJnSV80UkhSRGZyUnRMOWlBNkxFVzZkbWdzb21BU29JbjlEZ3dqT3NIVU5ndkJPOUZxZ0k3cnVFMnJsMUtBeHo4dw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Grades: Lions earn early season statement win over division rival",
+   "excerpt": "Grades: Lions earn early season statement win over division rival Macomb Daily"
+  },
   {
    "title": "Rules protect Irish whiskey – but flexibility offers category benefits",
    "url": "https://www.just-drinks.com/comment/rules-protect-irish-whiskey-but-flexibility-offers-benefits/",
