@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-27T18:36:00Z",
+ "updated": "2026-10-27T20:31:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Heineken faces legal and market challenges while the spirits market sees new protection and distribution moves.",
+  "hook": "Heineken expands digital reach while facing antitrust scrutiny, and whiskey tourism grows amid regulatory tweaks.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken faces an antitrust judgment and a warning to British pubs over weight loss drugs, while Absolut Vodka licensing expands through Haven Global.",
-   "📈 Market": "Maison Boinaud receives judicial protection and LMB secures an absinthe distribution deal in the UK, with new sherry and brandy distributor in Germany.",
+   "🤝 Strategy & M&A": "Heineken partners with Amazon for on‑premise streaming, while a $124 M antitrust judgment looms and Absolut licensing expands through Haven Global.",
+   "📈 Market": "Maison Boinaud gains judicial protection, while absinthe and sherry distribution deals expand in the UK and Germany, and a judge rejects a sale of Uncle Nearest assets amid Irish whiskey technical file amendments.",
    "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
    "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Heineken partners with Amazon for on-premise ‘streaming service’ - Global Drinks Intel",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEZqRFRvekw5YS1BMlNfWXRabzNpcndFa0pJR3JISkxZTVF5OU9BcmVicTRSU2xkVzRtbHM1SWsyTkdEZU5QWkhoUUVacE1ySXlPb0VSeHlJSjJGaXNLQy1wbXlHU1JEZEhHMEs4YTlqRnV5eVlWWGR1Z0RJU0dZSUhMMVB4dDgwRzF4cVVoeXFPWHB6b2pTdQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Heineken partners with Amazon for on-premise ‘streaming service’",
+   "excerpt": "Heineken partners with Amazon for on-premise ‘streaming service’ Global Drinks Intel"
+  },
+  {
+   "title": "Why Whiskey Tourism Is Booming at Irish Distilleries - Robb Report",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGtmc2YwaTFBRURycUY1Rng1clBQSFdsWWYtNVRtZEcyQkR3XzdQLXVvbGZPYjFiYmhvZnFpdGVhVVNIeHhKa3A3akh3NlVGRWFUVW9McFl0YjFOZllHRzZJNnlQLUo3ZnZtUGwzTjRJbU5EcnI5ZjdKT0lJSlVpN0VBRHN0RHJVVkRuUXJaZWlKcWxWUHNrUC1sNm0xV2RqUUREa2RoNjA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "Why Whiskey Tourism Is Booming at Irish Distilleries",
+   "excerpt": "Why Whiskey Tourism Is Booming at Irish Distilleries Robb Report"
+  },
   {
    "title": "Heineken serves warning to British pubs over weight loss drugs - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHh6a3dpSXJmZWg2RGFYVDFvblFUV2dZV1N6emxIVFRlU2x3bXVUOE1zWGl0UW5DM2ZPYkZZeUJBWjA5TXk5RElnNUVQQzhyUWlXakxEd2JlNkFwQThET3B0a0FWWlNpTm9qTUpldGExazBYaVllNVJJM080MVhQSlZTLXd1XzA1U3NIRHNR?oc=5",
