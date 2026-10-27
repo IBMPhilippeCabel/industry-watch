@@ -1,13 +1,13 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-27T04:29:00Z",
+ "updated": "2026-10-27T06:35:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Mars Corp sees pet food donation and snack litigation clearance amid marketing pushes.",
+  "hook": "Mars Corp highlights community outreach, legal clearance, and marketing pushes amid a busy day.",
   "categories": {
    "🤝 Mars Corporate & M&A": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
-   "🐾 Petcare & Royal Canin": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
-   "🍫 Snacking & FMCG Market": "Mars cleared of liability in the Peanut Butter M&M's allergy lawsuit while Pringles partners with Movember to promote awareness.",
+   "🐾 Petcare & Royal Canin": null,
+   "🍫 Snacking & FMCG Market": "Mars won a legal clearance in the Peanut Butter M&M's allergy lawsuit while Pringles teamed with Movember to launch a campaign in Australia.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
@@ -885,6 +885,15 @@
    "date": "2026-10-12",
    "ai_summary": "During General Mills’ Q1 2027 earnings call last month, COO Dana McNabb described the manufacturer’s stronger foundation this year after it brought more value to consumers by adjusting base prices last year.",
    "excerpt": "During General Mills’ Q1 2027 earnings call last month, COO Dana McNabb described the manufacturer’s stronger foundation this year after it brought more value to consumers by adjusting base prices last year."
+  },
+  {
+   "title": "The company behind Skittles might be to blame for your big vet bills - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUQ1eFFTVVB2VzlKek00NnhWZ3NwMzVTb3ItOVpWWXZEaFMwWHFhOWpzUUdyYTBiUG5nLUVLN2dZcWVOQzFROVZtWGlSTWxkYldLbHpEc0hablJvQks5cTBsbllPd1ZXZURvUS01ZjNTUXJfUUxVa3BUT3Q2QzhqZXVkcF83M3c3U3dNNkg3V0Y1a2tPX3NDZzVQRTE?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-11",
+   "ai_summary": "The article discusses potential liability of the Skittles manufacturer for veterinary expenses. It examines how the company’s products could be linked to animal health issues.",
+   "excerpt": "The company behind Skittles might be to blame for your big vet bills Yahoo Finance"
   },
   {
    "title": "Coca-Cola, Molson Coors, Keurig Dr Pepper, Ocean Spray, Others Shake Up Executive Ranks to Accelerate Growth",

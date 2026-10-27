@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-27T04:29:00Z",
+ "updated": "2026-10-27T06:35:00Z",
  "briefing": {
-  "date": "2026-10-26",
-  "hook": "L’Oréal’s Q3 sales surge amid GLP‑1 drug buzz, legal challenges, and AI‑driven growth prospects.",
+  "date": "2026-10-27",
+  "hook": "L’Oréal navigates legal challenges, AI gains, and GLP‑1 driven market shifts amid strong Q3 performance.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal faces a Minnesota lawsuit over hair relaxers while its Q3 results show travel retail rebound and a CEO linking GLP‑1 drugs to skin‑care demand.",
-   "💄 Brands & Launches": "Marianela Nuñez headlines L’Oréal Paris’s new partnership with the Royal Ballet and Opera.",
-   "💡 Beauty Tech & ESG": "Market Talk notes L’Oréal will benefit from AI capabilities.",
-   "📈 Market": "The company’s third‑quarter sales rose double‑digits, driven by strong demand across all divisions and regions, including China."
+   "🤝 Strategy & M&A": "L’Oréal faces a Minnesota lawsuit over hair relaxers while its CEO highlights GLP‑1 weight‑loss drugs as a key driver of skin‑care sales, and the group reports strong Q3 growth.",
+   "💄 Brands & Launches": "Marianela Nuñez is the new face of L’Oréal Paris and partners with the Royal Ballet and Opera for the Gramilano beauty collaboration.",
+   "💡 Beauty Tech & ESG": "Berenberg notes early signs of AI dominance in L’Oréal’s Q3 results, raising its price target, and Market Talk on Moomoo expects AI to benefit the group.",
+   "📈 Market": "The CEO says GLP‑1 weight‑loss drugs are a very important phenomenon for cosmetics, influencing skin‑care consumption."
   }
  },
  "articles": [
@@ -83,6 +83,15 @@
    "date": "2026-10-26",
    "ai_summary": "Arizona Sues L’Oréal Over Alleged Cancer Risks in Hair Relaxers.",
    "excerpt": "Arizona Sues L’Oréal Over Alleged Cancer Risks in Hair Relaxers LawyersandSettlements.com"
+  },
+  {
+   "title": "Berenberg Highlights L'Oréal's Q3 Beat, Early Signs of AI 'Dominance'; Price Target Up - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWUtbjQxUjVNUzB0bF9kekVZanVGS2xoNVpUbFdTNEd5WnAzVzlZTE00THowenNqNFBmRGRTRklLU1F5TGVyNkJnS3pNU2Vud2FGbHlTcUFWaUk5ZjBaSHhLMkw1bzdBc3BNUFJuYTlpbDd3QTlUb2h0aXZDendlX0NkcEZsYTM1X29UTnkxMFVhUUJlbUhFbWc4anl5QXphaDJYS3YxRGlJRUkta3pUeWtNcUFTWTc4djN1LXZnRDd0WFJBUHhzTkNDMklDMjJZ?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-10-26",
+   "ai_summary": "Berenberg highlights L'Oréal's Q3 beat and early signs of AI dominance. Price target is increased.",
+   "excerpt": "Berenberg Highlights L'Oréal's Q3 Beat, Early Signs of AI 'Dominance'; Price Target Up marketscreener.com"
   },
   {
    "title": "Berenberg Sees L’Oréal Pulling Ahead In AI Beauty Search - Finimize",
