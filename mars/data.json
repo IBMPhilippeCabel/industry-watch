@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-27T10:32:00Z",
+ "updated": "2026-10-27T12:35:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Mars continues to expand its reach through philanthropy and legal wins, while snack brands rally for social causes.",
+  "hook": "Mars clears liability and faces a candy health showdown.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
+   "🤝 Mars Corporate & M&A": "Mars won a lawsuit clearing liability over Peanut Butter M&M's.",
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "Mars won a legal victory clearing liability over Peanut Butter M&M's, while Pringles and Movember launch a campaign to encourage Aussie conversations.",
+   "🍫 Snacking & FMCG Market": "Mars wins a lawsuit clearing liability over Peanut Butter M&M's, while a health comparison pits Reese's against Snickers, showing Reese's slightly lower calorie content.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "Reese's Peanut Butter Cups Vs Snickers: Which Classic Candy Is Actually Healthier? - Tasting Table",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVNIdnFQd29uSzZhc2loYmRuS0VkczNGeUdBOUkwV1Z5YWNTaW8zOHRXSlJMYmFfbi1ZTllsTGdvd3AxYXhqdFFnQzN2N0VRQ0JqeFhKcWQ5c0VFalpxVkhwZXRaRVJXVzVZWWxEUnE0WXNFdl91ckxfd0lUV1lXUWJ2SmxFZFZ1WDVmcQ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-27",
+   "ai_summary": "Reese's Peanut Butter Cups Vs Snickers: Which Classic Candy Is Actually Healthier? explores the nutritional differences between the two popular candy bars. The article compares ingredients, calorie content, and overall health impact to determine which option is the better choice.",
+   "excerpt": "Reese's Peanut Butter Cups Vs Snickers: Which Classic Candy Is Actually Healthier? Tasting Table"
+  },
   {
    "title": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day - 파이낸셜뉴스",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMEcwX0VXVlNvZUxzQnhjUjBqbllkbmFUM0ZaTU9Vam5mNy1BWW1tU2x1Q05DajVIOUxZaEgxbjAyQ0hNYXd6LVdSZnFlWFJ6ZEJic3Zkdjc?oc=5",

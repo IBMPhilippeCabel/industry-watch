@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-27T10:32:00Z",
+ "updated": "2026-10-27T12:35:00Z",
  "briefing": {
   "date": "2026-10-27",
-  "hook": "Today’s pet‑food news highlights a mix of charitable initiatives, product innovation, market growth, regulatory concerns, and a new acquisition.",
+  "hook": "Pet food market sees steady growth, new packaging event, and a notable acquisition as brands focus on cat nutrition and premium segments.",
   "categories": {
-   "📈 Market": "Brazil’s pet‑food sector shifts focus to new eating occasions while Nestlé Petcare reports 5.3% organic growth and the U.S. market sees a surge in Halloween pet‑costume spending.",
-   "⚖️ Regulation": "Mars reports that consumers are willing to spend more on their pets, indicating a shift in purchasing priorities.",
-   "💡 Innovation": "Royal Canin Korea donates 8 tons of food, Hill’s opens a small‑breed innovation center, Vital Essentials launches freeze‑dried salmon treats, and Zooplus expands its marketplace in Spain.",
-   "🤝 M&A": "i‑Tail acquires Phelps Pet Products, adding U.S. manufacturing capacity to its Thai operations."
+   "📈 Market": "Pet food sales continue to rise, with the biggest opportunities coming from cat nutrition, premium products and younger consumers, as seen in Nestlé’s Q3 growth and Brazil’s new eating‑occasion strategy.",
+   "⚖️ Regulation": "Mars reports that consumers are not skimping on their pets, indicating a willingness to spend more on pet care.",
+   "💡 Innovation": "Vital Essentials launches single‑ingredient freeze‑dried salmon treats to meet rising demand for diverse protein options.",
+   "🤝 M&A": "i‑Tail expands its US manufacturing footprint by acquiring Phelps Pet Products."
   }
  },
  "articles": [
+  {
+   "title": "PFI announces board officers for 2027-28",
+   "url": "https://www.petfoodprocessing.net/articles/21024-pfi-announces-board-officers-for-2027-28",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "PFI announces board officers for 2027-28 — Wellness Pet Company CEO Reed Howlett will serve as chair.",
+   "excerpt": "Wellness Pet Company CEO Reed Howlett will serve as chair."
+  },
+  {
+   "title": "PACK EXPO celebrates 70 years",
+   "url": "https://www.petfoodprocessing.net/articles/21023-pack-expo-celebrates-70-years",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "PACK EXPO celebrates 70 years — The packaging and processing trade show marked its largest event in its history.",
+   "excerpt": "The packaging and processing trade show marked its largest event in its history."
+  },
+  {
+   "title": "Selective growth: State of the pet food, treat industry in 2026",
+   "url": "https://www.petfoodprocessing.net/articles/21022-selective-growth-state-of-the-pet-food-treat-industry-in-2026",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-27",
+   "ai_summary": "Selective growth: State of the pet food, treat industry in 2026 — Pet food sales continue to rise, with the biggest opportunities from cat nutrition, premium products and younger consumers.",
+   "excerpt": "Pet food sales continue to rise, with the biggest opportunities from cat nutrition, premium products and younger consumers."
+  },
   {
    "title": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day - 파이낸셜뉴스",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMEcwX0VXVlNvZUxzQnhjUjBqbllkbmFUM0ZaTU9Vam5mNy1BWW1tU2x1Q05DajVIOUxZaEgxbjAyQ0hNYXd6LVdSZnFlWFJ6ZEJic3Zkdjc?oc=5",
