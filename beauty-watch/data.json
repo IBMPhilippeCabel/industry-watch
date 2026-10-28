@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-28T14:47:00Z",
+ "updated": "2026-10-28T16:43:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "New colorways, strategic growth plans, and tech‑driven beauty collaborations dominate today’s market buzz.",
+  "hook": "Innovation, market shifts, and strategic moves shape the beauty landscape today.",
   "categories": {
-   "📈 Market": "Unilever’s body care brands drove double‑digit growth, prompting a full‑year outlook upgrade, while Beiersdorf’s mixed Q3 results show strong Derma and La Prairie gains offset by Nivea sell‑in headwinds.",
-   "💄 Brands & Retail": "Ulta Beauty earned the 2026 WWD Public Beauty Company of the Year award, and QVC is launching a TikTok‑integrated flywheel for its 40th holiday season.",
-   "🤝 Strategy & M&A": "Puig’s Vision 2032 strategy targets €8 billion in revenue, and L’Oréal’s CEO highlighted GLP‑1’s impact on skincare sales.",
-   "💡 Innovation & Regulation": "Fenty Beauty partners with Casetify to launch a limited‑edition phone accessories line, blending wearable tech with makeup branding."
+   "📈 Market": "Unilever’s body care brands drove double‑digit growth, prompting a full‑year outlook upgrade.",
+   "💄 Brands & Retail": "Ulta Beauty earned the 2026 WWD Honor for Public Beauty Company of the Year, underscoring its sector impact.",
+   "🤝 Strategy & M&A": "Puig’s Vision 2032 strategy targets €8 billion revenue, while LipoTrue expands with new actives at in‑cosmetics Asia 2026.",
+   "💡 Innovation & Regulation": "Packaging Innovations & Empack 2027 opens registration in Birmingham, aiming to translate scalable solutions into action for brands and manufacturers."
   }
  },
  "articles": [
+  {
+   "title": "Packaging Innovations & Empack 2027",
+   "url": "https://www.cosmeticsbusiness.com/packaging-innovations-empack-2027",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Packaging Innovations & Empack 2027 will be held in Birmingham, UK on 24-25 February 2027.",
+   "excerpt": "24 - 25 February 2027 | Birmingham, UK"
+  },
+  {
+   "title": "Packaging Innovations & Empack 2027 opens registration with focus on turning innovation into action",
+   "url": "https://www.cosmeticsbusiness.com/packaging-innovations-empack-2027-opens-registration-with",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Packaging Innovations & Empack 2027 opens registration with a focus on turning innovation into action, aiming to help brands and manufacturers implement scalable solutions.",
+   "excerpt": "The UK packaging and processing community will return to the NEC Birmingham on 24 & 25 February, with a renewed focus on helping brands and manufacturers turn promising ideas into practical, scalable solutions"
+  },
+  {
+   "title": "Head & Shoulders heads back to school with Derma X Pro Scalp School pop-up",
+   "url": "https://www.cosmeticsbusiness.com/head-shoulders-scalp-school-pop-up",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "Head & Shoulders will run a two-day Derma X Pro Scalp School pop-up in London, UK, to educate consumers about healthy scalp science.",
+   "excerpt": "Head & Shoulders’ two-day Derma X Pro Scalp School pop-up in London, UK, will educate consumers about the science behind healthy scalps"
+  },
+  {
+   "title": "The 2026 Autumn Budget falls short of supporting young beauty workers",
+   "url": "https://www.cosmeticsbusiness.com/2026-autumn-budget-falls-short-supporting-young-staff",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "The 2026 Autumn Budget announces increases in Small Business Rates Relief and the National Living Wage, but questions remain about its adequacy for supporting youth employment in the beauty sector.",
+   "excerpt": "The Autumn Budget has been unveiled for 2026, setting out an increase in Small Business Rates Relief and hikes in the National Living Wage. But does it go far enough in supporting youth employment? Cosmetics Business rev…"
+  },
   {
    "title": "Shark Beauty and actor Kevin Hart co-design limited edition CryoGlow LED Mask",
    "url": "https://www.cosmeticsbusiness.com/shark-beauty-kevin-hart-co-design-cryoglow",
