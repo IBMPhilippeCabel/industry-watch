@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-28T02:39:00Z",
+ "updated": "2026-10-28T04:37:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Today’s highlights span regulatory scrutiny, AI skin analysis, and strategic expansions in the beauty sector.",
+  "hook": "Today’s beauty landscape blends legacy launches, AI misreads, and strategic pivots across brands, markets, and innovation.",
   "categories": {
-   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 amid Middle East war concerns, while Estée Lauder’s new communications director signals a social‑first approach for its makeup brands.",
-   "💄 Brands & Retail": "Ulta Beauty earned the 2026 WWD Public Beauty Company of the Year award, and QVC is gearing up for its 40th holiday season with TikTok‑powered live events.",
-   "🤝 Strategy & M&A": "LipoTrue broadened its active portfolio at in‑cosmetics Asia 2026, and L’Oréal sharpened its India strategy with quick commerce and local content.",
-   "💡 Innovation & Regulation": "Regulators were alerted after a wellness brand declined NAD inquiries over performance claims, and SkinBench revealed AI models misreading skin conditions, urging brands to validate before deployment."
+   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 amid Middle East war concerns, highlighting temporary sell‑in headwinds.",
+   "💄 Brands & Retail": "Guerlain’s Patricia de Nicolaï expands Nicolaï Paris to Neiman Marcus, Ulta wins 2026 WWD Public Beauty Company of the Year, and Korean brands drive a quarter of U.S. online skin‑care buzz.",
+   "🤝 Strategy & M&A": "LipoTrue broadened its portfolio at in‑cosmetics Asia 2026 with three new actives blending marine, plant‑based, and biomimetic science.",
+   "💡 Innovation & Regulation": "SkinBench AI models misidentified skin issues, revealing gaps that beauty brands must address before trusting vendor results."
   }
  },
  "articles": [
+  {
+   "title": "For Guerlain Descendant Patricia de Nicolaï, Perfume Isn’t Just About Legacy — It’s About Freedom",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/guerlain-patricia-de-nicolai-scentxplore-niche-fragrance-1239387515/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-28",
+   "ai_summary": "For Guerlain Descendant Patricia de Nicolaï, Perfume Isn’t Just About Legacy — It’s About Freedom — The perfumer, who is expanding her eponymous brand Nicolaï Paris into Neiman Marcus this fall, is ScentXplore's 2026 Lifetime Achievement Award honoree.",
+   "excerpt": "The perfumer, who is expanding her eponymous brand Nicolaï Paris into Neiman Marcus this fall, is ScentXplore's 2026 Lifetime Achievement Award honoree."
+  },
+  {
+   "title": "Can Intake turn optimized breathing into a wellness status symbol? Camino Partners is betting on it",
+   "url": "https://www.glossy.co/beauty/wellness/can-intake-turn-optimized-breathing-into-a-wellness-status-symbol-camino-partners-is-betting-on-it/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Can Intake turn optimized breathing into a wellness status symbol? Camino Partners is betting on it — For the Wellness Briefing, Glossy sat down with Elle Lanning, president of private equity firm Camino Partners, and Alex Huack, CEO of Intake Breathing, to learn about Camino’s $62 million bet on optimized breathing. Add…",
+   "excerpt": "For the Wellness Briefing, Glossy sat down with Elle Lanning, president of private equity firm Camino Partners, and Alex Huack, CEO of Intake Breathing, to learn about Camino’s $62 million bet on optimized breathing. Add…"
+  },
   {
    "title": "HigherDose Advertising Claims Referred to Regulators After Noncompliance With NAD Inquiries",
    "url": "https://wwd.com/beauty-industry-news/wellness/higherdose-advertising-claims-referred-to-regulators-1239388176/",
