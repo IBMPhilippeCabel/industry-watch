@@ -5,7 +5,25 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-10-28T08:44:00Z</updated>
+  <updated>2026-10-28T10:39:00Z</updated>
+  <entry>
+    <title>Symrise: pet food growth remains in the low single digits in Q3</title>
+    <id>https://globalpetindustry.com/news/symrise-pet-food-growth-remains-in-the-low-single-digits-in-q3/</id>
+    <link href="https://globalpetindustry.com/news/symrise-pet-food-growth-remains-in-the-low-single-digits-in-q3/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="📈 Market"/>
+    <author><name>Global Pet Industry</name></author>
+    <summary>Symrise’s pet portfolio achieved low‑single‑digit organic sales growth in Q3 2026, driven by positive volume development in its palatability and nutrition businesses.</summary>
+  </entry>
+  <entry>
+    <title>Clean label, B Corp: Pet companies gain new sustainability credentials</title>
+    <id>https://globalpetindustry.com/news/clean-label-b-corp-pet-companies-gain-new-sustainability-credentials/</id>
+    <link href="https://globalpetindustry.com/news/clean-label-b-corp-pet-companies-gain-new-sustainability-credentials/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="⚖️ Regulation"/>
+    <author><name>Global Pet Industry</name></author>
+    <summary>More pet companies have earned B Corp certification, recognizing their adherence to social and environmental performance, accountability, and transparency standards.</summary>
+  </entry>
   <entry>
     <title>Analysis: Pet food makers step up in quality assurance and food safety</title>
     <id>https://globalpetindustry.com/news/analysis-pet-food-makers-step-up-in-quality-assurance-and-food-safety/</id>
@@ -437,23 +455,5 @@
     <category term="📈 Market"/>
     <author><name>Pet Food Processing</name></author>
     <summary>Evanger&#x27;s and Against the Grain partner with VSI to strengthen their retail presence west of the Rockies.</summary>
-  </entry>
-  <entry>
-    <title>Nulo focuses on cat with limited ingredient portfolio</title>
-    <id>https://www.petfoodprocessing.net/articles/20997-nulo-focuses-on-cat-with-limited-ingredient-portfolio</id>
-    <link href="https://www.petfoodprocessing.net/articles/20997-nulo-focuses-on-cat-with-limited-ingredient-portfolio"/>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="💡 Innovation"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>Nulo focuses on cats with a limited ingredient portfolio, noting that 23% of pet parents shop for sensitivity-focused diets.</summary>
-  </entry>
-  <entry>
-    <title>Mars Petcare appoints global general counsel</title>
-    <id>https://www.petfoodprocessing.net/articles/20996-mars-petcare-appoints-global-general-counsel</id>
-    <link href="https://www.petfoodprocessing.net/articles/20996-mars-petcare-appoints-global-general-counsel"/>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="📈 Market"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>Mars Petcare appoints Mike Boffa as global general counsel to lead legal strategy and operations.</summary>
   </entry>
 </feed>

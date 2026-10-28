@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-28T08:44:00Z",
+ "updated": "2026-10-28T10:39:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Today’s beauty landscape blends legacy expansion, regulatory scrutiny, and tech‑driven innovation, underscoring a market pivot toward sustainability and data‑driven trust.",
+  "hook": "Today’s highlights span couture collaborations, wellness tech bets, regulatory scrutiny, plant‑based innovations, and strategic moves across leading beauty brands.",
   "categories": {
-   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 amid Middle East war concerns, while Estée Lauder shifts to a social‑first communication strategy and the industry moves from anti‑aging to skin longevity testing.",
-   "💄 Brands & Retail": "Nicolaï Paris expands into Neiman Marcus, Ulta Beauty earns the 2026 WWD Public Beauty Company of the Year award, and QVC integrates TikTok shows to boost its holiday flywheel.",
-   "🤝 Strategy & M&A": "LipoTrue adds marine and plant‑based actives at in‑cosmetics Asia, Willow acquires Swehl, and L’Oréal’s Q3 results highlight a sharpened India quick‑commerce strategy.",
-   "💡 Innovation & Regulation": "Camino Partners bets $62 M on optimized breathing, HigherDose faces regulatory referral over unverified claims, Vytrus Biotech expands plant‑based PDRN to hair care, and SkinBench reveals AI misreads of skin conditions."
+   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 as temporary sell‑in headwinds linked to Middle East war concerns weighed on the brand.",
+   "💄 Brands & Retail": "Ulta Beauty was honored as the 2026 WWD Public Beauty Company of the Year, underscoring its impact in the specialty beauty sector.",
+   "🤝 Strategy & M&A": "LipoTrue broadened its portfolio at in‑cosmetics Asia 2026 with three new actives that blend marine, plant‑based, and biomimetic technologies to address skin concerns.",
+   "💡 Innovation & Regulation": "Aldo launched its first couture‑house collaboration with Zuhair Murad, offering a 20‑piece footwear and accessories collection that blends designer glamour with everyday wear."
   }
  },
  "articles": [
+  {
+   "title": "Exclusive: What does a couture house want with Aldo?",
+   "url": "https://www.glossy.co/fashion/luxury/aldo-zuhair-murad-couture-collaboration-footwear/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Exclusive: What does a couture house want with Aldo? — Aldo is launching its first couture-house collaboration with Zuhair Murad, bringing the designer's signature glamour to a 20-piece footwear and accessories collection. With dress-footwear conversion up 18% and U.S. handb…",
+   "excerpt": "Aldo is launching its first couture-house collaboration with Zuhair Murad, bringing the designer's signature glamour to a 20-piece footwear and accessories collection. With dress-footwear conversion up 18% and U.S. handb…"
+  },
   {
    "title": "For Guerlain Descendant Patricia de Nicolaï, Perfume Isn’t Just About Legacy — It’s About Freedom",
    "url": "https://wwd.com/beauty-industry-news/fragrance/guerlain-patricia-de-nicolai-scentxplore-niche-fragrance-1239387515/",
@@ -1525,6 +1534,15 @@
    "excerpt": "Chanel has sold its majority stake in the CDMO to Motion Equity Partners, while the founding CEO and management team retain a minority share."
   },
   {
+   "title": "Ushering in a New Era for US Sunscreen: L’Oréal Readies for BEMT Sunscreen Launch - The Dermatology Digest",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEpPTHU0RmdOaldqTEFDN29hQ1Y5X0FYM1lqR0U3OTJOUHhHUUZSeDZzc3NGa2p4THJ4S0ZVektQLUNPQkU3RU1OTVVCY2d0UWZRb2ZMY05RX1c0bHhmcVVJbnZhZ1Bkd1JtMW5jM0NrTGFVMkdyQjlTSDlqM2JlUHpfbmVMUzhGMHlQVk9sR1dmWHJkLTVZTTBWek5QMmhyT09BclFibHJEZw?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-20",
+   "ai_summary": "Ushering in a New Era for US Sunscreen: L’Oréal Readies for BEMT Sunscreen Launch - The Dermatology Digest — Ushering in a New Era for US Sunscreen: L’Oréal Readies for BEMT Sunscreen Launch The Dermatology Digest",
+   "excerpt": "Ushering in a New Era for US Sunscreen: L’Oréal Readies for BEMT Sunscreen Launch The Dermatology Digest"
+  },
+  {
    "title": "Former The Body Shop CEO Charles Denton Wants To Turn Bodycare Into The Ultimate Retailtainment Destination",
    "url": "https://www.beautyindependent.com/former-the-body-shop-ceo-charles-denton-bodycare-ultimate-retailtainment-destination/",
    "source": "Beauty Independent",
@@ -1829,6 +1847,15 @@
    "date": "2026-10-15",
    "ai_summary": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance — Coty launches a global fragrance club to create a community that shapes the future of fragrance.",
    "excerpt": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance Coty"
+  },
+  {
+   "title": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India - FashionNetwork USA",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMUhFWDhwa3VjVTZVcWtMQ0h4ZUoxSElCcjBKSkN5eGQtOTRPZE90WjJtVHRxdzQ4R2JaMWF3VXRNd1VEdkxtcmNKT2cxaDd0c1owSy04ZDZrdmFyaDRmZDlwLUFjUmlack9HUUFXRUwwcm5QR3VBLU9VZkRBOVhOaFU3akxJdTVNeXE5VHBpanA0ajRNVWxYT0UxaVpUTFBQT2RJREUteDQ2VDJaS1pZQXg5eDdWUlBQVnRZYnljYVpqREIyazZnN0hzUXJFTXFuSTJFV0g2NlFZQVZ6THhiWnE0V1FZM1NvMDRwMW5taFRrY1hnQVE?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-15",
+   "ai_summary": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India - FashionNetwork USA — Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India FashionNetwork USA",
+   "excerpt": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India FashionNetwork USA"
   },
   {
    "title": "Amid an executive shakeup, Gap Beauty expands with its first gourmand fragrance",

@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-28T08:44:00Z",
+ "updated": "2026-10-28T10:39:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Today’s pet‑food news highlights safety investments, market growth in cat nutrition, and new product launches amid regulatory focus.",
+  "hook": "Today’s pet‑food news highlights rising cat‑nutrition demand, B Corp growth, safety focus, and new protein‑rich treats.",
   "categories": {
-   "📈 Market": "Pet food sales rise, especially in cat nutrition and premium products, with Brazil shifting focus to new eating occasions and Nestlé reporting strong Q3 growth.",
-   "⚖️ Regulation": "Tractor Supply’s pet business grew 5% in Q3, while Mars notes consumers continue to spend on pets, underscoring a stable regulatory environment.",
-   "💡 Innovation": "New product launches include single‑ingredient salmon treats, a small‑dog‑focused innovation center, and a seasonal Thanksgiving recipe, while HPAI threatens poultry.",
-   "🤝 M&A": "Pet‑food makers boost safety controls, i‑Tail expands US capacity through Phelps acquisition, and Mars partners with Hilton for joint wellness initiatives."
+   "📈 Market": "Cat‑nutrition and premium products are driving sales growth, especially among younger consumers, while Brazil shifts focus to new eating occasions.",
+   "⚖️ Regulation": "More pet companies are earning B Corp certification, underscoring a growing emphasis on social and environmental performance.",
+   "💡 Innovation": "New protein‑rich products, like single‑ingredient freeze‑dried salmon treats, reflect rising demand for variety in pet diets.",
+   "🤝 M&A": "Industry players are investing in food‑safety and quality controls, prioritizing traceability and testing."
   }
  },
  "articles": [
+  {
+   "title": "Symrise: pet food growth remains in the low single digits in Q3",
+   "url": "https://globalpetindustry.com/news/symrise-pet-food-growth-remains-in-the-low-single-digits-in-q3/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "Symrise’s pet portfolio achieved low‑single‑digit organic sales growth in Q3 2026, driven by positive volume development in its palatability and nutrition businesses.",
+   "excerpt": "Symrise’s pet portfolio posted low-single-digit organic sales growth in Q3 2026, supported by positive volume development in its palatability and nutrition businesses. The Taste, Nutrition & Health segment, which include…"
+  },
+  {
+   "title": "Clean label, B Corp: Pet companies gain new sustainability credentials",
+   "url": "https://globalpetindustry.com/news/clean-label-b-corp-pet-companies-gain-new-sustainability-credentials/",
+   "source": "Global Pet Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "More pet companies have earned B Corp certification, recognizing their adherence to social and environmental performance, accountability, and transparency standards.",
+   "excerpt": "More pet companies have earned B Corp certification, which recognizes businesses that meet standards for social and environmental performance, accountability and transparency. The B Corp community now includes more than …"
+  },
   {
    "title": "Analysis: Pet food makers step up in quality assurance and food safety",
    "url": "https://globalpetindustry.com/news/analysis-pet-food-makers-step-up-in-quality-assurance-and-food-safety/",
