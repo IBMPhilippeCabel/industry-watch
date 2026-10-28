@@ -1,13 +1,13 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-28T04:37:00Z",
+ "updated": "2026-10-28T06:39:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Mars Corp’s day highlighted a major acquisition, pet‑food philanthropy, and playful candy experiments.",
+  "hook": "Mars Corp sees M&M's extended deals and a sugar price‑fixing lawsuit, while Royal Canin donates pet food.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars is set to close its $36B Kellanova takeover after EU approval, following a delay caused by an investigation.",
+   "🤝 Mars Corporate & M&A": "Mars is part of a lawsuit accusing sugar producers of price‑fixing, highlighting market manipulation concerns.",
    "🐾 Petcare & Royal Canin": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
-   "🍫 Snacking & FMCG Market": "M&M’s extended National Chocolate Day deals until Halloween while a quirky experiment soaked M&M’s in water to test durability.",
+   "🍫 Snacking & FMCG Market": "M&M's extended National Chocolate Day deals until Halloween, offering longer expiration dates for the chocolate products.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
@@ -779,6 +779,15 @@
    "excerpt": "See the new artificial dye-free Skittles, Starbursts and M&Ms USA Today"
   },
   {
+   "title": "General Mills, Kellanova granted patents - Baking Business",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnh1UVQzZURVOGxjNHc4VXlHNlA3RXVYU2U4TGhJNzVaaXBmejByZ1N6b2hZenhOTHREOVExRGp1VjUtelpydURvZmQ5bHhob3pmcVRiQ0tXd1RrazQzQmNTemJuTTFDQ0dDdW5nU0NTSThIWW5ZMW9ibzRYMkdQMXU2NXNKVTZyTlhXa3ZB?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-10-16",
+   "ai_summary": "General Mills and Kellanova have been granted new patents, as reported by Baking Business. The patents likely cover innovations related to their food products and manufacturing processes.",
+   "excerpt": "General Mills, Kellanova granted patents Baking Business"
+  },
+  {
    "title": "Europe’s heat wave sends a warning to pet food makers",
    "url": "https://www.petfoodindustry.com/regions/europe/article/15837643/europes-heat-wave-sends-a-warning-to-pet-food-makers",
    "source": "Petfood Industry",
@@ -993,6 +1002,15 @@
    "date": "2026-10-08",
    "ai_summary": "M&M’s is reintroducing a popular collaboration. It is expected to sell out.",
    "excerpt": "M&M’s Is Bringing Back a Fan-Favorite Collaboration That’s Guaranteed To Sell Out Allrecipes"
+  },
+  {
+   "title": "SNICKERS and adidas Partner for First-Ever ADIZERO ELECTRIC + II Cleat - Hypebeast",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdONDFlcC1TaUVyYkNzWVlENjZPanZvbEFqbXdWUks1R1ZiQmc2WklYM3dxdkFfQ1B6aGszOHUyT0NjdFNjczl0LXoxVFFncVg3WjVrMWNobTVhSHRwNDFSRFBNb09kOGZuLTlTRmozNGpOQUc2RFVQa0tsZjc2c09aX2ZrVTZaQkV1bW4zcTRMV21RY3FIWDl5M0Njd2s?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-08",
+   "ai_summary": "SNICKERS and adidas have partnered to launch the first-ever ADIZERO ELECTRIC + II cleat, combining a popular chocolate bar brand with advanced footwear technology. The collaboration aims to merge sports performance with consumer branding, as detailed by Hypebeast.",
+   "excerpt": "SNICKERS and adidas Partner for First-Ever ADIZERO ELECTRIC + II Cleat Hypebeast"
   },
   {
    "title": "Mars Petcare Appoints Vivian Ribeiro as Global Nature Manager - ESG News",

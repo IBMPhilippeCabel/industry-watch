@@ -1,18 +1,63 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-28T04:37:00Z",
+ "updated": "2026-10-28T06:39:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Heineken’s strategic moves and regulatory challenges dominate the day, while market shifts spotlight new distribution deals and legal protections for spirits.",
+  "hook": "Heineken's new CEO faces growth challenges amid strong Q3 volumes, while market shifts see legal moves and distributor changes across spirits.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken partners with Amazon for on‑premise streaming, faces a $124 million Greek antitrust fine, and invests in Monterrey to protect water basins.",
-   "📈 Market": "New distribution agreements surface as LMB secures absinthe in the UK and González Byass appoints a sherry distributor in Germany, while a US judge rejects a bid to halt a potential sale of Uncle Nearest assets.",
-   "🍸 Spirits & Premium": "Maison Boinaud receives judicial protection, and proposed Irish whiskey technical file amendments promise greater diversity for the category.",
+   "🤝 Strategy & M&A": "Heineken's new CEO acknowledges growth work remains despite Q3 volume beat, as volumes outpace expectations across regions.",
+   "📈 Market": "Maison Boinaud receives judicial protection while LMB secures an absinthe distribution deal in the UK and González Byass appoints a new sherry distributor in Germany.",
+   "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
    "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Heineken has more to do to deliver growth, new CEO says - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXA1MGN0Y0tHVllTa2VnM0V6VzhoaVUzRVBmWE00d2pITFR3cWVvT2Z0a294eFlrQlA2OHN6QUd1UEI2eXBnOTYzRjFhRzVxdkRMWFdDbXBQUWNFYjJxRkMzVXJJYXZlUXprZTQwcF9WSmVrOVdTT1FmME0wVm5xV2JOSU1zQ1BjcHBMY2Jicmp3Nmkwak1GQUg1MEpoRUJQR01UUlJNX3dzbjlKX1E?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "The new CEO states that Heineken still has work to do to achieve growth.",
+   "excerpt": "Heineken has more to do to deliver growth, new CEO says StreetInsider"
+  },
+  {
+   "title": "Heineken Q3 volumes beat expectations on Asia growth, Americas rebound - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0dxel85THhCZ0MtRjZiNWc5WERkbmNGMGFpQjZuODQ2Y3pxQnkyTXYxWVI5cTRWeXZkeVp3dXA1NS1KeXExLUc0OHlCZVI2bnlHcnhWU2IyWUpvZXBfQ1NXSlludGs4dEFnc1BnUURrb2w0UGYwTVdESjR3aUE4SHV3alJfeHNmYXNLR1pnNjhNU2VlblU4bkNWWTZMVkdDaXJ5ZFA0QVB5YnVEOWUxRVc5WHh3UnNi?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Heineken's Q3 volumes exceeded expectations, driven by growth in Asia and a rebound in the Americas.",
+   "excerpt": "Heineken Q3 volumes beat expectations on Asia growth, Americas rebound Investing.com"
+  },
+  {
+   "title": "Heineken Volumes Beat Estimates in Early Boost for New CEO - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0NBMGoyX2k2NVU2Q1FMQUZDLS1YWU9DY1pQcDFpVU02TUNjVjA5TUp6T2dYdENjUjdHdWtGdFdYMDdfZC1QOHlSTzF5bWhoYTVlYkxQVFNaQTFacE5YWEtBM2RwY2kyVkhkUTNRZVc5Q3lKS2FYbk9qNENjSWRUWVNyYW1KUlR0Y2tlSjRBRTE0V01Xa3NwSDhvQjhtSHpsMnVTM1dUR3BCYm1WSkE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Heineken's volumes surpassed estimates, providing an early boost for the new CEO.",
+   "excerpt": "Heineken Volumes Beat Estimates in Early Boost for New CEO Bloomberg"
+  },
+  {
+   "title": "Heineken grew both sales volume and revenue in all four regions - Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkxkYm1qb1VGenM5N01xcmNNOFYwLVVvY28zNFd1Q0J1NHFPRUNjOUh0Wm9JRDVDTnJIdFdjaXJ1RXRCaUlFb2dIcUJWTFFoNEk5d2MzWkZVakVtX09yY05rMXFJaW53R3hWNXdXWGg2dVRlS3VVNlRBWTNvWGxuZVN4elZvaDlueVVoakppSnNiYlJKWFdNcTFxazFmendPREQzQ0h2LW03dw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Heineken experienced growth in both sales volume and revenue across all four regions.",
+   "excerpt": "Heineken grew both sales volume and revenue in all four regions Stock Titan"
+  },
+  {
+   "title": "Heineken Pubscription turns Fire TV into pub discovery - ContentGrip",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0WS1hZVJlRi0ya1k1ZU5XdFNTblpGRlBXdUttbmJnUl9YY2NIZWJWTnR6bkVqT3Q5YUhTZE5ROC1mcjh1Q2EzWGhMVzFvY2RUZVJNVUxPU0FtakFYNFQyV0ZjRDJIYjI4Q1p5WTE1QlhQdw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Heineken's Pubscription feature turns Fire TV into a pub discovery platform.",
+   "excerpt": "Heineken Pubscription turns Fire TV into pub discovery ContentGrip"
+  },
   {
    "title": "Jameson Geers: Gets cut from Cards' IR - CBS Sports",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXFqVTVZclNJbmZPaEJ3LXBLemNmVFFWNXdRMlF0SVpIMnBza1BPODhnNnFjTUVyYXVnUm9ocjlvZHVIZlprSVJJUW5PRHoxLXRrYkUzaGxEVk9od0JwUGp2RVRuVHZXY21tUWZlQWYyWGU4SkI1bFZaUW53U2JuVjlPZ3FJbTdic0l1QXRB?oc=5",
