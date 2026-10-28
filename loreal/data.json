@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-28T20:34:00Z",
+ "updated": "2026-10-28T22:32:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "L’Oréal Paris launches new ambassador Adria Arjona while celebrating its 9th China International Import Expo, signalling a push for diversity and global expansion.",
+  "hook": "L'Oréal focuses on ambassador expansion, market insights, and AI signals amid legal and valuation updates.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal Paris appoints Adria Arjona as global ambassador, underscoring a focus on diverse representation and a vibrant new chapter.",
-   "💄 Brands & Launches": "The appointment of Adria Arjona as L’Oréal Paris ambassador highlights the brand’s expansion of its ambassadorial reach.",
-   "💡 Beauty Tech & ESG": "Berenberg notes early signs of AI dominance in L’Oréal’s Q3 results, raising the price target.",
-   "📈 Market": "Nicolas Hieronimus comments that GLP‑1 weight‑loss drugs are a significant phenomenon for cosmetics, impacting skin‑care consumption."
+   "🤝 Strategy & M&A": "L'Oréal Paris appoints Adria Arjona as global ambassador while facing a lawsuit over its relaxer and sees its valuation rise after Q3 earnings.",
+   "💄 Brands & Launches": "L'Oréal Paris announces Adria Arjona as global ambassador, underscoring its brand expansion strategy.",
+   "💡 Beauty Tech & ESG": "Berenberg notes L'Oréal's Q3 beat and early AI dominance, raising price target.",
+   "📈 Market": "CEO comments on GLP-1 drugs influencing skincare demand, and Garnier highlights its long‑standing Micellar Water."
   }
  },
  "articles": [
@@ -29,6 +29,15 @@
    "date": "2026-10-28",
    "ai_summary": "Minnesota has filed a lawsuit against L’Oréal alleging that its hair relaxer poses cancer risks.",
    "excerpt": "Minnesota sues L’Oréal over hair relaxer cancer risks Minnesota Lawyer"
+  },
+  {
+   "title": "After quarterly revenue, RBC raises its target on L'Oréal - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0F0LXo0WDhhR1JWSlVGUWpNZDZQTW00d04tUVJBRFQtNFpRcjNGTXpacVpuR1ZRaVQxbE9OT0xUYVZCU1AxM0NzOVVnYi1UaUdnVlByN3d3UjZJVndOV2dvV0VEendyT09LWGRELTFJZFR1REY2Qk9EanRqRFpncHdfVXBfbnRITnl6MEVqTWQzeS1CWk9QZGhaWmpodTd3UDl4OEEyUjNfaXcwX2c?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "After quarterly revenue, RBC raises its target on L'Oréal. The article discusses the impact of the latest earnings on the company's valuation.",
+   "excerpt": "After quarterly revenue, RBC raises its target on L'Oréal www.marketscreener.com"
   },
   {
    "title": "Adria Arjona named L’Oréal Paris global ambassador - Drug Store News",
