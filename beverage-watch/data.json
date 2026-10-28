@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-28T16:43:00Z",
+ "updated": "2026-10-28T18:37:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Heineken signals growth but remains cautious, while market probes and pricing pressures loom.",
+  "hook": "Pernod Ricard secures its notes while Heineken signals growth yet cautious outlook amid production shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken plans to accelerate sales in 2026 but its CEO says more work is needed, even as it shifts production in Czechia.",
-   "📈 Market": "Heineken’s CFO keeps a conservative outlook for the Americas despite recent growth, and Indian tax officials probe Radico Khaitan’s Scotch imports.",
-   "🍸 Spirits & Premium": "No new premium spirits signal reported today.",
-   "🍺 Beer & Brewing": "Heineken moves beer production to Czechia, indicating a shift in its brewing strategy.",
-   "💡 Innovation & No-Low": "No innovation or no‑low signal reported today."
+   "🤝 Strategy & M&A": "Pernod Ricard closed a tender offer for its notes, while Heineken plans to accelerate sales in 2026 but signals more work remains.",
+   "📈 Market": "Heineken’s CFO keeps a conservative view for the Americas despite recent growth, and Radico Khaitan faces a tax probe over bulk Scotch whisky imports.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": "Heineken is shifting beer production to Czechia and highlights a conservative outlook for the Americas, indicating operational adjustments.",
+   "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Pernod Ricard : Successful tender offer for Pernod Ricard's notes - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUloUUhlejdvNTlIcE9rTHBWalVmb2ZTelRoRUo0OF9kc3hYMnpzYVhsVmJuSnp0Y2JXZXdwMElPU3RsYVBaME44ZS1rNU1oaXN3ZmtycUQxMkhKUTJpSkI4OXFZTFJfbWdaYmlKQVhpZ2FpMFhPcUVxMVZIZmgwempqekdjdzU2V0o0c3ZxVFpHTHQ3MHIwek9XMjhjM0NvdEFBNkE3Z09TVHNHeExoU3V3OXFyaEE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Pernod Ricard announced a successful tender offer for its notes.",
+   "excerpt": "Pernod Ricard : Successful tender offer for Pernod Ricard's notes www.marketscreener.com"
+  },
   {
    "title": "Heineken sees sales accelerate in 2026 but CEO flags ‘more to do’ – results data - Global Drinks Intel",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFNFYi1SeU4yNlVQMmxSMHVlWTdyeFAtRERhOGIwQUxDM2pZemQ3WFF1QTB3UEQ4dnRTalBLRHc5UGszYnk0OHVyWDlVYVd3Q0tfcnF6d0Z5RExnZ0IwaTZkTTN1N0tvbWJUUTMzVWFQODFkNzY4Q0l2ZHdIR1VfT1REWXB1SUtaMGw1ckxCUHVfeVUya3VvODZBdUc3QU5fU19IY0x3NHptQmc?oc=5",
@@ -147,6 +156,15 @@
    "date": "2026-10-28",
    "ai_summary": "New CEO says Heineken must do better even as Q3 sales top forecast By Reuters Investing.com",
    "excerpt": "New CEO says Heineken must do better even as Q3 sales top forecast By Reuters Investing.com"
+  },
+  {
+   "title": "New CEO says Heineken must do better even as Q3 sales top forecast - The Lufkin Daily News",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLVdxRzgtOUFoYzJvSUZaclJpMzA0ZmM0UDBKel8zWDVSOVlYMzdQX0Z5TVVwRmJ4a1ZFRmpPNC0zQzQyV2pkYVlRczVJb2dlM3BZWHZ3ZkFINWFZQ2pGQTZWZ0htUnY2VVoxTUJVSENTMTNjbzFUUmNibVhRc2VINmFKdS1hU0pKNlFVYnVfZ2w1RDJBOGMtV3lXa3N5dHh2ZzRWUllsQmFDUmViSG5hTGxjU3lFbFFzbkZOYVFwWG5iUlhJRmx2LTNtR2Vad1JITWxwZ2VlSjE4bUhNMEM5WVU4SzQtT1JoTjM4Q2RuZC01Y2UwMnNGQzFB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "The new CEO of Heineken stated the company must improve despite Q3 sales exceeding forecasts.",
+   "excerpt": "New CEO says Heineken must do better even as Q3 sales top forecast The Lufkin Daily News"
   },
   {
    "title": "Heineken reports higher third-quarter revenue, sales volumes - Yahoo Finance",

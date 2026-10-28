@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-28T16:43:00Z",
+ "updated": "2026-10-28T18:37:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "L’Oréal Paris launches new ambassador and AI‑driven marketing while expanding in China, signaling a vibrant new chapter.",
+  "hook": "L’Oréal faces a cancer‑risk lawsuit while launching a new ambassador and showcasing innovation at China Expo, amid CEO comments on GLP‑1 impact.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal Paris appoints Adria Arjona as global ambassador and highlights its China Import Expo, underscoring a vibrant new chapter of expansion.",
-   "💄 Brands & Launches": "Adria Arjona’s appointment as L’Oréal Paris global ambassador marks a new ambassadorial push for the brand.",
-   "💡 Beauty Tech & ESG": "L’Oréal places AI at the core of worldwide marketing, signalling a strategic emphasis on technology‑driven consumer engagement.",
-   "📈 Market": "The brand’s ambassador launch and China expo reflect its focus on international expansion and innovation."
+   "🤝 Strategy & M&A": "L’Oréal confronts a cancer‑risk lawsuit over its hair relaxer while appointing Adria Arjona as global ambassador and highlighting innovation at the China Import Expo.",
+   "💄 Brands & Launches": "Adria Arjona is named L’Oréal Paris global ambassador, underscoring the brand’s expansion of ambassadorial reach.",
+   "💡 Beauty Tech & ESG": "Berenberg notes early signs of AI dominance in L’Oréal’s Q3 results, raising the price target.",
+   "📈 Market": "CEO Nicolas Hieronimus highlights the rise of GLP‑1 weight‑loss drugs as a key factor influencing skin‑care consumption."
   }
  },
  "articles": [
+  {
+   "title": "Minnesota sues L’Oréal over hair relaxer cancer risks - Minnesota Lawyer",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZi13THVqN1B4Z2lpYTZQeVBXMnVDc2V5VEpVLUdmQ2p3b3czSlpVdEZvMmJ2YVVKSk1CMzZkWGJBOV9hSVFOb3NTS0hLQ2V6WWpYNGJ4Q1Z6cFFIT2tOZ1pCU1czb2VoQlZxT1RpcjhfLVlEVzZ0elBlU0VsVjdkcTlRNXFLNzJoNXc?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Minnesota has filed a lawsuit against L’Oréal alleging that its hair relaxer poses cancer risks.",
+   "excerpt": "Minnesota sues L’Oréal over hair relaxer cancer risks Minnesota Lawyer"
+  },
+  {
+   "title": "Adria Arjona named L’Oréal Paris global ambassador - Drug Store News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd081Y0RiTWNLLUZCa0NKZlQzYXpnNTlmLVRSaGlvaVJwWVJYLUxOUkZ0TWtlNl9BVmVLZ0dhU0JpWklwRVRsN3Y4Zmc4X25TVFJvVklITmgzYWEwRUd0bVI5eEtidTNxTGlnM3NlQ1dTZnZNT0NMdzVGRTMyZlhtQg?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Adria Arjona has been appointed as the global ambassador for L’Oréal Paris.",
+   "excerpt": "Adria Arjona named L’Oréal Paris global ambassador Drug Store News"
+  },
   {
    "title": "L’Oréal Paris appoints Adria Arjona Global Ambassador as it enters ‘vibrant new chapter’ - Cosmetics Business",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkhxajAzSUVSZFpyRTNGT19OZmhyYTRmSlFsZUtzWTFTVVNwdzBmdzQyaDNZYUdOcFpuVVF5UWNsVElDVHp3dklSMjFnTDMyOE9Bc2NjanJFVi10aXFwaXBaZzdnSUlOY3N3YXlLemtfbHFfd1NDdDRyVGxjb212VVF4Z21hV1hPdTUyd2JBRTVWUQ?oc=5",

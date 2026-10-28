@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-28T16:43:00Z",
+ "updated": "2026-10-28T18:37:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Innovation, market shifts, and strategic moves shape the beauty landscape today.",
+  "hook": "AI, clean‑beauty badges, and a surge in Korean skincare buzz dominate today’s beauty beat.",
   "categories": {
-   "📈 Market": "Unilever’s body care brands drove double‑digit growth, prompting a full‑year outlook upgrade.",
-   "💄 Brands & Retail": "Ulta Beauty earned the 2026 WWD Honor for Public Beauty Company of the Year, underscoring its sector impact.",
-   "🤝 Strategy & M&A": "Puig’s Vision 2032 strategy targets €8 billion revenue, while LipoTrue expands with new actives at in‑cosmetics Asia 2026.",
-   "💡 Innovation & Regulation": "Packaging Innovations & Empack 2027 opens registration in Birmingham, aiming to translate scalable solutions into action for brands and manufacturers."
+   "📈 Market": "Unilever’s body‑care brands drive double‑digit growth, prompting a higher full‑year outlook, while Beiersdorf reports mixed Q3 results.",
+   "💄 Brands & Retail": "Korean brands lead U.S. online skincare chatter, and QVC gears up for its 40th holiday season with TikTok‑powered live events.",
+   "🤝 Strategy & M&A": "Puig targets €8 billion revenue by 2032 under Vision 2032, while L’Oréal’s Q3 results hint at industry direction.",
+   "💡 Innovation & Regulation": "Coty partners with Brandlight to boost AI search, and the 2026 Autumn Budget raises small‑business relief amid questions on youth employment in beauty."
   }
  },
  "articles": [
+  {
+   "title": "Coty Strengthens AI Search Strategy Through Brandlight Partnership - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmpmNV95dDRWY01XYlhMQ01tUW1RYWM5UExnZFVSbG5PcmxrODczZ2NNdE5Kc0pMQ25QTGxsZnB5LVFBM3lzMmNrNktHakpkeTBmUjhMLUMwRFV4dlU1N3pSVHhZa0tka0lJd2pEUFJod3dSWWxETmlGSjZ4MWVlU2ktczBaX1pUaDJRVDZuUVdKRU1sTnFIWUdXNjdxek14?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Coty Strengthens AI Search Strategy Through Brandlight Partnership - Yahoo Finance — Coty Strengthens AI Search Strategy Through Brandlight Partnership Yahoo Finance",
+   "excerpt": "Coty Strengthens AI Search Strategy Through Brandlight Partnership Yahoo Finance"
+  },
   {
    "title": "Packaging Innovations & Empack 2027",
    "url": "https://www.cosmeticsbusiness.com/packaging-innovations-empack-2027",
@@ -29,6 +38,15 @@
    "date": "2026-10-28",
    "ai_summary": "Packaging Innovations & Empack 2027 opens registration with a focus on turning innovation into action, aiming to help brands and manufacturers implement scalable solutions.",
    "excerpt": "The UK packaging and processing community will return to the NEC Birmingham on 24 & 25 February, with a renewed focus on helping brands and manufacturers turn promising ideas into practical, scalable solutions"
+  },
+  {
+   "title": "Unilever Posts 13.3B Euro Q3 Revenue, Boosts Full-Year Growth Outlook",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/unilever-q3-revenue-boosts-full-year-growth-outlook-1239389030/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-28",
+   "ai_summary": "Unilever Posts 13.3B Euro Q3 Revenue, Boosts Full-Year Growth Outlook — Driven by strong performance in beauty and personal care, Unilever raised its full-year forecast, projecting at least 3 percent volume growth for 2026.",
+   "excerpt": "Driven by strong performance in beauty and personal care, Unilever raised its full-year forecast, projecting at least 3 percent volume growth for 2026."
   },
   {
    "title": "Head & Shoulders heads back to school with Derma X Pro Scalp School pop-up",
@@ -92,6 +110,15 @@
    "date": "2026-10-28",
    "ai_summary": "Puig is targeting an 8‑billion‑euro annual sales milestone by 2032 as part of its Vision 2032 strategy unveiled at its first Capital Markets Day.",
    "excerpt": "The Spanish beauty and fashion group is unveiling its Vision 2032 strategy during the group’s first Capital Markets Day."
+  },
+  {
+   "title": "Shopping for clean beauty essentials? Look for the Green Finds badge at SM Store - BusinessMirror",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1liMnQ4ZEZOZWtqWXVhZm1yVEVVLW13OUFxblNERzZEUHUwWlVMRXliTGc4Q0NOazRYbC1WZlBtMkxMUUpIT09ENnpzSzJDSkdTLXVTZ19uYi1MYi1wa3oyQTJha243bGNxc2JReTFFdjkyTzJqSzNWeHBVR1FMOUhYUmdldzZfS2lIaHd6Y0c5d0tpR3luMFlxV3ZkNEc4MGllLTRiV3NUSy1TaUtVNVNVMzVZS25mQVpJRGZR?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Shopping for clean beauty essentials? Look for the Green Finds badge at SM Store - BusinessMirror — Shopping for clean beauty essentials? Look for the Green Finds badge at SM Store BusinessMirror",
+   "excerpt": "Shopping for clean beauty essentials? Look for the Green Finds badge at SM Store BusinessMirror"
   },
   {
    "title": "How to make a barrier repair moisturiser",
@@ -164,6 +191,15 @@
    "date": "2026-10-28",
    "ai_summary": "Beiersdorf's Q3 2026 results showed mixed outcomes, with strong growth in Derma and La Prairie but ongoing challenges for Nivea.",
    "excerpt": "Beiersdorf's third-quarter 2026 results highlighted contrasting performances across its skincare portfolio, with double-digit growth in Derma and a strong rebound at La Prairie offset by continued pressure on Nivea. The …"
+  },
+  {
+   "title": "Brazil brings six ingredient suppliers to In cosmetics Asia 2026",
+   "url": "https://www.premiumbeautynews.com/en/brazil-brings-six-ingredient,28430",
+   "source": "Premium Beauty News",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Brazil brings six ingredient suppliers to In cosmetics Asia 2026 — Six Brazilian companies specializing in beauty and personal care ingredients will take part in the 2026 edition of the in-cosmetics Asia trade show in Bangkok, Thailand, from November 3 to 5. Their participation will be …",
+   "excerpt": "Six Brazilian companies specializing in beauty and personal care ingredients will take part in the 2026 edition of the in-cosmetics Asia trade show in Bangkok, Thailand, from November 3 to 5. Their participation will be …"
   },
   {
    "title": "HigherDose Advertising Claims Referred to Regulators After Noncompliance With NAD Inquiries",
