@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-27T22:30:00Z",
+ "updated": "2026-10-28T00:39:00Z",
  "briefing": {
-  "date": "2026-10-27",
-  "hook": "L’Oréal’s day focused on new ambassador, AI buzz, and market insights.",
+  "date": "2026-10-28",
+  "hook": "L’Oréal’s leadership signals new brand partnerships and AI focus amid evolving skincare trends.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal Paris appoints Adria Arjona as its new Global Ambassador, signalling a fresh partnership to boost brand presence.",
-   "💄 Brands & Launches": "Marianela Nuñez becomes the face of L’Oréal Paris and leads the brand’s first beauty partnership with the Royal Ballet and Opera.",
-   "💡 Beauty Tech & ESG": "Analysts note L’Oréal’s Q3 beat and early signs of AI dominance, with expectations of AI capabilities boosting performance.",
-   "📈 Market": "CEO Nicolas Hieronimus highlights the influence of GLP‑1 weight‑loss drugs on skincare, while Garnier underscores its long‑standing Micellar Cleansing Water as a category‑defining product."
+   "🤝 Strategy & M&A": "L’Oréal Paris appoints Adria Arjona as Global Ambassador, expanding its brand partnership strategy.",
+   "💄 Brands & Launches": "The new Revitalift test and fall hybrid formula showcase L’Oréal Paris’s product innovation focus.",
+   "💡 Beauty Tech & ESG": "Berenberg notes early AI dominance in L’Oréal’s Q3 results, boosting analyst sentiment.",
+   "📈 Market": "GLP‑1 weight‑loss drugs are reshaping skincare demand, a trend highlighted by CEO Nicolas Hieronimus."
   }
  },
  "articles": [
+  {
+   "title": "Nicolas Hieronimus: Experienced Executive, Brand Builder, and Chief Executive Officer of L'Oréal - BBN Times",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2QzWXE3eVU5OFE4SEQzeHZpcy1jaHdVbzAxZjJ0MjhJdjQ3cTFDQm9ZbU1nRDZSNlNzeHNUd0NhUE9jMG8tZlMtZkpaZXZBaVBRTGI1V3p6SHVLTV8zT2lkN0h5NV94bkh0czRXcVRWbXFTQmhqUUdvb1NuMHFCcUczdTZSUHhrQ2hGVDV5TVMtamtXdG0zU2RoSGZ0OVcxZUE3TzBGWVVxc2ZMUFdLcUVic1lDOW5aUllibVhBNWxMMWFtdzRJ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Nicolas Hieronimus: Experienced Executive, Brand Builder, and Chief Executive Officer of L'Oréal",
+   "excerpt": "Nicolas Hieronimus: Experienced Executive, Brand Builder, and Chief Executive Officer of L'Oréal BBN Times"
+  },
+  {
+   "title": "I Put L’Oréal Paris Revitalift to the Test—These Products Impressed Me Most - Vogue",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12MXZzaHJEajEyYTYtdWdXVUNWaG0zMmpRQ0otVHlpY0hqYTlnZklHa2h2cGZkYWZIMmRPLThldWEzaU85dU9UOG4xNWItNnZ6c0VPd1VlQV9qM1BrMWplUXRGMVRCdGNySERfZmpMLVA1TnM?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "I Put L’Oréal Paris Revitalift to the Test—These Products Impressed Me Most",
+   "excerpt": "I Put L’Oréal Paris Revitalift to the Test—These Products Impressed Me Most Vogue"
+  },
   {
    "title": "‘Hit Man’ Star Adria Arjona Joins L’Oréal Paris as New Global Ambassador - IMDb",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PZkZPSFlrVGhfTDhjU3hFdV9tSFd3d0NZRzZ6aVhTWUhkenhSc0NQaUVFNGNjYU1aQk9Md19ib09ZS01TQjhyU3JTLUZPbXVQd3JRQUpvck9pOHpvcmpCaWNNS09ZR0U?oc=5",
@@ -1064,15 +1082,6 @@
    "date": "2026-09-29",
    "ai_summary": "",
    "excerpt": "L'Oréal (ENXTPA:OR) Opens Talks For Minority Armani Stake Yahoo Finance"
-  },
-  {
-   "title": "How L’Oréal’s L’AcceleratOR Is Scaling Sustainable Beauty Technology - BeautyMatter",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXFYdDcyUUdDdEYtNEVUV0tOVlZLN05fTjBJR0RnRG9SV3Zvb2lzVjNjb1d1aFNJOVNINEVkWmt4UTdzQmRtWnV4TzVldEZWWEVEcFRJaHpTUWtNMFNNVTlSOEdrREtaUWFhRHh3WnV4WS1ha0pyZUd6c1VsZWw0blFUU0s3N09oOFdRMg?oc=5",
-   "source": "L'Oréal Beauty Tech & ESG (Google News)",
-   "category": "💡 Beauty Tech & ESG",
-   "date": "2026-09-27",
-   "ai_summary": "How L’Oréal’s L’AcceleratOR Is Scaling Sustainable Beauty Technology",
-   "excerpt": "How L’Oréal’s L’AcceleratOR Is Scaling Sustainable Beauty Technology BeautyMatter"
   }
  ]
 }
