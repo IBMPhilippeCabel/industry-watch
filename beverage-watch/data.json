@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-28T00:39:00Z",
+ "updated": "2026-10-28T02:39:00Z",
  "briefing": {
-  "date": "2026-10-27",
-  "hook": "Heineken’s strategic moves and regulatory challenges dominate the day, while market shifts spotlight new distribution deals and evolving whiskey rules.",
+  "date": "2026-10-28",
+  "hook": "Heineken’s strategic moves and regulatory challenges dominate the day, while market shifts spotlight new distribution deals and legal protections for spirits.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken partners with Amazon for an on‑premise streaming service while facing a $124 million antitrust judgment in Greece.",
-   "📈 Market": "New distribution agreements in the UK and Germany and a judge’s rejection of a sale halt for Uncle Nearest highlight market activity.",
-   "🍸 Spirits & Premium": "Irish whiskey technical file amendments promise greater diversity for the category.",
+   "🤝 Strategy & M&A": "Heineken partners with Amazon for on‑premise streaming, faces a $124 million Greek antitrust fine, and invests in Monterrey to protect water basins.",
+   "📈 Market": "New distribution agreements surface as LMB secures absinthe in the UK and González Byass appoints a sherry distributor in Germany, while a US judge rejects a bid to halt a potential sale of Uncle Nearest assets.",
+   "🍸 Spirits & Premium": "Maison Boinaud receives judicial protection, and proposed Irish whiskey technical file amendments promise greater diversity for the category.",
    "🍺 Beer & Brewing": null,
    "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Jameson Geers: Gets cut from Cards' IR - CBS Sports",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXFqVTVZclNJbmZPaEJ3LXBLemNmVFFWNXdRMlF0SVpIMnBza1BPODhnNnFjTUVyYXVnUm9ocjlvZHVIZlprSVJJUW5PRHoxLXRrYkUzaGxEVk9od0JwUGp2RVRuVHZXY21tUWZlQWYyWGU4SkI1bFZaUW53U2JuVjlPZ3FJbTdic0l1QXRB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Jameson Geers: Gets cut from Cards' IR",
+   "excerpt": "Jameson Geers: Gets cut from Cards' IR CBS Sports"
+  },
   {
    "title": "Heineken partners with Amazon for on-premise ‘streaming service’ - Global Drinks Intel",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEZqRFRvekw5YS1BMlNfWXRabzNpcndFa0pJR3JISkxZTVF5OU9BcmVicTRSU2xkVzRtbHM1SWsyTkdEZU5QWkhoUUVacE1ySXlPb0VSeHlJSjJGaXNLQy1wbXlHU1JEZEhHMEs4YTlqRnV5eVlWWGR1Z0RJU0dZSUhMMVB4dDgwRzF4cVVoeXFPWHB6b2pTdQ?oc=5",
@@ -597,6 +606,15 @@
    "date": "2026-10-23",
    "ai_summary": "Albert Heijn resumes online deliveries after cyber outage – Ahold Delhaize has restored its Dutch online operations, including for Albert Heijn, following the cyber breach that hit the business earlier this month.",
    "excerpt": "Ahold Delhaize has restored its Dutch online operations – including for Albert Heijn – following the cyber breach that hit the business earlier this month."
+  },
+  {
+   "title": "Beer giant warns pubs to adapt as weight loss drugs curb alcohol sales - The Independent",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFRIRjNHR005UlBvU2RDNDdBRjdQS1I1a0E3N05WaW5OblpUUzBYb1c5T2ZwQUl3Yklodm9zcktGTXppQS1ZLTM1WDZvanZrTDlhWGRFUXo0Q0huS2R2SEtJdlpSRjB6MV83NjZWZ3lxREh2NUM3V0hfTW1KMno3dGVuaDFMcW4za0ZyZnRLb0FSclotUVc0?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-23",
+   "ai_summary": "Beer giant warns pubs to adapt as weight loss drugs curb alcohol sales",
+   "excerpt": "Beer giant warns pubs to adapt as weight loss drugs curb alcohol sales The Independent"
   },
   {
    "title": "Heineken warns: weight-loss products threaten beer sales - RetailDetail EU",

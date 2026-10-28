@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-28T00:39:00Z",
+ "updated": "2026-10-28T02:39:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Regulatory scrutiny over wellness claims, AI skin misreads, and new plant‑based actives shape today’s beauty landscape.",
+  "hook": "Today’s highlights span regulatory scrutiny, AI skin analysis, and strategic expansions in the beauty sector.",
   "categories": {
-   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 amid Middle East war concerns, while L’Oréal CEO highlighted GLP‑1 weight‑loss drugs boosting skin‑care demand.",
-   "💄 Brands & Retail": "Ulta Beauty earned 2026 WWD Public Beauty Company of the Year, QVC ramps up TikTok‑driven holiday events, and Korean brands drive a quarter of U.S. online skincare buzz.",
-   "🤝 Strategy & M&A": "LipoTrue expands with marine and plant‑based actives at in‑cosmetics Asia, while Willow acquires Swehl amid leadership changes.",
-   "💡 Innovation & Regulation": "Regulators are called to a wellness brand’s unverified claims, AI skin models misread conditions, and new plant‑based PDRN and light‑filtering glass technologies emerge."
+   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 amid Middle East war concerns, while Estée Lauder’s new communications director signals a social‑first approach for its makeup brands.",
+   "💄 Brands & Retail": "Ulta Beauty earned the 2026 WWD Public Beauty Company of the Year award, and QVC is gearing up for its 40th holiday season with TikTok‑powered live events.",
+   "🤝 Strategy & M&A": "LipoTrue broadened its active portfolio at in‑cosmetics Asia 2026, and L’Oréal sharpened its India strategy with quick commerce and local content.",
+   "💡 Innovation & Regulation": "Regulators were alerted after a wellness brand declined NAD inquiries over performance claims, and SkinBench revealed AI models misreading skin conditions, urging brands to validate before deployment."
   }
  },
  "articles": [
@@ -326,6 +326,15 @@
    "date": "2026-10-26",
    "ai_summary": "The best vitamin a products contain stabilised retinaldehyde using IconicA, with retinol as the industry benchmark for improving aging skin but facing formulation challenges and irritation issues.",
    "excerpt": "Retinol is currently used as the industry benchmark, by virtue of its own capability to improve the appearance of aging skin. However, formulation challenges and irritation phenomena reduce retinol’s broad acceptance amo…"
+  },
+  {
+   "title": "Skin Longevity: Taking Cosmetic Testing Beyond Anti-Aging",
+   "url": "https://www.cosmeticsbusiness.com/skin-longevity-taking-cosmetic-testing-beyond-anti-aging",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-26",
+   "ai_summary": "The article discusses the shift from anti-aging to skin longevity in cosmetic testing, highlighting how this change is influencing efficacy evaluation. It explains that new testing approaches look beyond visible aging signs to explore biological mechanisms linked to healthier skin.",
+   "excerpt": "he shift from anti-aging to skin longevity is changing how cosmetic efficacy is evaluated. New testing approaches can look beyond visible signs of aging to explore the biological mechanisms associated with healthier skin…"
   },
   {
    "title": "Stop the shedding: Hair care is entering its GLP-1 era",
