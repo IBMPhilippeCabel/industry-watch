@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-28T10:39:00Z",
+ "updated": "2026-10-28T12:41:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Today’s pet‑food news highlights rising cat‑nutrition demand, B Corp growth, safety focus, and new protein‑rich treats.",
+  "hook": "Today’s pet food scene sees leadership shifts, new Canadian launches, and a focus on sustainability and innovation.",
   "categories": {
-   "📈 Market": "Cat‑nutrition and premium products are driving sales growth, especially among younger consumers, while Brazil shifts focus to new eating occasions.",
-   "⚖️ Regulation": "More pet companies are earning B Corp certification, underscoring a growing emphasis on social and environmental performance.",
-   "💡 Innovation": "New protein‑rich products, like single‑ingredient freeze‑dried salmon treats, reflect rising demand for variety in pet diets.",
-   "🤝 M&A": "Industry players are investing in food‑safety and quality controls, prioritizing traceability and testing."
+   "📈 Market": "New CEOs and product launches, including K9 Natural’s Baked & Coated line in Canada, signal continued growth in premium pet food, especially cat nutrition, while industry leaders emphasize sustainability.",
+   "⚖️ Regulation": "More pet companies are earning B Corp certification, underscoring a growing emphasis on social and environmental accountability.",
+   "💡 Innovation": "Innovations range from Finland’s insect protein plant to mushroom research on dog cholesterol and new freeze‑dried salmon treats, reflecting a push for diverse, health‑focused ingredients.",
+   "🤝 M&A": "Pet food makers are investing in safety and quality controls, while i‑Tail’s acquisition of Phelps Pet Products expands US manufacturing capacity."
   }
  },
  "articles": [
+  {
+   "title": "PSC names new CEO, executive director",
+   "url": "https://www.petfoodprocessing.net/articles/21028-psc-names-new-ceo-executive-director",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "PSC names new CEO, executive director — Heather Pfahl brings two decades of leadership experience across business, environmental and social impact segments.",
+   "excerpt": "Heather Pfahl brings two decades of leadership experience across business, environmental and social impact segments."
+  },
+  {
+   "title": "Beggin’ unveils new holiday treats",
+   "url": "https://www.petfoodprocessing.net/articles/21027-beggin-unveils-new-holiday-treats",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-28",
+   "ai_summary": "Beggin’ unveils new holiday treats — The launch encourages pet parents to give their dogs treats instead of table scraps during the holidays.",
+   "excerpt": "The launch encourages pet parents to give their dogs treats instead of table scraps during the holidays."
+  },
+  {
+   "title": "K9 Natural brings Baked & Coated dog food to Canada through Pet Valu",
+   "url": "https://www.petfoodprocessing.net/articles/21026-k9-natural-brings-baked-and-coated-dog-food-to-canada-through-pet-valu",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "K9 Natural brings Baked & Coated dog food to Canada through Pet Valu — The line is now available exclusively at the Pet Valu family of stores until May 2027.",
+   "excerpt": "The line is now available exclusively at the Pet Valu family of stores until May 2027."
+  },
+  {
+   "title": "Volare completes insect protein production facility",
+   "url": "https://www.petfoodprocessing.net/articles/21025-volare-completes-insect-protein-production-facility",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-28",
+   "ai_summary": "Volare completes insect protein production facility — The new plant in Finland will provide BSFL-derived protein for use in pet food, aquafeed and poultry feed.",
+   "excerpt": "The new plant in Finland will provide BSFL-derived protein for use in pet food, aquafeed and poultry feed."
+  },
+  {
+   "title": "Shiitake mushrooms may lower cholesterol in dogs",
+   "url": "https://www.petfoodindustry.com/nutrition/dog-and-cat-food-nutrition/article/16050245/shiitake-mushrooms-may-lower-cholesterol-in-dogs",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-28",
+   "ai_summary": "Shiitake mushrooms may lower cholesterol in dogs — The researchers examined whether blood lipid responses differed between younger and older dogs.",
+   "excerpt": "The researchers examined whether blood lipid responses differed between younger and older dogs."
+  },
   {
    "title": "Symrise: pet food growth remains in the low single digits in Q3",
    "url": "https://globalpetindustry.com/news/symrise-pet-food-growth-remains-in-the-low-single-digits-in-q3/",

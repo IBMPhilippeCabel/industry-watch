@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-28T10:39:00Z",
+ "updated": "2026-10-28T12:41:00Z",
  "briefing": {
   "date": "2026-10-28",
-  "hook": "Today’s highlights span couture collaborations, wellness tech bets, regulatory scrutiny, plant‑based innovations, and strategic moves across leading beauty brands.",
+  "hook": "New colorways, tech collaborations, and strategic moves keep the beauty market buzzing.",
   "categories": {
-   "📈 Market": "Beiersdorf’s Nivea sales fell in Q3 2026 as temporary sell‑in headwinds linked to Middle East war concerns weighed on the brand.",
-   "💄 Brands & Retail": "Ulta Beauty was honored as the 2026 WWD Public Beauty Company of the Year, underscoring its impact in the specialty beauty sector.",
-   "🤝 Strategy & M&A": "LipoTrue broadened its portfolio at in‑cosmetics Asia 2026 with three new actives that blend marine, plant‑based, and biomimetic technologies to address skin concerns.",
-   "💡 Innovation & Regulation": "Aldo launched its first couture‑house collaboration with Zuhair Murad, offering a 20‑piece footwear and accessories collection that blends designer glamour with everyday wear."
+   "📈 Market": "Shark Beauty’s new CryoGlow LED Mask colorway and L’Oréal’s campaign with Adria Arjona signal fresh product launches amid continued oil‑price‑driven cost pressures for Beiersdorf.",
+   "💄 Brands & Retail": "Ulta Beauty’s 2026 WWD honor and QVC’s TikTok‑integrated holiday strategy highlight retail innovation, while Korean brands dominate U.S. online skin‑care buzz.",
+   "🤝 Strategy & M&A": "LipoTrue’s addition of marine and plant‑based actives and L’Oréal’s India quick‑commerce push illustrate ongoing portfolio expansion and market penetration.",
+   "💡 Innovation & Regulation": "Fenty Beauty’s partnership with Casetify expands into wearable tech, and Puig’s Vision 2032 targets an 8‑billion‑euro milestone, underscoring growth ambitions."
   }
  },
  "articles": [
+  {
+   "title": "Shark Beauty and actor Kevin Hart co-design limited edition CryoGlow LED Mask",
+   "url": "https://www.cosmeticsbusiness.com/shark-beauty-kevin-hart-co-design-cryoglow",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "Shark Beauty’s CryoGlow LED Mask lands in a new colourway co‑designed by comedian and brand ambassador Kevin Hart, who is set to take part in the upcoming ‘Glow Like A Bro’ campaign.",
+   "excerpt": "Shark Beauty’s CryoGlow LED Mask lands in a new colourway co-designed by comedian and brand ambassador Kevin Hart, who is set to take part in the upcoming ‘Glow Like A Bro’ campaign"
+  },
+  {
+   "title": "Beiersdorf CFO on the Middle East conflict, US tariffs and its Russia presence",
+   "url": "https://www.cosmeticsbusiness.com/beiersdorf-cfo-on-the-middle-east-conflict-tariffs-russia",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "Beiersdorf Group CFO Astrid Hermann claimed that a continued oil price above US$100, the result of the ongoing conflict in the Middle East, could cause significant upward pressure on costs, and talked about the company’s…",
+   "excerpt": "Beiersdorf Group CFO Astrid Hermann claimed that a continued oil price above US$100, the result of the ongoing conflict in the Middle East, could cause significant upward pressure on costs, and talked about the company’s…"
+  },
+  {
+   "title": "L’Oréal Paris appoints Adria Arjona Global Ambassador as it enters ‘vibrant new chapter’",
+   "url": "https://www.cosmeticsbusiness.com/loreal-paris-appoints-adria-arjona-global-brand-ambassador",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "The French beauty brand has appointed Adria Arjona Global Ambassador to show what its famous ‘I’m Worth It’ slogan means in 2026, with the Puerto Rican actress starring in a new L’Oréal Paris campaign that celebrates cul…",
+   "excerpt": "The French beauty brand has appointed Adria Arjona Global Ambassador to show what its famous ‘I'm Worth It’ slogan means in 2026, with the Puerto Rican actress starring in a new L’Oréal Paris campaign that celebrates cul…"
+  },
+  {
+   "title": "Puig Aims to Cross 8-Billion-Euro Yearly Sales Mark by 2032",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/puig-aims-cross-8-billion-euro-yearly-sales-mark-2032-1239388818/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Puig is targeting an 8‑billion‑euro annual sales milestone by 2032 as part of its Vision 2032 strategy unveiled at its first Capital Markets Day.",
+   "excerpt": "The Spanish beauty and fashion group is unveiling its Vision 2032 strategy during the group’s first Capital Markets Day."
+  },
+  {
+   "title": "How to make a barrier repair moisturiser",
+   "url": "https://www.cosmeticsbusiness.com/how-to-make-a-barrier-repair-moisturiser",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "From ceramides to emollients, Belinda Carli breaks down the ingredients needed to create an effective skin barrier repair formula.",
+   "excerpt": "From ceramides to emollients, Belinda Carli breaks down the ingredients needed to create an effective skin barrier repair formula"
+  },
+  {
+   "title": "Unilever’s beauty ‘power brands’ Dove and Vaseline help drive Q3 growth",
+   "url": "https://www.cosmeticsbusiness.com/unilever-beauty-power-brands-dove-vaseline-k18-drive-growth-q3",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "Double‑digit growth at Unilever’s body care brands Dove and Vaseline, as well as prestige hair care brand K18, helped drive third quarter 2026 sales as the conglomerate upgraded its full‑year outlook.",
+   "excerpt": "Double-digit growth at Unilever’s body care brands Dove and Vaseline, as well as prestige hair care brand K18, helped drive third quarter 2026 sales as the conglomerate upgraded its full-year outlook"
+  },
+  {
+   "title": "Fenty Beauty moves into ‘wearable beauty tech’ with Casetify phone accessories range - Cosmetics Business",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnJ4M0dZdGNPVVNOck5wZnVVcHlabWJCcndYNVB2Mm9OTjlvbjFnSnYyU2UyeGtEdldoR2JzeWFxMnZydkYwN2w5QjVzTHlRRkN0Y1U5M2FwWENLRFp5UDNPdUZ3UWF4bUlVOEUzcGxzdTFxdGItclBUX2dXNjRFSUV0UUhhQjNtNUJsZGxBQU1BVll0OXhj?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Fenty Beauty has expanded into wearable beauty tech by launching a range of phone accessories in partnership with Casetify.",
+   "excerpt": "Fenty Beauty moves into ‘wearable beauty tech’ with Casetify phone accessories range Cosmetics Business"
+  },
+  {
+   "title": "Fenty Beauty moves into ‘wearable beauty tech’ with Casetify phone accessories range",
+   "url": "https://www.cosmeticsbusiness.com/fenty-moves-into-wearable-beauty-tech-with-casetify-collection",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Singer Rihanna’s Fenty Beauty has teamed up with Casetify on a limited edition collection that spans phone cases, straps and charm hooks, and also securely pairs miniature versions of the make‑up brand’s hero skus with t…",
+   "excerpt": "Singer Rihanna’s Fenty Beauty has teamed up with Casetify on a limited edition collection that spans phone cases, straps and charm hooks, and also securely pairs miniature versions of the make-up brand’s hero skus with t…"
+  },
   {
    "title": "Exclusive: What does a couture house want with Aldo?",
    "url": "https://www.glossy.co/fashion/luxury/aldo-zuhair-murad-couture-collaboration-footwear/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -38,6 +110,15 @@
    "date": "2026-10-28",
    "ai_summary": "Can Intake turn optimized breathing into a wellness status symbol? Camino Partners is betting on it — For the Wellness Briefing, Glossy sat down with Elle Lanning, president of private equity firm Camino Partners, and Alex Huack, CEO of Intake Breathing, to learn about Camino’s $62 million bet on optimized breathing. Add…",
    "excerpt": "For the Wellness Briefing, Glossy sat down with Elle Lanning, president of private equity firm Camino Partners, and Alex Huack, CEO of Intake Breathing, to learn about Camino’s $62 million bet on optimized breathing. Add…"
+  },
+  {
+   "title": "A mixed Q3 for Beiersdorf as La Prairie accelerates and Nivea struggles",
+   "url": "https://www.premiumbeautynews.com/en/a-mixed-q3-for-beiersdorf-as-la,28427",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-10-28",
+   "ai_summary": "Beiersdorf's Q3 2026 results showed mixed outcomes, with strong growth in Derma and La Prairie but ongoing challenges for Nivea.",
+   "excerpt": "Beiersdorf's third-quarter 2026 results highlighted contrasting performances across its skincare portfolio, with double-digit growth in Derma and a strong rebound at La Prairie offset by continued pressure on Nivea. The …"
   },
   {
    "title": "HigherDose Advertising Claims Referred to Regulators After Noncompliance With NAD Inquiries",
