@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-29T02:41:00Z",
+ "updated": "2026-10-29T04:40:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Innovation hubs and AI partnerships shape the beauty landscape today.",
+  "hook": "Today’s focus spans Korean wellness expansion, AI‑driven fragrance innovation, and strategic growth moves across major beauty players.",
   "categories": {
-   "📈 Market": "Unilever’s body care brands drove double‑digit growth, prompting a higher full‑year outlook.",
-   "💄 Brands & Retail": "Coty is boosting its digital presence through an AI search partnership with Brandlight.",
-   "🤝 Strategy & M&A": "Puig targets €8 billion revenue by 2032 under its Vision 2032 strategy.",
-   "💡 Innovation & Regulation": "Givaudan will open a natural‑materials Center of Excellence in Grasse in 2028, while Activon showcases sustainable ingredients at in‑cosmetics Asia 2026."
+   "📈 Market": "Unilever’s body care brands delivered double‑digit growth, prompting an upgraded full‑year outlook.",
+   "💄 Brands & Retail": "Cloüd Cafe’s collagen‑infused matcha drinks are expanding into beauty retail, while Unilever’s Q3 beauty sales boost its full‑year growth outlook.",
+   "🤝 Strategy & M&A": "Puig targets €8 billion revenue by 2032, while LipoTrue adds marine and plant actives at in‑cosmetics Asia 2026.",
+   "💡 Innovation & Regulation": "Givaudan opens a natural‑materials Center of Excellence in Grasse, and Coty partners with Brandlight to enhance AI search."
   }
  },
  "articles": [
+  {
+   "title": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle",
+   "url": "https://wwd.com/beauty-industry-news/wellness/cloud-cafe-matcha-coffee-korean-wellness-1239390170/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-29",
+   "ai_summary": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle — From the CEO that built The Crème Shop, Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail.",
+   "excerpt": "From the CEO that built The Crème Shop, Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail."
+  },
+  {
+   "title": "Which categories should be called ‘wellness’ today? A special Modern Retail crossover episode",
+   "url": "https://www.glossy.co/podcasts/which-categories-should-be-called-wellness-today-a-special-modern-retail-crossover-episode/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-29",
+   "ai_summary": "Which categories should be called ‘wellness’ today? A special Modern Retail crossover episode — In today’s special crossover episode with the Modern Retail Podcast, Glossy West Coast correspondent Lexy Lebsack sits down with Modern Retail senior reporter Gabi Barko and Rachel Hirsch, founder and managing partner at…",
+   "excerpt": "In today’s special crossover episode with the Modern Retail Podcast, Glossy West Coast correspondent Lexy Lebsack sits down with Modern Retail senior reporter Gabi Barko and Rachel Hirsch, founder and managing partner at…"
+  },
   {
    "title": "CPL Aromas explored “Another Way” in contemporary perfumery at Notes Shanghai 2026AW",
    "url": "https://www.cosmeticsbusiness.com/cpl-aromas-explored-another-way-in-contemporary-perfumery",
