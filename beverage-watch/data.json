@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-29T06:42:00Z",
+ "updated": "2026-10-29T08:46:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Heineken highlights GLP‑1 drug impact on beer, shifts production to Czechia while keeping a cautious outlook for the Americas.",
+  "hook": "Heineken reports strong Q3 growth while GLP‑1 meds raise concerns, and market moves focus on production shifts and regulatory probes.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Heineken CFO stays conservative for Americas despite recent growth, while Radico Khaitan faces tax probe over bulk Scotch whisky imports.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "Heineken moves beer production to Czechia, signalling a shift in its brewing footprint.",
+   "🤝 Strategy & M&A": "Heineken reports Q3 organic revenue and volume growth exceeding 4%, signaling robust performance.",
+   "📈 Market": "Heineken’s CFO remains cautious in the Americas despite recent growth, while the company shifts production to Czechia amid a tax probe into Radico’s Scotch whisky imports.",
+   "🍸 Spirits & Premium": "Maison Boinaud receives judicial protection, indicating legal challenges in the premium spirits sector.",
+   "🍺 Beer & Brewing": "Heineken relocates beer production to Czechia as GLP‑1 medications are seen to potentially affect sales.",
    "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Key facts: Heineken NV Q3 organic rev & vol >4% - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGdoNDF2bmJPVHRMa0l0RlhQdFRKZlNQOVV4RThldXIzWW9KWkpYcUpzMW1ad1dGbFdqZ2pLUDZEYWJLLUtBNWVUeS1zcDB2MWFVeFdpOEpDZ3pfTGNvTmpQZU12TE5NYXUyb2Utc1NaaUxfb1JlX1VubjJ6U3I2QmJCNUpaQzdraGtVSVU3aF8xRHVhV2dJLVpVNENDcG1SZnpQMTdjSVUzUUpMb3NnV3VsTEtMRTNBellJ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-29",
+   "ai_summary": "Heineken NV reported Q3 organic revenue and volume growth exceeding 4%.",
+   "excerpt": "Key facts: Heineken NV Q3 organic rev & vol >4% TradingView"
+  },
   {
    "title": "WR Rankings Downgrades For Week 8 Fantasy Football: Jameson Williams & More - FantasyLife",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlJ3Rzl0YkhMNjk3eHhPRmR5RmVtOEpudDBKMVV4V0I3eWNydkNZMm9Qay1MLVFZSmxubjlWZmE1RlRfV0lHc2R2dEg4WDJTVWNDeER0S1QyUWVvTDZET3V0eTZOZjlabk8yWnpGeUhIZTlNNFc2ZF84UDR3QndwbVJ2aVZ3blh0dGtOQnIxWjAxdnl2Nmdsdmw0RQ?oc=5",
@@ -57,6 +66,15 @@
    "date": "2026-10-28",
    "ai_summary": "Heineken says GLP-1 medications could affect beer sales. The article discusses the potential impact of these medications on beer consumption patterns.",
    "excerpt": "GLP-1 Medications Could Affect Beer Sales, Says Heineken KNRS"
+  },
+  {
+   "title": "GLP-1 Medications Could Affect Beer Sales, Says Heineken - FOX Sports Radio",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU0wTFk1WDlOZ090YXRPbURScTBDR0VidlJ1bmZEWnFYZ0RlaFhWNGotbmcwUkZnaWttNjY4djZCVXFPQ1NhLXRBbVdOanEta3YteGxMZEN5LWhWOEV1MFdWYUVCekxMdndMRDhZelRiT1Y2UFdXQUxOd3I3dV9UV2RhU0ZNZVdQN1ZvWmRFTWprM2JVdFNvbVgwYmM1WW5zTFhXMHU5WmxnX2wyQUE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Heineken suggests GLP-1 medications may impact beer sales, according to FOX Sports Radio.",
+   "excerpt": "GLP-1 Medications Could Affect Beer Sales, Says Heineken FOX Sports Radio"
   },
   {
    "title": "Crimson Tide in the NFL Spotlight: Week 7 - Alabama Athletics",
