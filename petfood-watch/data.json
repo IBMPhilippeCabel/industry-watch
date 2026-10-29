@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-29T10:40:00Z",
+ "updated": "2026-10-29T12:41:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Today highlights Amazon's growing pet sales share, new insect protein plant, and industry focus on safety and sustainability.",
+  "hook": "Today’s highlights show leadership shifts, new product launches, and a focus on sustainability and safety across the pet food sector.",
   "categories": {
-   "📈 Market": "Symrise’s pet portfolio saw low‑single‑digit organic growth in Q3 2026, driven by volume gains in palatability and nutrition.",
-   "⚖️ Regulation": "More pet companies are earning B Corp certification, underscoring a trend toward social and environmental accountability.",
-   "💡 Innovation": "Amazon’s first‑party vendors now capture 23.4% of US pet sales on the platform, while Volare’s new insect protein plant in Finland expands sustainable protein options.",
+   "📈 Market": "IndiePet and PSC appoint new leaders while K9 Natural expands into Canada and Symrise reports modest growth, with PACK EXPO celebrating its 70th year.",
+   "⚖️ Regulation": "More pet companies earn B Corp certification, underscoring a growing emphasis on social and environmental performance.",
+   "💡 Innovation": "New products include Pet HealthWorks’ dual‑action chew, low‑calorie Halloween treats, a dental water additive, and cold‑chain packaging, while Amazon’s first‑party vendors capture a sizable share of US sales.",
    "🤝 M&A": "Pet food makers are boosting food safety and quality controls, and i‑Tail’s acquisition of Phelps Pet Products adds US manufacturing capacity."
   }
  },
  "articles": [
+  {
+   "title": "IndiePet announces new executive director",
+   "url": "https://www.petfoodprocessing.net/articles/21033-indiepet-announces-new-executive-director",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-29",
+   "ai_summary": "IndiePet announces new executive director — Bill Greene brings more than 27 years of leadership experience to the role.",
+   "excerpt": "Bill Greene brings more than 27 years of leadership experience to the role."
+  },
+  {
+   "title": "Pet HealthWorks introduces dual-action supplement",
+   "url": "https://www.petfoodprocessing.net/articles/21032-pet-healthworks-introduces-dual-action-supplement",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-29",
+   "ai_summary": "Pet HealthWorks introduces dual-action supplement — The soft chew supplement supports weight control and joint health in canines.",
+   "excerpt": "The soft chew supplement supports weight control and joint health in canines."
+  },
+  {
+   "title": "TEMPTATIONS unveils new Halloween treat varieties",
+   "url": "https://www.petfoodprocessing.net/articles/21031-temptations-unveils-new-halloween-treat-varieties",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-29",
+   "ai_summary": "TEMPTATIONS unveils new Halloween treat varieties — Containing less than two calories per treat, both varieties feature a crunchy outside and soft inside for enhanced palatability.",
+   "excerpt": "Containing less than two calories per treat, both varieties feature a crunchy outside and soft inside for enhanced palatability."
+  },
+  {
+   "title": "Oxyfresh brings dental water additive to PetSmart stores",
+   "url": "https://www.petfoodprocessing.net/articles/21030-oxyfresh-brings-dental-water-additive-to-petsmart-stores",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-29",
+   "ai_summary": "Oxyfresh brings dental water additive to PetSmart stores — The tasteless, odorless formula targets bad breath and fights plaque and tartar buildup while supporting healthy gums.",
+   "excerpt": "The tasteless, odorless formula targets bad breath and fights plaque and tartar buildup while supporting healthy gums."
+  },
+  {
+   "title": "Hydropac introduces cold chain packaging solution for pet food",
+   "url": "https://www.petfoodprocessing.net/articles/21029-hydropac-introduces-cold-chain-packaging-solution-for-pet-food",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-29",
+   "ai_summary": "Hydropac introduces cold chain packaging solution for pet food — The EcoCool® paper-fiber box liner insulates and cushions cold-chain pet products.",
+   "excerpt": "The EcoCool® paper-fiber box liner insulates and cushions cold-chain pet products."
+  },
+  {
+   "title": "H&H pet revenue declines in China but grows in North America",
+   "url": "https://globalpetindustry.com/news/hh-pet-revenue-declines-in-china-but-grows-in-north-america/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-29",
+   "ai_summary": "H&H pet revenue declines in China but grows in North America — H&H Group’s Pet Nutrition and Care (PNC) segment reported revenue of RMB 442 million ($66.3M/€59.2M), the third quarter (Q3) of FY2026, ended 30 September. This is down 13.5% year-over-year (YoY). On a like-for-like (LFL…",
+   "excerpt": "H&H Group’s Pet Nutrition and Care (PNC) segment reported revenue of RMB 442 million ($66.3M/€59.2M), the third quarter (Q3) of FY2026, ended 30 September. This is down 13.5% year-over-year (YoY). On a like-for-like (LFL…"
+  },
   {
    "title": "Amazon captures nearly a quarter of US pet sales through first-party vendors",
    "url": "https://globalpetindustry.com/news/amazon-captures-nearly-a-quarter-of-us-pet-sales-through-first-party-vendors/",
