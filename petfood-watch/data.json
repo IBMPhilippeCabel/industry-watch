@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-29T08:46:00Z",
+ "updated": "2026-10-29T10:40:00Z",
  "briefing": {
-  "date": "2026-10-28",
-  "hook": "Today’s pet food scene sees leadership shifts, new Canadian launches, and a focus on sustainability and innovation.",
+  "date": "2026-10-29",
+  "hook": "Today highlights Amazon's growing pet sales share, new insect protein plant, and industry focus on safety and sustainability.",
   "categories": {
-   "📈 Market": "New CEOs and product launches, including K9 Natural’s Baked & Coated line in Canada, signal continued growth in premium pet food, especially cat nutrition, while industry leaders emphasize sustainability.",
-   "⚖️ Regulation": "More pet companies are earning B Corp certification, underscoring a growing emphasis on social and environmental accountability.",
-   "💡 Innovation": "Innovations range from Finland’s insect protein plant to mushroom research on dog cholesterol and new freeze‑dried salmon treats, reflecting a push for diverse, health‑focused ingredients.",
-   "🤝 M&A": "Pet food makers are investing in safety and quality controls, while i‑Tail’s acquisition of Phelps Pet Products expands US manufacturing capacity."
+   "📈 Market": "Symrise’s pet portfolio saw low‑single‑digit organic growth in Q3 2026, driven by volume gains in palatability and nutrition.",
+   "⚖️ Regulation": "More pet companies are earning B Corp certification, underscoring a trend toward social and environmental accountability.",
+   "💡 Innovation": "Amazon’s first‑party vendors now capture 23.4% of US pet sales on the platform, while Volare’s new insect protein plant in Finland expands sustainable protein options.",
+   "🤝 M&A": "Pet food makers are boosting food safety and quality controls, and i‑Tail’s acquisition of Phelps Pet Products adds US manufacturing capacity."
   }
  },
  "articles": [
+  {
+   "title": "Amazon captures nearly a quarter of US pet sales through first-party vendors",
+   "url": "https://globalpetindustry.com/news/amazon-captures-nearly-a-quarter-of-us-pet-sales-through-first-party-vendors/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-10-29",
+   "ai_summary": "Amazon’s first‑party vendors now account for 23.4% of the monthly average revenue in the US pet category on the platform, equating to about $322 million per month. This represents a significant share of the overall pet sales captured by Amazon’s direct sales channel.",
+   "excerpt": "First-party (1P) vendors selling pet products directly to Amazon account for 23.4% of the monthly average revenue for the pet category on the platform in the US. This represents a monthly income of $322 million (€279M), …"
+  },
   {
    "title": "PSC names new CEO, executive director",
    "url": "https://www.petfoodprocessing.net/articles/21028-psc-names-new-ceo-executive-director",

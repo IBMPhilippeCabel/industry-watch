@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-29T08:46:00Z",
+ "updated": "2026-10-29T10:40:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Today’s focus spans scalp‑science launches, L’Oréal’s acquisition push, and new AI‑driven fragrance innovation, underscoring a market driven by science and digital strategy.",
+  "hook": "Front Row opens Seoul office to boost K‑beauty brands in the U.S., while Unilever lifts its outlook on body‑care sales.",
   "categories": {
-   "📈 Market": "Scalp‑science products and a Head & Shoulders pop‑up highlight a focus on hair health, while Unilever’s double‑digit growth in body care and hair brands lifts its outlook.",
-   "💄 Brands & Retail": "Unilever lifts its outlook after strong beauty sales, Burberry launches a luxury fragrance line, and Ulta Beauty earns a 2026 WWD honor for its impact in specialty retail.",
-   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, signaling continued consolidation in the beauty sector.",
-   "💡 Innovation & Regulation": "Givaudan is building a natural‑materials center in Grasse, while Coty partners with Brandlight to boost AI search and customer engagement."
+   "📈 Market": "Unilever’s body‑care brands Dove, Vaseline and K18 drove double‑digit growth in Q3, prompting a higher full‑year forecast.",
+   "💄 Brands & Retail": "Front Row’s new Seoul office will provide e‑commerce and branding services to Korean beauty companies entering the U.S. market.",
+   "🤝 Strategy & M&A": "L’Oréal is advised by Khaitan & Co to acquire a majority stake in Innovist.",
+   "💡 Innovation & Regulation": "Coty partners with Brandlight to strengthen AI search and improve digital engagement."
   }
  },
  "articles": [
+  {
+   "title": "Front Row bets on the continued K-beauty craze with the opening of a new office in Seoul",
+   "url": "https://www.glossy.co/beauty/front-row-bets-on-the-continued-k-beauty-craze-with-the-opening-of-a-new-office-in-seoul/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-29",
+   "ai_summary": "Front Row expands to Seoul to support local K-beauty brands in entering the U.S. market, capitalizing on the growing second wave of K-beauty popularity. The new office will focus on e-commerce and branding services for Korean beauty companies.",
+   "excerpt": "With the second wave of K-beauty only growing in the U.S., the e-commerce and branding agency expands to South Korea to help local brands make the jump."
+  },
   {
    "title": "Inspired by skin science. Designed for hair vitality.",
    "url": "https://www.cosmeticsbusiness.com/inspired-by-skin-science-designed-for-hair-vitality",

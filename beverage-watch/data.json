@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-29T08:46:00Z",
+ "updated": "2026-10-29T10:40:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Heineken reports strong Q3 growth while GLP‑1 meds raise concerns, and market moves focus on production shifts and regulatory probes.",
+  "hook": "Heineken dominates the day with growth, strategy moves and a new functional drink launch, while tax probes and pricing pressures loom.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken reports Q3 organic revenue and volume growth exceeding 4%, signaling robust performance.",
-   "📈 Market": "Heineken’s CFO remains cautious in the Americas despite recent growth, while the company shifts production to Czechia amid a tax probe into Radico’s Scotch whisky imports.",
-   "🍸 Spirits & Premium": "Maison Boinaud receives judicial protection, indicating legal challenges in the premium spirits sector.",
-   "🍺 Beer & Brewing": "Heineken relocates beer production to Czechia as GLP‑1 medications are seen to potentially affect sales.",
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Heineken NV reported Q3 organic revenue and volume growth exceeding 4%.",
+   "📈 Market": "Heineken CFO remains conservative for the Americas despite recent growth, while Just Drinks expands its Unwind functional and THC line.",
+   "🍸 Spirits & Premium": "Radico Khaitan faces an Indian tax probe over bulk Scotch whisky imports.",
+   "🍺 Beer & Brewing": "Heineken relocates beer production to Czechia.",
+   "💡 Innovation & No-Low": "Just Drinks launches Unwind, expanding its functional and THC beverage lines."
   }
  },
  "articles": [
+  {
+   "title": "Nowadays co-founder on building “relaxation” drinks category with new business Unwind",
+   "url": "https://www.just-drinks.com/interviews/nowadays-co-founder-on-building-relaxation-drinks-category-with-new-business-unwind/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-29",
+   "ai_summary": "Just Drinks co-founder Justin Tidwell discusses his plans to expand both functional and THC beverage lines under the new Unwind brand. He outlines growth ambitions for the relaxation drinks category.",
+   "excerpt": "Just Drinks speaks to Justin Tidwell about his growth ambitions for both his functional and THC beverage businesses."
+  },
   {
    "title": "Key facts: Heineken NV Q3 organic rev & vol >4% - TradingView",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGdoNDF2bmJPVHRMa0l0RlhQdFRKZlNQOVV4RThldXIzWW9KWkpYcUpzMW1ad1dGbFdqZ2pLUDZEYWJLLUtBNWVUeS1zcDB2MWFVeFdpOEpDZ3pfTGNvTmpQZU12TE5NYXUyb2Utc1NaaUxfb1JlX1VubjJ6U3I2QmJCNUpaQzdraGtVSVU3aF8xRHVhV2dJLVpVNENDcG1SZnpQMTdjSVUzUUpMb3NnV3VsTEtMRTNBellJ?oc=5",

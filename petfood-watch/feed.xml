@@ -5,7 +5,16 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-10-29T08:46:00Z</updated>
+  <updated>2026-10-29T10:40:00Z</updated>
+  <entry>
+    <title>Amazon captures nearly a quarter of US pet sales through first-party vendors</title>
+    <id>https://globalpetindustry.com/news/amazon-captures-nearly-a-quarter-of-us-pet-sales-through-first-party-vendors/</id>
+    <link href="https://globalpetindustry.com/news/amazon-captures-nearly-a-quarter-of-us-pet-sales-through-first-party-vendors/"/>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <category term="💡 Innovation"/>
+    <author><name>Global Pet Industry</name></author>
+    <summary>Amazon’s first‑party vendors now account for 23.4% of the monthly average revenue in the US pet category on the platform, equating to about $322 million per month. This represents a significant share of the overall pet sales captured by Amazon’s direct sales channel.</summary>
+  </entry>
   <entry>
     <title>PSC names new CEO, executive director</title>
     <id>https://www.petfoodprocessing.net/articles/21028-psc-names-new-ceo-executive-director</id>
@@ -446,14 +455,5 @@
     <category term="💡 Innovation"/>
     <author><name>Pet Food Processing</name></author>
     <summary>Joyride Dogs expanded its single-ingredient treat line, making it suitable for both dogs and cats as a treat or meal topper.</summary>
-  </entry>
-  <entry>
-    <title>Urschel names new president</title>
-    <id>https://www.petfoodprocessing.net/articles/21000-urschel-names-new-president</id>
-    <link href="https://www.petfoodprocessing.net/articles/21000-urschel-names-new-president"/>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="📈 Market"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>Urschel appointed a new president, Crammer, who brings nearly two decades of foodservice equipment experience to the role.</summary>
   </entry>
 </feed>
