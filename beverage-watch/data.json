@@ -1,18 +1,63 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-29T12:41:00Z",
+ "updated": "2026-10-29T14:49:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Heineken dominates the day with growth, strategy moves and a new functional drink launch, while tax probes and pricing pressures loom.",
+  "hook": "Heineken’s Q3 growth and a shift in Bacardi’s US distribution set the tone for a day of strategic moves and market adjustments.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken NV reported Q3 organic revenue and volume growth exceeding 4%.",
-   "📈 Market": "Heineken CFO remains conservative for the Americas despite recent growth, while Just Drinks expands its Unwind functional and THC line.",
-   "🍸 Spirits & Premium": "Radico Khaitan faces an Indian tax probe over bulk Scotch whisky imports.",
-   "🍺 Beer & Brewing": "Heineken relocates beer production to Czechia.",
-   "💡 Innovation & No-Low": "Just Drinks launches Unwind, expanding its functional and THC beverage lines."
+   "🤝 Strategy & M&A": "Heineken’s Q3 organic revenue and volume growth exceeded 4%, underscoring its strategic momentum.",
+   "📈 Market": "Bacardi restructured its US distribution network after new agreements, while Heineken’s CFO kept a conservative outlook for the Americas.",
+   "🍸 Spirits & Premium": "No new premium spirits signals were highlighted today.",
+   "🍺 Beer & Brewing": "No new beer brewing signals were highlighted today.",
+   "💡 Innovation & No-Low": "No new innovation or no‑low signals were highlighted today."
   }
  },
  "articles": [
+  {
+   "title": "Why Jameson Black Barrel Is Worth the Step Up - The Whiskey Wash",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbFlLTjJKMkszYnpiWG1LS0NtMUl1ai1TNDNSX0tNSFppTko0OXpaemI1YXUtcHdsZUY1S25QeV9nek44U3lkOGJhMmFIMi15c19VUEloZ2IzMlFER0FaaXoxall0d2VUTHdKajh6Q2FhdndoQ3BzSXM1UWtNcGFiQ0VXc0duTXVZc2Vxc1lIVGhCZ1lf?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-29",
+   "ai_summary": "Why Jameson Black Barrel Is Worth the Step Up – The Whiskey Wash",
+   "excerpt": "Why Jameson Black Barrel Is Worth the Step Up The Whiskey Wash"
+  },
+  {
+   "title": "“We know what we need to do” in US, Campari CEO insists",
+   "url": "https://www.just-drinks.com/news/we-know-what-we-need-to-do-in-us-campari-ceo-insists/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-29",
+   "ai_summary": "We know what we need to do in US, Campari CEO insists – The group has retained its outlook for \"organic topline growth\" in 2026 but said it is anticipating \"a marginal topline decline\" in the US.",
+   "excerpt": "The group has retained its outlook for \"organic topline growth\" in 2026 but said it is anticipating \"a marginal topline decline\" in the US."
+  },
+  {
+   "title": "UK Budget: wine, spirits sector hits out at “breath-taking” duty raise",
+   "url": "https://www.just-drinks.com/news/uk-budget-wine-spirits-sector-hits-out-at-breath-taking-duty-raise/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-29",
+   "ai_summary": "UK Budget: wine, spirits sector hits out at \"breath-taking\" duty raise – Wine and Spirits producers in the UK have criticised the Government's move to increase duty rates from next year.",
+   "excerpt": "Wine and Spirits producers in the UK have criticised the Government's move to increase duty rates from next year."
+  },
+  {
+   "title": "Bacardi adjusts US distribution set-up",
+   "url": "https://www.just-drinks.com/news/bacardi-adjusts-us-distribution-set-up/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-29",
+   "ai_summary": "Bacardi adjusts US distribution set-up – Bacardi has changed its distribution network in the US after signing new agreements with Southern Glazer’s Wine & Spirits and RBG.",
+   "excerpt": "Bacardi has changed its distribution network in the US after signing new agreements with Southern Glazer’s Wine & Spirits and RBG."
+  },
+  {
+   "title": "Oatly cuts profit outlook on North America fuel cost pressures",
+   "url": "https://www.just-drinks.com/news/oatly-cuts-profit-outlook-on-north-america-fuel-cost-pressures/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-29",
+   "ai_summary": "Oatly cuts profit outlook on North America fuel cost pressures – Oatly lowered its full-year profit guidance over soaring fuel and freight costs in North America, even as its losses narrowed.",
+   "excerpt": "Oatly lowered its full-year profit guidance over soaring fuel and freight costs in North America, even as its losses narrowed."
+  },
   {
    "title": "Nowadays co-founder on building “relaxation” drinks category with new business Unwind",
    "url": "https://www.just-drinks.com/interviews/nowadays-co-founder-on-building-relaxation-drinks-category-with-new-business-unwind/",

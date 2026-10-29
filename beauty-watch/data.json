@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-29T12:41:00Z",
+ "updated": "2026-10-29T14:49:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Today’s highlights span a new CEO at Haus Labs, Henkel’s upbeat outlook, and a surge in sustainability reporting across the beauty sector.",
+  "hook": "Today’s buzz spans brand expansions into new markets, optimistic sales outlooks, and fresh sustainability reporting across the beauty sector.",
   "categories": {
-   "📈 Market": "Henkel lifted its 2026 sales outlook after a strong Q3, while Lady Gaga’s appointment as Haus Labs CEO signals a bold leadership shift.",
-   "💄 Brands & Retail": "Front Row’s expansion into Seoul supports K‑beauty brands entering the U.S., and Unilever’s raised full‑year forecast underscores continued growth in beauty.",
-   "🤝 Strategy & M&A": "L’Oréal is pursuing a majority stake in Innovist, prompting RBC to revise its estimates, as the company seeks to strengthen its innovation pipeline.",
-   "💡 Innovation & Regulation": "Estée Lauder released its 2026 Social Impact & Sustainability report, while Puig’s Vision 2032 strategy aims for €8 billion in net sales, reflecting a focus on prestige fragrances."
+   "📈 Market": "Henkel has lifted its 2026 sales outlook after a strong Q3, with sales up 11% to €5.7 bn driven by hair care and consumer business growth.",
+   "💄 Brands & Retail": "Front Row opens a Seoul office to help K‑beauty brands enter the U.S., focusing on e‑commerce and branding services amid the second wave of K‑beauty popularity.",
+   "🤝 Strategy & M&A": "Khaitan & Co is advising L’Oréal on a majority stake acquisition in Innovist.",
+   "💡 Innovation & Regulation": "Estée Lauder released its 2026 Social Impact & Sustainability report, detailing performance across environmental, social, and governance areas."
   }
  },
  "articles": [
+  {
+   "title": "Fashion Briefing: Fashion brands are descending on the NYC marathon to tap into the vibrant running community",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-fashion-brands-are-descending-on-the-nyc-marathon-to-tap-into-the-vibrant-running-community/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-29",
+   "ai_summary": "Fashion brands are targeting the NYC marathon to engage the vibrant running community, leveraging the event's large turnout and city-wide impact.",
+   "excerpt": "The New York City Marathon is one of the year's biggest, and most disruptive, events for New Yorkers. It draws tens of thousands of runners and millions of spectators, shuts down many of the city's roads, and sends horde…"
+  },
   {
    "title": "Lady Gaga assumes CEO role of Haus Labs",
    "url": "https://www.cosmeticsbusiness.com/lady-gaga-assumes-ceo-role-of-haus-labs",
@@ -137,6 +146,15 @@
    "date": "2026-10-29",
    "ai_summary": "BHV Marais, a storied Paris department store, filed for bankruptcy protection after a controversial partnership with Shein last year.",
    "excerpt": "Paris department store BHV Marais, which courted controversy last year with a partnership with Asian fast-fashion giant Shein, said on Tuesday, October 28, that it had filed for bankruptcy protection to safeguard its ope…"
+  },
+  {
+   "title": "Cosmoprof Worldwide Bologna lifts the veil on the industry behind beauty",
+   "url": "https://www.premiumbeautynews.com/en/cosmoprof-worldwide-bologna-lifts,28435",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-29",
+   "ai_summary": "Cosmoprof Worldwide Bologna is launching The Invisible Beauty project to showcase the people, expertise and collaborations that underpin the cosmetics industry ahead of its 60th anniversary in 2027.",
+   "excerpt": "Ahead of its 60th anniversary in 2027, Cosmoprof Worldwide Bologna is launching The Invisible Beauty, a communication project highlighting the people, expertise and collaborations that underpin the cosmetics industry bey…"
   },
   {
    "title": "CPL Aromas explored “Another Way” in contemporary perfumery at Notes Shanghai 2026AW",
