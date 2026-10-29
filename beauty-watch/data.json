@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-29T18:40:00Z",
+ "updated": "2026-10-29T20:36:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Today’s buzz centers on creative collaborations, K‑beauty expansion, and a strong sales outlook for Henkel, while L’Oréal’s acquisition move signals strategic consolidation.",
+  "hook": "Today’s focus spans fragrance leadership shifts, clean‑beauty launches, and strategic moves by L’Oréal and Puig, underscoring a market pivot toward sustainability and niche growth.",
   "categories": {
-   "📈 Market": "Henkel raised its 2026 sales outlook after a strong Q3, with sales up 11% to €5.7bn driven by hair care and consumer business growth.",
-   "💄 Brands & Retail": "Oribe’s holiday collaborations with lesser‑known artists spark excitement, while Front Row opens a Seoul office to help K‑beauty brands enter the U.S. market and Unilever lifts its full‑year outlook on beauty sales.",
-   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, reflecting its continued push for strategic consolidation.",
-   "💡 Innovation & Regulation": "Estée Lauder released its 2026 Social Impact & Sustainability report, while indie founder Indie Lee launched a clean‑beauty brand inspired by a terminal diagnosis."
+   "📈 Market": "Henkel lifted its 2026 sales outlook after a strong Q3, citing growth in hair care and consumer business.",
+   "💄 Brands & Retail": "Oribe is sparking excitement with annual holiday collaborations featuring lesser‑known artists to create unique gift sets.",
+   "🤝 Strategy & M&A": "L’Oréal is moving forward with a majority stake acquisition of Innovist, advised by Khaitan & Co.",
+   "💡 Innovation & Regulation": "Tricia Butler has been named board chair of The Fragrance Foundation, aiming to drive innovation and consumer connection in fragrance."
   }
  },
  "articles": [
+  {
+   "title": "Tricia Butler Named Board Chair of The Fragrance Foundation",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/tricia-butler-named-board-chair-fragrance-foundation-1239392028/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-29",
+   "ai_summary": "Tricia Butler Named Board Chair of The Fragrance Foundation — In her new role, Butler, who is also president of North America for Givenchy & Kenzo Parfums, aims to drive innovation, community, and consumer connection in the evolving fragrance industry.",
+   "excerpt": "In her new role, Butler, who is also president of North America for Givenchy & Kenzo Parfums, aims to drive innovation, community, and consumer connection in the evolving fragrance industry."
+  },
   {
    "title": "How Oribe uses annual holiday collaborations for brand-building and sales-driving",
    "url": "https://www.glossy.co/beauty/how-oribe-uses-annual-holiday-collaborations-for-brand-building-and-sales-driving/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -38,6 +47,15 @@
    "date": "2026-10-29",
    "ai_summary": "Fashion brands are targeting the NYC marathon to engage the vibrant running community, leveraging the event's large turnout and city-wide impact.",
    "excerpt": "The New York City Marathon is one of the year's biggest, and most disruptive, events for New Yorkers. It draws tens of thousands of runners and millions of spectators, shuts down many of the city's roads, and sends horde…"
+  },
+  {
+   "title": "AORA: BEAUTY SUSTAINABILITY AND REPRESENTATION RIGHT NOW - Her Campus",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWdTNjd6RVhFd0pTdmd4UHVJTWlzRTlKbUo0R3NJMFhqQkhVMTVHVGNjdUdUVnpJdFVINUdIekpZbzk3WElnTURka01xUkt3QlVYU1BYQk9STE9aSmowM1BXSldyaUx4dG1aTkJOY2I4c1BtWS1UVWR5S0ZqWXdPM0VVZUp0Z2RvU0ZYTHNfUUtzb2tubGwwbUx6eThEMFRrTERZ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-29",
+   "ai_summary": "AORA: BEAUTY SUSTAINABILITY AND REPRESENTATION RIGHT NOW - Her Campus — AORA: BEAUTY SUSTAINABILITY AND REPRESENTATION RIGHT NOW Her Campus",
+   "excerpt": "AORA: BEAUTY SUSTAINABILITY AND REPRESENTATION RIGHT NOW Her Campus"
   },
   {
    "title": "Lady Gaga assumes CEO role of Haus Labs",
@@ -139,6 +157,15 @@
    "excerpt": "RBC Adjusts Estimates for L'Oréal Post-Q3 Results marketscreener.com"
   },
   {
+   "title": "Estée Lauder Vet Launches Tween Skincare Brand SkinBerry, Targets $1M Raise",
+   "url": "https://www.beautyindependent.com/estee-lauder-vet-launches-tween-skincare-brand-skinberry/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-29",
+   "ai_summary": "Estée Lauder Vet Launches Tween Skincare Brand SkinBerry, Targets $1M Raise – A family ski trip inspired the creation of a new tween skincare brand, aiming to raise $1M.",
+   "excerpt": "On a family ski trip to Vermont almost two years ago, Sarah LaGreca noticed her daughter and her friends had raided their mothers’ skincare stashes and were slathering the products all over their faces. “I didn’t want to…"
+  },
+  {
    "title": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle",
    "url": "https://wwd.com/beauty-industry-news/wellness/cloud-cafe-matcha-coffee-korean-wellness-1239390170/",
    "source": "WWD Beauty",
@@ -146,6 +173,15 @@
    "date": "2026-10-29",
    "ai_summary": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle — From the CEO that built The Crème Shop, Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail.",
    "excerpt": "From the CEO that built The Crème Shop, Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail."
+  },
+  {
+   "title": "Who’s In And Who’s Out As Sephora And Ulta Beauty Reshuffle The Skincare Aisle",
+   "url": "https://www.beautyindependent.com/whos-in-whos-out-sephora-ulta-beauty-reshuffle-skincare-aisle/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-29",
+   "ai_summary": "Who’s In And Who’s Out As Sephora And Ulta Beauty Reshuffle The Skincare Aisle – Beauty retailers are adding new skincare brands while carefully removing others to boost productivity.",
+   "excerpt": "Even as beauty specialty retailers Ulta Beauty and Sephora chase the latest trends by bringing in a steady stream of new skincare brands, they’re carefully culling their assortments in an effort to maximize productivity.…"
   },
   {
    "title": "Which categories should be called ‘wellness’ today? A special Modern Retail crossover episode",
@@ -265,6 +301,15 @@
    "excerpt": "The Autumn Budget has been unveiled for 2026, setting out an increase in Small Business Rates Relief and hikes in the National Living Wage. But does it go far enough in supporting youth employment? Cosmetics Business rev…"
   },
   {
+   "title": "Puig Targets €8 Billion in Annual Sales by 2032 - The Business of Fashion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHpSVngwSS1ha01POVhsMUU5UDdxUWhUSm1QZmRSYmRuT2tESmlxc3JUdURRWGk2azFJQVZIZl9zbU1aVmhNOGI5clo2WFZHSkowNHpfeTVmcW4wbHpzd0l0MzBsUVR3Vm1kOEJva2xfbHhzcThMeW5JZXN0dVF2NzdhZjQ3OV82QS13U0NYd3E5TDRMNk1Geg?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Puig Targets €8 Billion in Annual Sales by 2032 - The Business of Fashion — Puig Targets €8 Billion in Annual Sales by 2032 The Business of Fashion",
+   "excerpt": "Puig Targets €8 Billion in Annual Sales by 2032 The Business of Fashion"
+  },
+  {
    "title": "Shark Beauty and actor Kevin Hart co-design limited edition CryoGlow LED Mask",
    "url": "https://www.cosmeticsbusiness.com/shark-beauty-kevin-hart-co-design-cryoglow",
    "source": "Cosmetics Business",
@@ -362,6 +407,24 @@
    "date": "2026-10-28",
    "ai_summary": "Exclusive: What does a couture house want with Aldo? — Aldo is launching its first couture-house collaboration with Zuhair Murad, bringing the designer's signature glamour to a 20-piece footwear and accessories collection. With dress-footwear conversion up 18% and U.S. handb…",
    "excerpt": "Aldo is launching its first couture-house collaboration with Zuhair Murad, bringing the designer's signature glamour to a 20-piece footwear and accessories collection. With dress-footwear conversion up 18% and U.S. handb…"
+  },
+  {
+   "title": "Intake Breathing Lands $62M From Camino Partners To Reinvent The Cold-And-Sinus Aisle",
+   "url": "https://www.beautyindependent.com/intake-breathing-lands-62m-camino-partners-reinvent-the-cold-and-sinus-aisle/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Intake Breathing Lands $62M From Camino Partners To Reinvent The Cold-And-Sinus Aisle – An investment firm backs a magnetic nasal dilator to improve breathing and sinus health.",
+   "excerpt": "Camino Partners , the investment firm started by Kind founder Daniel Lubetzky and former executives of the snack brand, has invested $62 million in Intake Breathing , betting that a magnetic nasal dilator can pull nasal …"
+  },
+  {
+   "title": "Cardi B’s Possible Next Beauty Venture, Mary Phillips’ Big-Name Backers, Patrick Ta’s Boba Shop And More Indie Beauty Dish",
+   "url": "https://www.beautyindependent.com/cardi-b-possible-next-beauty-venture-mary-phillips-big-name-backers-patrick-ta-boba-shop-indie-beauty-dish/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-28",
+   "ai_summary": "Cardi B’s Possible Next Beauty Venture, Mary Phillips’ Big-Name Backers, Patrick Ta’s Boba Shop And More Indie Beauty Dish – Cardi B is exploring a skincare venture while other indie beauty projects gain support.",
+   "excerpt": "Distributing Grow-Good in beauty supply stores and partnering with Revolve on the haircare brand isn’t the only beauty venture keeping Cardi B busy. The Grammy-winning rapper appears to be revisiting plans for a skincare…"
   },
   {
    "title": "For Guerlain Descendant Patricia de Nicolaï, Perfume Isn’t Just About Legacy — It’s About Freedom",
@@ -632,6 +695,24 @@
    "date": "2026-10-27",
    "ai_summary": "From pigmentation to skin firmness: Shaily Mehrotra, founder of Fixderma, shares her approach to targeted skincare innovation | Fashion Trends - Hindustan Times — From pigmentation to skin firmness: Shaily Mehrotra, founder of Fixderma, shares her approach to targeted skincare innovation | Fashion Trends Hindustan Times",
    "excerpt": "From pigmentation to skin firmness: Shaily Mehrotra, founder of Fixderma, shares her approach to targeted skincare innovation | Fashion Trends Hindustan Times"
+  },
+  {
+   "title": "Amazon Is King Of Online Wellness. Can Specialty E-Tailers Contend For The Crown?",
+   "url": "https://www.beautyindependent.com/amazon-online-wellness-specialty-retailers-contend/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Amazon Is King Of Online Wellness. Can Specialty E-Tailers Contend For The Crown? – Amazon dominates online wellness sales, prompting questions about how specialty e-tailers can compete.",
+   "excerpt": "If you’re going to take on the king, you’d better have something good to offer. In online wellness sales, Amazon is king, accounting for 80% of vitamins, minerals and supplements e-commerce sales across 13 major retailer…"
+  },
+  {
+   "title": "Jennifer Lawrence’s Mes Business Partner Knows You’re Skeptical. She Was, Too.",
+   "url": "https://www.beautyindependent.com/jennifer-lawrence-mes-business-partner/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "Jennifer Lawrence’s Mes Business Partner Knows You’re Skeptical. She Was, Too. – Jennifer Lawrence and a haircare brand partner faced mutual skepticism before launching a new business.",
+   "excerpt": "When Jennifer Lawrence decided she wanted to build a haircare brand with Jasmina Aganovic, the feeling wasn’t mutual. “I did not want to meet her,” recalls Aganovic. “I’m not really a celebrity person. They make me nervo…"
   },
   {
    "title": "Jennifer Lawrence Enters Beauty Business With Hair Care Brand Mes°",
@@ -2081,6 +2162,15 @@
    "date": "2026-10-19",
    "ai_summary": "",
    "excerpt": "Leveraging airport reunions, party outfits and a hostess gift delivered by DoorDash, Anthropologie clearly wants a bigger share of the holiday shopping list."
+  },
+  {
+   "title": "Maeve Communications Launches New York-Based Communications Company (EXCLUSIVE) - Variety",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmY4U2ZZT3g4OFM4alBOdTdCbThFank1QjYxZm92MFJyZDJvNVVNQzR0MWduZzNEWGl1eFVZUllTX1h1WkIteGFva0NvRkg2RGw3Vko0bkhsT2oyYkRpSkQ1N1A1TlJza1ZCYjcyb19qMW5vM3dvLVBpUU1TTjh0VE9TZ1pUQm1mNGdydk9ITXdfc2wzUjZMZnBDZUd1NU9nbm53?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-19",
+   "ai_summary": "Maeve Communications Launches New York-Based Communications Company (EXCLUSIVE) - Variety — Maeve Communications Launches New York-Based Communications Company (EXCLUSIVE) Variety",
+   "excerpt": "Maeve Communications Launches New York-Based Communications Company (EXCLUSIVE) Variety"
   },
   {
    "title": "Discounting is ‘a hard drug to come off,’ but retraining customers to shop full price is a must, brand leaders say",
