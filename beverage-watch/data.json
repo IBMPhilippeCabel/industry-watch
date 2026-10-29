@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-29T14:49:00Z",
+ "updated": "2026-10-29T16:45:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Heineken’s Q3 growth and a shift in Bacardi’s US distribution set the tone for a day of strategic moves and market adjustments.",
+  "hook": "Heineken and Jameson headline a day of strategic moves and market shifts in the beverage world.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken’s Q3 organic revenue and volume growth exceeded 4%, underscoring its strategic momentum.",
-   "📈 Market": "Bacardi restructured its US distribution network after new agreements, while Heineken’s CFO kept a conservative outlook for the Americas.",
-   "🍸 Spirits & Premium": "No new premium spirits signals were highlighted today.",
-   "🍺 Beer & Brewing": "No new beer brewing signals were highlighted today.",
-   "💡 Innovation & No-Low": "No new innovation or no‑low signals were highlighted today."
+   "🤝 Strategy & M&A": "Heineken is reassessing its South African wine unit while reporting stronger Q3 organic growth, signaling a strategic review of its portfolio.",
+   "📈 Market": "UK producers protest a steep duty hike while Bacardi reshapes its US distribution after new agreements, reflecting market pressure.",
+   "🍸 Spirits & Premium": "Jameson Black Barrel is positioned as a premium step-up, underscoring the brand's premium strategy.",
+   "🍺 Beer & Brewing": "Heineken headlines the MIP Cancun opening keynote, highlighting its prominence in the beer sector.",
+   "💡 Innovation & No-Low": "Just Drinks aims to grow its Unwind line into functional and THC beverages, targeting the relaxation drinks niche."
   }
  },
  "articles": [
+  {
+   "title": "MIP Cancun sets opening keynote featuring Publicis, Nestlé, and Heineken - Prensario Internacional",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkZBbXJSNzcyenVwSXJDU3FkbGw3X3o2cVhIRGlVcllySThVNlVqdnBZNDJ6aWJkOTVTWGl0UzVaUFd3elJZSENtbzVSSDdQTHk5UVYxZmF6MnNncGJuQkt5MTdHcnlIWWxudnh5U0o0bWNwdzNDWlU3RUFma1Z6bWpQZ0QzTnVBOUh6TXNNVmRwVDZ1cGpsOTFtTHU4a2ZHLXpPYWJGVlRaQWVTNVJoRXNB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-29",
+   "ai_summary": "MIP Cancun sets opening keynote featuring Publicis, Nestlé, and Heineken",
+   "excerpt": "MIP Cancun sets opening keynote featuring Publicis, Nestlé, and Heineken Prensario Internacional"
+  },
   {
    "title": "Why Jameson Black Barrel Is Worth the Step Up - The Whiskey Wash",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbFlLTjJKMkszYnpiWG1LS0NtMUl1ai1TNDNSX0tNSFppTko0OXpaemI1YXUtcHdsZUY1S25QeV9nek44U3lkOGJhMmFIMi15c19VUEloZ2IzMlFER0FaaXoxall0d2VUTHdKajh6Q2FhdndoQ3BzSXM1UWtNcGFiQ0VXc0duTXVZc2Vxc1lIVGhCZ1lf?oc=5",
@@ -48,6 +57,15 @@
    "date": "2026-10-29",
    "ai_summary": "Bacardi adjusts US distribution set-up – Bacardi has changed its distribution network in the US after signing new agreements with Southern Glazer’s Wine & Spirits and RBG.",
    "excerpt": "Bacardi has changed its distribution network in the US after signing new agreements with Southern Glazer’s Wine & Spirits and RBG."
+  },
+  {
+   "title": "Heineken boss reevaluating South African wine business - The Drinks Business",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWttSGV5R0E3Q05YR2dnSzRuSGtfVnVkcy1KZmg2NWZkS0hoX24ya3hhTk10bVpjVFBrZjlqMkFlbjg0ZDN3cFlaX0NkU1l4VkFFcUJKX2pNZko4LTJpVlROa1VucmRSb2dmNjUtUWxIY1p3Y2szMHA3cGdqSlZEWVYtbE1udU5qMms2amxCR0I4enFMTXNWdGlkR0tvQQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-29",
+   "ai_summary": "Heineken boss reevaluating South African wine business",
+   "excerpt": "Heineken boss reevaluating South African wine business The Drinks Business"
   },
   {
    "title": "Oatly cuts profit outlook on North America fuel cost pressures",

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-29T14:49:00Z",
+ "updated": "2026-10-29T16:45:00Z",
  "briefing": {
   "date": "2026-10-29",
-  "hook": "Today’s buzz spans brand expansions into new markets, optimistic sales outlooks, and fresh sustainability reporting across the beauty sector.",
+  "hook": "Today’s buzz spans clean‑beauty pioneers, rising K‑beauty retail, market optimism, and strategic moves reshaping the global cosmetics landscape.",
   "categories": {
-   "📈 Market": "Henkel has lifted its 2026 sales outlook after a strong Q3, with sales up 11% to €5.7 bn driven by hair care and consumer business growth.",
-   "💄 Brands & Retail": "Front Row opens a Seoul office to help K‑beauty brands enter the U.S., focusing on e‑commerce and branding services amid the second wave of K‑beauty popularity.",
-   "🤝 Strategy & M&A": "Khaitan & Co is advising L’Oréal on a majority stake acquisition in Innovist.",
-   "💡 Innovation & Regulation": "Estée Lauder released its 2026 Social Impact & Sustainability report, detailing performance across environmental, social, and governance areas."
+   "📈 Market": "Henkel has lifted its 2026 sales outlook after a strong Q3, citing growth in hair care and consumer business.",
+   "💄 Brands & Retail": "Front Row is opening a Seoul office to help K‑beauty brands enter the U.S. market, focusing on e‑commerce and branding.",
+   "🤝 Strategy & M&A": "Khaitan & Co is advising L’Oréal on acquiring a majority stake in Innovist.",
+   "💡 Innovation & Regulation": "Indie Lee launched one of the first clean‑beauty brands after a terminal brain‑tumor diagnosis."
   }
  },
  "articles": [
+  {
+   "title": "Indie Lee Shares How Terminal Brain Tumor Diagnosis Led Her to Start One of the First Clean Beauty Brands (Exclusive) - People.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHNzUkNVQ2xEYXp1dWZLYTlPTEVxT0JZYnNCTFQ4eXdSaUNla3A3bmYzRVFsOHptd05mVnZQVllvbTBPdzNwMnc2UWQ1ekVFOXdEVkZPVTktT0c0eUYybkMyZlZXbTdpZGJ3bk93ZGpJYVRETGFYb0pqeXdUQ3pIMDlabnBPZ3pHTTloWFgyTFA1YjNiOVlhV1pfSGU0S1NYMWw3MmdnWWQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-29",
+   "ai_summary": "Indie Lee discusses how her terminal brain tumor diagnosis inspired her to launch one of the first clean beauty brands.",
+   "excerpt": "Indie Lee Shares How Terminal Brain Tumor Diagnosis Led Her to Start One of the First Clean Beauty Brands (Exclusive) People.com"
+  },
   {
    "title": "Fashion Briefing: Fashion brands are descending on the NYC marathon to tap into the vibrant running community",
    "url": "https://www.glossy.co/fashion/fashion-briefing-fashion-brands-are-descending-on-the-nyc-marathon-to-tap-into-the-vibrant-running-community/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -443,6 +452,15 @@
    "date": "2026-10-27",
    "ai_summary": "EXCLUSIVE: The Burberry Prorsum Collection of Fragrance Debuts — The line of eaux de parfum will be the brand’s most luxurious.",
    "excerpt": "The line of eaux de parfum will be the brand’s most luxurious."
+  },
+  {
+   "title": "When did our beauty routines start feeling like a chore? - HELLO!",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRaG9hV2kwa2VQdWY1TjNSRUJ0SnJsTjZnTWxhNDNodXJkelN3MTQ1T1JhN1ZzWS1lLUZtZ3hxMnBmU2dGa2lLaTM0T2dWd1BHR0tUNE13SHJXTklxV2gtWnQyRlV5R2lFN3IzeEdvR2E0REZJMlIyeHB3anJKUQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-27",
+   "ai_summary": "The article explores when beauty routines began to feel like a chore.",
+   "excerpt": "When did our beauty routines start feeling like a chore? HELLO!"
   },
   {
    "title": "The three trends transforming beauty tech - Personal Care Insights",
