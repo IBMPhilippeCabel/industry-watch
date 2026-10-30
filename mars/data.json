@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-30T12:41:00Z",
+ "updated": "2026-10-30T14:49:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "Mars Corp’s day highlights pet‑food sustainability, snacking trends, and marketing creativity.",
+  "hook": "Mars Corp sees new snack collaborations, pet food sustainability moves, and marketing buzz.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Roquette and Royal Canin are jointly investing in regenerative wheat farms to support sustainable pet‑food production.",
-   "🐾 Petcare & Royal Canin": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
-   "🍫 Snacking & FMCG Market": "Texans are buying Skittles more often than the national average, while M&M’s and Morrisons ran spooky Halloween ads and Burger King celebrated runners.",
+   "🤝 Mars Corporate & M&A": "Roquette and Royal Canin partner on regenerative wheat farms, while Mars Wrigley pushes sustainability and travel retail innovation.",
+   "🐾 Petcare & Royal Canin": "Royal Canin donates 8 tons of pet food in Korea and partners with Roquette on regenerative agriculture for pet food production.",
+   "🍫 Snacking & FMCG Market": "Pop‑Tarts launches a Liquid Death‑inspired flavor, Skittles sales rise in Texas, and Pringles and M&M’s launch themed campaigns, all sparking fresh snack buzz.",
    "⚡ Tech & Operations": null,
-   "🌱 Sustainability & Sourcing": null
+   "🌱 Sustainability & Sourcing": "Roquette and Royal Canin’s regenerative wheat initiative and Mars Wrigley’s sustainability targets highlight a focus on eco‑friendly sourcing."
   }
  },
  "articles": [
+  {
+   "title": "Leftovers: Pop-Tarts launches flavor inspired by Liquid Death | Bachan’s enters Japanese mayo",
+   "url": "https://www.fooddive.com/news/pop-tarts-liquid-death-bachans-japanese-mayo-thats-it-granola/873310/",
+   "source": "Food Dive",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-30",
+   "ai_summary": "Pop-Tarts introduces a new flavor inspired by Liquid Death, marking a second collaboration with the canned water brand. Meanwhile, Bachan’s expands into Japanese mayo and That's it. fruit bars broaden their range to include granola.",
+   "excerpt": "The breakfast pastry and canned water brands are joining together for a second collaboration, while That's it. fruit bars extend into granola."
+  },
   {
    "title": "Texans buy Skittles at a rate higher than the national average - Audacy",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JdWppX3lmWGptbmxfTUItbUhsSmdRM29sdTRJS2RoWG9kRGthV0xVZ2FXMjhfWGFjUm1oNms4Q19NcGs0SmJ6S3NIZkZNY2hEN2VzUjJTR3B2emtEV2Y3SlpUOHpmZ0lCTzdaTmNFMA?oc=5",

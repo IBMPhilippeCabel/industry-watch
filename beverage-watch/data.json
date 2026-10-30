@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-30T12:41:00Z",
+ "updated": "2026-10-30T14:49:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "US cost cuts, UK duty backlash, and Heineken's steady growth dominate today's beverage news.",
+  "hook": "Heineken pushes volume growth while Pernod Ricard prepares for its 2026 AGM, amid market shifts in the US and UK.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken reports a 4.8% volume rise and cautious 2026 guidance amid a Q3 beat.",
-   "📈 Market": "Tilray plans further US cost cuts, Campari foresees a marginal US decline, UK producers protest duty hikes, Bacardi reshapes US distribution, Oatly lowers North American profit outlook, and Just Drinks expands functional and THC lines.",
-   "🍸 Spirits & Premium": "Pernod Ricard releases preparatory documents for its November 20, 2026 general meeting.",
-   "🍺 Beer & Brewing": "Heineken's beer volume climbs 4.8% as all regions grow, though 2026 guidance remains cautious.",
-   "💡 Innovation & No-Low": "Just Drinks plans to broaden functional and THC beverages while Oatly cuts profit outlook due to North American fuel costs."
+   "🤝 Strategy & M&A": "Heineken focuses on volume-led recovery to strengthen its buy case, while Pernod Ricard readies documents for its 2026 AGM.",
+   "📈 Market": "US brands form alliances and cut costs, Bacardi reshapes distribution, and UK producers protest rising duty rates on wine and spirits.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": "Heineken reports a 4.8% rise in beer volume across all regions, supporting its cautious 2026 guidance.",
+   "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Heineken: Volume-Led Recovery Reinforce Our Buy Case (OTCMKTS:HEINY) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnlwZ2hlOF9Yb2JqaE1xMTg5bjROZXlDeFNLNWprVUlYTDVmUlNDbVcwS2dObk42N3lfUElmVEE5UEpfSjRrdFVudDc4MzAxZE5zMk9zUk0ydmtQbkpRTFVEMXFBbjJLdnJwU25BVmNlRTZJZEpDQnlZbFJIWkM1d2l6c2xCOGFaWkRkdnpmZXM3bjJ2WGVJ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-30",
+   "ai_summary": "Heineken: Volume-Led Recovery Reinforce Our Buy Case (OTCMKTS:HEINY) — The article discusses Heineken's strategy to drive recovery through volume growth, reinforcing the author's positive stance on the stock.",
+   "excerpt": "Heineken: Volume-Led Recovery Reinforce Our Buy Case (OTCMKTS:HEINY) Seeking Alpha"
+  },
+  {
+   "title": "US non-alc beer brand RationAle teams up with LA Libations",
+   "url": "https://www.just-drinks.com/news/us-non-alc-beer-brand-rationale-teams-up-with-la-libations/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-30",
+   "ai_summary": "US non-alc beer brand RationAle teams up with LA Libations — RationAle Brewing has formed a strategic growth alliance with beverage incubator LA Libations and brand builder Homestead Brands.",
+   "excerpt": "RationAle Brewing has formed a \"strategic growth alliance\" with beverage incubator LA Libations and brand builder Homestead Brands."
+  },
+  {
+   "title": "Yakult Honsha data leaked in website attack",
+   "url": "https://www.just-drinks.com/news/yakult-data-leaked-website-attack/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-10-30",
+   "ai_summary": "Yakult Honsha data leaked in website attack — Yakult confirmed that personal information of about 40,000 individuals was leaked after unauthorized access to its website.",
+   "excerpt": "Yakult has confirmed personal information relating to around 40,000 individuals was leaked following “unauthorised access” to its website."
+  },
   {
    "title": "Tilray eyes more cost cuts for US drinks business",
    "url": "https://www.just-drinks.com/news/tilray-more-cost-cuts-drinks/",

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-30T12:41:00Z",
+ "updated": "2026-10-30T14:49:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "Pet food market sees new leadership moves, retail expansion, and a cooling inflation trend amid growing focus on sustainability and safety.",
+  "hook": "Today’s pet‑food news highlights regulatory push for supplement legislation, market expansion moves, sustainability innovation, and a focus on safety investments.",
   "categories": {
-   "📈 Market": "New Midwest territory manager at RAWZ and PetLabCo. reaching PetSmart shelves signal continued retail growth, while pet product inflation cools across major economies.",
-   "⚖️ Regulation": "FDA issues an advisory on two lots of Darwin’s cat food linked to gastrointestinal illness, highlighting ongoing safety scrutiny.",
-   "💡 Innovation": "Roquette and Royal Canin partner to promote regenerative agriculture and co-invest in regenerative wheat farms, underscoring a sustainability push.",
-   "🤝 M&A": "Pet food makers are boosting investment in food safety and quality controls, emphasizing traceability, testing, and operational improvements."
+   "📈 Market": "Market activity centers on retail expansion with PetLabCo entering PetSmart, new leadership appointments, and a cooling of pet‑product inflation across major economies.",
+   "⚖️ Regulation": "Regulatory focus includes the National Animal Supplement Council’s call for signatures on the Animal Health Supplement Act, an FDA advisory on contaminated cat‑food lots, and growing B Corp certifications among pet firms.",
+   "💡 Innovation": "Innovation highlights feature Salty Cat’s launch on Chewy, a partnership between Roquette and Royal Canin to promote regenerative agriculture, and Pet HealthWorks’ dual‑action supplement for weight and joint health.",
+   "🤝 M&A": "Industry consolidation signals a shift toward heightened food‑safety and quality controls, with companies investing in traceability, testing, and operational improvements."
   }
  },
  "articles": [
+  {
+   "title": "NASC seeks signatures supporting Animal Health Supplement Act",
+   "url": "https://www.petfoodindustry.com/pet-supplements-pro/nasc-regulatory-update/article/15838311/nasc-seeks-signatures-supporting-animal-health-supplement-act",
+   "source": "Petfood Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "The National Animal Supplement Council is requesting signatures from manufacturers, suppliers, retailers, veterinarians, and pet owners to support the Animal Health Supplement Act. This initiative aims to gather community backing for the proposed legislation.",
+   "excerpt": "The National Animal Supplement Council is asking manufacturers, suppliers, retailers, veterinarians and pet owners to sign a community..."
+  },
   {
    "title": "RAWZ names new Midwest territory manager",
    "url": "https://www.petfoodprocessing.net/articles/21037-rawz-names-new-midwest-territory-manager",
