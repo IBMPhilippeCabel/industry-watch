@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-30T10:41:00Z",
+ "updated": "2026-10-30T12:41:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "New U.S. launch, K‑beauty tech buzz, and fragrance innovation shape today’s beauty scene.",
+  "hook": "Today’s beauty landscape sees strategic reshuffles, market optimism, fresh brand launches, and innovative product pushes.",
   "categories": {
-   "📈 Market": "Henkel lifts 2026 outlook after strong Q3, while Lady Gaga leads Haus Labs as new CEO.",
-   "💄 Brands & Retail": "Voesh revamps image and expands body care, Enhanse opens Nordstrom store, and Oribe sparks holiday excitement with artist collaborations.",
-   "🤝 Strategy & M&A": "VMG backs Miss A to $750 m, L’Oréal seeks Innovist stake, and Estée Lauder launches tween brand SkinBerry.",
-   "💡 Innovation & Regulation": "Eredi Zucca enters U.S. via Violet Grey, K‑beauty tech draws PE interest, and Tate McRae debuts fragrance with Scent Beauty."
+   "📈 Market": "Henkel lifts its 2026 outlook after a strong Q3, while Rare Beauty taps nostalgia with a new campaign and Haus Labs appoints Lady Gaga as CEO.",
+   "💄 Brands & Retail": "Voesh breaks through with a new image, Enhanse opens Nordstrom stores, and brands use comedians and holiday collaborations to refresh campaigns.",
+   "🤝 Strategy & M&A": "Margo Marrone reacquires The Organic Pharmacy, VMG backs Miss A, L’Oréal seeks Innovist stake, and Puig targets €8 bn sales by 2032.",
+   "💡 Innovation & Regulation": "Glow Hub launches a barrier‑first lip brand, Stormi Webster files a trademark, Eredi Zucca expands in the U.S., and Tate McRae debuts a fragrance with Scent Beauty."
   }
  },
  "articles": [
+  {
+   "title": "The Organic Pharmacy reacquired by founder Margo Marrone",
+   "url": "https://www.cosmeticsbusiness.com/the-organic-pharmacy-reacquired-by-founder-margo-marrone",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-30",
+   "ai_summary": "",
+   "excerpt": "Margo Marrone has reacquired The Organic Pharmacy a decade after selling it to Italian pharmaceutical group Istituto Ganassini, aiming to re-bolster the brand’s ‘founding philosophy of health, detoxification and lifestyl…"
+  },
+  {
+   "title": "Selena Gomez and Demi Lovato reunite for ‘Delena’ Rare Beauty campaign",
+   "url": "https://www.cosmeticsbusiness.com/selena-gomez-and-demi-lovato-reunite-for-delena",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-10-30",
+   "ai_summary": "",
+   "excerpt": "The childhood friends have tapped into the beauty nostalgia trend with Rare Beauty’s new ‘Still Making Each Other Blush’ campaign, inspired by the pair’s film Princess Protection Program and The Demi + Selena Show YouTub…"
+  },
+  {
+   "title": "Exclusive: Glow Hub’s Tiffany Salmon-Mills is building a barrier-first lip care brand",
+   "url": "https://www.cosmeticsbusiness.com/exclusive-tiffany-salmon-mills-barrier-first-lip-care",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "",
+   "excerpt": "BYORBE is the latest brand launch from Glow Hub’s Tiffany Salmon-Mills, taking lip care to new levels through a two-part treatment system built to work in tandem to repair the lip barrier while protecting from active ski…"
+  },
+  {
+   "title": "Is Kylie Jenner’s daughter Stormi planning to launch a beauty brand?",
+   "url": "https://www.cosmeticsbusiness.com/kylie-jenner-daughter-stormi-webster-beauty-brand",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "",
+   "excerpt": "Stormi Webster, the daughter of make-up mogul Kylie Jenner, could be the latest celebrity offspring to enter the beauty business with their own brand, according to a recent trademark filing"
+  },
   {
    "title": "EXCLUSIVE: Eredi Zucca Launches in the U.S. Via Violet Grey",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/italian-beauty-brand-eredi-zucca-violet-grey-launch-usa-market-1239391301/",

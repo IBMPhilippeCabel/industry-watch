@@ -1,12 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-10-30T10:41:00Z",
+ "updated": "2026-10-30T12:41:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "1 new articles today — 1 💡 Innovation.",
-  "categories": {}
+  "hook": "Pet food market sees new leadership moves, retail expansion, and a cooling inflation trend amid growing focus on sustainability and safety.",
+  "categories": {
+   "📈 Market": "New Midwest territory manager at RAWZ and PetLabCo. reaching PetSmart shelves signal continued retail growth, while pet product inflation cools across major economies.",
+   "⚖️ Regulation": "FDA issues an advisory on two lots of Darwin’s cat food linked to gastrointestinal illness, highlighting ongoing safety scrutiny.",
+   "💡 Innovation": "Roquette and Royal Canin partner to promote regenerative agriculture and co-invest in regenerative wheat farms, underscoring a sustainability push.",
+   "🤝 M&A": "Pet food makers are boosting investment in food safety and quality controls, emphasizing traceability, testing, and operational improvements."
+  }
  },
  "articles": [
+  {
+   "title": "RAWZ names new Midwest territory manager",
+   "url": "https://www.petfoodprocessing.net/articles/21037-rawz-names-new-midwest-territory-manager",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-30",
+   "ai_summary": "RAWZ appoints Bridget Jennings as new Midwest territory manager, leveraging her extensive pet industry sales experience.",
+   "excerpt": "Bridget Jennings brings years of pet industry sales experience to her new role."
+  },
+  {
+   "title": "PetLabCo. hits PetSmart shelves",
+   "url": "https://www.petfoodprocessing.net/articles/21036-petlabco-hits-petsmart-shelves",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-10-30",
+   "ai_summary": "PetLabCo. reaches PetSmart shelves, marking a key milestone in its U.S. retail expansion.",
+   "excerpt": "The expansion marks a significant milestone in the brand’s retail expansion in the United States."
+  },
+  {
+   "title": "Salty Cat launches on Chewy",
+   "url": "https://www.petfoodprocessing.net/articles/21035-salty-cat-launches-on-chewy",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-10-30",
+   "ai_summary": "Salty Cat expands its retail presence by launching on Chewy, adding to its online footprint.",
+   "excerpt": "The premium cat food and treat manufacturer expands its retail footprint through the online retailer."
+  },
+  {
+   "title": "FDA issues advisory on two lots of Darwin’s cat food due to Salmonella",
+   "url": "https://www.petfoodprocessing.net/articles/21034-fda-issues-advisory-on-two-lots-of-darwins-cat-food-due-to-salmonella",
+   "source": "Pet Food Processing",
+   "category": "⚖️ Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "The FDA issues an advisory on two lots of Darwin’s cat food after testing samples linked to gastrointestinal illness in cats.",
+   "excerpt": "The FDA tested samples after two cats developed gastrointestinal illness after consuming the food."
+  },
+  {
+   "title": "Inflation snapshot: Pet product inflation cools in most major economies",
+   "url": "https://globalpetindustry.com/news/inflation-snapshot-pet-product-inflation-cools-in-most-major-economies/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-10-30",
+   "ai_summary": "Pet product inflation cools in most major economies, with prices following more consistent patterns across tracked markets.",
+   "excerpt": "Pet product and service prices began to follow more consistent patterns across the markets tracked by GlobalPETS. In contrast to the varying trends observed in recent months, the Consumer Price Index (CPI) for pets, food…"
+  },
   {
    "title": "Roquette, Royal Canin Partner on Regenerative Agriculture - Grain Journal",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnVWZUV1TzBkaDBhel9sNEx5RnB1d0ZkOTI5ekx5dFNURk9mQm9QS0lhN1Q4alk2NWFoRE1QN3dBZnFKcUZTNzlOTi1mRktnR3kyWnFpZkQ0eHNGR2N4YlpMdXktdUlKR1RXZGU2OFZqWGRxLXZ4RUo0OXgwNEktZGRHX29GeVU2OThjdkFWT2lTYzNpZmRFdE5EV2U3cnJ0WUZr?oc=5",
