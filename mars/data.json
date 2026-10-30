@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-10-30T16:40:00Z",
+ "updated": "2026-10-30T18:38:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "Mars Corp sees new snack collaborations, pet food sustainability moves, and marketing buzz.",
+  "hook": "Mars Corporation’s day highlights pet‑food sustainability, snack innovation, and marketing creativity.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Roquette and Royal Canin partner on regenerative wheat farms, while Mars Wrigley pushes sustainability and travel retail innovation.",
-   "🐾 Petcare & Royal Canin": "Royal Canin donates 8 tons of pet food in Korea and partners with Roquette on regenerative agriculture for pet food production.",
-   "🍫 Snacking & FMCG Market": "Pop‑Tarts launches a Liquid Death‑inspired flavor, Skittles sales rise in Texas, and Pringles and M&M’s launch themed campaigns, all sparking fresh snack buzz.",
+   "🤝 Mars Corporate & M&A": "Roquette and Royal Canin partner on regenerative wheat farms to boost sustainable pet‑food production.",
+   "🐾 Petcare & Royal Canin": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day.",
+   "🍫 Snacking & FMCG Market": "M&M’S launched a Halloween ‘Scream Track’ and spooky ads, while Pop‑Tarts and Bachan’s expanded flavors, and Texans are buying Skittles more often than the national average.",
    "⚡ Tech & Operations": null,
-   "🌱 Sustainability & Sourcing": "Roquette and Royal Canin’s regenerative wheat initiative and Mars Wrigley’s sustainability targets highlight a focus on eco‑friendly sourcing."
+   "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M’S Halloween ‘Scream Track’ Makes Spooky Movie Nights Even Scarier — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWo5NUNueElZMnNuTHZ1VjdNeWRoZEJCRVVxQUN3TE9wSzJvZVVobzNTZnhWcU94R215Qk90bTg2WnZzU2hwMWNXdnh1SmVNOEt0WEZYTUozaG5PVnl2eXliWDVCaWhOU1dOYUNTVktVY3FLX2llNXdfdFAxc0xEcWxQdGVZdTlLZWRIQkNjQlhjTm9Cb01JeG9n?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-30",
+   "ai_summary": "M&M’S releases a Halloween-themed ‘Scream Track’ to enhance spooky movie nights. The track adds an extra layer of scariness to the viewing experience.",
+   "excerpt": "M&M’S Halloween ‘Scream Track’ Makes Spooky Movie Nights Even Scarier — LBB LBB - Little Black Book"
+  },
   {
    "title": "Leftovers: Pop-Tarts launches flavor inspired by Liquid Death | Bachan’s enters Japanese mayo",
    "url": "https://www.fooddive.com/news/pop-tarts-liquid-death-bachans-japanese-mayo-thats-it-granola/873310/",
