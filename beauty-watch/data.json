@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-30T02:41:00Z",
+ "updated": "2026-10-30T04:40:00Z",
  "briefing": {
-  "date": "2026-10-29",
-  "hook": "Innovation drives fragrance leadership while brands pivot to wellness and retailers reshape shelves.",
+  "date": "2026-10-30",
+  "hook": "K‑beauty tech buzz and sustainability pushes reshape the beauty landscape today.",
   "categories": {
-   "📈 Market": "Henkel lifts its 2026 sales outlook after a strong Q3, while Lady Gaga takes the helm as CEO of Haus Labs.",
-   "💄 Brands & Retail": "Front Row opens a Seoul office to help K‑beauty brands enter the U.S., expanding e‑commerce and branding services.",
-   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, signaling continued consolidation.",
-   "💡 Innovation & Regulation": "Tricia Butler becomes chair of The Fragrance Foundation, pledging to drive innovation and consumer connection in fragrance."
+   "📈 Market": "Henkel lifted its 2026 outlook after a strong Q3, while Lady Gaga’s new role as Haus Labs CEO signals leadership shifts in niche brands.",
+   "💄 Brands & Retail": "Voesh’s brand refresh and Enhanse’s first Nordstrom store launch illustrate growing retail innovation, while Front Row’s Seoul office supports K‑beauty brands entering the U.S. market.",
+   "🤝 Strategy & M&A": "VMG Partners’ $750 million investment in Miss A and L’Oréal’s acquisition of Innovist stake highlight continued consolidation and growth ambitions.",
+   "💡 Innovation & Regulation": "The BDA conference spotlighted K‑beauty tech, and Estée Lauder’s 2026 sustainability report underscores a broader industry focus on ESG and clean beauty initiatives."
   }
  },
  "articles": [
+  {
+   "title": "K-beauty, tech in spotlight at BDA conference as global PE giants with $400 bn AUM target Korea - KED Global",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yUzZJV1ZfMXhSNjJ4UlRENlotMjk5Q2hvSDl1MGt1M04yS3daT2hBSnRGZUk1dm1MM0pwSnRLZkxuMENiNzdhY2xEZDBERVJxUWpJVXpheFR0T01fbEZRWHE3TGtRY2NNMUFKeGk3YTdNT28?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "The BDA conference highlighted K‑beauty and technology, drawing attention from global private equity firms with $400 bn AUM targeting Korea.",
+   "excerpt": "K-beauty, tech in spotlight at BDA conference as global PE giants with $400 bn AUM target Korea KED Global"
+  },
+  {
+   "title": "13 Years In, Voesh Is Having A Major Retail Moment In Body Care",
+   "url": "https://www.beautyindependent.com/voesh-major-retail-moment-body-care/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-30",
+   "ai_summary": "Voesh, after thirteen years, is experiencing a significant retail breakthrough with a new brand image and expanded product line in body care.",
+   "excerpt": "Thirteen years after its founding, Voesh is having its breakout moment. Armed with a new look and a revamped lineup of products in the fast-growing body care category, the brand is making a major push into consumer retai…"
+  },
+  {
+   "title": "VMG Partners Backs Miss A At $750M Valuation As Dollar Beauty Retailer Targets $1B In Sales",
+   "url": "https://www.beautyindependent.com/vmg-partners-backs-miss-a-750m-valuation-dollar-beauty-retailer-targets-1b-sales/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-30",
+   "ai_summary": "VMG Partners has invested in Miss A, valuing the dollar beauty retailer at $750 million as it aims for $1 billion in sales by 2030.",
+   "excerpt": "As beauty consumers seek value, VMG Partners has acquired an undisclosed minority stake in Miss A at a roughly $750 million valuation as the dollar beauty retailer aims to generate $1 billion in annual sales by 2030. The…"
+  },
+  {
+   "title": "Can fashion be funny? How comedians became the faces of fall",
+   "url": "https://www.glossy.co/podcasts/can-fashion-be-funny-how-comedians-became-the-faces-of-fall/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-30",
+   "ai_summary": "Fashion brands are increasingly hiring comedians for their campaigns, moving beyond traditional celebrity partnerships to add humor to their messaging.",
+   "excerpt": "Recent fashion brand campaigns have gotten a lot funnier. Increasingly, brands are moving beyond working with athletes, musicians and influencers and are instead enlisting comedians for their campaigns."
+  },
+  {
+   "title": "EXCLUSIVE: Men’s Skin Care Brand Enhanse Makes Its Inaugural Move Into Brick-and-Mortar",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/enhanse-skin-care-nordstrom-launch-1239389023/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-10-30",
+   "ai_summary": "Enhanse, a men’s skincare brand founded by Evangelo Bousis, is launching its first physical retail presence in Nordstrom stores.",
+   "excerpt": "The brand, founded by fashion veteran Evangelo Bousis, is hitting Nordstrom stores nationwide."
+  },
   {
    "title": "Tricia Butler Named Board Chair of The Fragrance Foundation",
    "url": "https://wwd.com/beauty-industry-news/fragrance/tricia-butler-named-board-chair-fragrance-foundation-1239392028/",
