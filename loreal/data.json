@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-10-30T06:43:00Z",
+ "updated": "2026-10-30T08:47:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "L’Oréal’s day centers on new ambassador appointments, AI-driven warehouse efficiency, and a lawsuit over hair relaxers.",
+  "hook": "L’Oréal focuses on ambassador expansion, AI efficiency, and legal challenges.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal Paris appoints Adria Arjona as global ambassador, emphasizing diverse representation.",
-   "💄 Brands & Launches": "The brand’s new ambassador underscores its focus on expanding ambassadorial reach.",
-   "💡 Beauty Tech & ESG": "AI agents are used in warehouses to boost efficiency and scalability.",
-   "📈 Market": "A lawsuit in Minnesota alleges chemical hair relaxers may pose cancer risks."
+   "🤝 Strategy & M&A": "L’Oréal faces a Minnesota lawsuit over hair relaxers and sees RBC revise its financial estimates after Q3 results.",
+   "💄 Brands & Launches": "L’Oréal Paris appoints Adria Arjona as global ambassador, highlighting diverse representation.",
+   "💡 Beauty Tech & ESG": "AI agents boost warehouse KPIs, driving efficiency and scalability across L’Oréal operations.",
+   "📈 Market": "The brand launches a new campaign starring Adria Arjona to celebrate its 'I'm Worth It' slogan."
   }
  },
  "articles": [
+  {
+   "title": "In Review, October 2026: Headline highlights from Boots, L’Oréal, British Beauty Council and more... - TheIndustry.beauty",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWZWbjhWZ04tNjhka01yNHM0ZkF1YllOaFg4ek5RcFgwUEROUl9mRkhDZ1Ezajc2alFOeDFrTUhfakNZZTlMZHBSakpleGNDeVlTZUYweGcwRWNXZkxVaFYtczF2VVBtOThxRUFQMnpHTU00RVFFdTV5STZ3dk9pM3FBU28zeHZJT2txeTdseF9OdmpQWG5jMWdkNGJ2WnBQY2hONzlxQ0djazAxcWVmWGQxNlRfVWt2aElqVQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-30",
+   "ai_summary": "",
+   "excerpt": "In Review, October 2026: Headline highlights from Boots, L’Oréal, British Beauty Council and more... TheIndustry.beauty"
+  },
   {
    "title": "L’Oréal Paris Appoints Adria Arjona as Global Ambassador - Global Cosmetics News",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUpXd25leXBOSUZ3bHExbVY5UVU5UUlyT2JPQmJ1QVB1Z3FJZWZkbG5JUHAydmIycXJmMGFmdHZVSWl3MnltajE0VERFSU5mdThvV0g0T25qRDEwNnFQRFo5aHV4Nmo5aHpMSjlNdi1LQjFKZ3NqbW56bGpfRVR1TnZ5ampzSUh6TVhNNGJvYnNURThYVmFJ?oc=5",

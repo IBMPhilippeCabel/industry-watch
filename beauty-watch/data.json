@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-30T06:43:00Z",
+ "updated": "2026-10-30T08:47:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "New U.S. launches, K‑beauty tech buzz, and fragrance leadership shifts dominate today’s beauty scene.",
+  "hook": "Day highlights new U.S. launches, K‑beauty tech buzz, and strategic moves across beauty giants.",
   "categories": {
-   "📈 Market": "Henkel raised its 2026 outlook after a strong Q3, while Lady Gaga now leads Haus Labs as CEO.",
-   "💄 Brands & Retail": "Voesh’s brand refresh and Enhanse’s first Nordstrom store signal retail growth, alongside Front Row’s Seoul expansion for K‑beauty.",
-   "🤝 Strategy & M&A": "VMG Partners invested $750 m in Miss A, and L’Oréal is advised to acquire Innovist, reflecting ongoing consolidation.",
-   "💡 Innovation & Regulation": "Eredi Zucca’s U.S. launch via Violet Grey, BDA’s K‑beauty tech focus, and Tricia Butler’s new role at The Fragrance Foundation highlight innovation and industry leadership."
+   "📈 Market": "Henkel lifted its 2026 sales outlook after a strong Q3, driven by growth in hair care and consumer business.",
+   "💄 Brands & Retail": "Voesh, after thirteen years, is breaking through retail with a new brand image and expanded body‑care line.",
+   "🤝 Strategy & M&A": "VMG Partners invested $750 million in Miss A, aiming for $1 billion in sales by 2030.",
+   "💡 Innovation & Regulation": "Eredi Zucca launches in the U.S. through Violet Grey, expanding its product range while entering a new distribution phase."
   }
  },
  "articles": [
@@ -65,6 +65,15 @@
    "date": "2026-10-30",
    "ai_summary": "Enhanse, a men’s skincare brand founded by Evangelo Bousis, is launching its first physical retail presence in Nordstrom stores.",
    "excerpt": "The brand, founded by fashion veteran Evangelo Bousis, is hitting Nordstrom stores nationwide."
+  },
+  {
+   "title": "Tate McRae launches namesake fragrance brand in partnership with Scent Beauty",
+   "url": "https://www.premiumbeautynews.com/en/tate-mcrae-launches-namesake,28438",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "Tate McRae launches her own fragrance brand, Tate 01, in partnership with Scent Beauty. The collaboration marks her entry into the fragrance industry.",
+   "excerpt": "Canadian singer, songwriter, and dancer Tate McRae is entering into the fragrance industry with the launch of Tate 01, created in partnership with New York City-headquartered Scent Beauty, Inc. Crafted in collaboration w…"
   },
   {
    "title": "Tricia Butler Named Board Chair of The Fragrance Foundation",
