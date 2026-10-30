@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-30T04:40:00Z",
+ "updated": "2026-10-30T06:43:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "K‑beauty tech buzz and sustainability pushes reshape the beauty landscape today.",
+  "hook": "New U.S. launches, K‑beauty tech buzz, and fragrance leadership shifts dominate today’s beauty scene.",
   "categories": {
-   "📈 Market": "Henkel lifted its 2026 outlook after a strong Q3, while Lady Gaga’s new role as Haus Labs CEO signals leadership shifts in niche brands.",
-   "💄 Brands & Retail": "Voesh’s brand refresh and Enhanse’s first Nordstrom store launch illustrate growing retail innovation, while Front Row’s Seoul office supports K‑beauty brands entering the U.S. market.",
-   "🤝 Strategy & M&A": "VMG Partners’ $750 million investment in Miss A and L’Oréal’s acquisition of Innovist stake highlight continued consolidation and growth ambitions.",
-   "💡 Innovation & Regulation": "The BDA conference spotlighted K‑beauty tech, and Estée Lauder’s 2026 sustainability report underscores a broader industry focus on ESG and clean beauty initiatives."
+   "📈 Market": "Henkel raised its 2026 outlook after a strong Q3, while Lady Gaga now leads Haus Labs as CEO.",
+   "💄 Brands & Retail": "Voesh’s brand refresh and Enhanse’s first Nordstrom store signal retail growth, alongside Front Row’s Seoul expansion for K‑beauty.",
+   "🤝 Strategy & M&A": "VMG Partners invested $750 m in Miss A, and L’Oréal is advised to acquire Innovist, reflecting ongoing consolidation.",
+   "💡 Innovation & Regulation": "Eredi Zucca’s U.S. launch via Violet Grey, BDA’s K‑beauty tech focus, and Tricia Butler’s new role at The Fragrance Foundation highlight innovation and industry leadership."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: Eredi Zucca Launches in the U.S. Via Violet Grey",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/italian-beauty-brand-eredi-zucca-violet-grey-launch-usa-market-1239391301/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-30",
+   "ai_summary": "Eredi Zucca launches in the U.S. via Violet Grey, marking a new distribution phase. The Milan-based grooming brand’s CEO outlines product expansion plans.",
+   "excerpt": "The Milan-based grooming brand’s CEO Fabio Cantù mapped out the next phase of distribution and product expansion."
+  },
   {
    "title": "K-beauty, tech in spotlight at BDA conference as global PE giants with $400 bn AUM target Korea - KED Global",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yUzZJV1ZfMXhSNjJ4UlRENlotMjk5Q2hvSDl1MGt1M04yS3daT2hBSnRGZUk1dm1MM0pwSnRLZkxuMENiNzdhY2xEZDBERVJxUWpJVXpheFR0T01fbEZRWHE3TGtRY2NNMUFKeGk3YTdNT28?oc=5",

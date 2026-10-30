@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-10-30T04:40:00Z",
+ "updated": "2026-10-30T06:43:00Z",
  "briefing": {
   "date": "2026-10-30",
-  "hook": "Heineken pushes creative partnerships while market shifts focus on duty hikes and distribution tweaks.",
+  "hook": "Regulatory shifts, distribution tweaks and new premium offerings shape the beverage landscape today.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken partners with Magnum Photos to showcase local pubs, and MIP Cancun opens with a keynote featuring Publicis, Nestlé, and Heineken.",
-   "📈 Market": "Campari CEO signals organic growth but expects a marginal US decline, UK producers protest duty hikes, Bacardi reshapes US distribution, Oatly cuts profit outlook, and Just Drinks plans to expand functional and THC lines.",
-   "🍸 Spirits & Premium": "Jameson Black Barrel is highlighted as a step‑up option.",
+   "🤝 Strategy & M&A": null,
+   "📈 Market": "Regulators raise duties in the UK while Campari and Heineken adjust outlooks, and Bacardi reconfigures US distribution to navigate market dynamics.",
+   "🍸 Spirits & Premium": "Jameson Black Barrel’s step‑up is praised for its quality, positioning it as a premium upgrade.",
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Just Drinks aims to grow relaxation drinks with functional and THC offerings."
+   "💡 Innovation & No-Low": "Just Drinks plans to grow functional and THC‑infused relaxation drinks under its Unwind brand, expanding the niche market."
   }
  },
  "articles": [
@@ -228,6 +228,15 @@
    "date": "2026-10-28",
    "ai_summary": "Europe’s Living Rooms: HEINEKEN and Magnum Photos Release Photoseries Documenting Europe’s Pubs and Bars markets.businessinsider.com",
    "excerpt": "Europe’s Living Rooms: HEINEKEN and Magnum Photos Release Photoseries Documenting Europe’s Pubs and Bars markets.businessinsider.com"
+  },
+  {
+   "title": "Why Daniel Dopp is 'lowering expectations' for Jameson Williams in Week 8 - ESPN",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWhuMUFJR0tKQUp3U0ZYTGFNRUptRWxSM2txTWpNLXhsYjBBaWVDUXUtMGhsZWE2ZlpkOS0wbExFS3NKaHZoRW15aFVUbVpvOTFfTTZWTDVuR1lJYWIyN1dnQVVZZEJ5RUZ3YXRWNDU5Rk1MWmtxM2QzaDFLQTU0eVFETFpIa29RdzVhVU5QU2kxZVpRT0FxLVMtZVNYWHlEMERBVjNyRHVXUG8?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-28",
+   "ai_summary": "Why Daniel Dopp is 'lowering expectations' for Jameson Williams in Week 8 - ESPN. The article discusses Daniel Dopp's perspective on Jameson Williams' performance expectations for Week 8.",
+   "excerpt": "Why Daniel Dopp is 'lowering expectations' for Jameson Williams in Week 8 ESPN"
   },
   {
    "title": "Heineken CFO holding “conservative” outlook for Americas",
