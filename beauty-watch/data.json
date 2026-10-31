@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-10-31T14:29:00Z",
+ "updated": "2026-10-31T16:29:00Z",
  "briefing": {
   "date": "2026-10-31",
-  "hook": "TikTok Shop boosts Gen‑Z sales for Michael Kors, while new retail launches and long‑form content signal a shift toward authenticity and experiential marketing.",
+  "hook": "Today’s highlights show brands blending fragrance with fashion, expanding retail footprints, and strategic moves in M&A and market positioning.",
   "categories": {
-   "📈 Market": "Dr.Jart+ names a Korean pop star as its first North American brand ambassador, reflecting continued focus on K‑beauty collaborations.",
-   "💄 Brands & Retail": "Michael Kors’ TikTok Shop outperforms expectations, and Enhanse opens its first Nordstrom store, showing a trend toward new retail channels and audience expansion.",
-   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, indicating ongoing consolidation in the beauty sector.",
-   "💡 Innovation & Regulation": "Ouai’s cinematic web series highlights a move toward long‑form content to counter AI‑generated marketing, underscoring a push for authentic storytelling."
+   "📈 Market": "Dr.Jart+ names a Korean pop star as its first North American brand ambassador, while Rare Beauty taps celebrity nostalgia in a new campaign.",
+   "💄 Brands & Retail": "Michael Kors surpasses expectations on TikTok Shop, and Enhanse opens its first Nordstrom store, signaling growth in physical retail.",
+   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, and VMG Partners invests $750 million in Miss A to scale toward a $1 billion target.",
+   "💡 Innovation & Regulation": "Ouai partners with Heaven Mayhem to launch refillable fragrance necklaces, and the brand also debuts a cinematic web series to capitalize on long‑form content trends."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: Ouai and Heaven Mayhem Team Up on Refillable Fragrance Necklaces",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/ouai-heaven-mayhem-fragrance-necklace-collaboration-1239394550/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-10-31",
+   "ai_summary": "Ouai and Heaven Mayhem collaborate to create refillable fragrance necklaces that combine signature scents with vintage-inspired jewelry designs. The partnership offers a unique blend of beauty and accessory elements in a single product.",
+   "excerpt": "The amulet necklaces bring together Ouai’s signature scents and Heaven Mayhem’s vintage-inspired jewelry designs."
+  },
   {
    "title": "Michael Kors finds a new audience on TikTok Shop ahead of Black Friday",
    "url": "https://www.glossy.co/fashion/michael-kors-tiktok-shop-sales-gen-z/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
