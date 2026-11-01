@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-01T12:39:00Z",
+ "updated": "2026-11-01T14:30:00Z",
  "briefing": {
   "date": "2026-11-01",
-  "hook": "Mars Corp’s day highlights new snack launches, a Halloween candy scare, and a pet‑food partnership focused on regenerative farming.",
+  "hook": "Mars Corp sees a mix of product launches, safety alerts and a new sustainability partnership today.",
   "categories": {
    "🤝 Mars Corporate & M&A": "Roquette and Royal Canin jointly invest in regenerative wheat farms to support sustainable pet food production.",
-   "🐾 Petcare & Royal Canin": "Roquette and Royal Canin collaborate on regenerative agriculture initiatives.",
-   "🍫 Snacking & FMCG Market": "New snack releases include Pringles headphones, M&M’s Halloween track, Pop‑Tarts Liquid Death flavor, and a holiday chocolate lineup, while a needle was found in a Snickers bar.",
+   "🐾 Petcare & Royal Canin": null,
+   "🍫 Snacking & FMCG Market": "Pringles Bluetooth headphones launch, M&M’s Halloween track release, and a needle found in a Snickers bar raise safety and marketing headlines.",
    "⚡ Tech & Operations": null,
-   "🌱 Sustainability & Sourcing": "The partnership with Roquette emphasizes regenerative wheat farming for sustainable pet food production."
+   "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
@@ -48,6 +48,15 @@
    "date": "2026-10-31",
    "ai_summary": "Needle found in Snickers candy bar after Halloween trick-or-treating in Crystal City",
    "excerpt": "Needle found in Snickers candy bar after Halloween trick-or-treating in Crystal City WOAI"
+  },
+  {
+   "title": "Needle found in Snickers candy bar after Halloween trick-or-treating in Crystal City - KABB",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPR2l1MzVJcGMydDNLQWkzWFhSb1RfUlJ4NkJOa1pnUnAwU0FSVDlwWkx4T09taHJPMFhYeUtCZzNiVENxOUxoNDJMOGNoUlh6MUt2c3IzS2YzR0VIRExiTDJha0E1V0g5QWI0amZxOWdaN1p4Zl9DendpcC1OQUpTMUFQN3JnUmpqR3pfZWJsSzZxbjZQQnNZVjZVYnBJSDR6a1BQbUk0THBNSWI3cHU3VndqSkh5S0lTMGZZTmdjaUl3SXZUMUpxdXdMYlVxZGp5R25hVVFLM2NNR3dPNkQ4ekg3UlRUY3lCcXY3Q1JwWldZSUFkbUtSQ0FmckRIc0pKTVE?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-31",
+   "ai_summary": "",
+   "excerpt": "Needle found in Snickers candy bar after Halloween trick-or-treating in Crystal City KABB"
   },
   {
    "title": "M&M’S Halloween ‘Scream Track’ Makes Spooky Movie Nights Even Scarier — LBB - LBB - Little Black Book",
