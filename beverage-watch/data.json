@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-01T00:46:00Z",
+ "updated": "2026-11-01T02:41:00Z",
  "briefing": {
-  "date": "2026-10-31",
-  "hook": "Labor Day lifts US spirits sales, while UK duty hikes stir debate.",
+  "date": "2026-11-01",
+  "hook": "US spirits sales rally on Labor Day, while Heineken reports Q3 results and brands pivot to cost cuts and new alliances.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Labor Day boosts US spirits sales, and UK duty hikes spark criticism from producers.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "RationAle partners with LA Libations and Homestead Brands to expand its reach.",
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Heineken released its Q3 2026 sales and trading statement, outlining performance and outlook.",
+   "📈 Market": "Labor Day lifted US spirits sales, and brands like RationAle and Tilray are pursuing alliances and cost cuts to strengthen their positions.",
+   "🍸 Spirits & Premium": "Campari’s CEO maintains an organic growth outlook for 2026 but warns of a marginal decline in the US market.",
+   "🍺 Beer & Brewing": "RationAle has partnered with LA Libations and Homestead Brands to expand its growth strategy.",
+   "💡 Innovation & No-Low": "UK duty hikes have prompted wine and spirits producers to protest, highlighting regulatory pressures on the sector."
   }
  },
  "articles": [
+  {
+   "title": "Detroit Lions receiver Jameson Williams shares Halloween spirit with families - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVk3dzVub2x5dlRRUlN0NGNqTDM5Sk92YXlkUUJnNkJqQjFRc3FfVTZremFOM05OTEZWWWZhZ2ZSd2FXeHZmM2NRZDF4OWg3R1pHcDZLNk54d0NDWGVvMGV2S09TbHhOYzk1M1pxOUVNTEV0bW1OVWpGcFFvdjdWdUNOWVdCa2dsc0E?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-01",
+   "ai_summary": "Detroit Lions receiver Jameson Williams shares Halloween spirit with families - CBS News",
+   "excerpt": "Detroit Lions receiver Jameson Williams shares Halloween spirit with families CBS News"
+  },
   {
    "title": "Jameson Williams Week 8 Outlook for Fantasy Football (2026) - RotoBaller",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWYyWHFJUUQzV0Q3emo0QWlObGZYbG5EZUYxckxIX1JmTzhGX1gzUklCRXV2X0hEY3RRb1luSHR0aDEyV011am12aFBGMVlaNGNIeVJub2VZRWJBOXRJMUt6ZmtueHRRbVZxSlJCU0VJVUhmUTBEWWhEc0pHTl9HQUNvbWhwd1pjSjU3V3hEU1djSzJva3lMSmRrZWJBODloamFkdVNBWHUxOXN6XzNDTFhmV0I5MGZGOVE?oc=5",
@@ -120,6 +129,15 @@
    "date": "2026-10-30",
    "ai_summary": "Heineken N.V. successfully places €1.0 billion of Notes – The company has issued a €1.0 billion note placement as reported by Yahoo Finance UK.",
    "excerpt": "Heineken N.V. successfully places €1.0 billion of Notes Yahoo Finance UK"
+  },
+  {
+   "title": "Heineken N.V. successfully places €1.0 billion of Notes - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2FJVHRZcW9aMmRBT01Mc3dYU0phc2RRLVNhVUtlU0FpMnNwaHhpaHZ3THkyRmdYX0tCSWRkMUNHajN1SHRoMnd4WnRFTzVkYm9wT0pDelJWaGdfMmw2Q0wtVFpQLUkxUXB5QjUxbnl0WUVkcXZuZlhnZXFFeGp5TDYtbHQ1SFVWM0NGLVZQZFdvc3p0dTVqa3lrMkN6QQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-10-30",
+   "ai_summary": "Heineken N.V. successfully places €1.0 billion of Notes - Yahoo Finance",
+   "excerpt": "Heineken N.V. successfully places €1.0 billion of Notes Yahoo Finance"
   },
   {
    "title": "Lions’ Jameson Williams surprises 12-year-old Warren crash victim with FaceTime call - WXYZ Channel 7",
