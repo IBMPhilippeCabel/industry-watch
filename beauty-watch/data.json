@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-01T20:27:00Z",
+ "updated": "2026-11-01T22:29:00Z",
  "briefing": {
-  "date": "2026-10-31",
-  "hook": "New collaborations and bold retail moves signal a shift toward experiential and personalized beauty.",
+  "date": "2026-11-01",
+  "hook": "New sustainability focus and digital retail gains shape the beauty landscape today.",
   "categories": {
-   "📈 Market": "Dr.Jart+ names a Korean pop star as its first North American brand ambassador, while Rare Beauty taps celebrity nostalgia for a new campaign.",
-   "💄 Brands & Retail": "Michael Kors surpasses expectations on TikTok Shop, and Enhanse opens its first Nordstrom store, marking a retail expansion.",
-   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, and VMG Partners invests $750 million in Miss A to scale toward $1 billion sales.",
-   "💡 Innovation & Regulation": "Ouai launches a cinematic web series and refillable fragrance necklaces, while Glow Hub’s new lip care brand focuses on barrier repair and protection."
+   "📈 Market": "Dr.Jart+ names a Korean pop star as its first North American brand ambassador, boosting its premium BB cream line.",
+   "💄 Brands & Retail": "Michael Kors sees a four‑fold surge on TikTok Shop ahead of Black Friday, while Enhanse opens its first Nordstrom store.",
+   "🤝 Strategy & M&A": "L’Oréal is advised to acquire a majority stake in Innovist, and VMG Partners invests $750 million in Miss A.",
+   "💡 Innovation & Regulation": "CMS Consulting offers sustainable secondary packaging, and Ouai launches a refillable fragrance necklace line and a cinematic web series."
   }
  },
  "articles": [
+  {
+   "title": "CMS CONSULTING: Combining precision, quality and social responsibility in cosmetic packaging",
+   "url": "https://www.cosmeticsbusiness.com/cms-consulting-combining-precision-quality-and-social-responsibility",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-01",
+   "ai_summary": "CMS CONSULTING offers flexible, high-quality secondary packaging and assembly solutions for the cosmetics industry, combining specialist expertise with a strong commitment to sustainability and inclusive employment.",
+   "excerpt": "Czech-based CMS CONSULTING offers flexible, high-quality secondary packaging and assembly solutions for the cosmetics industry, combining specialist expertise with a strong commitment to sustainability and inclusive empl…"
+  },
+  {
+   "title": "Next generation: Paris Packaging Week unveils its 2027 Future Leaders cohort",
+   "url": "https://www.premiumbeautynews.com/en/next-generation-paris-packaging,28440",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-01",
+   "ai_summary": "Paris Packaging Week has unveiled its 2027 Future Leaders cohort, featuring ten young professionals from Europe, Africa, and North America who will be celebrated at Paris Expo Porte de Versailles.",
+   "excerpt": "Paris Packaging Week has unveiled the ten young professionals who will be celebrated on February 3-4, 2027, at Paris Expo Porte de Versailles. Representing businesses across Europe, Africa and North America, they make up…"
+  },
   {
    "title": "Willy Chavarria Teams With Xinú for Limited-Edition Candle Vessel",
    "url": "https://wwd.com/beauty-industry-news/fragrance/willy-chavarria-xinu-candle-collab-mexico-1239393054/",
