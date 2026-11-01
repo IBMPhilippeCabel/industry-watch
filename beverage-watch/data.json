@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-01T18:33:00Z",
+ "updated": "2026-11-01T20:27:00Z",
  "briefing": {
   "date": "2026-11-01",
-  "hook": "Heineken’s financing move and Labor Day lift drive market chatter, while RationAle partners signal brewing growth.",
+  "hook": "Heineken's note issuance and US spirits sales lift dominate today's market chatter.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken plans to issue EUR1 billion in notes while its stock is seen as fairly valued after a 34% run.",
-   "📈 Market": "Labor Day boosts US spirits sales in control states, helping September figures rebound.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "RationAle Brewing partners with LA Libations and Homestead Brands to grow its non‑alcoholic beer line.",
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Heineken plans to issue EUR1 billion in notes across two tranches, signalling a financing move.",
+   "📈 Market": "Labor Day holiday helped lift US spirits sales in control states, according to NABCA figures.",
+   "🍸 Spirits & Premium": "Campari CEO maintains 2026 organic topline growth outlook while warning of a marginal decline in the US.",
+   "🍺 Beer & Brewing": "RationAle Brewing partners with LA Libations and Homestead Brands to drive strategic growth.",
+   "💡 Innovation & No-Low": "Campari launches a new Courvoisier Cognac tailored for Chinese drinkers."
   }
  },
  "articles": [
+  {
+   "title": "Can't-Miss Play: Goff's 46-yard deep ball to Jameson Williams gives Lions red-zone access vs. Vikes - NFL.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmNzNTd4LWJDSGd3LS1STkFPRVZVdGptQlN2V3lfc0Q2QVpmNzA4WUpZYzU4UWpXeTNCUkl5Rm1Xa3V1dF9tazkzY3ZSSzJqblZXVnBpRXNPX25EdlJpT0hMNG5idDItdVZqUENkcnowNnJRR3BNbWpvWHlad1VBMzBDRloyaU5ROUVTMHBHcEhZWVlNblpGQ3lGTDVpa2JmSC1pdXBvTmRxR0ZUeUpkNDZENXJkc2tETXgtdTJkeE9JQQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-01",
+   "ai_summary": "Goff throws a 46-yard deep ball to Jameson Williams, giving the Lions red‑zone access against the Vikings.",
+   "excerpt": "Can't-Miss Play: Goff's 46-yard deep ball to Jameson Williams gives Lions red-zone access vs. Vikes NFL.com"
+  },
+  {
+   "title": "Lions Star Jameson Williams Faces Potential NFL Fine After Vikings Flag - Heavy.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMU1CUHNWT3RPTVVwVHBrc19oenJaeWtLYU1JaWRFNWxpU2RTUTNwRGw0ZGh3NkxlUUZhNXpDY2NnMFJVbjMxZUthZ2hMWGxOSTROSjNOMWxnNFB4WEMzQjZVd18ybENqdzJTRWdQYTdITkhhcTJ2Z2NWZkdNMzhHdWJjT0lKU2FRdWc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-01",
+   "ai_summary": "Jameson Williams may face an NFL fine after a flag was called on him by the Vikings.",
+   "excerpt": "Lions Star Jameson Williams Faces Potential NFL Fine After Vikings Flag Heavy.com"
+  },
   {
    "title": "Ex-New York Yankees 14-Game Winner Immediately Becomes Free Agent - Heavy.com",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGRJMVdqcC1sMHNmTWRTcGlWdXVqY3hDa0UyV2htdlYxVjhwcm9CcmFwc1o5dmZVdG12Y01qdEtMVGJBSU92dXhBOUZMdGFCa3BGRm9YX2huNHRtejVGS2YxR2YwejhWRE1xYUdCQVg4bjhRbTBaLWhYazI3TWp5dTJYZWRMVlJPcHVpSFFEZ3hBbzlsX0E?oc=5",
@@ -183,6 +201,15 @@
    "date": "2026-10-30",
    "ai_summary": "Lions’ Jameson Williams surprises 12-year-old Warren crash victim with FaceTime call - WXYZ Channel 7 — Lions’ Jameson Williams surprises 12-year-old Warren crash victim with FaceTime call WXYZ Channel 7",
    "excerpt": "Lions’ Jameson Williams surprises 12-year-old Warren crash victim with FaceTime call WXYZ Channel 7"
+  },
+  {
+   "title": "Campari launches Courvoisier exclusive in China",
+   "url": "https://www.just-drinks.com/news/campari-launches-courvoisier-exclusive-in-china/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-10-30",
+   "ai_summary": "Campari has developed a new Courvoisier Cognac for drinkers in China.",
+   "excerpt": "Campari has developed a new Courvoisier Cognac for drinkers in China."
   },
   {
    "title": "Labor Day boosts US spirits sales – NABCA",
