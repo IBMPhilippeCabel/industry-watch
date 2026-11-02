@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-02T08:55:00Z",
+ "updated": "2026-11-02T10:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "Tariff talks, new Chinese cognac, US spirits rebound, and strategic beer alliances shape the day.",
+  "hook": "US spirits sales lift on Labor Day while Sazerac faces scrutiny over child‑targeted marketing.",
   "categories": {
-   "🤝 Strategy & M&A": "Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with the Indian government.",
-   "📈 Market": "US spirits sales rebounded on Labor Day, Tilray plans further cost cuts, and RationAle partners with LA Libations for growth.",
-   "🍸 Spirits & Premium": "Campari has developed a new Courvoisier Cognac for drinkers in China.",
-   "🍺 Beer & Brewing": "RationAle Brewing has formed a strategic growth alliance with beverage incubator LA Libations and brand builder Homestead Brands.",
-   "💡 Innovation & No-Low": "Campari has developed a new Courvoisier Cognac for drinkers in China."
+   "🤝 Strategy & M&A": "Diageo and Pernod Ricard will discuss a tariff reduction for bulk Scotch imports with India.",
+   "📈 Market": "US spirits sales rebounded in September thanks to Labor Day, and Sazerac is under fire for a child‑appealing ice‑cream van promotion.",
+   "🍸 Spirits & Premium": "Campari has launched a new Courvoisier Cognac aimed at Chinese drinkers.",
+   "🍺 Beer & Brewing": "RationAle Brewing has partnered with LA Libations and Homestead Brands to grow its non‑alcoholic beer line.",
+   "💡 Innovation & No-Low": "Campari’s new Courvoisier Cognac targets Chinese consumers."
   }
  },
  "articles": [
+  {
+   "title": "Sazerac reproached over ice-cream van stunt",
+   "url": "https://www.just-drinks.com/news/sazerac-reproached-ice-cream-stunt/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Sazerac was reproached for using an ice-cream van to promote alcohol, which could appeal to children. The Portman Group upheld a complaint against the company for this marketing tactic.",
+   "excerpt": "The Portman Group has upheld a complaint against Sazerac that argued its use of an ice cream van to promote alcohol could appeal to children."
+  },
   {
    "title": "Diageo, Pernod Ricard to Discuss Bulk Scotch Imports Tariff Cut with Indian Government - marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMk1UMUFRcW5fQjNiTlJJcENwM2ExdE5nNnVTeDh1SEdpdVRzb3FkUDZwMnZfZUJ6eEdQR2tqT1BtdVBJTWZpWG5kOFRRNU4xYzdwVDNhTFBkMUZnbGdKM1dJWnFwX3pmcTJiZlFwcDBCTzhPTDBqX0RQMGxlUldFX0t6TG5IdC1fbHRSNXM1OTBjVzRZUl84XzFoMGlFWEdvM0tJOGM0cVNfYzZ2RDE4R19TUC04ZzdUOC1OUTBLUFVzUmVWaXZ4UjZkZU9abzlYV3RkeA?oc=5",

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-02T08:55:00Z",
+ "updated": "2026-11-02T10:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "New fragrance formats, TikTok retail buzz, and strategic brand moves dominate the beauty scene.",
+  "hook": "New AI insights, fragrance innovation, and brand retail moves shape the beauty landscape.",
   "categories": {
-   "📈 Market": "Dr.Jart+ and Rare Beauty launch high‑profile campaigns featuring Korean pop stars and nostalgic collaborations, signaling continued celebrity‑driven brand activations.",
-   "💄 Brands & Retail": "TikTok is reshaping retail with creators promoting Ulta salons and brands like Michael Kors, while Nordstrom plans a unique holiday campaign to stand out.",
-   "🤝 Strategy & M&A": "The Organic Pharmacy returns to its founder, VMG Partners invests in Miss A, and Coty reports strong results, illustrating ongoing consolidation and growth in the sector.",
-   "💡 Innovation & Regulation": "Innovative fragrance formats, sustainable packaging solutions, and collaborations like Ouai’s refillable necklaces highlight a trend toward experiential and eco‑friendly product design."
+   "📈 Market": "Pitti Fragranze 2026 attracted 290 exhibitors and 2,200 buyers, underscoring continued industry engagement.",
+   "💄 Brands & Retail": "Michael Kors surpasses Black Friday expectations on TikTok Shop, reaching nearly four times projected sales.",
+   "🤝 Strategy & M&A": "The Organic Pharmacy returns to its founder after a decade, signaling a renewed focus on its original health and wellness ethos.",
+   "💡 Innovation & Regulation": "New fragrance formats and refillable necklace collaborations highlight a trend toward sustainable, multi‑use beauty products."
   }
  },
  "articles": [
+  {
+   "title": "Exclusive: Croda, Azelis and Brenntag identified as top 3 cosmetic ingredient suppliers in AI search report",
+   "url": "https://www.cosmeticsbusiness.com/exclusive-croda-azelis-and-brenntag-identified-as-top",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "Exclusive: Croda, Azelis and Brenntag identified as top 3 cosmetic ingredient suppliers in AI search report — A new GEO-focused Visibility Index Report, based on ChatGTP conversations, revealed how distributors are mostly likely to score highest in unbranded AI searches",
+   "excerpt": "A new GEO-focused Visibility Index Report, based on ChatGTP conversations, revealed how distributors are mostly likely to score highest in unbranded AI searches"
+  },
   {
    "title": "Fragrance Takes New Forms: 5 Formats Expanding The Business",
    "url": "https://www.beautyindependent.com/fragrance-takes-new-forms-formats-expanding-perfume-business/",
@@ -47,6 +56,15 @@
    "date": "2026-11-02",
    "ai_summary": "Nordstrom plans an unexpected campaign to stand out amid the crowded holiday season, aiming to manage its marketing across multiple major shopping events.",
    "excerpt": "With the holiday season so important, one challenge retailers like Nordstrom face is staggering their holiday campaigns and merchandising when Halloween, Thanksgiving, Black Friday, Christmas, New Year's and other winter…"
+  },
+  {
+   "title": "Throwback to Pitti Fragranze 2026: Why it still matters",
+   "url": "https://www.premiumbeautynews.com/en/throwback-to-pitti-fragranze-2026,28441",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Throwback to Pitti Fragranze 2026: Why it still matters — The 24th edition of Pitti Fragranze, held September 11-13, 2026, at Florence's Stazione Leopolda, Italy, attracted 290 exhibitors and more than 2,200 buyers and industry professionals, according to figures supplied by Pi…",
+   "excerpt": "The 24th edition of Pitti Fragranze, held September 11-13, 2026, at Florence's Stazione Leopolda, Italy, attracted 290 exhibitors and more than 2,200 buyers and industry professionals, according to figures supplied by Pi…"
   },
   {
    "title": "CMS CONSULTING: Combining precision, quality and social responsibility in cosmetic packaging",

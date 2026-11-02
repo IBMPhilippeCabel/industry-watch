@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-02T08:55:00Z",
+ "updated": "2026-11-02T10:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "Today’s updates highlight regulatory scrutiny, market expansion, and a new retail launch in the pet food sector.",
+  "hook": "Today’s pet food news highlights a U.S. acquisition, regulatory updates, market stabilization, and a new online launch.",
   "categories": {
-   "📈 Market": "PetLabCo. reaches PetSmart shelves, marking a key milestone in its U.S. retail expansion.",
-   "⚖️ Regulation": "The FDA issues an advisory on two lots of Darwin’s cat food after testing samples linked to gastrointestinal illness in cats.",
-   "💡 Innovation": "Salty Cat expands its retail presence by launching on Chewy, adding to its online footprint.",
-   "🤝 M&A": null
+   "📈 Market": "Pet product inflation cools while new sales roles and retail entries signal steady market activity.",
+   "⚖️ Regulation": "Regulatory focus shifts from Brazil’s industry forum to U.S. FDA advisories and a national supplement act push.",
+   "💡 Innovation": "Salty Cat expands its online footprint by launching on Chewy.",
+   "🤝 M&A": "i‑Tail’s $160 million purchase of Phelps Pet Products expands its U.S. pet food footprint."
   }
  },
  "articles": [
+  {
+   "title": "i-Tail acquires US pet treat manufacturer Phelps Pet Products",
+   "url": "https://globalpetindustry.com/news/i-tail-acquires-us-pet-treat-manufacturer-phelps-pet-products/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-02",
+   "ai_summary": "i-Tail Corporation has acquired Phelps Pet Products, a contract manufacturer of pet treats in Illinois, for an enterprise value of $160 million. The acquisition expands i-Tail's presence in the U.S. pet food market.",
+   "excerpt": "Thai pet food manufacturer i-Tail Corporation has acquired Phelps Pet Products, an Illinois-based contract manufacturer of pet treats, for an enterprise value of $160 million (€139M). According to the company, the deal e…"
+  },
   {
    "title": "Brazil’s pet industry faces regulatory and trade challenges",
    "url": "https://globalpetindustry.com/news/brazils-pet-industry-faces-regulatory-and-trade-challenges/",
