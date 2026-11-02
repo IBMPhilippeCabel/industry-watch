@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-02T12:53:00Z",
+ "updated": "2026-11-02T14:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "Henkel targets gloss treatments while Estée Lauder boosts AI and LVMH’s brands grow, marking a day of strategic moves and tech‑driven innovation.",
+  "hook": "Today’s focus spans L’Oréal’s Q1 results, LipoTrue’s biotech launches, and a surge in K‑beauty retail expansion.",
   "categories": {
-   "📈 Market": "Henkel UK&I focuses on gloss treatments as hair care’s next growth area, while LVMH’s brands like La Mer and Tom Ford show strong performance in skin care and fragrance.",
-   "💄 Brands & Retail": "Selfridges launches Biodance and Medicube counters in a new K‑beauty destination, and Michael Kors sees a surge on TikTok Shop ahead of Black Friday.",
-   "🤝 Strategy & M&A": "VMG Partners invests in Miss A, and The Organic Pharmacy is reacquired by its founder, signaling renewed focus on brand heritage.",
-   "💡 Innovation & Regulation": "Estée Lauder partners with Microsoft to enhance AI capabilities across its brands, and e.l.f. launches a handcrafted stop‑motion Christmas campaign to celebrate human creativity."
+   "📈 Market": "Henkel UK&I targets gloss treatments as hair care’s next growth driver while Kenvue reports modest beauty sales growth.",
+   "💄 Brands & Retail": "Selfridges opens dedicated K‑beauty counters for Biodance and Medicube, and Michael Kors sees a TikTok Shop surge ahead of Black Friday.",
+   "🤝 Strategy & M&A": "Estée Lauder releases 2027 Q1 results, LipoTrue debuts three new biotechnological actives, and The Organic Pharmacy is reacquired by founder Margo Marrone.",
+   "💡 Innovation & Regulation": "Estée Lauder partners with Microsoft to enhance AI, and e.l.f. opts for handcrafted stop‑motion in its Christmas campaign."
   }
  },
  "articles": [
+  {
+   "title": "Estée Lauder Companies’ 2027 Q1 Results - Beauty Packaging",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3lNa1FfUVhpV244eFRXc1hmYXNIbGF3cDg5YXNrczJqTkZ6ZGpRNHlESmNNbmhuUUhqMk5iSXREMmtPWHRGbmNXb2FXV3lQYXRFaGdfT0Q0czNWZVF5aGwyQ2QxalJ1UEVUaU9lSk1uQUYyWldjdjRrYmM3aWZ0Y1NPV1E5TFZSSFVGcnlR?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Estée Lauder Companies reports its 2027 Q1 results for Beauty Packaging.",
+   "excerpt": "Estée Lauder Companies’ 2027 Q1 Results Beauty Packaging"
+  },
   {
    "title": "Henkel UK&I bets on gloss treatments as hair care’s next big growth category",
    "url": "https://www.cosmeticsbusiness.com/henkel-bets-on-glosses-as-hair-cares-next-big-growth-category",
@@ -85,6 +94,15 @@
    "excerpt": "The beauty giant sees growth across key categories like skin care and fragrance, with strong performances from brands including La Mer, Tom Ford, and Jo Malone London."
   },
   {
+   "title": "The Estée Lauder Companies Reports Fiscal 2027 First Quarter Results - The Estée Lauder Companies Inc.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1c5WnNRZ0NTejN4LWxDUWJNd2tWQzlDRnNJUFA2NF9DTmItQXJMdzl3Ym5TdXpPNWVULWxKUU16cXFBa3FKUExBQldOT3RERnRpdUNnRmYzYTR4TmNtTU1Kb095LWZrSDNfWVJvTFl2WjNnZ3l0aXduNmpDeENpeGlIRS1GMEplY0d0Y04wQUlTLVNuRUhjclB6cw?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "The Estée Lauder Companies Inc. announces its fiscal 2027 first quarter results.",
+   "excerpt": "The Estée Lauder Companies Reports Fiscal 2027 First Quarter Results The Estée Lauder Companies Inc."
+  },
+  {
    "title": "Exclusive: Croda, Azelis and Brenntag identified as top 3 cosmetic ingredient suppliers in AI search report",
    "url": "https://www.cosmeticsbusiness.com/exclusive-croda-azelis-and-brenntag-identified-as-top",
    "source": "Cosmetics Business",
@@ -155,6 +173,15 @@
    "date": "2026-11-02",
    "ai_summary": "Throwback to Pitti Fragranze 2026: Why it still matters — The 24th edition of Pitti Fragranze, held September 11-13, 2026, at Florence's Stazione Leopolda, Italy, attracted 290 exhibitors and more than 2,200 buyers and industry professionals, according to figures supplied by Pi…",
    "excerpt": "The 24th edition of Pitti Fragranze, held September 11-13, 2026, at Florence's Stazione Leopolda, Italy, attracted 290 exhibitors and more than 2,200 buyers and industry professionals, according to figures supplied by Pi…"
+  },
+  {
+   "title": "Silab unveils new efficacy data for Cicactyl in post-laser skin care",
+   "url": "https://www.premiumbeautynews.com/en/silab-unveils-new-efficacy-data,28444",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "Silab releases new efficacy data for Cicactyl, an active ingredient aimed at supporting skin repair after fractional laser procedures.",
+   "excerpt": "Silab, a France-headquartered developer of natural cosmetic active ingredients, has released new efficacy data for Cicactyl, its active ingredient designed to support skin repair following fractional laser procedures. Si…"
   },
   {
    "title": "CMS CONSULTING: Combining precision, quality and social responsibility in cosmetic packaging",

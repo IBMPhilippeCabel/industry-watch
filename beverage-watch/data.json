@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-02T12:53:00Z",
+ "updated": "2026-11-02T14:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "India’s beverage sector sees new factory plans amid sugar quota limits, while US spirits rebound post‑Labor Day and new alliances form.",
+  "hook": "Heineken pushes AI, India’s beverage sector expands, and M&A activity heats up across spirits and beer.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme and Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with India.",
-   "📈 Market": "Varun Beverages plans another factory in India, India’s duty‑free sugar quota may offer limited relief, Innocent Drinks pilots edible seaweed pods, Sazerac faces a complaint for child‑appealing marketing, US spirits sales rebound after Labor Day, and RationAle partners with LA Libations.",
-   "🍸 Spirits & Premium": "Sazerac faces a complaint for child‑appealing marketing, and Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with India.",
-   "🍺 Beer & Brewing": "Varun Beverages plans another factory in India, and RationAle teams up with LA Libations for strategic growth.",
-   "💡 Innovation & No-Low": "Campari has developed a new Courvoisier Cognac for drinkers in China."
+   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback, while Diageo and Pernod Ricard plan tariff talks for Scotch imports and Hogan Lovells leads consumer sector M&A activity.",
+   "📈 Market": "Shepherd Neame plans a new brewery for its own brands, Varun Beverages expands with another factory, India’s sugar quota offers limited relief, Innocent pilots seaweed pods, and Sazerac faces a marketing complaint.",
+   "🍸 Spirits & Premium": "Campari launches a new Courvoisier Cognac for Chinese drinkers, while Heineken’s CIO deploys AI to drive data‑driven decisions.",
+   "🍺 Beer & Brewing": "Shepherd Neame is building a smaller brewery for its own brands and Varun Beverages is adding another factory in India.",
+   "💡 Innovation & No-Low": "Heineken’s CIO is using AI to operationalize data‑driven decisions, and Campari has developed a new Courvoisier Cognac for China."
   }
  },
  "articles": [
+  {
+   "title": "Shepherd Neame to focus new brewery on own brands",
+   "url": "https://www.just-drinks.com/news/shepherd-neame-to-focus-new-brewery-on-own-brands/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Shepherd Neame to focus new brewery on own brands describes Shepherd Neame's plan to build a smaller brewery dedicated to producing its own product range as part of a strategic shift.",
+   "excerpt": "UK beer and pub group Shepherd Neame is building a smaller brewery as part of a strategy shift to focus on its own product range."
+  },
+  {
+   "title": "Heineken CIO uses AI to operationalize data-driven decisions - CIO Dive",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzlmVEQwRl9IS3J3TnBGTHdDNndTc2FsdzZuWDlQMkM1LTB3YS1QaXc1Q1lyVTNPS2duOENoZ2hPYXhOdzBJQ1prMndTT1FHelhCSzk0VlNrVWk2NThuWWxTc281UWc0bmFGcFAxSEtqQTMyWjBDb0tvMXRoX09tckhB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-02",
+   "ai_summary": "Heineken CIO uses AI to operationalize data-driven decisions highlights how Heineken's chief information officer is implementing artificial intelligence to support data-driven decision-making processes.",
+   "excerpt": "Heineken CIO uses AI to operationalize data-driven decisions CIO Dive"
+  },
+  {
+   "title": "Every Jameson Whiskey Ranked: The Ones Worth Trading Up To And The Ones To Skip - The Whiskey Wash",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYXNQcFdtUzE5RDNzXzVBMGpRbTlIRUlERkpYMl9RS3B6cDlQbjlpM2dKMEw0eWtHaEROcDNzODU1RVdJTmFQMDlTdWlWRk42XzluRVlNWmJxS0NTU1pDZHk1WEZVSV9PQUo5Z3JFRXRONHFBNWVRMG1qUG16UXhHYXozZnB0VXdkSzk5Tm5lTDhLVktpeXZldEZla3VkbzZSRm12Z0FMblIyUUR4R21ENFQ4bmNyRFo4R2RmQTJRLUg?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Every Jameson Whiskey Ranked: The Ones Worth Trading Up To And The Ones To Skip is a guide that evaluates different Jameson whiskey options for consumers considering upgrades or avoiding certain variants.",
+   "excerpt": "Every Jameson Whiskey Ranked: The Ones Worth Trading Up To And The Ones To Skip The Whiskey Wash"
+  },
   {
    "title": "Varun Beverages plans another factory in India",
    "url": "https://www.just-drinks.com/news/varun-beverages-another-india-factory/",
@@ -66,6 +93,15 @@
    "date": "2026-11-02",
    "ai_summary": "Sazerac was reproached for using an ice-cream van to promote alcohol, which could appeal to children. The Portman Group upheld a complaint against the company for this marketing tactic.",
    "excerpt": "The Portman Group has upheld a complaint against Sazerac that argued its use of an ice cream van to promote alcohol could appeal to children."
+  },
+  {
+   "title": "Hogan Lovells, Fasken Martineau DuMoulin top law-firm M&A charts",
+   "url": "https://www.just-drinks.com/news/hogan-lovells-fasken-martineau-dumoulin-top-law-firm-ma-charts-2/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Hogan Lovells, Fasken Martineau DuMoulin top law-firm M&A charts reports that Hogan Lovells and Fasken Martineau DuMoulin led the consumer sector M&A activity in the first nine months of 2026.",
+   "excerpt": "Hogan Lovells and Fasken Martineau DuMoulin topped two league tables on the M&A that took place in the consumer sector in the first nine months of 2026."
   },
   {
    "title": "Diageo, Pernod Ricard to Discuss Bulk Scotch Imports Tariff Cut with Indian Government - marketscreener.com",
