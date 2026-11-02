@@ -1,18 +1,63 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-02T10:53:00Z",
+ "updated": "2026-11-02T12:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "US spirits sales lift on Labor Day while Sazerac faces scrutiny over child‑targeted marketing.",
+  "hook": "India’s beverage sector sees new factory plans amid sugar quota limits, while US spirits rebound post‑Labor Day and new alliances form.",
   "categories": {
-   "🤝 Strategy & M&A": "Diageo and Pernod Ricard will discuss a tariff reduction for bulk Scotch imports with India.",
-   "📈 Market": "US spirits sales rebounded in September thanks to Labor Day, and Sazerac is under fire for a child‑appealing ice‑cream van promotion.",
-   "🍸 Spirits & Premium": "Campari has launched a new Courvoisier Cognac aimed at Chinese drinkers.",
-   "🍺 Beer & Brewing": "RationAle Brewing has partnered with LA Libations and Homestead Brands to grow its non‑alcoholic beer line.",
-   "💡 Innovation & No-Low": "Campari’s new Courvoisier Cognac targets Chinese consumers."
+   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme and Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with India.",
+   "📈 Market": "Varun Beverages plans another factory in India, India’s duty‑free sugar quota may offer limited relief, Innocent Drinks pilots edible seaweed pods, Sazerac faces a complaint for child‑appealing marketing, US spirits sales rebound after Labor Day, and RationAle partners with LA Libations.",
+   "🍸 Spirits & Premium": "Sazerac faces a complaint for child‑appealing marketing, and Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with India.",
+   "🍺 Beer & Brewing": "Varun Beverages plans another factory in India, and RationAle teams up with LA Libations for strategic growth.",
+   "💡 Innovation & No-Low": "Campari has developed a new Courvoisier Cognac for drinkers in China."
   }
  },
  "articles": [
+  {
+   "title": "Varun Beverages plans another factory in India",
+   "url": "https://www.just-drinks.com/news/varun-beverages-another-india-factory/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Varun Beverages plans another factory in India.",
+   "excerpt": "PepsiCo bottler Varun Beverages will set up a new food and drinks manufacturing facility in the Indian state of Maharashtra."
+  },
+  {
+   "title": "Heineken N.V. reports the progress of transactions under its current share buyback programme - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHFiREZza3Jzb0lhbkw2NllCVzRWX3hRQ3lJXzBxZEhnQm1uNUdMQ1dJUzluVnBRVWNma3ZQWUlWcld3WHFITTVUMzN6bzdpbzlGZDlSZWx6bE1aQjRTdFcya0o0NmZnUFdOa0ZoLXFfZmthSHd6Y2lqR20tejJEUDBUekM?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Heineken N.V. reports the progress of transactions under its current share buyback programme.",
+   "excerpt": "Heineken N.V. reports the progress of transactions under its current share buyback programme Yahoo Finance UK"
+  },
+  {
+   "title": "Industry MVP, Suburbs: Megan Mawicke Bradley, Jameson Sotheby’s International Realty - Chicago Agent Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZlVOQkRwelVvaFU5aEVrY2xyRDBvVklpcjE3MDY4NUtDTFZkNmlicmRyWHFlSkZsM3Q0XzcyQUtBLUFBRDdoNjNjTkJHSVphdFhWNVZ0YWxvX24zVUlPeWlBSjhtUW0yMzBPaldJY2h0OTBVUFE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Industry MVP, Suburbs: Megan Mawicke Bradley, Jameson Sotheby’s International Realty Chicago Agent Magazine.",
+   "excerpt": "Industry MVP, Suburbs: Megan Mawicke Bradley, Jameson Sotheby’s International Realty Chicago Agent Magazine"
+  },
+  {
+   "title": "Why India’s duty-free sugar quota may only offer limited relief",
+   "url": "https://www.just-drinks.com/analyst-comment/why-indias-duty-free-sugar-quota-may-only-offer-limited-relief/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Why India’s duty-free sugar quota may only offer limited relief.",
+   "excerpt": "India's duty-free sugar quota may provide less relief as falling domestic prices weaken import incentives and production forecasts diverge."
+  },
+  {
+   "title": "Innocent Drinks pilots edible seaweed pods",
+   "url": "https://www.just-drinks.com/news/innocent-drinks-notplas-edible-pods/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Innocent Drinks pilots edible seaweed pods.",
+   "excerpt": "Innocent Drinks has trialled its Fiery Ginger shots in Notpla’s edible, biodegradable seaweed packaging that can be consumed with the drink."
+  },
   {
    "title": "Sazerac reproached over ice-cream van stunt",
    "url": "https://www.just-drinks.com/news/sazerac-reproached-ice-cream-stunt/",

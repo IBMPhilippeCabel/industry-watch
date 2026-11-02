@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-02T10:53:00Z",
+ "updated": "2026-11-02T12:53:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "New AI insights, fragrance innovation, and brand retail moves shape the beauty landscape.",
+  "hook": "Henkel targets gloss treatments while Estée Lauder boosts AI and LVMH’s brands grow, marking a day of strategic moves and tech‑driven innovation.",
   "categories": {
-   "📈 Market": "Pitti Fragranze 2026 attracted 290 exhibitors and 2,200 buyers, underscoring continued industry engagement.",
-   "💄 Brands & Retail": "Michael Kors surpasses Black Friday expectations on TikTok Shop, reaching nearly four times projected sales.",
-   "🤝 Strategy & M&A": "The Organic Pharmacy returns to its founder after a decade, signaling a renewed focus on its original health and wellness ethos.",
-   "💡 Innovation & Regulation": "New fragrance formats and refillable necklace collaborations highlight a trend toward sustainable, multi‑use beauty products."
+   "📈 Market": "Henkel UK&I focuses on gloss treatments as hair care’s next growth area, while LVMH’s brands like La Mer and Tom Ford show strong performance in skin care and fragrance.",
+   "💄 Brands & Retail": "Selfridges launches Biodance and Medicube counters in a new K‑beauty destination, and Michael Kors sees a surge on TikTok Shop ahead of Black Friday.",
+   "🤝 Strategy & M&A": "VMG Partners invests in Miss A, and The Organic Pharmacy is reacquired by its founder, signaling renewed focus on brand heritage.",
+   "💡 Innovation & Regulation": "Estée Lauder partners with Microsoft to enhance AI capabilities across its brands, and e.l.f. launches a handcrafted stop‑motion Christmas campaign to celebrate human creativity."
   }
  },
  "articles": [
+  {
+   "title": "Henkel UK&I bets on gloss treatments as hair care’s next big growth category",
+   "url": "https://www.cosmeticsbusiness.com/henkel-bets-on-glosses-as-hair-cares-next-big-growth-category",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "",
+   "excerpt": "With the hair gloss category’s value up 21% in the UK this year, Henkel Consumer Brands UK & Ireland is investing heavily in the low-maintenance, wash-out colour format via its Schwarzkopf’s Live brand, calling it the ‘m…"
+  },
+  {
+   "title": "Exclusive: Lookfantastic ambassador Molly-Mae Hague launches first curated collection",
+   "url": "https://www.cosmeticsbusiness.com/exclusive-lookfantastic-molly-mae-hague-curated-collection",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "",
+   "excerpt": "Lookfantastic has partnered with long-term collaborator, influencer and entrepreneur, Molly-Mae Hague, to launch an exclusive edit of her favourite beauty products for the first time"
+  },
+  {
+   "title": "E.l.f. Brands opts for ‘handcrafted’ stop motion Christmas campaign instead of AI",
+   "url": "https://www.cosmeticsbusiness.com/e-l-f-brands-opts-for-handcrafted-stop-motion-christmas-campaign",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "",
+   "excerpt": "The beauty company’s 60-second ‘e.l.f. Made to Stand Out’ 2026 Christmas campaign has been created using stop motion filmmaking techniques to celebrate ‘human creativity’ and is narrated by Tony Award-winning actor Alan …"
+  },
+  {
+   "title": "Kenvue hails overall bump in Q3 2026 results despite mixed beauty sales",
+   "url": "https://www.cosmeticsbusiness.com/kenvue-hails-overall-bump-in-q3-2026-results",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "",
+   "excerpt": "Despite Kenvue’s Q3 2026 net sales rising 3.2% to $3.8 billion, the Johnson & Johnson (J&J) spinoff consumer health company’s skin health and beauty sales division only saw sales increase by 0.1%"
+  },
+  {
+   "title": "Hailey Bieber’s Rhode unveils $5 million grant and partnership with Foundation for Women’s Health",
+   "url": "https://www.cosmeticsbusiness.com/hailey-bieber-rhode-5-million-grant-foundation-womens-health",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "",
+   "excerpt": "The beauty brand’s $5 million grant will help advance women’s health research and innovation via Rhode’s Futures Fund, which forms part of parent company e.l.f. Beauty’s commitment to give away 2% of its profits to meani…"
+  },
+  {
+   "title": "Estée Lauder Companies partners with Microsoft to boost AI capabilities",
+   "url": "https://www.cosmeticsbusiness.com/est%C3%A9e-lauder-companies-partners-microsoft-ai",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "",
+   "excerpt": "The move forms part of the Estée Lauder Companies’ efforts to bring together its global operations under a single operating model, and will advance the MAC Cosmetics and Clinique owner’s artificial intelligence, cloud an…"
+  },
+  {
+   "title": "Luneia Brands brings K-beauty to Selfridges through Medicube and Biodance counters",
+   "url": "https://www.cosmeticsbusiness.com/luneia-brands-brings-k-beauty-to-selfridges",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "Luneia Brands will unveil permanent standalone counters for Korean skin care giants Biodance and Medicube as Selfridges opens its new dedicated K‑beauty destination.",
+   "excerpt": "UK beauty distributor Luneia Brands will unveil permanent standalone counters for Korean skin care giants Biodance and Medicube as luxury department store Selfridges opens its new dedicated K-beauty destination"
+  },
+  {
+   "title": "Estée Lauder Raises FY 2027 Outlook as Q1 Sales Rise to $3.7B, Driven by Fragrance Growth",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-raises-f2027-outlook-as-q1-sales-rise-1239395282/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-02",
+   "ai_summary": "The beauty giant sees growth across key categories like skin care and fragrance, with strong performances from brands including La Mer, Tom Ford, and Jo Malone London.",
+   "excerpt": "The beauty giant sees growth across key categories like skin care and fragrance, with strong performances from brands including La Mer, Tom Ford, and Jo Malone London."
+  },
   {
    "title": "Exclusive: Croda, Azelis and Brenntag identified as top 3 cosmetic ingredient suppliers in AI search report",
    "url": "https://www.cosmeticsbusiness.com/exclusive-croda-azelis-and-brenntag-identified-as-top",
@@ -20,6 +92,24 @@
    "date": "2026-11-02",
    "ai_summary": "Exclusive: Croda, Azelis and Brenntag identified as top 3 cosmetic ingredient suppliers in AI search report — A new GEO-focused Visibility Index Report, based on ChatGTP conversations, revealed how distributors are mostly likely to score highest in unbranded AI searches",
    "excerpt": "A new GEO-focused Visibility Index Report, based on ChatGTP conversations, revealed how distributors are mostly likely to score highest in unbranded AI searches"
+  },
+  {
+   "title": "Reminiscing on a magical evening at the Pure Beauty Awards 2026",
+   "url": "https://www.cosmeticsbusiness.com/reminiscing-on-a-magical-evening-at-the-pure",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-02",
+   "ai_summary": "Some evenings stay with you long after the lights go down, and the 2026 Pure Beauty Awards was certainly one of them.",
+   "excerpt": "Some evenings stay with you long after the lights go down, and the 2026 Pure Beauty Awards was certainly one of them"
+  },
+  {
+   "title": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO across seven european markets",
+   "url": "https://www.cosmeticsbusiness.com/maria-galland-paris-and-revieve-launch-skin-alyze-pro",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "Building on Maria Galland Paris’ longstanding Skin Intelligence and professional skin care expertise, the AI‑powered Skin Advisor takes this signature approach further, translating individual skin analysis into personalized…",
+   "excerpt": "Building on Maria Galland Paris’ longstanding Skin Intelligence and professional skin care expertise, the AI-powered Skin Advisor takes this signature approach further, translating individual skin analysis into personali…"
   },
   {
    "title": "Fragrance Takes New Forms: 5 Formats Expanding The Business",
