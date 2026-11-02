@@ -5,7 +5,16 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-11-02T16:56:00Z</updated>
+  <updated>2026-11-02T18:49:00Z</updated>
+  <entry>
+    <title>PsiBufet, Polish pet food company, enters Slovak market</title>
+    <id>https://www.petfoodindustry.com/regions/europe/article/16274662/psibufet-polish-pet-food-company-enters-slovak-market</id>
+    <link href="https://www.petfoodindustry.com/regions/europe/article/16274662/psibufet-polish-pet-food-company-enters-slovak-market"/>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="🤝 M&amp;A"/>
+    <author><name>Petfood Industry</name></author>
+    <summary>PsiBufet, a Polish pet food company, is entering the Slovak market as part of its expansion into another European country. The move follows investment in sustainability by Vafo Group’s Prima Pet, which is also involved with the company.</summary>
+  </entry>
   <entry>
     <title>Scoular highlights sustainability efforts in annual report</title>
     <id>https://www.petfoodprocessing.net/articles/21042-scoular-highlights-sustainability-efforts-in-annual-report</id>
@@ -446,14 +455,5 @@
     <category term="💡 Innovation"/>
     <author><name>Royal Canin (Google News)</name></author>
     <summary>These taste testers have four legs and picky palates. The Straits Times.</summary>
-  </entry>
-  <entry>
-    <title>Funding to advance avian metapneumovirus vaccine development</title>
-    <id>https://www.petfoodprocessing.net/articles/21014-funding-to-advance-avian-metapneumovirus-vaccine-development</id>
-    <link href="https://www.petfoodprocessing.net/articles/21014-funding-to-advance-avian-metapneumovirus-vaccine-development"/>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="🤝 M&amp;A"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>Funding to advance avian metapneumovirus vaccine development — A vaccine could help safeguard the poultry supply chain and stabilize the availability and cost of poultry-based pet food ingredients.</summary>
   </entry>
 </feed>

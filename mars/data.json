@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-02T16:56:00Z",
+ "updated": "2026-11-02T18:49:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "Today’s snack scene buzzes with new candy launches, holiday packs, and quirky athlete snack choices, keeping the FMCG market lively.",
+  "hook": "M&M’s refreshes its holiday candy line with nostalgic movie themes, while other snack brands launch new seasonal pairings.",
   "categories": {
    "🤝 Mars Corporate & M&A": null,
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "New candy releases dominate the day, with Skittles Gummy Crystals hitting convenience stores, M&M’s holiday pack debuting, and Pop‑Tarts, Cheerios and Snickers collaborating on fresh launches.",
+   "🍫 Snacking & FMCG Market": "M&M’s introduces a holiday candy line featuring designs inspired by classic Christmas movies, while Pop‑Tarts, Cheerios and Snickers collaborate on new seasonal launches.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M's Is Giving Its Holiday Candy a Makeover Inspired by 'Elf,' 'A Christmas Story' and 'Christmas Vacation' - Parade Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzJJdUtQanFHS1B1OEFhWE9ZQ3Q5Z3NUZDVZNzRXUUVKRmJEd3o5VWZBX0tUNGdTZEdud1p6dGlHTTVUbURnMDItMlFaOVNOb1lXVVpBcVV2Vk9xTzJiMmhYUThhZWgtMEVSOXE3RHhpM0VxNnNUd0Jvd2ZydjZZQ24xYkxEZEtaczJRY1p6TjBQemFXbWtlcEFta0xrUUxTSVlFMzhCdkY2T0JGamdPeVAxWE9uYjBfcDFOVFhha24?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-02",
+   "ai_summary": "M&M's is updating its holiday candy line with new designs inspired by classic Christmas movies such as 'Elf,' 'A Christmas Story,' and 'Christmas Vacation.' The brand aims to refresh its festive offerings by incorporating nostalgic themes from these films.",
+   "excerpt": "M&M's Is Giving Its Holiday Candy a Makeover Inspired by 'Elf,' 'A Christmas Story' and 'Christmas Vacation' Parade Magazine"
+  },
   {
    "title": "Skittles Gummy Crystals - Convenience Store News",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HX0JlajRRMlVxVWQwdExSRXNRNDBodW9yUkstUlJYOGpaYU9tUmNROXByX0hrSDBwUjJIalpoYXZVc2FTOUx6RWE4QkFHYUZXSG1Xdw?oc=5",

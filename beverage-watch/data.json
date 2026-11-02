@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-02T16:56:00Z",
+ "updated": "2026-11-02T18:49:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "Heineken pushes AI, India’s beverage sector expands, and M&A activity heats up across spirits and beer.",
+  "hook": "Heineken's buyback moves and tariff talks, plus new AI and product launches, shape the day.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback, while Diageo and Pernod Ricard plan tariff talks for Scotch imports and Hogan Lovells leads consumer sector M&A activity.",
-   "📈 Market": "Shepherd Neame plans a new brewery for its own brands, Varun Beverages expands with another factory, India’s sugar quota offers limited relief, Innocent pilots seaweed pods, and Sazerac faces a marketing complaint.",
-   "🍸 Spirits & Premium": "Campari launches a new Courvoisier Cognac for Chinese drinkers, while Heineken’s CIO deploys AI to drive data‑driven decisions.",
-   "🍺 Beer & Brewing": "Shepherd Neame is building a smaller brewery for its own brands and Varun Beverages is adding another factory in India.",
-   "💡 Innovation & No-Low": "Heineken’s CIO is using AI to operationalize data‑driven decisions, and Campari has developed a new Courvoisier Cognac for China."
+   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme while Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with India.",
+   "📈 Market": "Shepherd Neame plans a new brewery for its own brands, Varun Beverages is building another factory in India, and India’s duty‑free sugar quota may offer limited relief.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Heineken’s CIO is using AI to operationalise data‑driven decisions, and Campari has launched a new Courvoisier Cognac for Chinese drinkers."
   }
  },
  "articles": [
+  {
+   "title": "Jameson Williams' emergence during crunch time shows his growth with Lions - SideLion Report",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2xLXzhhTEtfWkFjZGlCZENKc3NwekZyMEpwU1dUU1NJRFhUdUUxZTVhX0VsNWotbmZ6M1R5U1NJeHh1WHdrSTFDM25zU1RNaDE4T1BjNFRYUE44d0JYS091WVdCaVhwY2RidE83RFUyY0pxbGxCY1dlZFMtU210NWVfQVpXOTJiSXl4YlI3VmMzQy1DalFvODdwRDNwT0F6ZmxhVXVhZ1RvcEZya0xGS1pFTQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Jameson Williams' emergence during crunch time shows his growth with Lions - SideLion Report",
+   "excerpt": "Jameson Williams' emergence during crunch time shows his growth with Lions SideLion Report"
+  },
   {
    "title": "Shepherd Neame to focus new brewery on own brands",
    "url": "https://www.just-drinks.com/news/shepherd-neame-to-focus-new-brewery-on-own-brands/",
