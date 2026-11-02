@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-02T07:08:00Z",
+ "updated": "2026-11-02T08:55:00Z",
  "briefing": {
-  "date": "2026-10-30",
-  "hook": "Today’s pet‑food news highlights regulatory push for supplement legislation, market expansion moves, sustainability innovation, and a focus on safety investments.",
+  "date": "2026-11-02",
+  "hook": "Today’s updates highlight regulatory scrutiny, market expansion, and a new retail launch in the pet food sector.",
   "categories": {
-   "📈 Market": "Market activity centers on retail expansion with PetLabCo entering PetSmart, new leadership appointments, and a cooling of pet‑product inflation across major economies.",
-   "⚖️ Regulation": "Regulatory focus includes the National Animal Supplement Council’s call for signatures on the Animal Health Supplement Act, an FDA advisory on contaminated cat‑food lots, and growing B Corp certifications among pet firms.",
-   "💡 Innovation": "Innovation highlights feature Salty Cat’s launch on Chewy, a partnership between Roquette and Royal Canin to promote regenerative agriculture, and Pet HealthWorks’ dual‑action supplement for weight and joint health.",
-   "🤝 M&A": "Industry consolidation signals a shift toward heightened food‑safety and quality controls, with companies investing in traceability, testing, and operational improvements."
+   "📈 Market": "PetLabCo. reaches PetSmart shelves, marking a key milestone in its U.S. retail expansion.",
+   "⚖️ Regulation": "The FDA issues an advisory on two lots of Darwin’s cat food after testing samples linked to gastrointestinal illness in cats.",
+   "💡 Innovation": "Salty Cat expands its retail presence by launching on Chewy, adding to its online footprint.",
+   "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "Brazil’s pet industry faces regulatory and trade challenges",
+   "url": "https://globalpetindustry.com/news/brazils-pet-industry-faces-regulatory-and-trade-challenges/",
+   "source": "Global Pet Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-02",
+   "ai_summary": "Brazil’s pet industry faces regulatory and trade challenges — The Brazilian Sectoral Chamber for the Pet Industry Value Chain, a forum coordinated by the Ministry of Agriculture and Livestock, has recently discussed regulations impacting the pet industry. The department assists wit…",
+   "excerpt": "The Brazilian Sectoral Chamber for the Pet Industry Value Chain, a forum coordinated by the Ministry of Agriculture and Livestock, has recently discussed regulations impacting the pet industry. The department assists wit…"
+  },
   {
    "title": "NASC seeks signatures supporting Animal Health Supplement Act",
    "url": "https://www.petfoodindustry.com/pet-supplements-pro/nasc-regulatory-update/article/15838311/nasc-seeks-signatures-supporting-animal-health-supplement-act",
