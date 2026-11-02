@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-02T14:53:00Z",
+ "updated": "2026-11-02T16:56:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "Today’s focus spans L’Oréal’s Q1 results, LipoTrue’s biotech launches, and a surge in K‑beauty retail expansion.",
+  "hook": "Today’s highlights show Estée Lauder’s sales lift, TikTok retail momentum, and a surge in K‑beauty expansion, while AI and safety concerns shape the market.",
   "categories": {
-   "📈 Market": "Henkel UK&I targets gloss treatments as hair care’s next growth driver while Kenvue reports modest beauty sales growth.",
-   "💄 Brands & Retail": "Selfridges opens dedicated K‑beauty counters for Biodance and Medicube, and Michael Kors sees a TikTok Shop surge ahead of Black Friday.",
-   "🤝 Strategy & M&A": "Estée Lauder releases 2027 Q1 results, LipoTrue debuts three new biotechnological actives, and The Organic Pharmacy is reacquired by founder Margo Marrone.",
-   "💡 Innovation & Regulation": "Estée Lauder partners with Microsoft to enhance AI, and e.l.f. opts for handcrafted stop‑motion in its Christmas campaign."
+   "📈 Market": "Henkel UK&I’s investment in gloss treatments signals hair care’s next growth wave, while K‑beauty expansion continues to drive market interest.",
+   "💄 Brands & Retail": "Estée Lauder’s Q1 sales rise and TikTok‑driven retail buzz, coupled with Selfridges’ new K‑beauty counters, underscore the shift toward digital and K‑beauty experiences.",
+   "🤝 Strategy & M&A": "Puig’s new growth plan targets over EUR 8 billion by leveraging core brands and selective deals after failed merger talks with Estée Lauder.",
+   "💡 Innovation & Regulation": "Estée Lauder’s partnership with Microsoft to boost AI, e.l.f.’s handcrafted campaign, and Lookfantastic’s curated collection illustrate a blend of tech‑driven and creative innovation shaping the sector."
   }
  },
  "articles": [
+  {
+   "title": "The Estée Lauder Companies reports continued growth, with fragrance still driving the charge",
+   "url": "https://www.glossy.co/beauty/the-estee-lauder-companies-reports-continued-growth-with-fragrance-still-driving-the-charge/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-02",
+   "ai_summary": "Estée Lauder reports a 7% net sales rise to $3.7 billion in Q1 FY2027, with most categories growing while fragrance remains a key driver.",
+   "excerpt": "On Monday, the Estée Lauder Companies reported a 7% net sales growth to $3.7 billion for the first quarter of fiscal year 2027. Three out of its four categories saw an increase in sales in that period, but fragrance drov…"
+  },
   {
    "title": "Estée Lauder Companies’ 2027 Q1 Results - Beauty Packaging",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3lNa1FfUVhpV244eFRXc1hmYXNIbGF3cDg5YXNrczJqTkZ6ZGpRNHlESmNNbmhuUUhqMk5iSXREMmtPWHRGbmNXb2FXV3lQYXRFaGdfT0Q0czNWZVF5aGwyQ2QxalJ1UEVUaU9lSk1uQUYyWldjdjRrYmM3aWZ0Y1NPV1E5TFZSSFVGcnlR?oc=5",
@@ -182,6 +191,15 @@
    "date": "2026-11-02",
    "ai_summary": "Silab releases new efficacy data for Cicactyl, an active ingredient aimed at supporting skin repair after fractional laser procedures.",
    "excerpt": "Silab, a France-headquartered developer of natural cosmetic active ingredients, has released new efficacy data for Cicactyl, its active ingredient designed to support skin repair following fractional laser procedures. Si…"
+  },
+  {
+   "title": "Puig charts path to EUR 8 billion through core brands and selective deals",
+   "url": "https://www.premiumbeautynews.com/en/puig-charts-path-to-eur-8-billion,28445",
+   "source": "Premium Beauty News",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Puig outlines an independent growth plan targeting over EUR 8 billion by leveraging core brands and selective deals after failed merger talks with Estée Lauder.",
+   "excerpt": "Following the failure of merger discussions with The Estée Lauder Companies in May, Puig is setting out an independent growth strategy, aiming to become a company generating more than EUR 8 billion (approx. USD 8,97 bill…"
   },
   {
    "title": "CMS CONSULTING: Combining precision, quality and social responsibility in cosmetic packaging",

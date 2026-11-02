@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-02T14:53:00Z",
+ "updated": "2026-11-02T16:56:00Z",
  "briefing": {
   "date": "2026-11-02",
-  "hook": "New snack launches and legacy highlights dominate today’s FMCG buzz.",
+  "hook": "Today’s snack scene buzzes with new candy launches, holiday packs, and quirky athlete snack choices, keeping the FMCG market lively.",
   "categories": {
    "🤝 Mars Corporate & M&A": null,
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "M&M’s unveils a holiday candy pack while Pop-Tarts, Cheerios and Snickers collaborate on new launches, and the enduring 95‑year legacy of Snickers is spotlighted.",
+   "🍫 Snacking & FMCG Market": "New candy releases dominate the day, with Skittles Gummy Crystals hitting convenience stores, M&M’s holiday pack debuting, and Pop‑Tarts, Cheerios and Snickers collaborating on fresh launches.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "Skittles Gummy Crystals - Convenience Store News",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HX0JlajRRMlVxVWQwdExSRXNRNDBodW9yUkstUlJYOGpaYU9tUmNROXByX0hrSDBwUjJIalpoYXZVc2FTOUx6RWE4QkFHYUZXSG1Xdw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-02",
+   "ai_summary": "Skittles Gummy Crystals Convenience Store News highlights the new candy release and its availability in local stores.",
+   "excerpt": "Skittles Gummy Crystals Convenience Store News"
+  },
+  {
+   "title": "Cincinnati Open star orders M&M's to court mid-match and shares unusual reason - AOL.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDZxdGRXck5pcVFOR2lCcjJwNHFJUHZBYUMxRUJSWEJTdmF0WW90bXpCUDN4cGdKX1NhVXhteHltVEt0MXVSQkhCRnZvcVpoN3lyZXNxLUlveUp4TnpUVVJ5ZU1LN2F1ZHlSMHljQVR0TU01MHpvUGpDU2E0aTl2Mg?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-02",
+   "ai_summary": "Cincinnati Open star orders M&M's to court mid-match and shares unusual reason AOL.co.uk reports the player's snack choice and the reason behind it.",
+   "excerpt": "Cincinnati Open star orders M&M's to court mid-match and shares unusual reason AOL.co.uk"
+  },
   {
    "title": "M&M’s Is Releasing an All-New Candy Pack for the Holidays - Allrecipes",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5naFBjb2xxWGphRGp0WTVXeUN6X0xtaFZkYTZvbHluaWlHUzFRTV9aNDZBQjFHWGJDYmVXb2F1ZjFpVXBfVTVkSHptTHJ4Rkg2UWkxTDZQTVhhWFo5MGNpbXNiUWhLZHRvakJHSzhuNEtaTjJnLWlaaGRYTGwwQQ?oc=5",
@@ -93,6 +111,15 @@
    "date": "2026-10-31",
    "ai_summary": "Snickers and Milky Way are compared in terms of their ingredients and flavor profiles. The article explains how each candy bar’s composition creates distinct taste experiences.",
    "excerpt": "Snickers Vs Milky Way: How The Classic Candy Bars Are Actually Different Tasting Table"
+  },
+  {
+   "title": "Snickers Vs Milky Way: How The Classic Candy Bars Are Actually Different - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUlBRWRnMVdoRW9aM3NEd1BRd3k2UTZyNU1FYXdXa3Zfd1JWTXliXzNGY1kyRUozWFAzTFRnYmRHZ0tUNkJTdnBFUTYxNjZQMWRGZ28zZlhzaHhWaEp2bUtNVVNYaTcwY21DZ0xVRFhfemhzdTlKV2ZWUUlRek9TS3lublIweWQwVmhJM3lB?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-10-31",
+   "ai_summary": "Snickers Vs Milky Way: How The Classic Candy Bars Are Actually Different Yahoo compares the two popular bars and explains their distinct ingredients and textures.",
+   "excerpt": "Snickers Vs Milky Way: How The Classic Candy Bars Are Actually Different Yahoo"
   },
   {
    "title": "Here’s The Full Holiday Lineup From The Luxury Chocolatier Behind M&M’s - Sporked",
