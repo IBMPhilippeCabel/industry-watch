@@ -1,6 +1,51 @@
 [
   {
     "source": "Petfood Industry",
+    "title": "AI machine learning tests personalized dog food formulation",
+    "link": "https://www.petfoodindustry.com/nutrition/research-notes/article/16349391/ai-machine-learning-tests-personalized-dog-food-formulation",
+    "summary": "Researchers combined machine learning and mathematical optimization to generate potential wet dog food recipes, but data gaps...",
+    "date": "2026-11-03T13:29:46+00:00",
+    "category": "💡 Innovation",
+    "ai_summary": "Researchers used machine learning and mathematical optimization to create potential wet dog food recipes, but data gaps limit the approach."
+  },
+  {
+    "source": "Pet Food Processing",
+    "title": "Companionship costs: Why dog ownership is becoming harder to afford",
+    "link": "https://www.petfoodprocessing.net/articles/21046-companionship-costs-why-dog-ownership-is-becoming-harder-to-afford",
+    "summary": "According to Packaged Facts, interest in dog ownership remains strong, but economic pressures are creating barriers for many prospective owners.",
+    "date": "2026-11-03T13:00:00+00:00",
+    "category": "📈 Market",
+    "ai_summary": "Interest in dog ownership remains strong, yet economic pressures are creating barriers for many prospective owners."
+  },
+  {
+    "source": "Pet Food Processing",
+    "title": "Fiber for Dogs transitions to certified organic ingredients",
+    "link": "https://www.petfoodprocessing.net/articles/21045-fiber-for-dogs-transitions-to-certified-organic-ingredients",
+    "summary": "The upgrade is designed to make the brand’s dog supplement meet the highest standards of purity and quality.",
+    "date": "2026-11-03T13:00:00+00:00",
+    "category": "⚖️ Regulation",
+    "ai_summary": "The brand’s dog supplement upgrade to certified organic ingredients aims to meet the highest standards of purity and quality."
+  },
+  {
+    "source": "Pet Food Processing",
+    "title": "Royal Canin to support regenerative agriculture through new partnership",
+    "link": "https://www.petfoodprocessing.net/articles/21044-royal-canin-to-support-regenerative-agriculture-through-new-partnership",
+    "summary": "The initiative represents the first Soil Capital co-investment partnership between a buyer and a supplier.",
+    "date": "2026-11-03T13:00:00+00:00",
+    "category": "🤝 M&A",
+    "ai_summary": "The partnership marks the first Soil Capital co-investment between a buyer and a supplier to support regenerative agriculture."
+  },
+  {
+    "source": "Pet Food Processing",
+    "title": "Hill’s Pet Nutrition posts 5.6% sales growth in Q3",
+    "link": "https://www.petfoodprocessing.net/articles/21043-hills-pet-nutrition-posts-56-sales-growth-in-q3",
+    "summary": "Growth across therapeutic and wellness brands, strength in cat food and fresh pet food expansion supported the quarter.",
+    "date": "2026-11-03T13:00:00+00:00",
+    "category": "📈 Market",
+    "ai_summary": "Growth in therapeutic and wellness brands, along with strength in cat food and fresh pet food, supported the quarter's sales increase."
+  },
+  {
+    "source": "Petfood Industry",
     "title": "Beyond age, food amount may explain some puppy, adult dog gut differences",
     "link": "https://www.petfoodindustry.com/nutrition/dog-and-cat-food-nutrition/article/16349388/beyond-age-food-amount-may-explain-some-puppy-adult-dog-gut-differences",
     "summary": "Some digestive differences between puppies and adults may reflect the greater amount of food puppies consume to support growth...",
