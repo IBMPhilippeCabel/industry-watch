@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-03T14:51:00Z",
+ "updated": "2026-11-03T16:47:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "UK‑India talks on bulk Scotch tariffs and EU‑UK agri‑food talks set the tone for today’s beverage market.",
+  "hook": "Today's highlights span share buybacks, tariff talks, leadership shifts, cyber threats, new brewery plans, whiskey rankings, protein water, and AI in brewing.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken N.V. reports progress on its share buyback programme, signalling ongoing capital management.",
-   "📈 Market": "India may allow bulk Scotch shipments to qualify for a tariff cut agreed with the UK, while EU states review a potential agri‑food agreement with the UK.",
-   "🍸 Spirits & Premium": "Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with the Indian government, aiming to ease trade conditions.",
-   "🍺 Beer & Brewing": "Shepherd Neame plans a smaller brewery dedicated to its own brands as part of a strategic shift.",
-   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused water, and Heineken’s CIO is using AI to operationalise data‑driven decisions."
+   "🤝 Strategy & M&A": "Heineken N.V. reports progress of transactions under its current share buyback programme.",
+   "📈 Market": "India signals bulk Scotch shipments may qualify for tariff cut, while EU considers UK agri‑food agreement, Greene King appoints first female CEO, supermarkets face cyberattacks, and Shepherd Neame plans a new brewery for its own brands.",
+   "🍸 Spirits & Premium": "A guide ranks Jameson whiskey variants, recommending upgrades and highlighting those to skip.",
+   "🍺 Beer & Brewing": "Shepherd Neame plans a smaller brewery focused on its own brands.",
+   "💡 Innovation & No-Low": "Arla launches protein‑infused water and Heineken CIO deploys AI for data‑driven decisions."
   }
  },
  "articles": [
+  {
+   "title": "Who Should I Start? Gardner Minshew II or Jameson Williams - Fantasy Football Calculator",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXFaY1d2RDYzUVNwakszMXdwcmhOclJvZmJRQ0dQMmsyVGtCUlBMZ1Via04xUnNLcnZaUDdwMTFuUkhHbmlIY2ltdzJMek4yWVlzMGNwS3Iyb0RSTDl6N1pSeU56ZzFlUHpwV1NfQUU5M1YxQUZTa3gzOEJHTUVBNDRSWktaaVNuSFE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "This article compares Gardner Minshew II and Jameson Williams for fantasy football starts. It offers a calculator to help decide which player to begin.",
+   "excerpt": "Who Should I Start? Gardner Minshew II or Jameson Williams Fantasy Football Calculator"
+  },
   {
    "title": "India ‘nears agreement on bulk Scotch tariffs’",
    "url": "https://www.just-drinks.com/news/india-nears-agreement-on-bulk-scotch-tariffs/",
