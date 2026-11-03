@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-03T12:52:00Z",
+ "updated": "2026-11-03T14:51:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "Heineken pushes AI and share buybacks while Diageo and Pernod Ricard eye tariff talks in India.",
+  "hook": "UK‑India talks on bulk Scotch tariffs and EU‑UK agri‑food talks set the tone for today’s beverage market.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken N.V. reports progress on its share buyback programme and Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with the Indian government.",
-   "📈 Market": "Becle highlights strengths despite Q3 sales and earnings decline, while Greene King appoints its first female CEO, and European supermarkets face new cyber attacks on refrigeration systems.",
-   "🍸 Spirits & Premium": "No specific premium spirits signal reported today.",
-   "🍺 Beer & Brewing": "Shepherd Neame plans a smaller brewery focused on its own brands and Varun Beverages intends to build another factory in India.",
-   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused water and Heineken’s CIO implements AI to support data‑driven decision‑making."
+   "🤝 Strategy & M&A": "Heineken N.V. reports progress on its share buyback programme, signalling ongoing capital management.",
+   "📈 Market": "India may allow bulk Scotch shipments to qualify for a tariff cut agreed with the UK, while EU states review a potential agri‑food agreement with the UK.",
+   "🍸 Spirits & Premium": "Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with the Indian government, aiming to ease trade conditions.",
+   "🍺 Beer & Brewing": "Shepherd Neame plans a smaller brewery dedicated to its own brands as part of a strategic shift.",
+   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused water, and Heineken’s CIO is using AI to operationalise data‑driven decisions."
   }
  },
  "articles": [
+  {
+   "title": "India ‘nears agreement on bulk Scotch tariffs’",
+   "url": "https://www.just-drinks.com/news/india-nears-agreement-on-bulk-scotch-tariffs/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "India has indicated that bulk Scotch shipments may qualify for the tariff cut agreed on whisky with the UK.",
+   "excerpt": "The Indian government has reportedly indicated bulk Scotch shipments will qualify for the tariff cut agreed on whisky with the UK."
+  },
+  {
+   "title": "EU states to review UK food exports deal outline",
+   "url": "https://www.just-drinks.com/news/uk-and-eu-sps-deal/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "EU member states will assess an outline of a potential agreement between the bloc and the UK over agri‑food exports.",
+   "excerpt": "EU members states are to assess an outline of a potential agreement between the bloc and the UK over agri-food exports."
+  },
   {
    "title": "Becle talks up positives as Q3 sales, earnings fall",
    "url": "https://www.just-drinks.com/news/becle-talks-up-positives-as-q3-sales-earnings-fall/",
