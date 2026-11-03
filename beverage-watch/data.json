@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-03T00:48:00Z",
+ "updated": "2026-11-03T02:43:00Z",
  "briefing": {
-  "date": "2026-11-02",
-  "hook": "Heineken's buyback moves and tariff talks, plus new AI and product launches, shape the day.",
+  "date": "2026-11-03",
+  "hook": "Heineken’s buyback progress and tariff talks with India shape the day’s market moves.",
   "categories": {
    "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme while Diageo and Pernod Ricard plan to discuss a tariff reduction for bulk Scotch imports with India.",
-   "📈 Market": "Shepherd Neame plans a new brewery for its own brands, Varun Beverages is building another factory in India, and India’s duty‑free sugar quota may offer limited relief.",
+   "📈 Market": "Shepherd Neame is shifting focus to a new brewery dedicated to its own brands as part of a strategic shift.",
    "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Heineken’s CIO is using AI to operationalise data‑driven decisions, and Campari has launched a new Courvoisier Cognac for Chinese drinkers."
+   "🍺 Beer & Brewing": "Shepherd Neame’s new brewery plan signals a strategic shift toward its own brands.",
+   "💡 Innovation & No-Low": "Heineken’s CIO is using AI to operationalise data‑driven decisions."
   }
  },
  "articles": [
@@ -228,6 +228,15 @@
    "date": "2026-11-01",
    "ai_summary": "Jared Goff puts Lions ahead in 4th with a TD pass to Jameson Williams, demonstrating effective offensive coordination.",
    "excerpt": "Jared Goff puts Lions ahead in 4th with a TD pass to Jameson Williams ESPN"
+  },
+  {
+   "title": "Toe-tap tuddy! Goff's TD toss to Jameson Williams gives Lions an 18-15 lead vs. Vikes - NFL.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREJmRV9MeVppZURZMXk3ZEZKM0JScV9faFhYajdoNmw2em9XSGEwUE9iQU14bTNoNU1mQTZzR1dOTTIzQVljSW50VGNYZFV4T2l5a1dfM1g3dEtsX29ndTNpY3dQMjNkZGtXLTQzWnZuOEExT1RXcWxmUW1sRF9iaDFTYXVkN2JyRU9QZ01ZYU9qQy1iSHFBN1ZSQWJYZFJyNEN2UVRYVmo1UDJtM2hn?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-01",
+   "ai_summary": "The article reports that Goff's touchdown pass to Jameson Williams gave the Lions an 18-15 lead against the Vikes. It highlights the play as a key moment in the game.",
+   "excerpt": "Toe-tap tuddy! Goff's TD toss to Jameson Williams gives Lions an 18-15 lead vs. Vikes NFL.com"
   },
   {
    "title": "Jared Goff finds Jameson Williams for 7-yard TD, giving Lions' lead against Vikings - FOX Sports",
