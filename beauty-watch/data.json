@@ -1,17 +1,107 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-03T10:51:00Z",
+ "updated": "2026-11-03T12:52:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "Today’s highlights show Estée Lauder’s outlook lift amid share sell‑off, fresh brand exits, and new innovation pushes in skincare and fragrance.",
+  "hook": "Beauty market sees strategic moves, travel retail gains, and new innovation launches amid shifting consumer habits.",
   "categories": {
-   "📈 Market": "Estée Lauder’s upgraded FY27 outlook and 7% sales rise, driven by fragrance, contrast with modest gains at Henkel and Kenvue’s mixed beauty results.",
-   "💄 Brands & Retail": "Fresh’s founders shut their fragrance brand while Violet Grey targets premium retail gaps, and Estée Lauder reports a 7% net sales increase.",
-   "🤝 Strategy & M&A": "Estée Lauder shares fell despite strong earnings, CVC, Cinven and Puig target Parfums de Marly, and Coty is expected to meet fiscal Q1 results.",
-   "💡 Innovation & Regulation": "New peptide treatments launch, a wearable fitness tracker debuts, Fareva and Chromavis combine for skincare concepts, and RoC Skincare sees explosive growth."
+   "📈 Market": "Luxury brands like L’Oréal and Estée Lauder benefit from travel retail as airports shift shoppers toward premium beauty products.",
+   "💄 Brands & Retail": "Estée Lauder reports a 7% net sales rise, while new ventures such as Violet Grey aim to fill premium retail gaps in emerging markets.",
+   "🤝 Strategy & M&A": "Kimberly‑Clark’s $48.7 b acquisition of Kenvue expands its beauty portfolio, and strategic interest in La Rosée signals ongoing consolidation.",
+   "💡 Innovation & Regulation": "Phases launches nine peptide‑based treatments for women’s health, and Ulta Beauty’s 2026 holiday campaign features a star‑studded cast to boost engagement."
   }
  },
  "articles": [
+  {
+   "title": "Kimberly-Clark completes $48.7 billion acquisition of Kenvue",
+   "url": "https://www.cosmeticsbusiness.com/kimberly-clark-completes-48-7-billion-acquisition-of-kenvue",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "Kimberly-Clark completes $48.7 billion acquisition of Kenvue, expanding into the beauty category and bringing Kenvue’s health and beauty brands under the same umbrella as its personal care brands.",
+   "excerpt": "The acquisition marks Kimberly-Clark’s expansion into the beauty category, and will see Kenvue’s health and beauty brands Neutrogena, Aveeno, OGX and Listerine sit under the same umbrella as Kenvue’s personal care brands"
+  },
+  {
+   "title": "Estée Lauder Companies’ Senior VP & General Manager, UK & Ireland, steps down",
+   "url": "https://www.cosmeticsbusiness.com/estee-lauder-senior-vp-general-manager-uk-and-ireland-steps-down",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Estée Lauder Companies’ Senior VP & General Manager for UK & Ireland resigns, with Umair Ansari set to succeed him as the new Senior VP & General Manager for Travel Retail.",
+   "excerpt": "Pernilla Nyberg has resigned as Estée Lauder Companies’ Senior VP & General Manager, UK & Ireland, and will be succeeded by Umair Ansari, who is currently serving as the company’s Senior VP & General Manager, Travel Reta…"
+  },
+  {
+   "title": "As Dermocosmetics Heat Up, La Rosée Could Change Hands",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/dermocosmetics-heats-up-la-rosee-could-change-hands-1239397890/",
+   "source": "WWD Beauty",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "La Rosée, a French dermocosmetics brand, attracts interest from strategics and investment funds.",
+   "excerpt": "The French brand is luring interest from both strategics and investment funds, sources say."
+  },
+  {
+   "title": "Why beauty brands are checking into hotels",
+   "url": "https://www.cosmeticsbusiness.com/why-beauty-brands-checking-into-hotels-hospiltaity",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Beauty brands are entering the hospitality space, partnering with hotels to reach new audiences, offer personalized experiences, and develop new opportunities.",
+   "excerpt": "Floral Street, Skin Rocks and Merit Beauty are among the beauty brands checking into the hospitality space, with hotel partnerships offering opportunities to find new audiences, provide personalised experiences, and deve…"
+  },
+  {
+   "title": "How luxury beauty is taking off in travel retail",
+   "url": "https://www.cosmeticsbusiness.com/how-luxury-beauty-is-taking-off-in-travel-retail",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Luxury beauty brands such as L’Oréal and Estée Lauder are benefiting from travel retail, with airports shifting consumer shopping habits toward premium beauty products.",
+   "excerpt": "Beauty’s premium players such as L’Oréal and Estée Lauder Companies have been increasingly benefiting from travel retail, as the humble airport creates a shift in consumer shopping habits that is allowing luxury beauty t…"
+  },
+  {
+   "title": "The Beauty Tech Group (LON:TBTG) Sets New 1-Year High - Here's Why - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2tOUDRoTVhlaHNveHM5MWFvVkxfT3QzRXc2R1ZtTG5oS3U5cE14SFVaM0FUNVhJZzQ2OEg4RjZ2S3VvRG00TU00b1dpNGxDSGEyM1FZbXdYQzlyMS1sNHY5VHFTT3ZtVGVkODJpdnVXN1RRZk9JdmFkSERrNUl3QTJsN09BOW91eTliMlJhSXJnUW1hcGQwbmFSYmt4bDNqTExmMXVRcW1UN3ZjSm9tNy03RE11UXA3Tjd6SF9R?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "The Beauty Tech Group reaches a new 1‑Year high, according to MarketBeat.",
+   "excerpt": "The Beauty Tech Group (LON:TBTG) Sets New 1-Year High - Here's Why MarketBeat"
+  },
+  {
+   "title": "Puig CEO wants the company to become a ‘global dermocosmetics champion’",
+   "url": "https://www.cosmeticsbusiness.com/puig-wants-to-become-global-dermocosmetics-champion",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Puig CEO Jose Manuel Albesa aims to make the company a global dermocosmetics champion by taking full ownership of Isdin and planning to double its offerings.",
+   "excerpt": "Puig CEO Jose Manuel Albesa spoke on the importance of the beauty company carving its place in the dermocosmetics category, bolstering its offering by taking full ownership of Isdin next year and planning to double the s…"
+  },
+  {
+   "title": "Ulta Beauty unveils star-studded holiday campaign with Selena Gomez and Tate McRae",
+   "url": "https://www.cosmeticsbusiness.com/ulta-beauty-unveils-star-studded-2026-holiday-campaign",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "Ulta Beauty launches a 2026 holiday campaign featuring a star-studded cast including Selena Gomez, Tracee Ellis Ross, Jennifer Aniston, and Ice Spice.",
+   "excerpt": "Ulta Beauty’s 2026 festive campaign has arrived, featuring a star studded cast including beauty brand founders Selena Gomez, Tracee Ellis Ross, Jennifer Aniston and Ice Spice"
+  },
+  {
+   "title": "Ouai enters fragrance wearables through Heaven Mayhem jewellery collaboration",
+   "url": "https://www.cosmeticsbusiness.com/ouai-enters-fragrance-wearables-heaven-mayhem-collaboration",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "Ouai partners with Heaven Mayhem to launch amulets that reimagine how fragrance is worn.",
+   "excerpt": "Jen Atkin’s hair and body care brand, Ouai, has partnered with accessories and lifestyle brand Heaven Mayhem to launch a collection of amulets which reimagine how fragrance is worn"
+  },
+  {
+   "title": "Nails.Inc founder Thea Green exits the business after 27 years",
+   "url": "https://www.cosmeticsbusiness.com/nails-inc-founder-thea-green-exits-business",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Thea Green, founder and Chairwoman of Nails.Inc, exits the business after 27 years.",
+   "excerpt": "The departure of Nails.Inc founder and Chairwoman Thea Green comes two years after the British nail care brand was sold to Pacific World Corporation"
+  },
   {
    "title": "Estée Lauder slips despite strong quarterly results and raised outlook - marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbU1DWjBNS0F2d0VhY1pmUmJMbVdBakdZZmw3aWl1MUgzd2ZBbDZkWmZPNW9ETEZqSUEtOUpXOHZTZi1tbURoSi1GdU5RN3I1Y0JxQlo1b1FJUjRveEpLcGJCZEhLdmotMUl0VUtoeFA4X1ZBN0RDUEFXLVFsbjVtUXE3MkY5WVFfWE5oRGtxSm9UMnlBNEhnMmpqaVlEbVRBdzVjVEtkSnNDbXQydTRhbVItbTdFQklmcTVHUDhJcF8?oc=5",
