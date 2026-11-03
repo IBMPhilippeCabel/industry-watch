@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-03T08:53:00Z",
+ "updated": "2026-11-03T10:51:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "Heineken buyback progress and a tariff talk between Diageo and Pernod Ricard signal strategic moves.",
+  "hook": "Today’s highlights span AI‑driven brewing, protein‑infused water, cyber threats to supermarket fridges, and strategic moves in buybacks and tariff talks.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme while Diageo and Pernod Ricard plan to negotiate a tariff reduction for bulk Scotch imports into India.",
-   "📈 Market": "Shepherd Neame plans a new brewery for its own brands, Varun Beverages expands in India, and a law firm led consumer sector M&A activity.",
-   "🍸 Spirits & Premium": "Diageo and Pernod Ricard discuss a tariff reduction for bulk Scotch imports into India.",
-   "🍺 Beer & Brewing": "Shepherd Neame will build a smaller brewery dedicated to its own product range.",
-   "💡 Innovation & No-Low": "Heineken's CIO is using AI to operationalize data-driven decisions."
+   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback while Diageo and Pernod Ricard discuss tariff reductions for Scotch imports into India.",
+   "📈 Market": "Cyberattacks on European supermarket fridges disrupt operations, while Shepherd Neame shifts focus to a new brewery dedicated to its own brands.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": "Shepherd Neame plans a smaller brewery to produce its own product range, marking a strategic shift in its brewing operations.",
+   "💡 Innovation & No-Low": "Arla launches protein‑infused water and Heineken’s CIO deploys AI to drive data‑driven decisions across the business."
   }
  },
  "articles": [
+  {
+   "title": "Dairy giant Arla launches protein-infused water",
+   "url": "https://www.just-drinks.com/news/dairy-giant-arla-launches-protein-infused-water/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-03",
+   "ai_summary": "Dairy giant Arla launches protein-infused water — Arla Foods, one of Europe's largest dairy businesses, has launched a bottled water with added protein.",
+   "excerpt": "Arla Foods, one of Europe's largest dairy businesses, has launched a bottled water with added protein."
+  },
+  {
+   "title": "Greene King names first female CEO",
+   "url": "https://www.just-drinks.com/news/greene-king-names-first-female-ceo/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Greene King names first female CEO — Greene King has appointed Clair Preston-Beer as its next CEO, making her the first woman to lead the UK group in its 227-year history.",
+   "excerpt": "Greene King has appointed Clair Preston-Beer as its next CEO, making her the first woman to lead the UK group in its 227-year history."
+  },
+  {
+   "title": "European supermarket fridges hit by new cyber attacks",
+   "url": "https://www.just-drinks.com/news/european-supermarket-fridges-cyber-attacks/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "European supermarket fridges hit by new cyber attacks — A fresh wave of cyberattacks targeting refrigeration systems has disrupted supermarkets in several countries in Europe.",
+   "excerpt": "A fresh wave of cyberattacks targeting refrigeration systems has disrupted supermarkets in several countries in Europe."
+  },
   {
    "title": "Injured boy gets surprise chat with Detroit Lions' Jameson Williams - Detroit Free Press",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVFWa0FYelJheDZSMVNBQjZUbFhYUlFIekJYeVZjZTMyS291TGFvZkl1N1h5dGxLRldNb2U2Y054RXhFNDVMME41NFdGT2t1UlhBY2xaNDUyMkkzR2U3dU1QeEVudTFxcWRoTzhvMUxVdHNCODNEbThKWnpUQnNDeWJFVXZqenJuZzhSczc0b1BOVnRjT2tWd3RpMENvSE1ndkRMejgtdHc1Q1gxZ1ZhTW54VXhwQk1keUpPV0VwWQ?oc=5",

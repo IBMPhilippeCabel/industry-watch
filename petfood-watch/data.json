@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-03T08:53:00Z",
+ "updated": "2026-11-03T10:51:00Z",
  "briefing": {
-  "date": "2026-11-02",
-  "hook": "EU packaging rules, inflation easing, and new sustainability moves drive today’s pet food scene.",
+  "date": "2026-11-03",
+  "hook": "Pet food day sees new EU packaging rules, sustainability moves, and cross‑border expansion.",
   "categories": {
-   "📈 Market": "Pet product inflation is cooling, with prices stabilizing across major economies.",
-   "⚖️ Regulation": "EU’s new packaging regulation will raise costs for pet food makers and distributors.",
-   "💡 Innovation": "Sustainability and ingredient innovation, from mushroom byproducts to trace mineral bioavailability, are shaping pet food trends.",
-   "🤝 M&A": "PsiBufet expands into Slovakia while i‑Tail buys Phelps Pet Products to strengthen its U.S. presence."
+   "📈 Market": "Pet boarding remains the top revenue source for global pet care operators, per a recent industry survey.",
+   "⚖️ Regulation": "EU’s new Packaging and Packaging Waste Regulation imposes stricter design, material, and labeling rules that could raise costs for pet food makers.",
+   "💡 Innovation": "Pet food firms are emphasizing sustainability, such as regenerative agriculture and mushroom byproducts, while rethinking trace mineral bioavailability to improve nutrition.",
+   "🤝 M&A": "PsiBufet expands into Slovakia and i‑Tail acquires Phelps Pet Products, both moves strengthening their European and U.S. footprints."
   }
  },
  "articles": [
+  {
+   "title": "Survey: Pet boarding drives revenue for global pet care operators",
+   "url": "https://globalpetindustry.com/news/survey-pet-boarding-drives-revenue-for-global-pet-care-operators/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Pet boarding is the largest revenue generator for pet care service operators globally, according to a survey by The Dog Gurus and the International Boarding & Pet Services Association.",
+   "excerpt": "Pet boarding is the largest revenue generator for pet care service operators globally, according to the Pet Boarding Industry Benchmarking Survey by The Dog Gurus, the International Boarding & Pet Services Association (I…"
+  },
+  {
+   "title": "Pet players level up their games with new sports deals",
+   "url": "https://globalpetindustry.com/news/pet-players-level-up-their-games-with-new-sports-deals/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-03",
+   "ai_summary": "Companies across Europe and North America are pursuing sponsorships and joint initiatives to strengthen local relationships, reach new audiences and promote their brands beyond traditional pet industry channels.",
+   "excerpt": "Companies across Europe and North America are pursuing sponsorships and joint initiatives to strengthen local relationships, reach new audiences and promote their brands beyond traditional pet industry channels. Europe F…"
+  },
   {
    "title": "Pet food packaging faces new, potentially costly EU rules",
    "url": "https://www.petfoodindustry.com/packaging/pet-food-packaging/article/16274713/pet-food-packaging-faces-new-potentially-costly-eu-rules",
