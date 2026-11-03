@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-03T16:47:00Z",
+ "updated": "2026-11-03T18:43:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "L’Oréal faces a mixed day as Deutsche Bank maintains a sell rating while the brand pushes new mascara tech and expands APAC presence amid travel‑retail growth.",
+  "hook": "L’Oréal’s day highlights a new ambassador, strong sales growth, and a boost in travel retail demand.",
   "categories": {
-   "🤝 Strategy & M&A": "Deutsche Bank keeps a sell rating on L’Oréal, while the company appoints a new marketing director for YSL and Prada Beauty to strengthen its APAC presence.",
-   "💄 Brands & Launches": "L’Oréal Paris launches a new mascara featuring a one‑click makeover function, highlighted by ContentGrip.",
-   "💡 Beauty Tech & ESG": "L’Oréal reports growth in all four divisions for Q3 2026 and a nine‑month sales increase across all divisions.",
-   "📈 Market": "Luxury beauty brands like L’Oréal benefit from rising consumer shopping at airports, boosting travel‑retail sales."
+   "🤝 Strategy & M&A": "L’Oréal announced Adria Arjona as its new global ambassador while Deutsche Bank maintains a sell rating on the group.",
+   "💄 Brands & Launches": "The brand launched a new mascara featuring a one‑click makeover, starring Adria Arjona in its Volume Liberté campaign.",
+   "💡 Beauty Tech & ESG": "Quarterly results show growth across all divisions, and the Beauty Tech Innovation Program supports an Australian brand.",
+   "📈 Market": "Luxury beauty sales are rising in travel retail, with L’Oréal benefiting from increased airport shopper activity."
   }
  },
  "articles": [
+  {
+   "title": "Adria Arjona Is L’Oréal Paris’ Newest Global Ambassador (Exclusive) - People.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSl9KRkJWZVdKRWJOeHBEYVcyWXpRUW5MZUFlNXFLWWhkNzI0dUdQdkR2OExCSUZQX1JQeW96TDlKU3pxS3FwUWItWkhZU1lHbm4wYzY4dnFaSnBKeXBSRTFScVV3RWpyMWJhdEJCZWRaLXRIWXdKTHV3VmhQLTJoUEZPRnE2czRPTFZOcVZfWFlvdVhzNXFNeUhxSVhMZ0JxNjRia3VheDJJTUtra3IxVkNLWVBoeFg2STFXd2NJdTJMNXdrNEtzXzUwZkxWUQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "Adria Arjona is announced as L’Oréal Paris’ newest global ambassador, as reported exclusively by People.com.",
+   "excerpt": "Adria Arjona Is L’Oréal Paris’ Newest Global Ambassador (Exclusive) People.com"
+  },
   {
    "title": "L'Oréal : Deutsche Bank reiterates its Sell rating - marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkNKUExDUHFTQ2hRQmM4dmlSbDNtdGNXRW5Bc2FTOTFVRW9ZYWkzVmgweHNHcWJqTk5CUW1KNWJrV2lKZzN3MlJoZ2d1b0drUk82ZEZxeTNjY1NEak5SWkhhYzdMeDZkYmFFaE85R3F4aG9wdnZXSGtTVXNyejZJTzZXaTI5ODdjeVJWbnpJOW53MlR0Vk9ycHI1VWVaWTZBX0pF?oc=5",
@@ -173,6 +182,15 @@
    "date": "2026-10-31",
    "ai_summary": "L'Oreal stock: Nine-month sales rise as all divisions grow - ad-hoc-news.de. L'Oreal stock: Nine-month sales rise as all divisions grow ad-hoc-news.de.",
    "excerpt": "L'Oreal stock: Nine-month sales rise as all divisions grow ad-hoc-news.de"
+  },
+  {
+   "title": "The L'Oreal Beauty Tech Innovation Program Giving This Aussie Brand A Chance ... Because They're Worth It - Women Love Tech",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0xBQzUyRFBkUUNsQXNBdTZTa0NEb2t4MlR0QmhsdXR0YzVZWEFQRW9XaFhtU2JnR0RGWFdFWGRackE3UlpzTWJzZlh0SWZFNGVtdmR1YU1wR0xOZk95X0E3MGV2MnBuUW0yMVpoVlp4V3hhbXQ5eXB4VUVTaXBZOU9WdkNxenRTOW9uOTlsNVR0QkJXYmdLUVRmNUFBTEVXWVVJR21BU19TcDlERmU1X0Y1cnU2b1hrLVYyN3VGSTdZNFJF?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-10-31",
+   "ai_summary": "The L'Oreal Beauty Tech Innovation Program offers support to an Australian brand, highlighting its potential and worth, according to Women Love Tech.",
+   "excerpt": "The L'Oreal Beauty Tech Innovation Program Giving This Aussie Brand A Chance ... Because They're Worth It Women Love Tech"
   },
   {
    "title": "L’Oréal Japan Names Philippe Archambault President From November 1 - Oui Speak Fashion (OSF)",
