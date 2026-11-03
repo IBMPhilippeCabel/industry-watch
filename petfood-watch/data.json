@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-03T18:43:00Z",
+ "updated": "2026-11-03T20:41:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "Today’s pet‑food news spotlights gut‑friendly recipe research, market resilience amid economic pressure, new EU packaging rules, and cross‑border acquisitions.",
+  "hook": "Innovation drives sustainable ingredients while market growth faces economic pressure, regulation tightens packaging, and M&A fuels regenerative agriculture.",
   "categories": {
-   "📈 Market": "Dog ownership interest stays high, but economic pressures are creating barriers for many prospective owners, while therapeutic and wellness brands continue to grow.",
-   "⚖️ Regulation": "The EU’s new Packaging and Packaging Waste Regulation introduces stricter design, material, and labeling requirements that could raise costs for pet‑food manufacturers and distributors.",
-   "💡 Innovation": "Researchers are applying machine learning to design wet dog food recipes, exploring chicory root powder for digestive benefits, and highlighting the importance of trace mineral bioavailability, though data gaps remain.",
-   "🤝 M&A": "Cross‑border deals are underway, with i‑Tail acquiring Phelps Pet Products, PsiBufet expanding into Slovakia, and a Soil Capital co‑investment supporting regenerative agriculture."
+   "📈 Market": "Economic pressures are dampening dog ownership despite strong interest, while therapeutic and wellness brands and fresh pet food continue to drive sales growth.",
+   "⚖️ Regulation": "EU’s new Packaging and Packaging Waste Regulation will raise costs for pet food manufacturers by imposing stricter design, material, and labeling rules.",
+   "💡 Innovation": "Researchers are exploring machine‑learning‑derived wet dog food recipes, chicory root powder as a functional ingredient, and partnerships to embed regenerative agriculture into production.",
+   "🤝 M&A": "Regenerative agriculture is attracting investment, as seen in Soil Capital’s co‑investment and i‑Tail’s acquisition of Phelps Pet Products, expanding U.S. presence."
   }
  },
  "articles": [
@@ -56,6 +56,15 @@
    "date": "2026-11-03",
    "ai_summary": "Growth in therapeutic and wellness brands, along with strength in cat food and fresh pet food, supported the quarter's sales increase.",
    "excerpt": "Growth across therapeutic and wellness brands, strength in cat food and fresh pet food expansion supported the quarter."
+  },
+  {
+   "title": "Royal Canin to support regenerative agriculture through new partnership - Pet Food Processing",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHNBME5qSDVhTTk4YVhSdFk3aGdLdU1lSHlOdVgzTVFESGl5Y0UydF9DVDFBVXBWSmhlSUh5WmcxVDQtMV9oTGpwdWFqcmwwVU5Db25FQTZlUzBFQ19TZUpUOFA2Wl9nanBINjIwX1dlak0ybFNlNzktZnlHVEhudG5PakQ2blRMMnRHalJmSVZ6S3dTLVdKVFZjOHJCclJnbjl4SXNBaU1FV0RjNUxwalphQk5KdFgtZmJPcA?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-11-03",
+   "ai_summary": "Royal Canin has announced a new partnership aimed at supporting regenerative agriculture. The collaboration focuses on integrating sustainable practices into pet food production.",
+   "excerpt": "Royal Canin to support regenerative agriculture through new partnership Pet Food Processing"
   },
   {
    "title": "Beyond age, food amount may explain some puppy, adult dog gut differences",
