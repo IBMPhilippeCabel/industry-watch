@@ -1,17 +1,107 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-03T04:47:00Z",
+ "updated": "2026-11-03T06:56:00Z",
  "briefing": {
   "date": "2026-11-03",
-  "hook": "Estée Lauder’s Q1 2027 results lift the market while Coty’s outlook remains cautious, shaping the day’s focus.",
+  "hook": "Fragrance drives Q1 gains while brands pivot to tech and new launches, and strategic deals reshape the beauty landscape.",
   "categories": {
-   "📈 Market": "Estée Lauder’s Q1 2027 sales surge, driven by fragrance, skin care and make‑up, reflects the ‘Beauty Reimagined’ plan’s success.",
-   "💄 Brands & Retail": "Estée Lauder’s 7% net sales rise fuels growth across key categories, with brands like La Mer, Tom Ford and Jo Malone London leading the charge.",
-   "🤝 Strategy & M&A": "Coty is expected to meet its fiscal Q1 results and maintain conservative guidance for fiscal 2027, while Estée Lauder’s strategy continues to pay off.",
-   "💡 Innovation & Regulation": "Fareva and Chromavis are merging expertise to create new skincare concepts, blending advanced skin science with Italian creativity."
+   "📈 Market": "Estée Lauder’s Q1 sales jump 7% to $3.7 billion, driven by fragrance, skin and makeup, boosting its FY27 outlook.",
+   "💄 Brands & Retail": "Estée Lauder reports a 7% net sales rise, while Violet Grey seeks premium retail expansion and Maybelline adopts ChatGPT for customer engagement.",
+   "🤝 Strategy & M&A": "Coty is expected to meet fiscal Q1 results and keep conservative 2027 guidance, while Estée Lauder’s ‘Beauty Reimagined’ strategy pays off and CVC, Cinven and Puig eye a Parfums de Marly acquisition.",
+   "💡 Innovation & Regulation": "Phases launches nine peptide-based treatments for women, a health tech firm rolls out wearable fitness trackers, and RoC Skincare’s relaunch drives 500% sell‑out growth."
   }
  },
  "articles": [
+  {
+   "title": "CVC, Cinven and Puig Eye Parfums de Marly Acquisition - Global Cosmetics News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVZpM0FYLUhDV0Nma1RTMlU1MmQ2cEowbFRNUzhySXJqYld4Vk05ajAzOUFkS3dzNjljTlBSNEtXYVo5bVpTZDBGRFJRcTJDcktYX0RlZzNfZ1RXOUYwM0pScmJZRXNNSmRHZ29KUVJndk1oVWctZlNwMk9hUXJpdWRxaXd0ZEJVek85bzJ2VkVESVE?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "CVC, Cinven and Puig Eye Parfums de Marly Acquisition Global Cosmetics News.",
+   "excerpt": "CVC, Cinven and Puig Eye Parfums de Marly Acquisition Global Cosmetics News"
+  },
+  {
+   "title": "The Financial Fine Print: How To Read The Big Numbers Beauty Brands Flaunt",
+   "url": "https://www.beautyindependent.com/beauty-brand-financial-disclosures/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "Zuru Edge has had an impressive run in beauty. How do we know? A public relations pitch sent to Beauty Independent about Jaimee Lupton, co-founder of its beauty vertical, says, “At just 33, beauty entrepreneur Jaimee Lup…",
+   "excerpt": "Zuru Edge has had an impressive run in beauty. How do we know? A public relations pitch sent to Beauty Independent about Jaimee Lupton, co-founder of its beauty vertical, says, “At just 33, beauty entrepreneur Jaimee Lup…"
+  },
+  {
+   "title": "Fresh Founders’ Fragrance Brand The Maker Closes, But A Comeback Is Possible",
+   "url": "https://www.beautyindependent.com/fresh-founders-fragrance-brand-the-maker-closes-comeback-possible/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-03",
+   "ai_summary": "Fresh co-founders Lev Glazman and Alina Roytberg are shutting down their second beauty venture, fragrance brand The Maker , although they’re leaving open the possibility of bringing it back. Developed as an extension of …",
+   "excerpt": "Fresh co-founders Lev Glazman and Alina Roytberg are shutting down their second beauty venture, fragrance brand The Maker , although they’re leaving open the possibility of bringing it back. Developed as an extension of …"
+  },
+  {
+   "title": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+   "url": "https://wwd.com/beauty-industry-news/wellness/whoop-ulta-launch-mg-5-0-wellness-tracker-1239396456/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "The health tech company will launch its wearable fitness trackers online and in select stores in March 2027.",
+   "excerpt": "The health tech company will launch its wearable fitness trackers online and in select stores in March 2027."
+  },
+  {
+   "title": "Phases Launches With Women-Focused Peptide Treatments",
+   "url": "https://wwd.com/beauty-industry-news/wellness/phases-launches-women-focused-peptide-treatments-1239391316/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "Phases launches nine peptide-based treatments tailored to women’s health needs.",
+   "excerpt": "Phases, founded by husband-and-wife team Lana and Joseph Elie-Meyers, debuts with nine peptide-based treatments tailored to women’s health needs."
+  },
+  {
+   "title": "Beauty Briefing: Violet Grey’s expansion plans are taking it to Dallas and Aspen",
+   "url": "https://www.glossy.co/beauty/beauty-briefing-violet-greys-expansion-plans-are-taking-it-to-dallas-and-aspen/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-03",
+   "ai_summary": "This week, I checked in how Violet Grey is looking to fill the void for premium beauty retail in new markets. Additionally, buyers are eyeing niche fragrance brand Parfums de Marly, and Maybelline is embracing ChatGPT as…",
+   "excerpt": "This week, I checked in how Violet Grey is looking to fill the void for premium beauty retail in new markets. Additionally, buyers are eyeing niche fragrance brand Parfums de Marly, and Maybelline is embracing ChatGPT as…"
+  },
+  {
+   "title": "Sephora Collection Turns 30. What’s Next?",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-collection-turns-30-whatsnext-1239392859/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-03",
+   "ai_summary": "Sephora’s strategy for its eponymous beauty line is four-pronged.",
+   "excerpt": "The strategy for Sephora’s eponymous beauty line is four-pronged."
+  },
+  {
+   "title": "EXCLUSIVE: Officina Profumo-Farmaceutica di Santa Maria Novella Names CEO, General Manager",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/santa-maria-novella-ceo-roberto-pesenti-new-general-manager-1239396303/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "Roberto Pesenti has been appointed CEO of the historic Florentine beauty brand, and will be joined by Marco Barberini in the newly created role of general manager.",
+   "excerpt": "Roberto Pesenti has been appointed CEO of the historic Florentine beauty brand, and will be joined by Marco Barberini in the newly created role of general manager."
+  },
+  {
+   "title": "Meet TikTok’s Top Creators in Makeup and Fragrance",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/tiktok-top-makeup-and-fragrance-creators-1239391151/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-03",
+   "ai_summary": "A look at the top 10 creators of all time by likes in each category, according to new data by Spate.",
+   "excerpt": "Here, a look at the top 10 creators of all time by likes in each category, according to new data by Spate."
+  },
+  {
+   "title": "EXCLUSIVE: Van Dang Fragrances Expands Its Retail Footprint",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/van-dang-fragrances-saks-launch-1239392873/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-03",
+   "ai_summary": "The scent brand, cofounded by Kim‑Van Dang and her husband, Anthony Roberts, is debuting its full assortment in two Saks doors.",
+   "excerpt": "The scent brand, cofounded by Kim-Van Dang and her husband, Anthony Roberts, is debuting its full assortment in two Saks doors."
+  },
   {
    "title": "Coty (COTY) Q3 earnings: what to expect - TradingView",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXdfQjBIdzh0aHQ4cjlmVEFKZi1TRzdwRzJhRU5VQWx1WldoMHBrZ05vTnBPQkNIQlMxZ3F0LTMxMGFKRmVxeExIYl9wRzZueEtOajFmMi0xeWxFSlFyc2xWMWZCbS1VcEJvSXlEdFlVZVl6dzZ1aXJNNlpNb1RnV0t2Si1iNkJXQzMxM0ZtOEphaGFJQ0R3SDlpa3hiUQ?oc=5",
@@ -56,6 +146,24 @@
    "date": "2026-11-03",
    "ai_summary": "Hou Juncheng discusses Proya’s new 450 m² R&D lab in Suresnes, near Paris, and its team of seven scientists moving closer to European suppliers and expertise.",
    "excerpt": "Located in Suresnes, near Paris, France, Proya's newly established 450 m² R&D laboratory already employs seven scientists. Premium Beauty News spoke with Hou Juncheng, founder and president of Proya Cosmetics, about the …"
+  },
+  {
+   "title": "Symrise appoints four new perfumers to its Paris creative hub",
+   "url": "https://www.premiumbeautynews.com/en/symrise-appoints-four-new,28464",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-03",
+   "ai_summary": "Symrise Fine Fragrance strengthens its Paris Creative Center with the arrival of four perfumers: Philippe Paparella-Paris, Théo Belmas, Leslie Girard and Margaux Le Paih Guérin. “Our ambition in Paris is to bring togethe…",
+   "excerpt": "Symrise Fine Fragrance strengthens its Paris Creative Center with the arrival of four perfumers: Philippe Paparella-Paris, Théo Belmas, Leslie Girard and Margaux Le Paih Guérin. “Our ambition in Paris is to bring togethe…"
+  },
+  {
+   "title": "RoC Skincare aims to rank among France's top 3 anti-aging brands",
+   "url": "https://www.premiumbeautynews.com/en/roc-skincare-aims-to-rank-among,28462",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-03",
+   "ai_summary": "Two years after its comeback to the French market, dermocosmetics brand RoC Skincare achieved 500% sell-out growth in 2025, and is forecasting a 200% increase in 2026. This performance reflects an ambitious relaunch stra…",
+   "excerpt": "Two years after its comeback to the French market, dermocosmetics brand RoC Skincare achieved 500% sell-out growth in 2025, and is forecasting a 200% increase in 2026. This performance reflects an ambitious relaunch stra…"
   },
   {
    "title": "Early Black Friday deals: Home, beauty, tech and more - ABC News - Breaking News, Latest News and Videos",
@@ -130,6 +238,15 @@
    "excerpt": "Estée Lauder Companies’ 2027 Q1 Results Beauty Packaging"
   },
   {
+   "title": "Estée Lauder Companies Releases Q1 2027 Financial Results - AlphaStreet",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa291b3JuNTd3RWZMenFIa09GTHZCVUlobEdZRUpLQjUtT2RDWGs5STZiR2VXeWpuQ3JVS3pzd3RoY3RRU3ViTmc5R21vdHI4cFhhbkZkY3FqNXM5SHpjYldIeV9OMzlWZHBCUk5TRlBQVlJrdXFRZkVPaVJ4VlBydDNqc2FsN0JtblZRVTVYRkTSAZABQVVfeXFMTmtvdW9ybjU3d0VmTHpxSGtPRkx2QlVJaGxHWUVKS0I1LU9kQ1hrOUk2YkdlV3lqbkNyVUt6c3d0aGN0UVN1Yk5nOUdtb3RyOHBYYW5GZGNxajVzOUh6Y2JXSHlfTjM5VmRwQlJOU0ZQUFZSa3VxUWZFT2lSeFZQcnQzanNhbDdCbW5WUVU1WEZE?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-02",
+   "ai_summary": "Estée Lauder Companies releases its Q1 2027 financial results. The announcement is reported by AlphaStreet.",
+   "excerpt": "Estée Lauder Companies Releases Q1 2027 Financial Results AlphaStreet"
+  },
+  {
    "title": "Henkel UK&I bets on gloss treatments as hair care’s next big growth category",
    "url": "https://www.cosmeticsbusiness.com/henkel-bets-on-glosses-as-hair-cares-next-big-growth-category",
    "source": "Cosmetics Business",
@@ -146,15 +263,6 @@
    "date": "2026-11-02",
    "ai_summary": "",
    "excerpt": "Lookfantastic has partnered with long-term collaborator, influencer and entrepreneur, Molly-Mae Hague, to launch an exclusive edit of her favourite beauty products for the first time"
-  },
-  {
-   "title": "Estée Lauder Companies Releases Q1 2027 Financial Results - AlphaStreet",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGVZS2k1azhWSldVZkljVmNJZ2ZzQUpVdzFDSklHWlVOOEliTDFOekt3NDZlUXloaXpGdWo5aEJHc3B0dkRhcHNRX0Q5ZmtvOXMtcUFIdnhIcXB4dDNSb2NkdE1kYTNad3h6NGpqOHdnNHhqN1ctOWNxMVNiaGpzaGZYRVczOVNiRjVldWZmYzJSNXpONFHSAZYBQVVfeXFMTmxlWUtpNWs4VkpXVWZJY1ZjSWdmc0FKVXcxQ0pJR1pVTjhJYkwxTnpLdzQ2ZVF5aGl6RnVqOWhCR3NwdHZEYXBzUV9EOWZrbzlzLXFBSHZ4SHFweHQzUm9jZHRNZGEzWnd4ejRqajh3ZzR4ajdXLTljcTFTYmhqc2hmWEVXMzlTYkY1ZXVmZmMyUjV6TjRR?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-11-02",
-   "ai_summary": "Estée Lauder Companies Releases Q1 2027 Financial Results — The article announces the release of Estée Lauder Companies’ Q1 2027 financial results.",
-   "excerpt": "Estée Lauder Companies Releases Q1 2027 Financial Results AlphaStreet"
   },
   {
    "title": "E.l.f. Brands opts for ‘handcrafted’ stop motion Christmas campaign instead of AI",
