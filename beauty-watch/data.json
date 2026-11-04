@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-04T08:51:00Z",
+ "updated": "2026-11-04T11:03:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Today’s beauty beat highlights clean‑beauty scrutiny, new AI fragrance tools, strategic brand extensions, and travel‑retail gains.",
+  "hook": "Today’s highlights show a mix of regulatory scrutiny, brand expansion, and strategic moves in the beauty sector.",
   "categories": {
-   "📈 Market": "Luxury brands like L’Oréal and Estée Lauder are riding a travel‑retail surge as airports shift shoppers toward premium beauty, while beauty firms expand into hospitality to reach new audiences.",
-   "💄 Brands & Retail": "Coty extends its Marc Jacobs Beauty license for 40 years, while Stephanie Phair launches an AI‑powered fragrance discovery platform, and Sephora pushes a four‑pronged strategy for its eponymous line.",
-   "🤝 Strategy & M&A": "Estée Lauder’s ‘Beauty Reimagined’ strategy pays off, True Beauty Ventures shifts to pre‑launch brands, and Kimberly‑Clark’s $48.7 b acquisition of Kenvue expands its beauty portfolio.",
-   "💡 Innovation & Regulation": "Clean‑beauty claims face scrutiny as Topfeel sets talc‑free standards, Kathy Hilton launches Touché, and UK MPs label cosmetics regulation a confusing mess."
+   "📈 Market": "Estée Lauder’s 7% sales rise signals a margin push, while travel retail gains premium sales and hotels partner with brands for new audiences.",
+   "💄 Brands & Retail": "Coty’s 40‑year Marc Jacobs license extension and AI fragrance platform launch illustrate brand growth and tech adoption.",
+   "🤝 Strategy & M&A": "Kimberly‑Clark’s $48.7 b acquisition of Kenvue marks a major move into beauty, while True Beauty Ventures focuses on early‑stage brands.",
+   "💡 Innovation & Regulation": "UK MPs warn cosmetics regulation is a confusing mess that fails to cover new products, prompting calls for clearer rules."
   }
  },
  "articles": [
+  {
+   "title": "The Soapery finds zero argan oil In ‘Argan Oil’ samples from leading retailers",
+   "url": "https://www.cosmeticsbusiness.com/the-soapery-finds-zero-argan-oil-in-argan",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "The Soapery found that all tested argan oil samples from leading retailers contained no argan oil, raising questions about what is actually inside the bottles.",
+   "excerpt": "100% of the argan oil The Soapery tested from different online retailers contained zero argan oil. That’s right. None. But what is actually inside the bottle?"
+  },
+  {
+   "title": "Coty extends Marc Jacobs Beauty license for 40 years to secure ‘one of its core brands’",
+   "url": "https://www.cosmeticsbusiness.com/coty-extends-marc-jacobs-beauty-license-for-40-years",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Coty has extended its Marc Jacobs Beauty license for 40 years, aiming to accelerate the brand’s fragrance and makeup growth across categories and markets.",
+   "excerpt": "Coty’s four-decade-long extension of its Marc Jacobs license with WHP Global and G-III Apparel Group will see it ‘accelerate’ the brand’s fragrance and make-up growth across categories and markets. This new deal extends …"
+  },
+  {
+   "title": "John Frieda, Celebrity Stylist Behind Frizz Ease, Sheer Blonde, Dies at 75",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/john-frieda-celebrity-stylist-frizz-ease-sheer-blonde-obit-1239399746/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-04",
+   "ai_summary": "John Frieda, known for his high-end salons and professional hair care products, passed away at the age of 75.",
+   "excerpt": "John Frieda, who channeled his talent and charm into high-end salons and a multimillion-dollar professional hair care business, has died aged 75."
+  },
   {
    "title": "The “Bentley of Serums”: Does Clean Beauty Really Deliver? - The Chalkboard Mag",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IbGdqVjZveFdEcmRVNHBCdGU3ejNQZDctXzRKWGIycGNweXR5S3RiTjlRT1d1blVVcFV3Nk4wNGo4OGxLejFHb2Z5RHF3WGx4RmlZN200Y0tqdGJadXB5aWQ4WEZoMTlGOFhPTg?oc=5",
@@ -101,6 +128,15 @@
    "date": "2026-11-04",
    "ai_summary": "Cosmetics regulation a 'confusing mess', committee of MPs warn - The Pharmacist — Cosmetics regulation a 'confusing mess', committee of MPs warn The Pharmacist",
    "excerpt": "Cosmetics regulation a 'confusing mess', committee of MPs warn The Pharmacist"
+  },
+  {
+   "title": "Estée Lauder accelerates turnaround and targets higher margins by 2030",
+   "url": "https://www.premiumbeautynews.com/en/estee-lauder-accelerates,28475",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Estée Lauder reported a 7% increase in net sales in the first quarter of fiscal 2027, exceeding expectations and signaling a push toward higher margins by 2030.",
+   "excerpt": "The Estée Lauder Companies reported a 7% increase in net sales in the first quarter of fiscal 2027, ended September 30, 2026, exceeding analysts' expectations of around 5% growth. Building on this momentum, the US cosmet…"
   },
   {
    "title": "Focus Was The Biggest Lesson For The 2026 Bridge Mentorship Cohort Of New Beauty Brands",
