@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-04T12:52:00Z",
+ "updated": "2026-11-04T14:52:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Day highlights focus on sustainability, data-driven recipe development, and regulatory shifts amid continued market resilience.",
+  "hook": "Pet food sales rise amid therapeutic brand growth, while EU packaging rules loom and regenerative partnerships expand.",
   "categories": {
-   "📈 Market": "Economic pressures temper dog ownership despite strong interest, while therapeutic and wellness brands drive sales growth.",
-   "⚖️ Regulation": "EU packaging regulation introduces new design and labeling requirements that could raise costs for pet food manufacturers.",
-   "💡 Innovation": "Researchers use machine learning to craft wet dog food recipes, and chicory root powder shows promise as a functional ingredient, while partnerships push regenerative agriculture.",
-   "🤝 M&A": "i-Tail's acquisition of Phelps expands its U.S. presence, and PsiBufet enters Slovakia as part of its European expansion."
+   "📈 Market": "Therapeutic and wellness brands drive sales growth, yet economic pressures keep dog ownership demand high.",
+   "⚖️ Regulation": "EU’s new packaging regulation will raise costs for pet food makers and distributors.",
+   "💡 Innovation": "Royal Canin partners to embed regenerative agriculture into pet food production.",
+   "🤝 M&A": "i‑Tail’s $160 million purchase of Phelps Pet Products expands its U.S. presence."
   }
  },
  "articles": [
+  {
+   "title": "How is the pet industry capitalizing on healthcare and vet growth?",
+   "url": "https://globalpetindustry.com/news/how-is-the-pet-industry-capitalizing-on-healthcare-and-vet-growth/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "How is the pet industry capitalizing on healthcare and vet growth? — Even though an increasing number of surveys around the world show pet owners apprehensive about the costs of veterinary consultations and treatments, revenue data from selected countries shows that the sector continues t…",
+   "excerpt": "Even though an increasing number of surveys around the world show pet owners apprehensive about the costs of veterinary consultations and treatments, revenue data from selected countries shows that the sector continues t…"
+  },
+  {
+   "title": "Pet trade associations strengthen leadership teams",
+   "url": "https://globalpetindustry.com/news/pet-trade-associations-strengthen-leadership-teams/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-04",
+   "ai_summary": "Pet trade associations strengthen leadership teams — New CEOs, executive directors and board officers have been appointed at the UK Pet Food, Pet Sustainability Coalition (PSC), the Pet Food Institute, IndiePet and the Animal Health Institute. UK Pet Food UK Pet Food, the …",
+   "excerpt": "New CEOs, executive directors and board officers have been appointed at the UK Pet Food, Pet Sustainability Coalition (PSC), the Pet Food Institute, IndiePet and the Animal Health Institute. UK Pet Food UK Pet Food, the …"
+  },
+  {
+   "title": "Sportsman’s Pride introduces 50-lb dog food bags",
+   "url": "https://www.petfoodprocessing.net/articles/21050-sportsmans-pride-introduces-50-lb-dog-food-bags",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-04",
+   "ai_summary": "Sportsman’s Pride introduces 50-lb dog food bags — The larger bags are designed to meet growing demand for value and convenience.",
+   "excerpt": "The larger bags are designed to meet growing demand for value and convenience."
+  },
+  {
+   "title": "Lord Jameson gives dogs the ‘Royal’ treatment",
+   "url": "https://www.petfoodprocessing.net/articles/21049-lord-jameson-gives-dogs-the-royal-treatment",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Lord Jameson gives dogs the ‘Royal’ treatment — The brand will offer an exclusive dog treat to patrons of The Royal Poinciana Plaza in Florida.",
+   "excerpt": "The brand will offer an exclusive dog treat to patrons of The Royal Poinciana Plaza in Florida."
+  },
+  {
+   "title": "Giddy Kitty expands distribution into Canada",
+   "url": "https://www.petfoodprocessing.net/articles/21048-giddy-kitty-expands-distribution-into-canada",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Giddy Kitty expands distribution into Canada — The new partnership with Natural Pet Distributors marks a key step in Giddy Kitty’s North American growth.",
+   "excerpt": "The new partnership with Natural Pet Distributors marks a key step in Giddy Kitty’s North American growth."
+  },
+  {
+   "title": "Women in the Pet Industry: Meet Mary Tan of Whisker Media",
+   "url": "https://www.petfoodprocessing.net/articles/21047-women-in-the-pet-industry-meet-mary-tan-of-whisker-media",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Women in the Pet Industry: Meet Mary Tan of Whisker Media — Veteran journalist turned pet industry communicator shares insights on consumer trust, crisis preparedness and the evolving media landscape shaping today’s pet food companies.",
+   "excerpt": "Veteran journalist turned pet industry communicator shares insights on consumer trust, crisis preparedness and the evolving media landscape shaping today’s pet food companies."
+  },
   {
    "title": "AI machine learning tests personalized dog food formulation",
    "url": "https://www.petfoodindustry.com/nutrition/research-notes/article/16349391/ai-machine-learning-tests-personalized-dog-food-formulation",

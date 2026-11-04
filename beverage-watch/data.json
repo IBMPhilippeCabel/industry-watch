@@ -1,18 +1,90 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-04T12:52:00Z",
+ "updated": "2026-11-04T14:52:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Today’s beverage news spans stronger sales forecasts, tariff shifts, leadership changes, cyber threats, and fresh AI and protein‑infused product launches.",
+  "hook": "Sazerac expands brewing reach while Coca-Cola HBC lifts outlook and Arla taps protein water trend.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Coca‑Cola HBC lifts its sales outlook after a robust third quarter, India signals tariff relief for bulk Scotch, EU‑UK talks on agri‑food exports, Becle reports Q3 downturn, Greene King names its first female CEO, and European supermarkets face new refrigeration cyber attacks.",
+   "🤝 Strategy & M&A": "Sazerac’s purchase of Full Sail Brewing signals a push into U.S. craft beer markets.",
+   "📈 Market": "Coca-Cola HBC’s raised sales forecast reflects strong third‑quarter performance.",
    "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "Greene King appoints Clair Preston‑Beer as its first female CEO, marking a historic leadership change for the 227‑year‑old brewing group.",
-   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused bottled water, while Heineken’s CIO implements AI to drive data‑driven decisions across the company."
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Arla’s launch of protein‑infused bottled water showcases dairy‑sector innovation."
   }
  },
  "articles": [
+  {
+   "title": "Alvin Kamara & Jameson Williams Headline These Fantasy Football Week 9 Players to Avoid - Sports Illustrated",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnFaUUxEbjczVnQ5MTJ4SENTdjVzWEczU3Fpb3lRcy1MQ3U3SU9IRlRUUHVQRzl1Q3dCbWFRTXRmaFp0MUJ6c2dNbFhvY2xPazVqYXB5a2hGSTRmckh4cV9LWXJON1pfOEJIWmVkaXBEODRHelRJSmY5NnE0Sm1aZ2ZzdW91UXZLTnlZNlpfTGFMampQY1F2U0MzNUN5eXowaWV5TFloUk1SRTJfLVpWaFFTazloYU1VYTdxT2xLZ0NnYUczLXdBSjE1YnlqQQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Alvin Kamara & Jameson Williams Headline These Fantasy Football Week 9 Players to Avoid Sports Illustrated",
+   "excerpt": "Alvin Kamara & Jameson Williams Headline These Fantasy Football Week 9 Players to Avoid Sports Illustrated"
+  },
+  {
+   "title": "Former Blue Jays Jameson Taillon, Yimi García eye returns in 2027 - Blue Jays Nation",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3YwU0xWX3J1RVJCRVVGaU5teG10V1FzbEtWWVdMSHhNSV92OXMyNFpXMWYwUENNcW5NU0pfcWNnY05ySV84eFJUMnVCZGZuN25MUEdDLTBPYzUtSThzWTVxY1ZyclQyU2JDc2xSTWtOZm1LeFlDR25kcWFFSTRzemFmd2ZJYjAzQzVVbnJJdXl4RnluLVpROVRPYmplckxjZ2JHeGV0MA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Former Blue Jays Jameson Taillon, Yimi García eye returns in 2027 Blue Jays Nation",
+   "excerpt": "Former Blue Jays Jameson Taillon, Yimi García eye returns in 2027 Blue Jays Nation"
+  },
+  {
+   "title": "Kraft Heinz offloads North America coffee arm",
+   "url": "https://www.just-drinks.com/news/kraft-heinz-offloads-north-america-coffee-arm/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Kraft Heinz offloads North America coffee arm",
+   "excerpt": "Kraft Heinz is selling control of its coffee business in North America."
+  },
+  {
+   "title": "Sazerac buys US firm Full Sail Brewing",
+   "url": "https://www.just-drinks.com/news/sazerac-buys-us-firm-full-sail-brewing/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Sazerac buys US firm Full Sail Brewing",
+   "excerpt": "Spirits giant Sazerac has confirmed the acquisition of US craft brewery Full Sail Brewing."
+  },
+  {
+   "title": "Chapel Down plans share offer to fund production",
+   "url": "https://www.just-drinks.com/news/chapel-down-plans-share-offer-to-fund-production/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Chapel Down plans share offer to fund production",
+   "excerpt": "English winemaker Chapel Down is looking to raise up to £6m ($8.1m) from shareholders to invest in production."
+  },
+  {
+   "title": "Why European supermarket cyberattacks mark OT watershed",
+   "url": "https://www.just-drinks.com/analyst-comment/why-european-supermarket-cyberattacks-mark-ot-watershed/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-04",
+   "ai_summary": "Why European supermarket cyberattacks mark OT watershed",
+   "excerpt": "The cyberattacks on European supermarkets make operational technology (OT) a board-level risk, writes GlobalData’s David Bicknell."
+  },
+  {
+   "title": "Lord Jameson gives dogs the ‘Royal’ treatment - Pet Food Processing",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHV0MVo4UDN6eHlFRVVLOWRIeWRVTzA4RkV3VHgzeEFHMFVOazhXOVhKeU05SHhrQ1NGNmdYcHpHaFVXOVRxMGRlcmU1TVZRYWRoZExxTExxWFZrUEtTekhfQ0FWZzN0MVZNZHpFaUhUUUk4QWk2N0F2UE9XNXZEVlEweGlRQUR6czZQYXpZQVV1Tk1VcTAw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Lord Jameson gives dogs the ‘Royal’ treatment Pet Food Processing",
+   "excerpt": "Lord Jameson gives dogs the ‘Royal’ treatment Pet Food Processing"
+  },
+  {
+   "title": "Who Should I Start? Jameson Williams or Ryan Flournoy - Fantasy Football Calculator",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmVJc0tySHVLYTVGZHdGT0d3NjAxMTFWalhFa2ZvemdZNWlOLUJfY180bTl1OUdlR2YyVEtiaEVHX19KZE1JZ2dYX1NfdVBUX3FMNGhibUplTEhpd3ZFZEdrR0RWa1cwSk4wNmlDZnNjcDJsVUNIczZ0c0VDQ0F3SmlSYw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Who Should I Start? Jameson Williams or Ryan Flournoy Fantasy Football Calculator",
+   "excerpt": "Who Should I Start? Jameson Williams or Ryan Flournoy Fantasy Football Calculator"
+  },
   {
    "title": "Coca-Cola HBC lifts sales forecast after “strong” Q3",
    "url": "https://www.just-drinks.com/news/coca-cola-hbc-lifts-sales-forecast-after-strong-q3/",
