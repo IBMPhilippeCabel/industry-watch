@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-04T11:03:00Z",
+ "updated": "2026-11-04T12:52:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Today’s focus spans tariff shifts, leadership changes, cyber threats, and fresh product launches across the beverage landscape.",
+  "hook": "Today’s beverage news spans stronger sales forecasts, tariff shifts, leadership changes, cyber threats, and fresh AI and protein‑infused product launches.",
   "categories": {
    "🤝 Strategy & M&A": null,
-   "📈 Market": "India’s potential tariff cut on bulk Scotch and the EU’s review of a UK agri‑food deal signal shifting trade dynamics for spirits.",
-   "🍸 Spirits & Premium": "Jameson whiskey rankings guide consumers on which variants to upgrade or avoid.",
-   "🍺 Beer & Brewing": "Shepherd Neame plans a new brewery dedicated to its own brands, marking a strategic shift in production.",
-   "💡 Innovation & No-Low": "Arla’s protein‑infused water launch and Heineken’s AI‑driven data operations illustrate new product and tech innovations."
+   "📈 Market": "Coca‑Cola HBC lifts its sales outlook after a robust third quarter, India signals tariff relief for bulk Scotch, EU‑UK talks on agri‑food exports, Becle reports Q3 downturn, Greene King names its first female CEO, and European supermarkets face new refrigeration cyber attacks.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": "Greene King appoints Clair Preston‑Beer as its first female CEO, marking a historic leadership change for the 227‑year‑old brewing group.",
+   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused bottled water, while Heineken’s CIO implements AI to drive data‑driven decisions across the company."
   }
  },
  "articles": [
+  {
+   "title": "Coca-Cola HBC lifts sales forecast after “strong” Q3",
+   "url": "https://www.just-drinks.com/news/coca-cola-hbc-lifts-sales-forecast-after-strong-q3/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Coca-Cola HBC raises its sales forecast following a strong third quarter. The company attributes the improvement to robust performance.",
+   "excerpt": ""
+  },
   {
    "title": "HEINEKEN Internship 2027 in the Netherlands: Global Projects & Engineering - Global South Opportunities",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54Z1BwRnFCSTRPdUdVT3p0UnoxMGIzZlhUZXdyaTBmYWdxX1FhWXRuWGJSZFFjdnFMRFUxVmp3ZmU4bnFFUlRyVVdOVVhxR3l3QTZWVkpHci1CMnpIZ2RxNGE1OVBhQTNLNHJ5VlVVQmdHTnFjSFE?oc=5",

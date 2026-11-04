@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-04T11:03:00Z",
+ "updated": "2026-11-04T12:52:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Today’s highlights show a mix of regulatory scrutiny, brand expansion, and strategic moves in the beauty sector.",
+  "hook": "Today’s highlights show Estée Lauder’s sales surge, Coty’s long‑term license extension, and new AI fragrance tools reshaping retail.",
   "categories": {
-   "📈 Market": "Estée Lauder’s 7% sales rise signals a margin push, while travel retail gains premium sales and hotels partner with brands for new audiences.",
-   "💄 Brands & Retail": "Coty’s 40‑year Marc Jacobs license extension and AI fragrance platform launch illustrate brand growth and tech adoption.",
-   "🤝 Strategy & M&A": "Kimberly‑Clark’s $48.7 b acquisition of Kenvue marks a major move into beauty, while True Beauty Ventures focuses on early‑stage brands.",
-   "💡 Innovation & Regulation": "UK MPs warn cosmetics regulation is a confusing mess that fails to cover new products, prompting calls for clearer rules."
+   "📈 Market": "Estée Lauder’s first‑quarter fiscal 2027 net sales rose 7%, surpassing expectations and hinting at a margin push by 2030, while Coty extended its Marc Jacobs Beauty license for 40 years to accelerate fragrance and makeup growth.",
+   "💄 Brands & Retail": "Coty secured a 40‑year extension of its Marc Jacobs Beauty license, and Stephanie Phair launched an AI‑powered fragrance discovery platform, Parfumerie, to connect personalized scent discovery with purchases across UK retailers.",
+   "🤝 Strategy & M&A": "Estée Lauder’s ‘Beauty Reimagined’ strategy has delivered results, True Beauty Ventures is pivoting to pre‑launch brands, and Kimberly‑Clark’s $48.7 billion acquisition of Kenvue expands its beauty portfolio.",
+   "💡 Innovation & Regulation": "Dove’s limited‑edition fine fragrance launch showcases heritage brands leveraging drops for growth, DSM‑Firmenich’s Q3 sales hit €2.3 billion, and Topfeel Beauty sets talc‑free standards for U.S. clean beauty."
   }
  },
  "articles": [
+  {
+   "title": "Dcypher Beauty’s Ruth de Leo talks 2027 expansion plans and growing her Beauty Concierge community",
+   "url": "https://www.cosmeticsbusiness.com/dcypher-beauty-ruth-de-leo-2027-expansion-john-lewis-blush-lipstick",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Dcypher Beauty’s founder Ruth de Leo discusses plans for 2027 expansion and growing her Beauty Concierge community, focusing on retail and category expansion in the UK and US.",
+   "excerpt": "Pure Beauty Award-winning founder of Dcypher Beauty Ruth De Leo tells Cosmetics Business about her plans for the beauty business in 2027, including retail and category expansion in the UK and US, and helping ‘rival’ inde…"
+  },
+  {
+   "title": "Celebrity hairdresser and salon legend John Frieda dies aged 75",
+   "url": "https://www.cosmeticsbusiness.com/celebrity-hairdresser-and-salon-legend-john-frieda-dies",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "John Frieda, the celebrity hairstylist and founder of the eponymous hair care line, passed away at age 75, surrounded by his family.",
+   "excerpt": "John Frieda, the celebrity hairstylist and founder of the eponymous hair care line, passed away on 3 November, surrounded by his family"
+  },
+  {
+   "title": "Opinion: What Dove’s exclusive fine fragrance drop can teach beauty brands about marketing",
+   "url": "https://www.cosmeticsbusiness.com/what-dove-s-fine-fragrance-drop-can-teach-brands-about-marketing",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Dove’s recent fine fragrance launch, inspired by its long‑standing cleansing bar, illustrates how heritage beauty brands can leverage a limited edition drop to drive lasting growth.",
+   "excerpt": "Dove’s recent fine fragrance launch, which smells like its 69-year-old hero cleansing sku Original Beauty Bar, highlights how heritage beauty brands can turn the buzz of a limited edition drop into lasting growth, says E…"
+  },
+  {
+   "title": "DSM-Firmenich sales top €2.3 billion in Q3 2026 due to volume-led growth",
+   "url": "https://www.cosmeticsbusiness.com/dsm-firmenich-sales-top-2-3-billion-in-q3",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "DSM‑Firmenich’s sales reached over €2.3 billion in Q3 2026, driven by volume growth in fine fragrance and reformulations across its beauty portfolio.",
+   "excerpt": "The fragrance and flavour company’s earnings were bolstered by its fine fragrance offering, alongside benefiting from reformulations across its beauty portfolio"
+  },
   {
    "title": "The Soapery finds zero argan oil In ‘Argan Oil’ samples from leading retailers",
    "url": "https://www.cosmeticsbusiness.com/the-soapery-finds-zero-argan-oil-in-argan",
