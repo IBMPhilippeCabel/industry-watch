@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-04T04:49:00Z",
+ "updated": "2026-11-04T06:59:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Today’s buzz spans confusing UK cosmetics rules, new brand launches, and big moves in beauty M&A, painting a picture of a market in flux.",
+  "hook": "Regulation confusion and new brand launches shape the beauty landscape today.",
   "categories": {
-   "📈 Market": "Luxury brands like L’Oréal and Estée Lauder are riding a travel‑retail surge as airports shift shoppers toward premium beauty, while Estée Lauder’s UK & Ireland senior VP steps down.",
-   "💄 Brands & Retail": "Fresh’s co‑founders shut down The Maker fragrance line, while Violet Grey seeks to fill premium retail gaps and Maybelline adopts ChatGPT, showing a mix of exits and tech‑driven growth.",
-   "🤝 Strategy & M&A": "Estée Lauder’s ‘Beauty Reimagined’ strategy pays off, True Beauty Ventures pivots to pre‑launch brands, and Kimberly‑Clark’s $48.7 billion Kenvue deal expands its beauty footprint.",
-   "💡 Innovation & Regulation": "UK MPs label cosmetics regulation a confusing mess that misses newer products, while The Beauty Tech Group hits a 1‑year high and Ulta Beauty unveils a 2026 holiday campaign."
+   "📈 Market": "Travel retail and hotel partnerships are driving premium beauty sales, with airports shifting consumer habits toward luxury brands.",
+   "💄 Brands & Retail": "Coty extends its Marc Jacobs license while Stephanie Phair launches an AI fragrance discovery platform targeting UK retailers.",
+   "🤝 Strategy & M&A": "Kimberly‑Clark’s $48.7 b acquisition of Kenvue expands its beauty portfolio, and True Beauty Ventures shifts focus to pre‑launch brands.",
+   "💡 Innovation & Regulation": "UK MPs warn cosmetics regulation is a confusing mess that fails to cover newer products, while Topfeel Beauty sets talc‑free standards for U.S. clean beauty."
   }
  },
  "articles": [
+  {
+   "title": "High Quality Cosmetic OEM Service: Topfeel Beauty Sets Talc-Free Standards for US Clean Beauty Trends - EIN News",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVTk3eFNSSzhybXhfQlJvVFFxbXpUYmMyazRTM3llYUsyUWR5OFJ3OTJtMmNaVGFmYTlRZzd5ZmpBNENfZlE2X3l1QTlqNUJkcWRQR1o4RG1yaTNxVnpfV25qZzFlNUdCd2ZFTTdDZnRLUkxoMWtmZG5NcTFNRXJEWjdhb2ZKc1VOY1ZGQXphOEYtbWJmUXU4b0E1c1oxSDZnMmt1RDBtaTBEQmplQ3pVZnRkZV9wT3JtODY2cDZaX21RWWVvX3pqUkVFUXBRSUxwOVd6bkxRc2RLdw?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Topfeel Beauty establishes talc-free standards for U.S. clean beauty trends, offering high-quality cosmetic OEM services.",
+   "excerpt": "High Quality Cosmetic OEM Service: Topfeel Beauty Sets Talc-Free Standards for US Clean Beauty Trends EIN News"
+  },
+  {
+   "title": "EXCLUSIVE: Coty Extends Marc Jacobs Beauty License for 40 Years",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/coty-extends-marc-jacobs-beauty-license-40-years-1239398593/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-04",
+   "ai_summary": "Coty secures a 40-year extension of its Marc Jacobs Beauty license with WHP Global and G-III Apparel Group.",
+   "excerpt": "Coty Inc. secures a four-decade extension of its Marc Jacobs Beauty license with WHP Global and G-III Apparel Group."
+  },
+  {
+   "title": "Stephanie Phair Bets on AI-powered Fragrance Discovery With Parfumerie",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/stephanie-phair-ai-powered-fragrance-discovery-parfumerie-1239397903/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-04",
+   "ai_summary": "Stephanie Phair launches an AI-powered fragrance discovery platform, Parfumerie, aiming to link personalized scent discovery to purchases through multibrand retailers in the U.K. beginning with Selfridges, Sephora, and Space NK.",
+   "excerpt": "The nascent platform aims to connect personalized scent discovery to purchases through multibrand retailers, beginning in the U.K. with Selfridges, Sephora, Space NK and more."
+  },
+  {
+   "title": "EXCLUSIVE: Kathy Hilton Gets Hands-on With New Beauty Brand Touché",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/kathy-hilton-touche-hand-care-brand-launch-1239398676/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Kathy Hilton partners with Meridith Rojas to launch Touché, a skin care-focused hand care brand targeting visible signs of aging.",
+   "excerpt": "The entrepreneur and television personality has teamed with Meridith Rojas to launch a skin care-focused hand care brand targeting visible signs of aging."
+  },
+  {
+   "title": "Glossy+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures",
+   "url": "https://www.glossy.co/research/glossy-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Glossy+ Research finds marketers optimistic about 2026 holiday revenue despite economic pressures, highlighting dominant commerce channels in holiday strategies.",
+   "excerpt": "New Glossy+ Research explores which commerce channels are dominating marketers’ holiday strategies in 2026."
+  },
+  {
+   "title": "The 5 consumer archetypes driving the $2.7 trillion wellness industry today, plus news",
+   "url": "https://www.glossy.co/beauty/wellness/the-5-consumer-archetypes-driving-the-2-7-trillion-wellness-industry-today-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "The Wellness Briefing discusses the five consumer archetypes driving the $2.7 trillion wellness industry, featuring insights from Anna Pione and Ulta Beauty.",
+   "excerpt": "For the Wellness Briefing, Glossy interviewed Anna Pione, partner at McKinsey and co-author of a new wellness report out this week, about what's driving the $2.7 trillion wellness industry today. Additionally, Ulta Beaut…"
+  },
   {
    "title": "Cosmetics regulation \"confusing mess\" that has failed to adapt to newer products like fillers, MPs warn - UK Parliament",
    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNRWZKOUVZWGprdlExRnBKdmFDVDJHM1paOWUtMWJpYkxPclZtSm84clpmUWp1aF9BZnBfMDY0OV96TnFUWFNzTzUzVnM0WXlOcExWYWxwZHpCNHUzbVphd1FNdWlzY1lKSXFWZktaMDhWREQtUDlLTEVjY25aS2tPNjVKN3lsWU1ZQlJIOVJxbzJWS0VwUkdnUU9PNk5uN2NQZUNlN3FsLUpsNXVZZzVyLWVmeHpRaFQtNVk1VnFsMzhZUi1KWDhsNUE1MzlnbFJ2bTg5R3hhcS1tYmxnWXRPNVE4QmZmd0FBVHBHRzZ4dS04RmREUFRGa21wZUl3ZkFVdkxyU3F6VFZzajA0TDJuaHZlb0J0QmppRnFOWXBVQTBDQXFJN2NpQQ?oc=5",
