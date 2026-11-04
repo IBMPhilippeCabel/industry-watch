@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-04T20:45:00Z",
+ "updated": "2026-11-04T22:42:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Unilever invests in Indian R&D while Estée Lauder’s strategy drives growth and new brands pivot to pre‑launch stages.",
+  "hook": "Revolve gains new shoppers from Cardi B’s brand while Coty extends its Marc Jacobs license and Estée Lauder pushes 2030 growth plans.",
   "categories": {
-   "📈 Market": "Estée Lauder’s 2030 plan targets mid‑single‑digit organic growth and higher margins, while Coty extends its Marc Jacobs license to boost fragrance and makeup.",
-   "💄 Brands & Retail": "Stephanie Phair’s AI fragrance platform Parfumerie links scent discovery to purchase across UK retailers, and Coty secures a 40‑year license extension for Marc Jacobs Beauty.",
-   "🤝 Strategy & M&A": "Unilever’s €35 million Indian R&D push and Pai Partners’ acquisition of Elemis signal a focus on next‑generation products and brand expansion.",
-   "💡 Innovation & Regulation": "Topfeel Beauty sets U.S. talc‑free standards for clean beauty, and Dove’s limited‑edition fragrance launch shows heritage brands leveraging drops for growth."
+   "📈 Market": "Estée Lauder’s 7% net‑sales rise in Q1 FY27 signals a margin push toward 2030, while Coty’s 40‑year Marc Jacobs extension aims to accelerate fragrance and makeup growth.",
+   "💄 Brands & Retail": "Revolve’s sales double from Cardi B’s hair‑care line, attracting new customers, and Coty reports $1.55 billion Q1 revenue amid a transition year.",
+   "🤝 Strategy & M&A": "Coty extends its Marc Jacobs license for 40 years, and Pai Partners plans to acquire Elemis from L’Occitane, reflecting ongoing portfolio reshaping.",
+   "💡 Innovation & Regulation": "E.l.f. Beauty’s Rhode launch at Sephora Europe drives a 51% sales jump, while Dove’s limited‑edition fragrance drop showcases heritage brands leveraging drops for growth."
   }
  },
  "articles": [
+  {
+   "title": "Cardi B’s hair-care brand is bringing new shoppers to Revolve",
+   "url": "https://www.glossy.co/beauty/revolve-cardi-b-grow-good-beauty-earnings/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-04",
+   "ai_summary": "Cardi B’s hair-care brand is bringing new shoppers to Revolve — Grow-Good’s sales nearly doubled quarter over quarter, helping Revolve attract new customers. Its lower-priced products also present a trade-off for the fashion retailer.",
+   "excerpt": "Grow-Good’s sales nearly doubled quarter over quarter, helping Revolve attract new customers. Its lower-priced products also present a trade-off for the fashion retailer."
+  },
+  {
+   "title": "Sephora's fall Savings Event is live: See the top 25 beauty tech deals on multistylers, LED masks, and more - Mashable",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uaGdpNzBpb0ItOEl2Y3B2Nm1MZDV4WHp2RHphTUVWeHQzeVloZ3ZHd2tnSzYyNklhZkptZngxUmRXZDhoY3JEajl1d1ZwZzZpWks5dFZxYTdabFd1UVFUSjBCb3V5VUFLQ0JUS25pQXc?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Sephora’s fall savings event features top 25 beauty tech deals on multistylers, LED masks, and more.",
+   "excerpt": "Sephora's fall Savings Event is live: See the top 25 beauty tech deals on multistylers, LED masks, and more Mashable"
+  },
+  {
+   "title": "Coty Reports Q1 FY27 Results Amid Transition Year - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZEM5ZS1Vc1dyajNQTUl2c1RobEhMd2FEdDBTNjRCQUJZQ1kxU1RuYzlKbTh2emxnVUpDQldOUTY1a2dBS3dZRXNGd2s4eGlvekgwUVB0NDJYYzNLeE9KRW00Yk5BaWlUQnJJemQ4NUZmTGtVcXF5eWN2VzJGQjNrTFpMcm1mWThlZWZ4YXBzelpOSHEzWG9vNmlpQ0E4ZDBDMXAwTzItZXd5dw?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Coty Reports Q1 FY27 Results Amid Transition Year - WWD — Coty Reports Q1 FY27 Results Amid Transition Year WWD",
+   "excerpt": "Coty Reports Q1 FY27 Results Amid Transition Year WWD"
+  },
+  {
+   "title": "Coty Reports Q1 FY27 Results Amid Transition Year",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/coty-reports-q1-fy27-amid-transition-year-1239401021/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-04",
+   "ai_summary": "Coty Reports Q1 FY27 Results Amid Transition Year — The beauty company posted $1.55 billion in net revenue for the quarter.",
+   "excerpt": "The beauty company posted $1.55 billion in net revenue for the quarter."
+  },
+  {
+   "title": "Will Beauty and Wellness Have More Space to Shine in a Revamped CVS?",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-and-wellness-have-more-space-to-shine-in-a-revamped-cvs-1239400818/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-04",
+   "ai_summary": "Will Beauty and Wellness Have More Space to Shine in a Revamped CVS? — As the drugstore giant prepares to decouple its retail pharmacy and health care businesses, industry analysts assess the impact on beauty.",
+   "excerpt": "As the drugstore giant prepares to decouple its retail pharmacy and health care businesses, industry analysts assess the impact on beauty."
+  },
+  {
+   "title": "Coty Announces First Quarter Fiscal Year 2027 Results - Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUdJREtudlV0bTNIZFBPcWgyc1E0U2ZueWFuczlHdDQ1RV9hVmRpTnlRVEdRbUNTSGdTb2ZIbnNhSEtUbDFDWWpNUUJsODZ0OTlCWllKRFJBWTExWVBzWG9QaU14bE4xWHdvZ2RKSVhCWGZkUWJXekRNZXBOSDV1VlJRRnRGdEJPM1Z1S0JadW56aC15em9PdE9Ndi1RSUlqVGswaTRwN0RyUVVaX2tF?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Coty announces its first quarter fiscal year 2027 results.",
+   "excerpt": "Coty Announces First Quarter Fiscal Year 2027 Results Business Wire"
+  },
+  {
+   "title": "Beauty’s Dupe Battle Moves To TikTok As Creed Distributor Faces Backlash Over Creator Suspensions",
+   "url": "https://www.beautyindependent.com/beauty-dupe-battle-tiktok-creed-distributor-faces-backlash-creator-suspensions/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Beauty’s Dupe Battle Moves To TikTok As Creed Distributor Faces Backlash Over Creator Suspensions — A German luxury fragrance distributor is facing calls for a boycott after filing intellectual property complaints against TikTok content creators who compare expensive perfumes with cheaper alternatives, resulting in acc…",
+   "excerpt": "A German luxury fragrance distributor is facing calls for a boycott after filing intellectual property complaints against TikTok content creators who compare expensive perfumes with cheaper alternatives, resulting in acc…"
+  },
+  {
+   "title": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/elf-beauty-shatters-wall-street-estimates-raises-forecast-1239400693/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe — E.l.f. Beauty’s second-quarter net sales surged 51 percent to $520.8 million, fueled by Rhode’s Sephora launch and international expansion.",
+   "excerpt": "E.l.f. Beauty’s second-quarter net sales surged 51 percent to $520.8 million, fueled by Rhode’s Sephora launch and international expansion."
+  },
   {
    "title": "Unilever Makes 35 Million-Euro Investment in Indian R&D Centers to Develop ‘Next Generation’ Products",
    "url": "https://wwd.com/beauty-industry-news/products/unilever-35-million-euros-india-product-innovation-invest-1239400211/",

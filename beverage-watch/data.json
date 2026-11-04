@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-04T20:45:00Z",
+ "updated": "2026-11-04T22:42:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Heineken’s full takeover of Brazil’s Better Drinks signals a strategic push into emerging markets.",
+  "hook": "Heineken expands in Brazil while boosting sales forecasts and AI adoption, shaping the global beverage landscape.",
   "categories": {
    "🤝 Strategy & M&A": "Heineken takes full control of Brazil's Better Drinks, maker of Praya and Baer-Mate.",
    "📈 Market": "Coca-Cola HBC raises its sales forecast after a strong third quarter, citing robust performance.",
-   "🍸 Spirits & Premium": "No article directly addresses spirits or premium products.",
-   "🍺 Beer & Brewing": "No article directly addresses beer or brewing.",
-   "💡 Innovation & No-Low": "Arla launches protein‑infused water, adding a new protein‑rich beverage to its portfolio."
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Heineken CIO implements AI to operationalize data-driven decisions."
   }
  },
  "articles": [
@@ -21,6 +21,24 @@
    "date": "2026-11-04",
    "ai_summary": "Maine South’s Jameson Purcell is ready to meet the moment. Daily Herald.",
    "excerpt": "Maine South’s Jameson Purcell is ready to meet the moment Daily Herald"
+  },
+  {
+   "title": "Week 9 Jameson Williams Fantasy Start or Sit 2026 - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3A5NlY4OFE5SUJoT3NYWjBBeEZuVTdMMjlrY0lyYzhHOEFkX1VWWW9HbTk4dnR1YmFrV2tkSUpfU0JnSGJnYUFIVGpVLVRWWW9OWExmajdhamxyNHRkNFFHMUJjYUpnalB5akhMVFNiREpRWXdaTk5YZEhKeFhtWEkxdF8?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Week 9 Jameson Williams Fantasy Start or Sit 2026 - Yahoo Sports",
+   "excerpt": "Week 9 Jameson Williams Fantasy Start or Sit 2026 Yahoo Sports"
+  },
+  {
+   "title": "Why Dopp likes Jameson Williams as a lineup lock in Week 9 - ESPN",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamR3a21NeDhndWxDT19YUUxxSUZhZTVsbnc5TEgtN2VPbG1sVUZzalpZVmhTOW9HaWJsV1d0aXcwUFZqV3E1Z05UWlRFWDhhZXM1OHdSSjFhZC04Tk5oeEp2ZnN1clMxdUtmUFFDVmQya2ptUHEwZU5US0R3a2FSdkNXUmdjTjJlNU9ja1lpZ1N0SWlqRDdxRHZOeFA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Why Dopp likes Jameson Williams as a lineup lock in Week 9 - ESPN",
+   "excerpt": "Why Dopp likes Jameson Williams as a lineup lock in Week 9 ESPN"
   },
   {
    "title": "Jameson Williams - Fantasy Football Risers, Breakouts for Week 9 (2026) - NFL News - RotoBaller",
