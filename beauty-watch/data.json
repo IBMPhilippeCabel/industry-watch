@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-04T14:52:00Z",
+ "updated": "2026-11-04T16:50:00Z",
  "briefing": {
   "date": "2026-11-04",
-  "hook": "Strategic shifts and brand expansions dominate the beauty market today.",
+  "hook": "Today’s highlights show a mix of legacy brand innovation, strategic acquisitions, and market expansion moves across the beauty sector.",
   "categories": {
-   "📈 Market": "Estée Lauder aims for mid‑single‑digit organic growth and exceeded Q1 sales expectations, while Coty extends its Marc Jacobs license to boost fragrance and makeup reach.",
-   "💄 Brands & Retail": "Coty secures a 40‑year extension of its Marc Jacobs license, and Stephanie Phair launches an AI‑powered fragrance discovery platform targeting UK retailers.",
-   "🤝 Strategy & M&A": "Pai Partners will acquire Elemis from L’Occitane, and Kimberly‑Clark completes a $48.7 billion purchase of Kenvue to broaden its beauty portfolio.",
-   "💡 Innovation & Regulation": "Dove’s limited‑edition fragrance launch shows how heritage brands can drive growth, and Topfeel Beauty sets talc‑free standards for U.S. clean beauty trends."
+   "📈 Market": "Estée Lauder outlines 2030 growth plans aiming for mid‑single‑digit organic sales growth annually, while Coty extends its Marc Jacobs Beauty license for 40 years to accelerate fragrance and makeup growth.",
+   "💄 Brands & Retail": "Stephanie Phair launches an AI‑powered fragrance discovery platform, Parfumerie, to link personalized scent discovery to purchases through multibrand retailers in the U.K.",
+   "🤝 Strategy & M&A": "Pai Partners will acquire Elemis from L’Occitane, and Kimberly‑Clark completes a $48.7 billion acquisition of Kenvue, expanding into beauty.",
+   "💡 Innovation & Regulation": "Dove’s new fine fragrance launch, inspired by its cleansing bar, shows how heritage brands can use limited‑edition drops to drive growth, while Topfeel Beauty sets talc‑free standards for U.S. clean beauty trends."
   }
  },
  "articles": [
+  {
+   "title": "Hailee Steinfeld in Stella McCartney at Estée Lauder's Glimmer Launch - Red Carpet Fashion Awards",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFc0cnFLVmNmN1JTQk1nLVV6cTNBYmZqY1lWcWRKTlNCZHdoVmxrVVd2OVM1NzQyTDF6eGxpTE91dHM1QmFKRUEyVW5GOUdteG94aEFyRVZRYnhpR0ppWFBwRXBJbFVEeXZzVGNxWEZoOU9LWHJYRTU5MWtIcThHS21iVklYNWpvSzN6TmZQYjVYdnBZMzVXQ3RseVVTdzBQcnFJeWo1RE5POHBjN3lRRXA4NGVjQXppUDNWY0hJbU1GQQ?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Hailee Steinfeld attended Estée Lauder's Glimmer Launch Red Carpet Fashion Awards wearing a Stella McCartney outfit.",
+   "excerpt": "Hailee Steinfeld in Stella McCartney at Estée Lauder's Glimmer Launch Red Carpet Fashion Awards"
+  },
   {
    "title": "Pai Partners to Acquire British Skin Care Brand Elemis",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/pai-partners-acquire-british-skin-care-brand-elemis-1239399807/",
@@ -191,6 +200,24 @@
    "date": "2026-11-04",
    "ai_summary": "Estée Lauder reported a 7% increase in net sales in the first quarter of fiscal 2027, exceeding expectations and signaling a push toward higher margins by 2030.",
    "excerpt": "The Estée Lauder Companies reported a 7% increase in net sales in the first quarter of fiscal 2027, ended September 30, 2026, exceeding analysts' expectations of around 5% growth. Building on this momentum, the US cosmet…"
+  },
+  {
+   "title": "L'Occitane Group to offload Elemis to PAI Partners",
+   "url": "https://www.premiumbeautynews.com/en/l-occitane-group-to-offload-elemis,28479",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "L'Occitane Group is selling its British skincare brand Elemis to French private equity firm PAI Partners, which intends to accelerate the brand's growth in the United States.",
+   "excerpt": "L'Occitane is selling British skincare brand Elemis, a premium British skincare brand established in 1989, to French private equity firm PAI Partners, which plans to accelerate the brand's growth in the United States, bo…"
+  },
+  {
+   "title": "Celebrity British hairstylist John Frieda dies aged 75",
+   "url": "https://www.premiumbeautynews.com/en/celebrity-british-hairstylist-john,28477",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "British celebrity hairstylist John Frieda, known for styling prominent figures, has died at the age of 75, as announced by his salon.",
+   "excerpt": "British celebrity hairstylist and beauty industry stalwart John Frieda, who tended to the locks of Jackie Kennedy and Princess Diana among others, has died aged 75, his salon announced on Tuesday, November 3. \"It is with…"
   },
   {
    "title": "Focus Was The Biggest Lesson For The 2026 Bridge Mentorship Cohort Of New Beauty Brands",
