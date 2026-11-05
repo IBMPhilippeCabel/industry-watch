@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-05T14:52:00Z",
+ "updated": "2026-11-05T17:00:00Z",
  "briefing": {
   "date": "2026-11-05",
-  "hook": "2027 sees L’Oréal and Estée Lauder steering growth amid shifting consumer search, while Coty navigates war‑impacted revenue and brand licensing.",
+  "hook": "Clean beauty growth, subscription stability, and AI‑driven R&D investments shape the day.",
   "categories": {
-   "📈 Market": "Search is turning visual‑first, body care is rising, and Estée Lauder is targeting mid‑single‑digit organic growth to 2030 as it reimagines its portfolio.",
-   "💄 Brands & Retail": "Revolve gains new shoppers from Cardi B’s hair line, CVS is reshaping its beauty space, and Coty extends its Marc Jacobs license while AI fragrance platform launches.",
-   "🤝 Strategy & M&A": "Unilever is investing €35 million to build AI‑led R&D hubs in India, while Coty reports a transitional year and secures a 40‑year Marc Jacobs license extension.",
-   "💡 Innovation & Regulation": "Rhode’s Sephora Europe launch boosts e.l.f., Elemis exits to PAI Partners, subscription fears ease, and brand control lawsuits highlight regulatory gaps."
+   "📈 Market": "Estée Lauder outlines 2030 growth plans while Coty faces a rocky start to 2027 amid Middle East war impacts.",
+   "💄 Brands & Retail": "Cardi B’s hair‑care brand boosts Revolve sales, and John Frieda’s legacy ends as the industry watches new retail shifts.",
+   "🤝 Strategy & M&A": "Unilever invests €35 million to create AI‑led R&D hubs in India, while Coty secures a 40‑year Marc Jacobs license extension.",
+   "💡 Innovation & Regulation": "Clean beauty market expands, Rhode’s Sephora launch lifts e.l.f., and subscription research shows little change ahead of 2027 rules."
   }
  },
  "articles": [
+  {
+   "title": "The growth of clean beauty: Market data breakdown - The Garden Island",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzBma1pHR2hLM0NaWGZmMlhDQlA3YkVYQ0JwZnRMNkpQVGVWMFZQSmFnZmFzbHk1MloyNGZLZGVPUTZycUFEMGNVRzloczQ3VFdYNEY5Y2FwYzQ3NUI0U2RjSVJUckZLYzlEMTUzdE5NMzFSTDRJRDkwbjlUZDk5RFEya0RpYWFFMW9ZNW1qcUFrSEh0YUE?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The growth of clean beauty: Market data breakdown - The Garden Island — The growth of clean beauty: Market data breakdown The Garden Island",
+   "excerpt": "The growth of clean beauty: Market data breakdown The Garden Island"
+  },
+  {
+   "title": "SID MEDICOS expands LemonBottle network in Latin America",
+   "url": "https://www.cosmeticsbusiness.com/sid-medicos-expands-lemonbottle-network-in-latin-america",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "SID MEDICOS expands LemonBottle network in Latin America — Following its third regional industry event of 2026, the South Korean aesthetics company is exploring distribution partnerships and plans to extend its product range into aftercare and daily skincare",
+   "excerpt": "Following its third regional industry event of 2026, the South Korean aesthetics company is exploring distribution partnerships and plans to extend its product range into aftercare and daily skincare"
+  },
   {
    "title": "Rhode’s record-breaking Sephora Europe launch helps e.l.f. Beauty sales soar 51%",
    "url": "https://www.cosmeticsbusiness.com/rhode-sephora-europe-launch-helps-e-l-f-beauty-sales-soar-q2",
@@ -479,6 +497,15 @@
    "date": "2026-11-03",
    "ai_summary": "True Beauty Ventures is shifting its focus to pre-launch brands, betting on early-stage beauty and wellness development. The firm is expanding its capabilities to support brands from their earliest stages.",
    "excerpt": "True Beauty Ventures is betting on where they ain’t. Six years into the investment firm’s existence, it’s focusing more than ever on the earliest stages of beauty and wellness brand development, expanding its ability to …"
+  },
+  {
+   "title": "Estée Lauder Q1 sales rise 7% as fragrance fuels turnaround. - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11VDI3eXpZbU1ua19LbWJDdGp6Q2R0NVM2dnk5MUwzQXZLdHJCUVFBYkp5bmVmVURONmNzLUNSYmd5NzZEQzE2YmZMUkRSZTM3YXFNOFVQeFQ2MWR3V21jU3Jma1hFeEt1aXJYdVduNm1TYlpqVGdtQw?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-03",
+   "ai_summary": "Estée Lauder Q1 sales rise 7% as fragrance fuels turnaround. - Personal Care Insights — Estée Lauder Q1 sales rise 7% as fragrance fuels turnaround. Personal Care Insights",
+   "excerpt": "Estée Lauder Q1 sales rise 7% as fragrance fuels turnaround. Personal Care Insights"
   },
   {
    "title": "Kimberly-Clark completes $48.7 billion acquisition of Kenvue",
