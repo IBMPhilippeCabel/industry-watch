@@ -1,15 +1,15 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-05T10:55:00Z",
+ "updated": "2026-11-05T12:57:00Z",
  "briefing": {
   "date": "2026-11-05",
-  "hook": "Day sees shifts from coffee divestments to whisky tariff talks and AI-driven brewing decisions.",
+  "hook": "Global beverage news highlights divestitures, pricing moves, and tech adoption amid market shifts.",
   "categories": {
    "🤝 Strategy & M&A": null,
-   "📈 Market": "Kraft Heinz sells its North American coffee unit, Chapel Down plans a share offer, Coca-Cola HBC lifts its sales outlook, India considers tariff cuts for Scotch, EU weighs agri‑food deals, and Becle reports a Q3 dip.",
-   "🍸 Spirits & Premium": "Chapel Down’s share offer and India’s potential tariff cut for Scotch shipments signal a focus on premium whisky markets.",
+   "📈 Market": "Kraft Heinz sells its North American coffee unit while Chapel Down plans a share offer to fund expansion, and Coca‑Cola HBC lifts its sales forecast after a strong third quarter.",
+   "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Arla launches protein‑infused water while Heineken’s CIO pushes AI to drive data‑based decisions in brewing."
+   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused bottled water and Heineken’s CIO is deploying AI to drive data‑driven decisions."
   }
  },
  "articles": [
@@ -165,6 +165,15 @@
    "date": "2026-11-04",
    "ai_summary": "Why European supermarket cyberattacks mark OT watershed",
    "excerpt": "The cyberattacks on European supermarkets make operational technology (OT) a board-level risk, writes GlobalData’s David Bicknell."
+  },
+  {
+   "title": "Glanbia steers to more price increases as whey proteins remain elevated",
+   "url": "https://www.just-drinks.com/news/glanbia-steers-to-more-price-increases-as-whey-proteins-remain-elevated/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-04",
+   "ai_summary": "Glanbia is focusing on price increases as whey protein levels stay high, offering some relief to protein powder users. The company remains uncertain about pricing in the coming year.",
+   "excerpt": "Glanbia has offered some solace to protein powder users as whey has come off its highs but uncertainty remains on pricing in the new year."
   },
   {
    "title": "Lord Jameson gives dogs the ‘Royal’ treatment - Pet Food Processing",
