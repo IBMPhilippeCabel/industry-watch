@@ -1,0 +1,1 @@
+{"hook": "Global beverage market sees tariff shifts and AI-driven operational changes.", "categories": {"🤝 Strategy & M&A": null, "📈 Market": "India indicates bulk Scotch shipments may qualify for tariff cut agreed with UK.", "🍸 Spirits & Premium": null, "🍺 Beer & Brewing": null, "💡 Innovation & No-Low": "Heineken CIO uses AI to operationalize data-driven decisions."}}
