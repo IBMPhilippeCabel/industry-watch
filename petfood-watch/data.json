@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-05T12:57:00Z",
+ "updated": "2026-11-05T14:52:00Z",
  "briefing": {
   "date": "2026-11-05",
-  "hook": "Private labels surge, regenerative partnerships grow, and EU packaging rules loom over pet food.",
+  "hook": "Pet food trends shift toward private labels, cultivated meat, and sustainable packaging amid growing regulatory focus.",
   "categories": {
-   "📈 Market": "Private label brands are expanding worldwide, especially in Eastern Europe and North America, while a first cultivated‑meat wet pet food is entering the market.",
-   "⚖️ Regulation": "The EU’s new Packaging and Packaging Waste Regulation imposes stricter design, material and labeling rules that could raise costs for pet food makers.",
-   "💡 Innovation": "Pet food companies are exploring regenerative agriculture collaborations, machine‑learning recipe development, and chicory root powder as a potential functional ingredient.",
-   "🤝 M&A": "Strategic moves include Grupo Pilar Innova’s stake in Vitalcan, a Soil Capital co‑investment in regenerative agriculture, and i‑Tail’s $160 million purchase of Phelps Pet Products."
+   "📈 Market": "Private label brands expand globally while cultivated meat ventures like BeneMeat and Meatly push new pet food products.",
+   "⚖️ Regulation": "EU’s new packaging regulation imposes stricter design and labeling rules, raising costs for pet food makers.",
+   "💡 Innovation": "Blue Buffalo’s Bone Broth Boosted line and machine‑learning recipe research highlight fresh product and tech advances.",
+   "🤝 M&A": "i‑Tail’s $160 million purchase of Phelps Pet Products and Grupo Pilar Innova’s stake in Vitalcan signal consolidation and market expansion."
   }
  },
  "articles": [
+  {
+   "title": "Wet Noses to exhibit at PLMA trade show",
+   "url": "https://www.petfoodprocessing.net/articles/21054-wet-noses-to-exhibit-at-plma-trade-show",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Wet Noses will exhibit at PLMA trade show, showcasing its human-grade pet treat and food manufacturing capabilities to potential private label customers.",
+   "excerpt": "The company will showcase its human-grade pet treat and food manufacturing capabilities to potential private label customers."
+  },
+  {
+   "title": "Blue Buffalo launches Bone Broth Boosted line of cat food",
+   "url": "https://www.petfoodprocessing.net/articles/21053-blue-buffalo-launches-bone-broth-boosted-line-of-cat-food",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-05",
+   "ai_summary": "Blue Buffalo launches Bone Broth Boosted line of cat food, which can be served dry or as a wet, brothy meal by adding water.",
+   "excerpt": "The food can be served dry or as a wet, brothy meal by adding water."
+  },
+  {
+   "title": "Meatly relocates cultivated meat production facility",
+   "url": "https://www.petfoodprocessing.net/articles/21052-meatly-relocates-cultivated-meat-production-facility",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Meatly relocates cultivated meat production facility, preparing to start production in 2027.",
+   "excerpt": "The cultivated meat company is preparing to start production in 2027."
+  },
+  {
+   "title": "Donation recap: Pet industry ramps up the philanthropy during the fall season",
+   "url": "https://www.petfoodprocessing.net/articles/21051-donation-recap-pet-industry-ramps-up-the-philanthropy-during-the-fall-season",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Donation recap: Pet industry ramps up the philanthropy during the fall season, with pets and humans across the country receiving an outpour of donations and support from the industry.",
+   "excerpt": "Pets and humans across the country received an outpour of donations and support from the industry."
+  },
   {
    "title": "General retailers step up private label ambitions",
    "url": "https://globalpetindustry.com/news/general-retailers-step-up-private-label-ambitions/",

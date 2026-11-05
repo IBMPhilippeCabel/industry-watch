@@ -1,18 +1,81 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-05T12:57:00Z",
+ "updated": "2026-11-05T14:52:00Z",
  "briefing": {
   "date": "2026-11-05",
-  "hook": "Global beverage news highlights divestitures, pricing moves, and tech adoption amid market shifts.",
+  "hook": "Ireland’s Stillgarden faces liquidation while Russia hikes spirits tariffs, and Heineken pushes AI while Arla adds protein to water.",
   "categories": {
    "🤝 Strategy & M&A": null,
-   "📈 Market": "Kraft Heinz sells its North American coffee unit while Chapel Down plans a share offer to fund expansion, and Coca‑Cola HBC lifts its sales forecast after a strong third quarter.",
-   "🍸 Spirits & Premium": null,
+   "📈 Market": "Ireland’s Stillgarden Distillery faces liquidation and Russia has raised tariffs on spirits from ‘unfriendly’ countries.",
+   "🍸 Spirits & Premium": "Ireland’s Stillgarden Distillery is facing liquidation after failing to secure fresh capital.",
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused bottled water and Heineken’s CIO is deploying AI to drive data‑driven decisions."
+   "💡 Innovation & No-Low": "Heineken is using AI to drive data‑based decisions while Arla Foods launches protein‑infused bottled water."
   }
  },
  "articles": [
+  {
+   "title": "Lions, Vikings mic’d up video shows redemption arc for Jameson Williams - Pride Of Detroit",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWVNbV9FSGtidmxlRzE1a0w4RkRHcHU1eUJKTjZSU2lhSXRkblR2b1VwcnF6R2Y0TnlfY0xkSjZ6M3VQWHZ3UXVEM3hVUGQzNWtTQ1ZpMl95d2J2bjVyYTRfeGhLOEMzaHItWF9hbFBtMFpqR29zLVV0cTBqVlhIS1ZBdEw4VE9ldjFIVUFzZjl2cHk0VlNxeFJ0SVBUb3owNDRJZVpMSnBGcG1KTExzWkR3UGpxV1k?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-05",
+   "ai_summary": "Lions, Vikings mic’d up video shows redemption arc for Jameson Williams - Pride Of Detroit",
+   "excerpt": "Lions, Vikings mic’d up video shows redemption arc for Jameson Williams Pride Of Detroit"
+  },
+  {
+   "title": "Finding meaning in the pieces: John Conway’s Collective Remnants opens at UPMC Jameson - New Castle News",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdmZKdkRsTTNmeUVmSWVrTklhSldvWVFESURBbzJDYXdueTZ0QWpqVU5yb2pGY0pZUEt6SExhS2gtNVhMZ0lEQ2ZERDROYmJGNzVIdzItVTF3MWROQlhabFhNcnBEVmZBV1RJTllxTDZ1Sjc4T0pUWXVwQ2o0N0NvRTNyaXB0QXA3b0Jxald4TlI4U3hLOUJkR1pFdFNVQV9FSlpBRV9rbXdsYWhHalJOaTNfWWhyaXhKX1FNNTdmb0h2aWVGd2d2THA2OHdORDJvMkxCNFRxUGtocnZIQjgwMkpCT3hFY1NQbTNBSjFWWWdlYTl5WEM3VWFmLTRSaVhobFZiVkl1V0tTb2V2?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-05",
+   "ai_summary": "Finding meaning in the pieces: John Conway’s Collective Remnants opens at UPMC Jameson - New Castle News",
+   "excerpt": "Finding meaning in the pieces: John Conway’s Collective Remnants opens at UPMC Jameson New Castle News"
+  },
+  {
+   "title": "Unimpressive Return On Capital And A Better Alternative Mean Don't Buy Pernod Ricard - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkhKZXpocWp3SUgwRUdPc05oTEl3clY5aDA5T1dCWE4wZ0pFb29DbEFhTWFKbWthZ0RaUDZqcGxmQ19qUkxyenVrSnpnMkxhaHFPZ056cHVMbEFfd2tPa1JySkY3OVZPRFRxa1hvbjBBSGZyX0FzLTR1TVU3TG1xOEVCRjY0dFFUZWJOMzB0UHYyN2p3SVVvbnNrWkYxVWY4YjJPajR0WnhaZExaeWhNcnM5aDRvNjVMMnRqS3pPLXVLWTNRQUx0NEEyX1BMZmlESFM3cEMtMWh2eFgtS2c?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-05",
+   "ai_summary": "Unimpressive Return On Capital And A Better Alternative Mean Don't Buy Pernod Ricard - Seeking Alpha",
+   "excerpt": "Unimpressive Return On Capital And A Better Alternative Mean Don't Buy Pernod Ricard Seeking Alpha"
+  },
+  {
+   "title": "Ireland’s Stillgarden Distillery faces closure",
+   "url": "https://www.just-drinks.com/news/stillgarden-distillery-to-close-shop/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Ireland’s Stillgarden Distillery faces closure — Dublin-based spirits producer Stillgarden Distillery is facing liquidation after failing to secure fresh capital.",
+   "excerpt": "Dublin-based spirits producer Stillgarden Distillery is facing liquidation after failing to secure fresh capital."
+  },
+  {
+   "title": "Russia ups tariffs on spirits from ‘unfriendly’ countries",
+   "url": "https://www.just-drinks.com/news/russia-unfriendly-countries-spirits-tariffs/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Russia ups tariffs on spirits from ‘unfriendly’ countries — Russia has reportedly implemented steeper import tariffs on strong alcohol originating from designated “unfriendly” nations.",
+   "excerpt": "Russia has reportedly implemented steeper import tariffs on strong alcohol originating from designated “unfriendly” nations."
+  },
+  {
+   "title": "Thousands affected by Suntory personal data leak",
+   "url": "https://www.just-drinks.com/news/suntory-personal-data-leak/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Suntory confirmed that personal details of about 100,000 individuals were leaked in a data breach. The breach resulted from unauthorised access to an external cloud service.",
+   "excerpt": "Suntory has confirmed personal details of around 100,000 individuals were leaked in a data breach after “unauthorised access” to an external cloud service."
+  },
+  {
+   "title": "The Happiest Silkworms in Queens - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1cydGdVYVQzZEI2S1J4RUY1ay05elNmdWNFNEFmRmlZMlhRVnJrRXZjaW1ncHhZUmo1czEtWWpkNXRQSXBnZ19vWlpwTHZOSGJRQTJFaHJBbm5NUllpMk5fSXZocUxBWUR1TElSSjJScl9lMUNMdG1kbS11YUY4anJjd3hoSHk4bHc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-05",
+   "ai_summary": "The Happiest Silkworms in Queens - The New York Times",
+   "excerpt": "The Happiest Silkworms in Queens The New York Times"
+  },
   {
    "title": "Week 9 Scheme Advantages & Disadvantages For Fantasy Football: Jameson Williams, Tyler Warren & More - FantasyLife",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdW9iTWVxeUk0MXcxaWtkbGFRVnQzMXZQOFRLTi1vS0xCU2pXSy1HWjJFS1FjZ2R6Q1FsOVJ1RUQ2eVZZUGxVZ0FFYUdpUGxZeDc1OHZTQWRidXpLbzdvbV9SZUNTd0hiMk52NU9MWXZ2TGpRYXVWT25lV2hSdmJ6WnN1UVhkVlpKWUtFcnRxTDFrUVJhSXNub01qMzBZSXM4ZWp3YTNzbw?oc=5",
