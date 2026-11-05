@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-05T07:02:00Z",
+ "updated": "2026-11-05T08:52:00Z",
  "briefing": {
   "date": "2026-11-05",
-  "hook": "Today’s pet food news highlights expansion moves, regulatory shifts, and innovation in sustainability and health.",
+  "hook": "Private labels surge, regenerative partnerships grow, and EU packaging rules loom over pet food.",
   "categories": {
-   "📈 Market": "Growth in therapeutic and wellness brands, along with strength in cat food and fresh pet food, supported the quarter's sales increase.",
-   "⚖️ Regulation": "The EU’s Packaging and Packaging Waste Regulation introduces new requirements for pet food packaging design, material, and labeling, potentially raising costs for manufacturers and distributors.",
-   "💡 Innovation": "Royal Canin’s partnership to support regenerative agriculture and research into chicory root powder’s functional benefits signal a focus on sustainable and health‑enhancing ingredients.",
-   "🤝 M&A": "Grupo Pilar Innova’s stake in Vitalcan and i‑Tail’s acquisition of Phelps Pet Products expand market presence and reshape competition in Argentina and the U.S., respectively."
+   "📈 Market": "Private label brands are expanding worldwide, especially in Eastern Europe and North America, while a first cultivated‑meat wet pet food is entering the market.",
+   "⚖️ Regulation": "The EU’s new Packaging and Packaging Waste Regulation imposes stricter design, material and labeling rules that could raise costs for pet food makers.",
+   "💡 Innovation": "Pet food companies are exploring regenerative agriculture collaborations, machine‑learning recipe development, and chicory root powder as a potential functional ingredient.",
+   "🤝 M&A": "Strategic moves include Grupo Pilar Innova’s stake in Vitalcan, a Soil Capital co‑investment in regenerative agriculture, and i‑Tail’s $160 million purchase of Phelps Pet Products."
   }
  },
  "articles": [
+  {
+   "title": "General retailers step up private label ambitions",
+   "url": "https://globalpetindustry.com/news/general-retailers-step-up-private-label-ambitions/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "Private label brands are gaining ground in the global pet food market, with Eastern Europe and North America leading growth between 2021 and 2025, according to Euromonitor International data. Major general retailers are stepping up their private label ambitions in this sector.",
+   "excerpt": "Private label brands are gaining ground in the global pet food market, with Eastern Europe and North America leading growth between 2021 and 2025, according to Euromonitor International data. Major general retailers, sup…"
+  },
+  {
+   "title": "Analysis: How cultivated meat is finding its place on the pet food shelf",
+   "url": "https://globalpetindustry.com/news/analysis-how-cultivated-meat-is-finding-its-place-on-the-pet-food-shelf/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-05",
+   "ai_summary": "In May, cultivated meat supplier BeneMeat partnered with pet food brand FORZA10, part of Nasta Pet Food, to bring Coolty Meat to market. The companies claim it is the first complete wet pet food product made from cultivated meat.",
+   "excerpt": "In May, cultivated meat supplier BeneMeat partnered with pet food brand FORZA10, part of Nasta Pet Food, to bring Coolty Meat to market. The companies claim it is the first complete wet pet food product made from cultiva…"
+  },
   {
    "title": "Vitalcan shareholder could rewrite competition in Argentina pet food market",
    "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/16424367/vitalcan-shareholder-could-rewrite-competition-in-argentina-pet-food-market",
