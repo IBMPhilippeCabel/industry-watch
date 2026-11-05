@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-04T22:42:00Z",
+ "updated": "2026-11-05T00:50:00Z",
  "briefing": {
-  "date": "2026-11-04",
-  "hook": "Pet food market sees growth in wellness brands and fresh products while regulatory packaging changes loom and a major U.S. acquisition expands industry reach.",
+  "date": "2026-11-05",
+  "hook": "Today’s pet‑food news highlights expansion moves, market resilience, new sustainable partnerships, and tightening EU packaging rules.",
   "categories": {
-   "📈 Market": "Sales rise driven by therapeutic, wellness, cat and fresh pet food brands amid strong dog ownership interest but economic pressures.",
-   "⚖️ Regulation": "EU’s new packaging and waste regulation imposes design, material and labeling requirements that could raise costs for pet food makers.",
-   "💡 Innovation": "A partnership with regenerative agriculture and research into chicory root powder highlight emerging sustainable and functional ingredients.",
-   "🤝 M&A": "i‑Tail’s $160 million purchase of Phelps Pet Products boosts its U.S. contract‑manufacturing footprint."
+   "📈 Market": "The market shows continued sales growth driven by therapeutic, wellness, cat and fresh pet food, even as economic pressures challenge new ownership.",
+   "⚖️ Regulation": "EU’s new Packaging and Packaging Waste Regulation imposes stricter design, material and labeling rules that could raise costs for pet‑food manufacturers and distributors.",
+   "💡 Innovation": "Innovation focus shifts to sustainability with Royal Canin’s regenerative agriculture partnership and research into chicory root powder’s functional benefits for dogs.",
+   "🤝 M&A": "Several acquisitions—Grupo Pilar Innova’s stake in Vitalcan, i‑Tail’s purchase of Phelps Pet Products, and PsiBufet’s entry into Slovakia—signal consolidation and market expansion across regions."
   }
  },
  "articles": [
+  {
+   "title": "Vitalcan shareholder could rewrite competition in Argentina pet food market",
+   "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/16424367/vitalcan-shareholder-could-rewrite-competition-in-argentina-pet-food-market",
+   "source": "Petfood Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-04",
+   "ai_summary": "Grupo Pilar Innova’s acquisition of a 35% stake in Vitalcan could reshape competition in Argentina’s pet food market. This move may create new opportunities for market expansion for Vitalcan.",
+   "excerpt": "Grupo Pilar Innova’s recent acquisition of a 35% stake might open new opportunities for pet food market expansion for Vitalcan..."
+  },
   {
    "title": "How is the pet industry capitalizing on healthcare and vet growth?",
    "url": "https://globalpetindustry.com/news/how-is-the-pet-industry-capitalizing-on-healthcare-and-vet-growth/",
