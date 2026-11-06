@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-06T08:50:00Z",
+ "updated": "2026-11-06T10:56:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Today's beauty market buzz centers on pricing innovation, strategic acquisitions, clean‑beauty scrutiny, and shifting consumer focus toward body care.",
+  "hook": "Day highlights clean beauty growth, brand expansions, strategic acquisitions, and Coty's mixed market performance.",
   "categories": {
-   "📈 Market": "Coty faces a rocky start to 2027 amid Middle East war impacts, while the market shifts focus from face to body products and Estée Lauder outlines mid‑single‑digit growth plans for 2030.",
-   "💄 Brands & Retail": "Shop Good’s founder promotes replenishment‑priced body care, Shani Darden adds injectables to her Beverly Hills studio, and Coty reports Q1 revenue as it navigates a transition year.",
-   "🤝 Strategy & M&A": "Elemis changes hands again, Seppic acquires Minasolve, Bogart Group buys Marionnaud, Interparfums secures Off‑White and Longchamp licenses, L’Oréal shifts to entertainment‑driven microdrama, and Unilever invests in AI‑led R&D hubs.",
-   "💡 Innovation & Regulation": "The clean‑beauty trend continues to grow, yet questions remain about whether products truly meet safety claims."
+   "📈 Market": "Coty reports a 64% profit rise in Q3 but faces a rocky start to 2027 amid Middle East war impacts, while the market shifts toward body care and visual search.",
+   "💄 Brands & Retail": "Ralph Lauren ramps holiday marketing, Depop triples campus presence, Cardi B’s hair brand boosts Revolve traffic, and Coty reports Q1 results amid transition.",
+   "🤝 Strategy & M&A": "Elemis changes ownership again, Seppic acquires Minasolve, Interparfums launches Off‑White fragrances, and L’Oréal prioritizes entertainment in microdrama.",
+   "💡 Innovation & Regulation": "The Future Face of Beauty spotlights human‑centred, connected trends, while clean beauty growth data raises questions about safety claims."
   }
  },
  "articles": [
+  {
+   "title": "Wellness, inclusive AI and hyperpersonalisation to reshape beauty through 2030, Revieve report finds",
+   "url": "https://www.cosmeticsbusiness.com/wellness-inclusive-ai-and-hyperpersonalisation-to-reshape-beauty",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "The third instalment of The Future Face of Beauty explores five trends driving a more human‑centred, connected and personalised beauty industry.",
+   "excerpt": "The third instalment of The Future Face of Beauty explores five trends driving a more human-centred, connected and personalised beauty industry"
+  },
   {
    "title": "Shop Good Founder Takes Beiin To Credo With Body Care “Priced For Replenishment”",
    "url": "https://www.beautyindependent.com/shop-good-founder-beiin-credo-body-care-priced-replenishment/",
@@ -101,6 +110,15 @@
    "date": "2026-11-06",
    "ai_summary": "Seppic expands its natural cosmetics line by acquiring Minasolve, a green chemistry specialist focused on bio-based preservation boosters for cosmetics.",
    "excerpt": "Minasolve, a pioneer in green chemistry specializing in natural preservation boosters for cosmetic products, particularly 100% bio-based glycols, is joining Seppic, a subsidiary of the Air Liquide Group. Founded in 2007 …"
+  },
+  {
+   "title": "Coty continues transformation as quarterly profit jumps 64%",
+   "url": "https://www.premiumbeautynews.com/en/coty-continues-transformation-as,28488",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-06",
+   "ai_summary": "The American cosmetics and fragrance group Coty reported a 64% increase in profit for the July–September period, supported by demand in its key markets and proceeds …",
+   "excerpt": "The American cosmetics and fragrance group Coty (Marc Jacobs, Burberry fragrances, Calvin Klein, etc.) reported a 64% increase in profit for the July–September period, supported by demand in its key markets and proceeds …"
   },
   {
    "title": "The growth of clean beauty: Market data breakdown - News Channel 3-12",

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-06T08:50:00Z",
+ "updated": "2026-11-06T10:56:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Pet food sector sees private label growth, new cultivated meat launch, and a shift toward regenerative practices.",
+  "hook": "Today’s pet food news highlights market growth, new product launches, private label expansion, strategic M&A moves, and a focus on organic standards.",
   "categories": {
-   "📈 Market": "Private label brands are expanding while a cultivated meat pet food launch signals new product innovation.",
-   "⚖️ Regulation": "A dog supplement brand upgraded to certified organic ingredients to meet high purity standards.",
-   "💡 Innovation": "Blue Buffalo’s bone broth line and machine‑learning recipe research highlight a trend toward functional and data‑driven pet foods.",
-   "🤝 M&A": "Grupo Pilar Innova’s stake in Vitalcan and a Soil Capital co‑investment signal strategic moves toward regenerative agriculture."
+   "📈 Market": "Private label brands are gaining ground in the global pet food market, with major retailers stepping up ambitions, while PLMA showcases human‑grade treats and a cultivated meat pet food launch.",
+   "⚖️ Regulation": "A dog supplement brand is upgrading to certified organic ingredients to meet the highest purity and quality standards.",
+   "💡 Innovation": "Blue Buffalo’s Bone Broth Boosted line, Sportsman’s Pride’s 50‑lb bags, machine‑learning recipe research, and Royal Canin’s regenerative agriculture partnership signal product and sustainability innovation.",
+   "🤝 M&A": "Grupo Pilar’s 35% stake in Vitalcan and a Soil Capital co‑investment between buyer and supplier signal strategic moves toward market expansion and regenerative agriculture."
   }
  },
  "articles": [
+  {
+   "title": "Vietnam’s pet market: Growth opportunities & market access",
+   "url": "https://globalpetindustry.com/news/vietnams-pet-market-growth-opportunities-market-access/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-06",
+   "ai_summary": "Vietnam’s pet market is evolving with changing consumer expectations, expanding retail channels, and growing demand for specialized products and services. The industry’s growth opportunities and market access are highlighted as pets become more integrated into family life.",
+   "excerpt": "Vietnam’s pet industry is evolving alongside changing consumer expectations, expanding retail channels and growing demand for specialized products and services. As pets become increasingly integrated into family life, de…"
+  },
   {
    "title": "Wet Noses to exhibit at PLMA trade show",
    "url": "https://www.petfoodprocessing.net/articles/21054-wet-noses-to-exhibit-at-plma-trade-show",
