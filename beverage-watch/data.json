@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-06T10:56:00Z",
+ "updated": "2026-11-06T12:52:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Global beverage markets see Russian moves, tariff hikes, and strategic shifts amid data breaches and brand realignments.",
+  "hook": "Heineken expands in Brazil while Russia tightens spirits tariffs, shaping market dynamics.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken Beverages partners with Icons Series for the Icons Cup South Africa, marking a new regional collaboration.",
-   "📈 Market": "Russian ambitions to control Coca‑Cola HBC assets and higher tariffs on spirits from ‘unfriendly’ countries, combined with Molson Coors cutting forecasts, Stillgarden’s looming closure, Celsius’s brand‑focused restructure, and a Suntory data breach, paint a volatile market picture.",
-   "🍸 Spirits & Premium": "Stillgarden Distillery faces liquidation after failing to secure capital, while a Suntory data breach exposed personal details of about 100,000 customers.",
-   "🍺 Beer & Brewing": "Molson Coors Beverage Co. lowered its annual sales and earnings forecasts, signalling a downturn for the brewer.",
-   "💡 Innovation & No-Low": "Arla Foods launches a protein‑infused bottled water, adding a new protein‑rich beverage to its portfolio."
+   "🤝 Strategy & M&A": "Heineken acquires Brazil beer and yerba‑mate firm Better Drinks, expanding its portfolio in the region.",
+   "📈 Market": "Russia’s new higher tariffs on spirits from ‘unfriendly’ countries and a Russian firm’s bid for Coca‑Cola HBC assets are tightening the market environment.",
+   "🍸 Spirits & Premium": "Ireland’s Stillgarden Distillery faces liquidation after failing to secure fresh capital, highlighting financial pressures in the premium spirits sector.",
+   "🍺 Beer & Brewing": "Molson Coors cuts its sales and earnings forecasts, reflecting a challenging outlook for the brewing industry.",
+   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused water, adding a new product line to its dairy portfolio."
   }
  },
  "articles": [
+  {
+   "title": "Heineken buys Brazil beer, yerba-mate firm Better Drinks - Just Drinks",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbWQtM1hwVUhZT2hwbVNUb0VEc1A4MHljZUk3bUtoc1FaT0RfTk1WejFsemxXanV3TXV1aEFHUWN4b2EwOEtid2czMlEyRVV1cVExTWJja3pFdDdYRDk1N1NYUzdNemthZkE0Z0NPWlp2Y1B2R3Uw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "Heineken buys Brazil beer, yerba-mate firm Better Drinks - Just Drinks — Heineken buys Brazil beer, yerba-mate firm Better Drinks Just Drinks",
+   "excerpt": "Heineken buys Brazil beer, yerba-mate firm Better Drinks Just Drinks"
+  },
+  {
+   "title": "78-Year-Old South Dakota Inmate Dies at Jameson Prison in Sioux Falls - KELO-AM",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Q1AxalBRZVF3RkJNdW4zbjE5aG1rYy0xU2lhZk1STlJlTE1uNFk0R2x1eUpJZnJZMjZjVWZYOW9ERzJVaTFSa3FVOA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "78-Year-Old South Dakota Inmate Dies at Jameson Prison in Sioux Falls - KELO-AM — 78-Year-Old South Dakota Inmate Dies at Jameson Prison in Sioux Falls KELO-AM",
+   "excerpt": "78-Year-Old South Dakota Inmate Dies at Jameson Prison in Sioux Falls KELO-AM"
+  },
   {
    "title": "Russian firm ‘seeks control of Coca-Cola HBC assets’",
    "url": "https://www.just-drinks.com/news/russian-control-coca-cola-hbc/",
