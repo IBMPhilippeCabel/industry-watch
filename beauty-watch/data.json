@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-06T04:51:00Z",
+ "updated": "2026-11-06T07:01:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Today’s focus spans ownership shifts, clean‑beauty scrutiny, and market moves toward specificity and body care.",
+  "hook": "Today’s buzz spans brand launches, market shifts, M&A moves, and clean‑beauty scrutiny across the global cosmetics arena.",
   "categories": {
-   "📈 Market": "The market trend moves toward specificity and body care, with a shift from face to body products and a focus on visual-first discovery.",
-   "💄 Brands & Retail": "Coty’s transition year and brand extensions, along with new AI fragrance discovery, highlight evolving retail strategies.",
-   "🤝 Strategy & M&A": "Elemis’s ownership change and Interparfums’s upcoming fragrance launches illustrate buyers seeking strategic fit and brand licensing.",
-   "💡 Innovation & Regulation": "Clean beauty’s safety claims are questioned, prompting scrutiny of product transparency and regulatory compliance."
+   "📈 Market": "Sid Medicos is expanding its LemonBottle network in Latin America while Coty faces a rocky start to 2027, and Estée Lauder outlines 2030 growth plans amid a shift toward body‑care trends and visual‑search driven discovery.",
+   "💄 Brands & Retail": "Shop Good’s founder pushes a replenishment‑priced body wash, Shani Darden expands her Beverly Hills studio, Ralph Lauren ramps holiday marketing, Depop triples campus presence, Cardi B’s hair‑care line boosts Revolve traffic, and Coty reports Q1 results amid transition.",
+   "🤝 Strategy & M&A": "Elemis changes hands again, Bogart Group acquires Marionnaud, Interparfums will launch Off‑White and Longchamp fragrances, L’Oréal prioritizes entertainment in microdrama, Unilever invests in AI‑led R&D hubs in India, and Coty beats earnings expectations.",
+   "💡 Innovation & Regulation": "The clean‑beauty narrative is challenged as industry data questions whether products truly meet safety claims."
   }
  },
  "articles": [
+  {
+   "title": "Shop Good Founder Takes Beiin To Credo With Body Care “Priced For Replenishment”",
+   "url": "https://www.beautyindependent.com/shop-good-founder-beiin-credo-body-care-priced-replenishment/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-06",
+   "ai_summary": "Shop Good Founder Takes Beiin To Credo With Body Care “Priced For Replenishment” — Leah Kirpalani doesn’t think customers should have to save her body wash for the guest bathroom. “I wanted to create a product that both felt amazing, looked amazing on the counter, but that was priced for replenishment,…",
+   "excerpt": "Leah Kirpalani doesn’t think customers should have to save her body wash for the guest bathroom. “I wanted to create a product that both felt amazing, looked amazing on the counter, but that was priced for replenishment,…"
+  },
+  {
+   "title": "EXCLUSIVE: Shani Darden Expands Beverly Hills Studio With New Aesthetics and Dermatology Services",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/shani-darden-aesthetics-beverly-hills-studio-expansion-1239401143/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-06",
+   "ai_summary": "EXCLUSIVE: Shani Darden Expands Beverly Hills Studio With New Aesthetics and Dermatology Services — The celebrity aesthetician is bringing injectables, dermatology and plastic surgery guidance under one roof alongside her signature facials.",
+   "excerpt": "The celebrity aesthetician is bringing injectables, dermatology and plastic surgery guidance under one roof alongside her signature facials."
+  },
+  {
+   "title": "Luxury Briefing: Ralph Lauren is putting no ceiling on selling the marketing dream",
+   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-ralph-lauren-marketing-coach-black-friday/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-06",
+   "ai_summary": "Luxury Briefing: Ralph Lauren is putting no ceiling on selling the marketing dream — In this week's Luxury Briefing, Ralph Lauren ramps up holiday marketing, Coach bets on limited colorways over Black Friday bargains, and Reddit reveals how shoppers decide whether luxury is worth the price.",
+   "excerpt": "In this week's Luxury Briefing, Ralph Lauren ramps up holiday marketing, Coach bets on limited colorways over Black Friday bargains, and Reddit reveals how shoppers decide whether luxury is worth the price."
+  },
+  {
+   "title": "Glossy Podcast: After his 12th CFDA award, what makes Ralph Lauren such an icon of American fashion?",
+   "url": "https://www.glossy.co/podcasts/glossy-podcast-after-his-12th-cfda-award-what-makes-ralph-lauren-such-an-icon-of-american-fashion/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "Glossy Podcast: After his 12th CFDA award, what makes Ralph Lauren such an icon of American fashion? — It's now 12 CFDA awards for Ralph Lauren, who has now won in every category there is to win. On top of Lauren's personal victory, Ralph Lauren, the company, posted earnings this week that were similarly triumphant. Reven…",
+   "excerpt": "It's now 12 CFDA awards for Ralph Lauren, who has now won in every category there is to win. On top of Lauren's personal victory, Ralph Lauren, the company, posted earnings this week that were similarly triumphant. Reven…"
+  },
+  {
+   "title": "Glossy Pop Newsletter: Depop is hosting over 2,000 campus events this fall",
+   "url": "https://www.glossy.co/pop/glossy-pop-newsletter-depop-is-hosting-over-2000-campus-events-this-fall/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-06",
+   "ai_summary": "Glossy Pop Newsletter: Depop is hosting over 2,000 campus events this fall — Since 2024, Depop has tripled the number of college campuses where it has a presence through its Campus Manager program to over 300. This fall, the company has already received 7,000 applicants for its 600 openings for s…",
+   "excerpt": "Since 2024, Depop has tripled the number of college campuses where it has a presence through its Campus Manager program to over 300. This fall, the company has already received 7,000 applicants for its 600 openings for s…"
+  },
+  {
+   "title": "The growth of clean beauty: Market data breakdown - Dispatch Argus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFYwWF9BQ1dtVElBR2pfV0RlRVQtRWhpTmE3WGhkMy0ySUZoQTM2QTVSSGl5N3VTWVVnVkx5QXBqdjFrN1lzY2NtN3dzdnFQWEZTN3ZNdmd3djJoemZ0UFhzblh5ZXJZaUd2SVRsNkR5R0N4TFU4YkluTGJrc3ptR0RXMndoMFZZejlXdXM5dEg1RU5nZDBUX01pV3VwMXZ0R0Z5emhHUUg?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "The growth of clean beauty: Market data breakdown - Dispatch Argus — The growth of clean beauty: Market data breakdown Dispatch Argus",
+   "excerpt": "The growth of clean beauty: Market data breakdown Dispatch Argus"
+  },
   {
    "title": "Elemis Is Changing Hands Again. Its Co-Founder Explains What Beauty Buyers Want Now.",
    "url": "https://www.beautyindependent.com/elemis-co-founder-sean-harrington-explains-what-beauty-buyers-want-now/",
@@ -47,6 +101,24 @@
    "date": "2026-11-05",
    "ai_summary": "The growth of clean beauty: Market data breakdown – Bryan College Station Eagle – The growth of clean beauty: Market data breakdown Bryan College Station Eagle",
    "excerpt": "The growth of clean beauty: Market data breakdown Bryan College Station Eagle"
+  },
+  {
+   "title": "The growth of clean beauty: Market data breakdown - Winston-Salem Journal",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaERpc1VpZDk4cFJwaHZwRXFoNFZQQXlEOTk5V0FBbDZDR3d0WWdGQU9jNzFKcFVLS0FXcllMYVZGOHhkNXRLc0NDeTE2YXNlZmJmOWVud25qUE5lOVdLRUhNZXJEUDFWUURkc2M4SElfRTFsZFRVVVYtN2xLMHVrWGdhV2pDeW40R3BtUHY3YmI0ZkIzQzNJeUdoMjRMSHRIOTFZdGxoeVNNUlk?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The growth of clean beauty: Market data breakdown - Winston-Salem Journal — The growth of clean beauty: Market data breakdown Winston-Salem Journal",
+   "excerpt": "The growth of clean beauty: Market data breakdown Winston-Salem Journal"
+  },
+  {
+   "title": "The growth of clean beauty: Market data breakdown - KRDO",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FYZUZhc2ZDQ3F6alNmd25qWUZHakVvVHQxS3MzN1NUUXJsVDBXZC1qSU91Q2xGSnV2NXRsOFhDSy1rVHM0UDdXRmJqSzRlckU1WjV4eWN1OEptQmdZZjVyRDdpMXBNcFhRWG95R243bEdYRkZvZjlpN2VrNDN4ZTd5WHJVelRUVXNCbXZCRjlzOFdQVTlwUm44Z1BpXzdpQ2xMQg?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The growth of clean beauty: Market data breakdown - KRDO — The growth of clean beauty: Market data breakdown KRDO",
+   "excerpt": "The growth of clean beauty: Market data breakdown KRDO"
   },
   {
    "title": "Interparfums, Inc. to launch new Off-White, Longchamp fragrances in 2027",
