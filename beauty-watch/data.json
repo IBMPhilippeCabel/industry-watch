@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-06T07:01:00Z",
+ "updated": "2026-11-06T08:50:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Today’s buzz spans brand launches, market shifts, M&A moves, and clean‑beauty scrutiny across the global cosmetics arena.",
+  "hook": "Today's beauty market buzz centers on pricing innovation, strategic acquisitions, clean‑beauty scrutiny, and shifting consumer focus toward body care.",
   "categories": {
-   "📈 Market": "Sid Medicos is expanding its LemonBottle network in Latin America while Coty faces a rocky start to 2027, and Estée Lauder outlines 2030 growth plans amid a shift toward body‑care trends and visual‑search driven discovery.",
-   "💄 Brands & Retail": "Shop Good’s founder pushes a replenishment‑priced body wash, Shani Darden expands her Beverly Hills studio, Ralph Lauren ramps holiday marketing, Depop triples campus presence, Cardi B’s hair‑care line boosts Revolve traffic, and Coty reports Q1 results amid transition.",
-   "🤝 Strategy & M&A": "Elemis changes hands again, Bogart Group acquires Marionnaud, Interparfums will launch Off‑White and Longchamp fragrances, L’Oréal prioritizes entertainment in microdrama, Unilever invests in AI‑led R&D hubs in India, and Coty beats earnings expectations.",
-   "💡 Innovation & Regulation": "The clean‑beauty narrative is challenged as industry data questions whether products truly meet safety claims."
+   "📈 Market": "Coty faces a rocky start to 2027 amid Middle East war impacts, while the market shifts focus from face to body products and Estée Lauder outlines mid‑single‑digit growth plans for 2030.",
+   "💄 Brands & Retail": "Shop Good’s founder promotes replenishment‑priced body care, Shani Darden adds injectables to her Beverly Hills studio, and Coty reports Q1 revenue as it navigates a transition year.",
+   "🤝 Strategy & M&A": "Elemis changes hands again, Seppic acquires Minasolve, Bogart Group buys Marionnaud, Interparfums secures Off‑White and Longchamp licenses, L’Oréal shifts to entertainment‑driven microdrama, and Unilever invests in AI‑led R&D hubs.",
+   "💡 Innovation & Regulation": "The clean‑beauty trend continues to grow, yet questions remain about whether products truly meet safety claims."
   }
  },
  "articles": [
@@ -92,6 +92,24 @@
    "date": "2026-11-06",
    "ai_summary": "David Konckier, owner of Bogart Group, completes acquisition of Marionnaud – David Konckier, the main shareholder of the Bogart Group, has finalized the acquisition of the Marionnaud Group through his company BEHN. The transaction, undertaken in a personal capacity, was initially announced in a p…",
    "excerpt": "David Konckier, the main shareholder of the Bogart Group, has finalized the acquisition of the Marionnaud Group through his company BEHN. The transaction, undertaken in a personal capacity, was initially announced in a p…"
+  },
+  {
+   "title": "Seppic strengthens its natural cosmetics business with Minasolve acquisition",
+   "url": "https://www.premiumbeautynews.com/en/seppic-strengthens-its-natural,28485",
+   "source": "Premium Beauty News",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "Seppic expands its natural cosmetics line by acquiring Minasolve, a green chemistry specialist focused on bio-based preservation boosters for cosmetics.",
+   "excerpt": "Minasolve, a pioneer in green chemistry specializing in natural preservation boosters for cosmetic products, particularly 100% bio-based glycols, is joining Seppic, a subsidiary of the Air Liquide Group. Founded in 2007 …"
+  },
+  {
+   "title": "The growth of clean beauty: Market data breakdown - News Channel 3-12",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVpTS0hNSmkxcm83VUJESDhITm9KSnN0U1BvcU9XLWN1ZUZmTzNrcDE5Z2RGZ0NjcjBUc0N2RlpfbU84T2k5SVF1RmF5RGNvQW9sSVpETHpVTGs0V21tbmNobTdWUDRPQU1SVXA5a25WbWc5WmEzVTJfM0N0dTRzdDhTbU1nTzl3TkVpX3ozR0laMmpONlUzLU9kc0FRemtVVEM2Yg?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The article discusses the growth of clean beauty, providing a market data breakdown.",
+   "excerpt": "The growth of clean beauty: Market data breakdown News Channel 3-12"
   },
   {
    "title": "The growth of clean beauty: Market data breakdown - Bryan College Station Eagle",
