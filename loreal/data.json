@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-06T02:47:00Z",
+ "updated": "2026-11-06T04:51:00Z",
  "briefing": {
-  "date": "2026-11-05",
-  "hook": "L’Oréal’s day highlighted a shift to entertainment‑driven strategy, global innovation, new partnerships, and solid Q3 growth amid rising luxury travel retail demand.",
+  "date": "2026-11-06",
+  "hook": "L’Oréal’s day highlights a shift toward science-backed innovation, tech-driven growth, and expanding luxury retail presence.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal’s microdrama strategy prioritises entertainment, while it showcases China’s innovation and partners with Aster Pharmacy and Subway to broaden sustainable beauty access.",
-   "💄 Brands & Launches": "New campaigns feature Adria Arjona for L’Oréal Paris Mascara and Miley Cyrus for Maybelline’s Christmas launch.",
-   "💡 Beauty Tech & ESG": "The company reported Q3 growth across all four divisions, reflected in a 2.20% stock rise and a nine‑month sales increase.",
-   "📈 Market": "Luxury beauty brands, including L’Oréal, benefit from increased consumer shopping at airports, boosting travel retail sales."
+   "🤝 Strategy & M&A": "L’Oréal partners with UNESCO to award Singapore researchers and with Aster Pharmacy to broaden sustainable beauty access, signalling a science‑driven, socially conscious strategy.",
+   "💄 Brands & Launches": "The launch of a low‑effort high‑impact tinted balm and a collagen lifter hair range underscores L’Oréal’s focus on convenient, high‑performance products.",
+   "💡 Beauty Tech & ESG": "Stock gains reflect Q3 growth across four divisions, indicating a broadening of tech‑enabled performance and ESG momentum.",
+   "📈 Market": "Luxury beauty is thriving in travel retail, with L’Oréal benefiting from increased airport shopping habits and expanding premium retail footprints."
   }
  },
  "articles": [
+  {
+   "title": "L’Oréal-UNESCO For Women in Science awards emerging Singapore researchers shaping the future of science - BioSpectrum Asia",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmtxMzJidnNRT3NFdkpPZGw3eFF5eFhPczlsUFNUdkFJR0ZiVUpsNTZCVTBEd2dMT1JjTmx3WWRhc3dEV2FYc01Hb0NnMEZqd19QZVB6VF95SFlSQXl5NnJuZXBtbk5hWFprNmNFSmMxTGFidUlhNzFGXzktWHhJUVE3eFB6UlQ3dlRtMy1nMnY0Ql9zNTF0cUd4ZXhfY2pOYlhMMWVCSmFOTHpLQlIzNnVhUkpYMk41RjdkNmp0c0c4aEhBSVJyVDhRN2FDNnFSdE9JRGxFaXpaQUJvekN4akg3NFptcFk?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "L’Oréal-UNESCO For Women in Science awards emerging Singapore researchers shaping the future of science",
+   "excerpt": "L’Oréal-UNESCO For Women in Science awards emerging Singapore researchers shaping the future of science BioSpectrum Asia"
+  },
   {
    "title": "L’Oréal’s evolving microdrama strategy puts entertainment over product - Marketing Dive",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1ozMUpNNUFEcUMxcXIzeFVvRHFzR0RLb0JraG5sdFNkcTMwYWZhUzlEcURFNXFaOW83bE01MERydlRYeVRBcHpJMVRyaDMyc0tkejU3NlZfY05GRXcxQ2s4WS1vR0t5d2F3XzdMWE16UmFlOFk1NzlCNDBlcTJnM0F4WkxNYk9nNjNKUjhLZzBiQkFYZXJkZmZUSTFKOFVOX2VpWTl6OTFZVzV5RnhPRw?oc=5",
@@ -29,6 +38,15 @@
    "date": "2026-11-05",
    "ai_summary": "L'Oreal stock gains 2.20% as four divisions post Q3 growth",
    "excerpt": "L'Oreal stock gains 2.20% as four divisions post Q3 growth ad-hoc-news.de"
+  },
+  {
+   "title": "Craving Low-Effort Makeup With a High-Impact Payoff? This L'Oréal Paris Tinted Balm Is All You Need - Who What Wear",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZUVWWjNLVXNWamtxcUVTSzAwYURxbTdDczhvSnExbnNoY0tQRnczNTZ5YmhfS2c1MlF5ay1WUl9TSnJFVGQ1VEJLLVh3QXRtTTRoOWlmY0VkSXI3SndUTjN5ckxhQV9pbmthQ3dHSjZBb3gyRmhqTEpEeG4xWi1nMnM0c3h1Q29SR3cteFh4T2tJOWc?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-05",
+   "ai_summary": "Craving Low-Effort Makeup With a High-Impact Payoff? This L'Oréal Paris Tinted Balm Is All You Need",
+   "excerpt": "Craving Low-Effort Makeup With a High-Impact Payoff? This L'Oréal Paris Tinted Balm Is All You Need Who What Wear"
   },
   {
    "title": "L'Oréal: China innovates, the world benefits - CGTN",
