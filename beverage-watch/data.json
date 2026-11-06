@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-06T14:50:00Z",
+ "updated": "2026-11-06T16:44:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Heineken expands in Brazil while market shifts focus to health and restructuring, and innovation moves into protein‑infused water.",
+  "hook": "Heineken expands in South Africa and Brazil while market shifts and innovation moves forward.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken acquires Brazilian beer and yerba‑mate firm Better Drinks, expanding its presence in South America.",
-   "📈 Market": "Molson Coors cuts forecasts and Celsius restructures its US brands, while Zevia lifts outlook after strong Q3.",
-   "🍸 Spirits & Premium": "Ireland’s Stillgarden Distillery faces liquidation after failing to secure fresh capital.",
-   "🍺 Beer & Brewing": "Heineken’s Brazilian acquisition signals a strategic push into emerging beer markets.",
-   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused bottled water, adding a new niche to the beverage lineup."
+   "🤝 Strategy & M&A": "Heineken signs a golf tie‑up in South Africa and acquires Better Drinks in Brazil.",
+   "📈 Market": "Molson Coors cuts forecasts, Celsius restructures, and Super Bock promotes its CFO to CEO.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Arla launches protein‑infused water."
   }
  },
  "articles": [
+  {
+   "title": "Heineken inks golf tie-up for Windhoek, Savanna, Amarula in South Africa - Global Drinks Intel",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFhNbzdCNE16dWlXRzkwejVqSF9neXRIbTd0SkpJbmhxeUh0bERyX0Vfa29CWnhFSHpwU25NMTNsM01JYmFWeTRjTjJQMjRERjF4WGtMUTNLbzBXYTRrVWtvbWpxVHBBV3dpbG1VampNc1V4NTFDYlZJZFUydEhCbU1YMkRMelZFX081blZJWHhzMjE3QjlWekszNEdSVlRNdy1KdzJsU3lqOUlINXpQVw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "Heineken signs a golf tie‑up for Windhoek, Savanna, and Amarula in South Africa.",
+   "excerpt": "Heineken inks golf tie-up for Windhoek, Savanna, Amarula in South Africa Global Drinks Intel"
+  },
+  {
+   "title": "Super Bock promotes CFO to chief executive",
+   "url": "https://www.just-drinks.com/news/super-bock-promotes-cfo-to-chief-executive/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-06",
+   "ai_summary": "Super Bock Group promotes its CFO, Cláudio Mateus, to chief executive next year.",
+   "excerpt": "Super Bock Group CFO Cláudio Mateus will move up to the role of chief executive next year."
+  },
   {
    "title": "Heineken buys Brazil beer, yerba-mate firm Better Drinks",
    "url": "https://www.just-drinks.com/news/heineken-buys-brazil-better-drinks/",

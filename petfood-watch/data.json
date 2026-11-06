@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-06T14:50:00Z",
+ "updated": "2026-11-06T16:44:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Today’s highlights show industry support, organic shifts, and innovation in pet nutrition, alongside market growth and strategic acquisitions.",
+  "hook": "Today’s pet‑food landscape shows a surge in private‑label expansion, new production investments, and a focus on sustainability and innovation.",
   "categories": {
-   "📈 Market": "Private label brands are gaining ground while a cultivated meat supplier partners with a pet food brand to launch the first wet pet food made from cultivated meat.",
-   "⚖️ Regulation": "Pet food associations continue to support the industry while a brand upgrades its dog supplement to certified organic ingredients.",
-   "💡 Innovation": "Innovation drives growth with a soy-based dog chew award, record sales and margins for Freshpet, and evolving Vietnamese pet markets demanding specialized products.",
-   "🤝 M&A": "Grupo Pilar Innova’s stake in Vitalcan and a Soil Capital co‑investment signal strategic moves to reshape competition and support regenerative agriculture."
+   "📈 Market": "Private‑label brands are gaining ground globally, especially in Eastern Europe and North America, while cultivated‑meat ventures like BeneMeat and FORZA10 begin to enter the pet‑food market.",
+   "⚖️ Regulation": "Industry associations continue to champion policy and trade, while a dog‑supplement brand upgrades to certified organic ingredients to meet high purity standards.",
+   "💡 Innovation": "Innovation highlights include a soy‑based dog chew award, Freshpet’s record margins, Vietnam’s evolving market, and Blue Buffalo’s new bone‑broth line, all pointing to product diversification.",
+   "🤝 M&A": "European pet firms are investing in new production facilities, Musti Group reports double‑digit growth, Grupo Pilar acquires a stake in Vitalcan, and Soil Capital partners with a supplier for regenerative agriculture."
   }
  },
  "articles": [
+  {
+   "title": "European pet companies scale up production operations",
+   "url": "https://globalpetindustry.com/news/european-pet-companies-scale-up-production-operations/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-06",
+   "ai_summary": "European pet companies scale up production operations — New facilities, machinery upgrades and larger production systems are shaping the latest manufacturing investments across Europe’s pet industry, spanning pet food, supplementary feed and microalgae ingredients. Canina Pha…",
+   "excerpt": "New facilities, machinery upgrades and larger production systems are shaping the latest manufacturing investments across Europe’s pet industry, spanning pet food, supplementary feed and microalgae ingredients. Canina Pha…"
+  },
+  {
+   "title": "Musti Group builds on ZU acquisition to deliver double-digit growth",
+   "url": "https://globalpetindustry.com/news/musti-group-builds-on-zu-acquisition-to-deliver-double-digit-growth/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-06",
+   "ai_summary": "Musti Group builds on ZU acquisition to deliver double-digit growth — Musti Group’s net sales for the third quarter (Q3) of fiscal year (FY) 2026 grew 17.7% year over year (YoY) to €149.9 million ($168.2M), supported by growth across all markets. Like-for-like sales also increased 5.6%. Th…",
+   "excerpt": "Musti Group’s net sales for the third quarter (Q3) of fiscal year (FY) 2026 grew 17.7% year over year (YoY) to €149.9 million ($168.2M), supported by growth across all markets. Like-for-like sales also increased 5.6%. Th…"
+  },
   {
    "title": "11 associations supporting the pet food industry",
    "url": "https://www.petfoodprocessing.net/articles/21058-11-associations-supporting-the-pet-food-industry",
@@ -245,6 +263,15 @@
    "date": "2026-11-03",
    "ai_summary": "Chicory root powder may have functional dog food ingredient potential — Research with Labrador puppies suggests whole chicory root powder may offer digestive, metabolic and immune benefits beyond its...",
    "excerpt": "Research with Labrador puppies suggests whole chicory root powder may offer digestive, metabolic and immune benefits beyond its..."
+  },
+  {
+   "title": "Chicory root powder may have functional ingredient potential",
+   "url": "https://www.petfoodindustry.com/nutrition/pet-food-ingredients/article/16349387/chicory-root-powder-may-have-functional-ingredient-potential",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-03",
+   "ai_summary": "Chicory root powder may have functional ingredient potential — Research with Labrador puppies suggests whole chicory root powder may support digestive, metabolic and immune benefits beyond...",
+   "excerpt": "Research with Labrador puppies suggests whole chicory root powder may support digestive, metabolic and immune benefits beyond..."
   },
   {
    "title": "Survey: Pet boarding drives revenue for global pet care operators",

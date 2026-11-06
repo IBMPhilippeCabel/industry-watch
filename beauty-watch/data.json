@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-06T14:50:00Z",
+ "updated": "2026-11-06T16:45:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Beauty trends shift toward integrated routines and cross‑category collaborations, while regulatory confusion and M&A activity shape the market.",
+  "hook": "New K-beauty hub, sustainable school farm, and a lash serum hit 30‑second sales mark signal a mix of innovation, sustainability and rapid consumer response.",
   "categories": {
-   "📈 Market": "Mintel forecasts GLP‑1 weight‑loss products will push consumers toward integrated beauty systems, and brands are uniting beauty, wellness and lifestyle into single drops.",
-   "💄 Brands & Retail": "Shani Darden expands her Beverly Hills studio to include injectables, dermatology and plastic surgery services under one roof.",
-   "🤝 Strategy & M&A": "Nykaa’s 207% profit jump follows its acquisition of premium colour brand SimplyNam, and Space NK’s turnover rises after its Ulta Beauty deal.",
-   "💡 Innovation & Regulation": "MPs highlight the confusing cosmetics regulatory landscape in a new report, underscoring the need for clearer guidance."
+   "📈 Market": "Mintel predicts GLP‑1 weight‑loss products will push consumers toward integrated beauty systems rather than single items.",
+   "💄 Brands & Retail": "Space NK’s turnover rises 19% as Ulta acquisition and new stores drive sales, while Coty’s Q1 FY27 results reflect a transition year.",
+   "🤝 Strategy & M&A": "Nykaa’s 207% profit jump follows acquisition of SimplyNam, and Estée Lauder’s earnings beat prompts analyst revisions.",
+   "💡 Innovation & Regulation": "Schwan Cosmetics opens a Seoul hub to accelerate K‑beauty innovation, and a UK committee labels cosmetics regulation a confusing mess."
   }
  },
  "articles": [
+  {
+   "title": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
+   "url": "https://www.cosmeticsbusiness.com/new-launch-for-in-cosmetics-asia-phytocelltec-aloha",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "New launch for in-cosmetics Asia: PhytoCellTec Aloha — Inspired by the remarkable resilience of Waltheria indica, a tropical plant traditionally valued in Polynesian cultures, PhytoCellTec™ Aloha helps the skin remain healthy, balanced, and radiant even during stressful time…",
+   "excerpt": "Inspired by the remarkable resilience of Waltheria indica, a tropical plant traditionally valued in Polynesian cultures, PhytoCellTec™ Aloha helps the skin remain healthy, balanced, and radiant even during stressful time…"
+  },
+  {
+   "title": "CPL Aromas supports new sustainable school farm in Colombia",
+   "url": "https://www.cosmeticsbusiness.com/cpl-aromas-supports-new-sustainable-school-farm-in",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "CPL Aromas supports new sustainable school farm in Colombia — Granja Don Bosco Circular will provide more than 400 students with practical education in sustainability and circular economy principles",
+   "excerpt": "Granja Don Bosco Circular will provide more than 400 students with practical education in sustainability and circular economy principles"
+  },
+  {
+   "title": "UK science and technology committee reports that cosmetics regulation is a ‘confusing mess’ - Chemistry World",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNW5JWVpKX182V1VYeUhSVFdxZHNfSmpLdmdPbWVvOXRUWnRMa3NBMDNkUU5rSktzVTBxempaSm5XMXNWQnlZTUFTRklMLXIzR05NbnprZk83QXNCTjJjek9LMVZiQnB6bG9jOGFwc0syUFdSck1tMi1fbi1sNS1jS1lub0VCUUROVmQ0Wm1MT1luQXVMUWdURWJlR0xjSUw1SkN6a0N3N3dYWHIxa2hUTFhBWHU1XzFvMFhJa2tNbnpSMmJhQVhwNF9USlZOOXUzN0ExR081UE0?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "UK science and technology committee reports that cosmetics regulation is a ‘confusing mess’ - Chemistry World — UK science and technology committee reports that cosmetics regulation is a ‘confusing mess’ Chemistry World",
+   "excerpt": "UK science and technology committee reports that cosmetics regulation is a ‘confusing mess’ Chemistry World"
+  },
   {
    "title": "GLP-1 is defining a beauty future built around systems, says Mintel",
    "url": "https://www.cosmeticsbusiness.com/glp-1-is-defining-a-beauty-future-built-on-systems",
@@ -247,6 +274,15 @@
    "excerpt": "The American cosmetics and fragrance group Coty (Marc Jacobs, Burberry fragrances, Calvin Klein, etc.) reported a 64% increase in profit for the July–September period, supported by demand in its key markets and proceeds …"
   },
   {
+   "title": "“Africa is also driving innovation,” says Tendresse Lompala, MMB Packaging",
+   "url": "https://www.premiumbeautynews.com/en/africa-is-also-driving-innovation,28490",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "“Africa is also driving innovation,” says Tendresse Lompala, MMB Packaging — Tendresse Lompala is a Congolese entrepreneur based in Kinshasa, Democratic Republic of the Congo (DRC). Trained as a nurse and nutritionist, she is the founder and Managing Director of MMB Packaging (Mwana Mboka Tolia y…",
+   "excerpt": "Tendresse Lompala is a Congolese entrepreneur based in Kinshasa, Democratic Republic of the Congo (DRC). Trained as a nurse and nutritionist, she is the founder and Managing Director of MMB Packaging (Mwana Mboka Tolia y…"
+  },
+  {
    "title": "The growth of clean beauty: Market data breakdown - News Channel 3-12",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVpTS0hNSmkxcm83VUJESDhITm9KSnN0U1BvcU9XLWN1ZUZmTzNrcDE5Z2RGZ0NjcjBUc0N2RlpfbU84T2k5SVF1RmF5RGNvQW9sSVpETHpVTGs0V21tbmNobTdWUDRPQU1SVXA5a25WbWc5WmEzVTJfM0N0dTRzdDhTbU1nTzl3TkVpX3ozR0laMmpONlUzLU9kc0FRemtVVEM2Yg?oc=5",
    "source": "Beauty Innovation & Tech (Google News)",
@@ -299,6 +335,15 @@
    "date": "2026-11-05",
    "ai_summary": "L’Oréal’s evolving microdrama strategy prioritizes entertainment over product, according to Marketing Dive.",
    "excerpt": "L’Oréal’s evolving microdrama strategy puts entertainment over product Marketing Dive"
+  },
+  {
+   "title": "The growth of clean beauty: Market data breakdown - Statesville Record",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHpzQTRFV25TLV9QSUkxVmt4RWd6MUNRMmRWdjJzQzBYMmVtTWg3MVhKQVk0NlpZYktGbTc5dUJndnU0THlwUTVqeXdSeF9OSzRmTEJ0LW9oaUJmUTNUaXVnVGdwUVM1eVpDTTk5VGRIZkVwRDlhNUFoakhrYWRUQTdfcm1jaXVZTk1wS2NpOTlPb19neVpCbUdDV3BoME5KdXdxc0FRYmFKY1pa?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The growth of clean beauty: Market data breakdown - Statesville Record — The growth of clean beauty: Market data breakdown Statesville Record",
+   "excerpt": "The growth of clean beauty: Market data breakdown Statesville Record"
   },
   {
    "title": "The growth of clean beauty: Market data breakdown - Hickory Daily Record",
@@ -578,6 +623,15 @@
    "date": "2026-11-04",
    "ai_summary": "Coty Reports Q1 FY27 Results Amid Transition Year - WWD — Coty Reports Q1 FY27 Results Amid Transition Year WWD",
    "excerpt": "Coty Reports Q1 FY27 Results Amid Transition Year WWD"
+  },
+  {
+   "title": "Sephora's fall Savings Event is live: See the top 25 beauty tech deals on multistylers, LED masks, and more - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVNLNGJscGV4NE1aOXJjdDdxVjdYRGt5dGJ2bzVJUVF3a19YeENtSUwtbzk4RmlJWGdPSWhxNlhHd1RDUHEzMDFDVlpHUDR3U2Njc2NhTjdYaE9fTjVFZWx5bnk2MlZOVDhCbThDbDl1cUR5WjZ2UGM0UU9rYkdPZjN0SldPRXBjbEJ2Y3ZJVjlyM0tp?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-04",
+   "ai_summary": "Sephora's fall Savings Event is live: See the top 25 beauty tech deals on multistylers, LED masks, and more - Yahoo — Sephora's fall Savings Event is live: See the top 25 beauty tech deals on multistylers, LED masks, and more Yahoo",
+   "excerpt": "Sephora's fall Savings Event is live: See the top 25 beauty tech deals on multistylers, LED masks, and more Yahoo"
   },
   {
    "title": "Coty Reports Q1 FY27 Results Amid Transition Year",
