@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-06T12:52:00Z",
+ "updated": "2026-11-06T14:50:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Coty faces a rocky start to 2027 while Kiko Milano launches a quirky highlighter‑tint partnership.",
+  "hook": "Beauty trends shift toward integrated routines and cross‑category collaborations, while regulatory confusion and M&A activity shape the market.",
   "categories": {
-   "📈 Market": "Coty’s 64% profit jump in Q3 is offset by a rocky 2027 start as Middle East war hurts revenues, while Kiko Milano partners with Stabilo for a limited‑edition highlighter‑shaped lip tint.",
-   "💄 Brands & Retail": "Space NK’s comparable turnover rises 19% thanks to Ulta acquisition and new stores, and Nykaa’s profit soars 207% after acquiring SimplyNam.",
-   "🤝 Strategy & M&A": "Elemis changes ownership again, reflecting buyers’ focus on premiumisation, while Estée Lauder beats earnings expectations prompting forecast revisions.",
-   "💡 Innovation & Regulation": "Schwan Cosmetics opens a Seoul hub to accelerate K‑beauty innovation, and MPs warn cosmetics regulation remains a confusing mess."
+   "📈 Market": "Mintel forecasts GLP‑1 weight‑loss products will push consumers toward integrated beauty systems, and brands are uniting beauty, wellness and lifestyle into single drops.",
+   "💄 Brands & Retail": "Shani Darden expands her Beverly Hills studio to include injectables, dermatology and plastic surgery services under one roof.",
+   "🤝 Strategy & M&A": "Nykaa’s 207% profit jump follows its acquisition of premium colour brand SimplyNam, and Space NK’s turnover rises after its Ulta Beauty deal.",
+   "💡 Innovation & Regulation": "MPs highlight the confusing cosmetics regulatory landscape in a new report, underscoring the need for clearer guidance."
   }
  },
  "articles": [
+  {
+   "title": "GLP-1 is defining a beauty future built around systems, says Mintel",
+   "url": "https://www.cosmeticsbusiness.com/glp-1-is-defining-a-beauty-future-built-on-systems",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-06",
+   "ai_summary": "Mintel predicts that GLP-1 weight loss products will lead beauty consumers to prioritize systems and routines over single product use. The report highlights a shift toward integrated beauty solutions in the future.",
+   "excerpt": "With the increasing dominance of GLP-1 weight loss products, consumer insights firm Mintel has predicted a future where beauty consumers seek out systems and routines over individual product use in its Global Predictions…"
+  },
   {
    "title": "Kiko Milano partners with Stabilo on limited-edition highlighter-shaped lip tints",
    "url": "https://www.cosmeticsbusiness.com/kiko-milano-partners-with-stabilo-on-limited-edition-lip-tints",

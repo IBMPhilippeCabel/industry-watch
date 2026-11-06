@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-06T12:52:00Z",
+ "updated": "2026-11-06T14:50:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Heineken expands in Brazil while Russia tightens spirits tariffs, shaping market dynamics.",
+  "hook": "Heineken expands in Brazil while market shifts focus to health and restructuring, and innovation moves into protein‑infused water.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken acquires Brazil beer and yerba‑mate firm Better Drinks, expanding its portfolio in the region.",
-   "📈 Market": "Russia’s new higher tariffs on spirits from ‘unfriendly’ countries and a Russian firm’s bid for Coca‑Cola HBC assets are tightening the market environment.",
-   "🍸 Spirits & Premium": "Ireland’s Stillgarden Distillery faces liquidation after failing to secure fresh capital, highlighting financial pressures in the premium spirits sector.",
-   "🍺 Beer & Brewing": "Molson Coors cuts its sales and earnings forecasts, reflecting a challenging outlook for the brewing industry.",
-   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused water, adding a new product line to its dairy portfolio."
+   "🤝 Strategy & M&A": "Heineken acquires Brazilian beer and yerba‑mate firm Better Drinks, expanding its presence in South America.",
+   "📈 Market": "Molson Coors cuts forecasts and Celsius restructures its US brands, while Zevia lifts outlook after strong Q3.",
+   "🍸 Spirits & Premium": "Ireland’s Stillgarden Distillery faces liquidation after failing to secure fresh capital.",
+   "🍺 Beer & Brewing": "Heineken’s Brazilian acquisition signals a strategic push into emerging beer markets.",
+   "💡 Innovation & No-Low": "Arla Foods launches protein‑infused bottled water, adding a new niche to the beverage lineup."
   }
  },
  "articles": [
+  {
+   "title": "Heineken buys Brazil beer, yerba-mate firm Better Drinks",
+   "url": "https://www.just-drinks.com/news/heineken-buys-brazil-better-drinks/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "Heineken has agreed to acquire Brazilian business Better Drinks Participações",
+   "excerpt": "The Netherlands-based brewing giant Heineken has agreed to acquire Brazilian business Better Drinks Participações."
+  },
+  {
+   "title": "Soda business Zevia lifts forecast after “strong” Q3",
+   "url": "https://www.just-drinks.com/news/soda-business-zevia-lifts-forecast-after-strong-q3/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-06",
+   "ai_summary": "Zevia lifts forecast after “strong” Q3",
+   "excerpt": "Zevia lifts forecast after “strong” Q3"
+  },
+  {
+   "title": "Charles Jameson is L.B. Henretty Outstanding Citizen of the Year - Culpeper Star-Exponent",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGxIakdCVDZqcmtlRTA0dGFjREY2UGlGbE9QZ3ZzdXVWU1lRaVJnTjlhelJ4U1hORmhsbVNpTEI3T21aeU4xM1FfMU9iTzd5OE83YkdQRFZMNkdQOXJPYjdQQi1YYnJWbVR2VHY4X18xbWpfd3I4NmJvQjJ5dDA3UkthOEs4bmRIemJxMmw4RVdGUnc4Mm5QaUNB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-06",
+   "ai_summary": "Charles Jameson is L.B. Henretty Outstanding Citizen of the Year Culpeper Star-Exponent",
+   "excerpt": "Charles Jameson is L.B. Henretty Outstanding Citizen of the Year Culpeper Star-Exponent"
+  },
+  {
+   "title": "Raisio chairman resigns as Finnish group cuts outlook",
+   "url": "https://www.just-drinks.com/news/raisio-chairman-resigns-as-finnish-group-cuts-outlook/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-06",
+   "ai_summary": "Raisio has announced the departure of its chairman alongside a downgrade to the Finnish health food group’s outlook for sales and profits",
+   "excerpt": "Raisio has announced the departure of its chairman alongside a downgrade to the Finnish health food group’s outlook for sales and profits."
+  },
   {
    "title": "Heineken buys Brazil beer, yerba-mate firm Better Drinks - Just Drinks",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbWQtM1hwVUhZT2hwbVNUb0VEc1A4MHljZUk3bUtoc1FaT0RfTk1WejFsemxXanV3TXV1aEFHUWN4b2EwOEtid2czMlEyRVV1cVExTWJja3pFdDdYRDk1N1NYUzdNemthZkE0Z0NPWlp2Y1B2R3Uw?oc=5",

@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-06T12:52:00Z",
+ "updated": "2026-11-06T14:50:00Z",
  "briefing": {
   "date": "2026-11-06",
-  "hook": "Today’s pet food news highlights market growth, new product launches, private label expansion, strategic M&A moves, and a focus on organic standards.",
+  "hook": "Today’s highlights show industry support, organic shifts, and innovation in pet nutrition, alongside market growth and strategic acquisitions.",
   "categories": {
-   "📈 Market": "Private label brands are gaining ground in the global pet food market, with major retailers stepping up ambitions, while PLMA showcases human‑grade treats and a cultivated meat pet food launch.",
-   "⚖️ Regulation": "A dog supplement brand is upgrading to certified organic ingredients to meet the highest purity and quality standards.",
-   "💡 Innovation": "Blue Buffalo’s Bone Broth Boosted line, Sportsman’s Pride’s 50‑lb bags, machine‑learning recipe research, and Royal Canin’s regenerative agriculture partnership signal product and sustainability innovation.",
-   "🤝 M&A": "Grupo Pilar’s 35% stake in Vitalcan and a Soil Capital co‑investment between buyer and supplier signal strategic moves toward market expansion and regenerative agriculture."
+   "📈 Market": "Private label brands are gaining ground while a cultivated meat supplier partners with a pet food brand to launch the first wet pet food made from cultivated meat.",
+   "⚖️ Regulation": "Pet food associations continue to support the industry while a brand upgrades its dog supplement to certified organic ingredients.",
+   "💡 Innovation": "Innovation drives growth with a soy-based dog chew award, record sales and margins for Freshpet, and evolving Vietnamese pet markets demanding specialized products.",
+   "🤝 M&A": "Grupo Pilar Innova’s stake in Vitalcan and a Soil Capital co‑investment signal strategic moves to reshape competition and support regenerative agriculture."
   }
  },
  "articles": [
+  {
+   "title": "11 associations supporting the pet food industry",
+   "url": "https://www.petfoodprocessing.net/articles/21058-11-associations-supporting-the-pet-food-industry",
+   "source": "Pet Food Processing",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-06",
+   "ai_summary": "11 associations supporting the pet food industry — From shaping industry policy and expanding trade opportunities to providing educational programs, these associations have shown consistent support for the industry.",
+   "excerpt": "From shaping industry policy and expanding trade opportunities to providing educational programs, these associations have shown consistent support for the industry."
+  },
+  {
+   "title": "New HPAI outbreak in Iowa",
+   "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-06",
+   "ai_summary": "New HPAI outbreak in Iowa — This outbreak marks the eighth detection in the state this year.",
+   "excerpt": "This outbreak marks the eighth detection in the state this year."
+  },
+  {
+   "title": "Dog & Whistle wins 2026 SpringBoard Challenge for soy-based dog chew",
+   "url": "https://www.petfoodprocessing.net/articles/21056-dog-and-whistle-wins-2026-springboard-challenge-for-soy-based-dog-chew",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-06",
+   "ai_summary": "Dog & Whistle wins 2026 SpringBoard Challenge for soy-based dog chew — The award winnings will support the research and development of an edible dog chew using soy-based materials.",
+   "excerpt": "The award winnings will support the research and development of an edible dog chew using soy-based materials."
+  },
+  {
+   "title": "Freshpet grows Q3 sales 10%, posts strongest adjusted gross margin in seven years",
+   "url": "https://www.petfoodprocessing.net/articles/21055-freshpet-grows-q3-sales-10-posts-strongest-adjusted-gross-margin-in-seven-years",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-06",
+   "ai_summary": "Freshpet grows Q3 sales 10%, posts strongest adjusted gross margin in seven years — The company credits advertising, distribution gains, digital growth and innovation for driving volume growth and record margins.",
+   "excerpt": "The company credits advertising, distribution gains, digital growth and innovation for driving volume growth and record margins."
+  },
   {
    "title": "Vietnam’s pet market: Growth opportunities & market access",
    "url": "https://globalpetindustry.com/news/vietnams-pet-market-growth-opportunities-market-access/",
