@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-07T10:36:00Z",
+ "updated": "2026-11-07T12:40:00Z",
  "briefing": {
-  "date": "2026-11-06",
-  "hook": "Today’s pet‑food landscape shows a surge in private‑label expansion, new production investments, and a focus on sustainability and innovation.",
+  "date": "2026-11-07",
+  "hook": "Pet food firms push private labels, innovate with cultivated meat, and expand production while industry associations rally support.",
   "categories": {
-   "📈 Market": "Private‑label brands are gaining ground globally, especially in Eastern Europe and North America, while cultivated‑meat ventures like BeneMeat and FORZA10 begin to enter the pet‑food market.",
-   "⚖️ Regulation": "Industry associations continue to champion policy and trade, while a dog‑supplement brand upgrades to certified organic ingredients to meet high purity standards.",
-   "💡 Innovation": "Innovation highlights include a soy‑based dog chew award, Freshpet’s record margins, Vietnam’s evolving market, and Blue Buffalo’s new bone‑broth line, all pointing to product diversification.",
-   "🤝 M&A": "European pet firms are investing in new production facilities, Musti Group reports double‑digit growth, Grupo Pilar acquires a stake in Vitalcan, and Soil Capital partners with a supplier for regenerative agriculture."
+   "📈 Market": "Private label brands grow in North America and Eastern Europe, and companies like Reiser and Wet Noses showcase new manufacturing capabilities while cultivated meat ventures prepare for launch.",
+   "⚖️ Regulation": "Eleven associations continue to support the pet food industry through policy shaping and educational programs.",
+   "💡 Innovation": "New products such as soy-based dog chews and bone broth‑boosted cat food are emerging, and companies like Freshpet report record margins driven by digital growth and innovation.",
+   "🤝 M&A": "European pet companies are scaling up production with new facilities and machinery, and Grupo Pilar Innova’s stake in Vitalcan could reshape competition in Argentina."
   }
  },
  "articles": [
+  {
+   "title": "Complete Custom Pet Food & Treat Lines from Reiser",
+   "url": "https://www.petfoodprocessing.net/articles/21059-complete-custom-pet-food-and-treat-lines-from-reiser",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-07",
+   "ai_summary": "Reiser offers complete custom pet food and treat lines, automating fresh pet food production. They handle grinding, mixing, forming, portioning, and packaging to support every step of the process.",
+   "excerpt": "Let Reiser help you automate your fresh pet food production. Grinding, mixing, forming, portioning, packaging – we can help you every step of the way."
+  },
   {
    "title": "European pet companies scale up production operations",
    "url": "https://globalpetindustry.com/news/european-pet-companies-scale-up-production-operations/",
