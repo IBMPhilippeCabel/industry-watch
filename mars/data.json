@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-08T08:44:00Z",
+ "updated": "2026-11-08T10:36:00Z",
  "briefing": {
   "date": "2026-11-08",
-  "hook": "M&M’s launches a limited‑edition holiday pack while Mars Corporate & M&A shows no new moves.",
+  "hook": "Mars Corp sees mixed news today, with a drug‑smuggling scandal involving Pringles cans and a fresh holiday packaging launch for M&M’s.",
   "categories": {
-   "🤝 Mars Corporate & M&A": null,
+   "🤝 Mars Corporate & M&A": "Royal Canin’s new Ragdoll 4kg line receives official approval, marking a notable product update for the brand.",
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "M&M’s introduces a new limited‑edition holiday packaging line with seasonal refresh and unique design features.",
+   "🍫 Snacking & FMCG Market": "M&M’s unveiled a limited‑edition holiday packaging line, refreshing the brand’s seasonal appeal.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "Ex-deputy who smuggled heroin into jail in Pringles cans gets sentenced to prison - Jefferson City News Tribune",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNal9mMGN3dnFjWHZCZHdpYkd1ZGR5aUxHUHVVbXNWbVhYN3IyYjRzODk1QmZ1RENTMVNlcHZvUHdOVGRNQXBXTG52ZzFldEpjWGRwYmtlLUZDZVJuaFVjaVJGVHVVQnVMUUpEc0NxdGdnR0kxdmtUWXRqLUJTclNRUW1ub3JtTS1LcVhfOTNTNXhtZw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-08",
+   "ai_summary": "An ex-deputy was sentenced to prison after smuggling heroin into jail using Pringles cans. The case was reported by the Jefferson City News Tribune.",
+   "excerpt": "Ex-deputy who smuggled heroin into jail in Pringles cans gets sentenced to prison Jefferson City News Tribune"
+  },
   {
    "title": "Royal Canin Ragdoll 4kg - Royal mark of approval The changing face of official cyphers of Britain s Kings and Queens - www.auroradesio.it",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wUnhBcnNuZGl1NjN2ODF2ZW1XUjh6MWJ3RkE3OHRuY1N3NmRNZW9xbE54cGlYVDIwZEJtZ21VMU5wR2FxaVJGQS1NNTVONlJHZTdJ?oc=5",
