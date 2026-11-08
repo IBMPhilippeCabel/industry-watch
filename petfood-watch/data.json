@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-07T22:29:00Z",
+ "updated": "2026-11-08T00:47:00Z",
  "briefing": {
-  "date": "2026-11-07",
-  "hook": "Pet food firms push private labels, innovate with cultivated meat, and expand production while industry associations rally support.",
+  "date": "2026-11-08",
+  "hook": "Innovation and market shifts dominate today’s pet food landscape.",
   "categories": {
-   "📈 Market": "Private label brands grow in North America and Eastern Europe, and companies like Reiser and Wet Noses showcase new manufacturing capabilities while cultivated meat ventures prepare for launch.",
-   "⚖️ Regulation": "Eleven associations continue to support the pet food industry through policy shaping and educational programs.",
-   "💡 Innovation": "New products such as soy-based dog chews and bone broth‑boosted cat food are emerging, and companies like Freshpet report record margins driven by digital growth and innovation.",
-   "🤝 M&A": "European pet companies are scaling up production with new facilities and machinery, and Grupo Pilar Innova’s stake in Vitalcan could reshape competition in Argentina."
+   "📈 Market": "Private label brands are gaining ground in the global pet food market, with major retailers stepping up ambitions in Eastern Europe and North America.",
+   "⚖️ Regulation": "Eleven associations are supporting the pet food industry, shaping policy and expanding trade opportunities.",
+   "💡 Innovation": "Freshpet’s Q3 sales rise and record margins are driven by advertising, distribution gains, digital growth and innovation, while Blue Buffalo and Royal Canin launch new cat food lines and Dog & Whistle develops soy-based chews.",
+   "🤝 M&A": "European pet companies are scaling up production operations with new facilities and machinery upgrades across pet food, supplementary feed and microalgae ingredients."
   }
  },
  "articles": [
+  {
+   "title": "Royal Canin Ragdoll 4kg - Royal mark of approval The changing face of official cyphers of Britain s Kings and Queens - www.auroradesio.it",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wUnhBcnNuZGl1NjN2ODF2ZW1XUjh6MWJ3RkE3OHRuY1N3NmRNZW9xbE54cGlYVDIwZEJtZ21VMU5wR2FxaVJGQS1NNTVONlJHZTdJ?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-11-07",
+   "ai_summary": "Royal Canin offers a 4kg Ragdoll cat food with a Royal mark of approval. The article also discusses the changing face of official cyphers of Britain's Kings and Queens.",
+   "excerpt": "Royal Canin Ragdoll 4kg - Royal mark of approval The changing face of official cyphers of Britain s Kings and Queens www.auroradesio.it"
+  },
   {
    "title": "Complete Custom Pet Food & Treat Lines from Reiser",
    "url": "https://www.petfoodprocessing.net/articles/21059-complete-custom-pet-food-and-treat-lines-from-reiser",
@@ -1613,60 +1622,6 @@
    "date": "2026-10-09",
    "ai_summary": "Pet feeding technology segment grows, convenience a goal — Technologies available today focus on easy multiple feedings and AI-enhanced functions.",
    "excerpt": "Technologies available today focus on easy multiple feedings and AI-enhanced functions."
-  },
-  {
-   "title": "Annamaet: a family business leading with 40 years of nutrition science",
-   "url": "https://www.petfoodindustry.com/pet-food-market/pet-food-company-profiles/article/15832584/annamaet-a-family-business-leading-with-40-years-of-nutrition-science",
-   "source": "Petfood Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-08",
-   "ai_summary": "Annamaet: a family business leading with 40 years of nutrition science — A dedication to innovation, quality and nutritional excellence is still what defines this premium pet food company four decades.",
-   "excerpt": "A dedication to innovation, quality and nutritional excellence is still what defines this premium pet food company four decades..."
-  },
-  {
-   "title": "Pet Food Processing Exchange 2026 spotlights industry’s future",
-   "url": "https://www.petfoodprocessing.net/articles/20970-pet-food-processing-exchange-2026-spotlights-industrys-future",
-   "source": "Pet Food Processing",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-08",
-   "ai_summary": "Pet Food Processing Exchange 2026 spotlights industry’s future — Experts shared insights on nutrition, technology, regulations and consumer trends.",
-   "excerpt": "Experts shared insights on nutrition, technology, regulations and consumer trends."
-  },
-  {
-   "title": "Wuffes unveils new brand identity",
-   "url": "https://www.petfoodprocessing.net/articles/20969-wuffes-unveils-new-brand-identity",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-08",
-   "ai_summary": "Wuffes has introduced a new brand identity. The rebrand includes a new logo, color system, art direction, tone of voice, and messaging principles.",
-   "excerpt": "The rebrand introduces a new logo, color system, art direction, tone of voice and messaging principles."
-  },
-  {
-   "title": "NARA names VP of scientific, regulatory affairs",
-   "url": "https://www.petfoodprocessing.net/articles/20968-nara-names-vp-of-scientific-regulatory-affairs",
-   "source": "Pet Food Processing",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-08",
-   "ai_summary": "NARA has named a new VP of scientific and regulatory affairs. The new VP will advise the North American rendering industry and oversee animal food safety research, training and policy.",
-   "excerpt": "Jennifer Dorick, Ph.D., will serve as an advisor to the North American rendering industry and oversee animal food safety research, training and policy."
-  },
-  {
-   "title": "From retail to grooming: Pet players expand store networks",
-   "url": "https://globalpetindustry.com/news/from-retail-to-grooming-pet-players-expand-store-networks/",
-   "source": "Global Pet Industry",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-08",
-   "ai_summary": "Pet companies are expanding their physical presence across Europe, Asia, Australia and North America. They are opening new retail stores, grooming outlets, wellness centers and multi-service locations.",
-   "excerpt": "Various pet companies are expanding their physical presence with new retail stores, grooming outlets, wellness centers and multi-service locations across Europe, Asia, Australia and North America. Fressnapf | Maxi Zoo Fr…"
-  },
-  {
-   "title": "TikTok Shop broadens pet commerce reach",
-   "url": "https://globalpetindustry.com/news/tiktok-shop-broadens-pet-commerce-reach/",
-   "source": "Global Pet Industry",
-   "category": "📈 Market",
-   "date": "2026-10-08",
-   "ai_summary": "TikTok Shop is expanding its reach in pet commerce. A survey by DHL found that seven in ten global shoppers buy on social media and 71% say it could become their primary shopping channel by 2030.",
-   "excerpt": "Seven in 10 global shoppers buy on social media, and 71% say it could become their primary shopping channel by 2030, according to the logistics company DHL, which conducted a survey in February and March 2025 among 24,00…"
   }
  ]
 }

@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-07T22:29:00Z",
+ "updated": "2026-11-08T00:47:00Z",
  "briefing": {
-  "date": "2026-11-07",
-  "hook": "New York flagship launch, L’Oréal’s China strategy, and K-beauty hub expansion signal a shift toward experiential retail and global market focus.",
+  "date": "2026-11-08",
+  "hook": "New green chemistry, K‑beauty expansion and a surge in integrated beauty solutions shape today’s market.",
   "categories": {
-   "📈 Market": "Mintel forecasts a move toward integrated beauty systems as GLP‑1 weight‑loss products drive consumers to prioritize routines over single items.",
-   "💄 Brands & Retail": "Oner’s first physical store in New York underscores the city’s importance for growth, while Coty’s French layoffs and Space NK’s turnover surge highlight operational shifts.",
-   "🤝 Strategy & M&A": "L’Oréal’s long‑term China strategy is reinforced by its CIIE presence, and Schwan Cosmetics’ new Seoul hub aims to accelerate K‑beauty innovation.",
-   "💡 Innovation & Regulation": "UK regulators describe cosmetics rules as a confusing mess, and Schwan’s Seoul hub will bring K‑beauty innovations to colour cosmetics faster."
+   "📈 Market": "Mintel predicts GLP‑1 weight loss products will push consumers toward integrated beauty systems, while brands increasingly bundle cross‑category collections into single drops.",
+   "💄 Brands & Retail": "Oner opens its first NYC flagship, and Coty plans significant layoffs in France as part of a broader strategic overhaul.",
+   "🤝 Strategy & M&A": "Space NK’s turnover rises 19% after Ulta acquisition and new stores, and Nykaa’s profit jumps 207% following the acquisition of SimplyNam.",
+   "💡 Innovation & Regulation": "Givaudan’s SensoTrue DM5 offers a bio‑based emollient alternative to dimethicone, and Schwan Cosmetics opens a Seoul hub to accelerate K‑beauty innovation."
   }
  },
  "articles": [
+  {
+   "title": "SensoTrue DM5, Givaudan's bio-based alternative to DM5 silicone in hair care",
+   "url": "https://www.premiumbeautynews.com/en/sensotrue-dm5-givaudan-s-bio-based,28493",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-08",
+   "ai_summary": "SensoTrue DM5 is a bio‑based emollient developed by Givaudan Active Beauty as an alternative to 5 cSt dimethicone in hair care, created through white biotechnology and green chemistry. The product aims to provide similar performance while reducing environmental impact.",
+   "excerpt": "Givaudan Active Beauty has just unveiled a new bio-based emollient developed through a combination of white biotechnology and green chemistry as an alternative to 5 cSt dimethicone (DM5 silicone). Designed to move with t…"
+  },
+  {
+   "title": "Pure Trade creates Lancôme's festive The Suite Escape Palette",
+   "url": "https://www.premiumbeautynews.com/en/pure-trade-creates-lancome-s,28492",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-08",
+   "ai_summary": "Pure Trade Worldwide was commissioned by Lancôme to design and manufacture the case for The Suite Escape Palette for the 2026 holiday season, featuring décor by French artist Octave Marsal. The project focused on creating a festive and distinctive packaging solution for the palette.",
+   "excerpt": "For the 2026 holiday season, Lancôme entrusted Pure Trade Worldwide with the design and manufacture of the case for The Suite Escape Palette, dressed in a décor created by French artist Octave Marsal. The challenge for P…"
+  },
   {
    "title": "Inside Oner Active’s tequila-scented new flagship in NYC",
    "url": "https://www.glossy.co/fashion/inside-oner-actives-tequila-scented-new-flagship-in-nyc/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -4304,15 +4322,6 @@
    "date": "2026-10-09",
    "ai_summary": "Beauty Tech Group bosses sell £6 million of shares after buyback",
    "excerpt": "Beauty Tech Group bosses sell £6 million of shares after buyback Proactive financial news"
-  },
-  {
-   "title": "Beauty Tech Group bosses sell £6 million of shares after buyback - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXJKRHpHOVZPaW9KZXR4X0JFVG91N1NVQmJlczV3cUJLS2Ryb2tyM1M4Uk5oOWdDQmRCc3ZrdWhHeWJUM3puX0VvdnlUMjlqem5SR0Y3YTdtYm9LRzdEWDhraXk5QXNTUzdpSTFWdXhaRTd5azE0NC1DRGVjVGRTQXNlVmw?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-08",
-   "ai_summary": "Beauty Tech Group bosses sell £6 million of shares after buyback - Yahoo Finance UK — Beauty Tech Group bosses sell £6 million of shares after buyback Yahoo Finance UK",
-   "excerpt": "Beauty Tech Group bosses sell £6 million of shares after buyback Yahoo Finance UK"
   }
  ]
 }
