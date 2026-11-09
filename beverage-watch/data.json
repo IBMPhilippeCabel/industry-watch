@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-09T16:58:00Z",
+ "updated": "2026-11-09T18:48:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Today’s focus spans Pernod Ricard’s new agency partner, Hain Celestial’s sales pressure, and Heineken’s Formula 1‑themed cruise launch.",
+  "hook": "Today’s highlights span F1 cruise collaborations, new single malt launches, and Pernod Ricard’s fresh RTD partnership, amid market pressures and governance shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard has appointed VML as its new commerce agency of record in the U.S., marking a strategic shift.",
-   "📈 Market": "Hain Celestial’s sales and earnings remain under pressure, while other firms face board disputes and leadership changes.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "Super Bock Group is promoting its CFO to chief executive, signalling a leadership transition.",
-   "💡 Innovation & No-Low": "Heineken and MSC Cruises are launching a Formula 1 collaboration, blending racing excitement with cruise experiences."
+   "🤝 Strategy & M&A": "Pernod Ricard teams with Ocean Spray to launch a ready‑to‑drink cocktail, expanding its RTD portfolio.",
+   "📈 Market": "Market moves include a Kremlin denial of a Russian brewer’s takeover bid, Hain Celestial’s ongoing earnings pressure, PepsiCo’s KFC drink contract renewal, Castel governance dispute, Super Bock’s CFO promotion, and Zevia’s upbeat forecast.",
+   "🍸 Spirits & Premium": "Suntory Global Spirits unveils a new single malt whisky line under its Teacher’s blended Scotch brand.",
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to bring Formula 1 race‑day experiences to cruise ships, while Suntory launches a new single malt whisky line."
   }
  },
  "articles": [
+  {
+   "title": "MSC Cruises, Heineken Bring Formula 1 Race-Day Experiences to Sea - TravelPulse",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDE3NnBmbzhnclRGNTZDY0NITEYtb0Y0SVZ0MkIydndyWFBERi1RSmdoTWFQbGNUbWxMNmZ6U0xXSS14X1NIR0JMZlN5QThmaDR3OVNsOUdmTW05M2hTazdZaVduLTFNc3dRdVVEVFlHN2E4eTRMTkhYOUYxY3BPWkdnRXEzNThqbmpjQzc3OE5ES3M3Xzl6VjJmNDktVXZPeW14czRfSQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-09",
+   "ai_summary": "MSC Cruises and Heineken collaborate to offer Formula 1 race‑day experiences on cruise ships, according to TravelPulse.",
+   "excerpt": "MSC Cruises, Heineken Bring Formula 1 Race-Day Experiences to Sea TravelPulse"
+  },
+  {
+   "title": "Moscow ‘unaware of push to seize Coca-Cola HBC Russia assets’",
+   "url": "https://www.just-drinks.com/news/moscow-unaware-of-push-to-seize-coca-cola-hbc-russia-assets/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "The Kremlin claims it is unaware of a Russian brewer’s attempt to seize Coca‑Cola HBC Russia’s assets.",
+   "excerpt": "The Kremlin is said to be unaware of an attempt by a Russian brewer to put the local assets of Coca-Cola HBC under its control."
+  },
+  {
+   "title": "Pernod Ricard, Ocean Spray partner on RTD cocktail - Food Business News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOW9NREkzRUwyOFgtNjdpdDFENGJrdksxcTN4VERlUmU0WHR4ek05S3hiWnFWMXJ1ZDB0LXRrNjVDbE9FN3VvS3pEZW5hZDlkY3RGUzg2S1B0VXJXVC1DTGdZOUdidTBkdVo2Qnhra2l1VkFwLWdfY0V1dm5EdVdfWS1tUXMxaVdKLVJFYmlCYzdtOVV0MFA2WEhQX1N0Zw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Pernod Ricard partners with Ocean Spray to launch a ready‑to‑drink cocktail, as reported by Food Business News.",
+   "excerpt": "Pernod Ricard, Ocean Spray partner on RTD cocktail Food Business News"
+  },
   {
    "title": "Fantasy Football Managers Need to Sell Jameson Williams Amid Inconsistent Role - Sports Illustrated",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGxwQkhiSWR0WXotYkpmMGNMeVFlVjZXR3Jycy1YTVhKY2Nfd3VIckZyX2J0ZEdaak5HZk4wV3ZfMjBFTGhtQzdrd1F1SldMalkybU93QjRHNW1iQ0NmRV9QRkpJalQ2WGNOdUI3TXVNaklqMUxkeVYwVXF4cXBONzMtWEZEMVRCWG5zd1EwNmNOdURxZWNZNW5xalFMOWtyVHg2dkcxM1daRkx2VkRPREM1QUZoZUNKUXBlUm8wMnlna00?oc=5",
@@ -48,6 +75,15 @@
    "date": "2026-11-09",
    "ai_summary": "Heineken and MSC Cruises launch Formula 1 collaboration",
    "excerpt": "Heineken and MSC Cruises launch Formula 1 collaboration DFNI"
+  },
+  {
+   "title": "Suntory takes Teacher’s into single malts",
+   "url": "https://www.just-drinks.com/news/suntory-takes-teachers-into-single-malts/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-09",
+   "ai_summary": "Suntory Global Spirits introduces a new line of single malt whiskies under its Teacher’s blended Scotch brand.",
+   "excerpt": "Suntory Global Spirits is launching the first range of single malt whiskies for its blended Scotch brand Teacher’s."
   },
   {
    "title": "Sales, earnings remain under pressure at Hain Celestial",
