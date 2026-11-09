@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-08T22:30:00Z",
+ "updated": "2026-11-09T00:50:00Z",
  "briefing": {
-  "date": "2026-11-08",
-  "hook": "Day highlights Russian takeover bid for Coca-Cola HBC and a new partnership between Zoox and Las Vegas GP.",
+  "date": "2026-11-09",
+  "hook": "Governance shakeup at Castel, CFO promotion at Super Bock, and a Russian bid for Coca-Cola HBC stir markets.",
   "categories": {
    "🤝 Strategy & M&A": null,
-   "📈 Market": "A Russian firm is seeking control of Coca-Cola HBC assets, causing shares to fall sharply.",
+   "📈 Market": "Governance dispute at Castel, CFO promotion at Super Bock, a Russian firm’s bid for Coca-Cola HBC assets, and Celsius Holdings’ brand‑focused restructure all move market sentiment.",
    "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Zoox partners with Las Vegas Grand Prix for a multi‑year collaboration."
+   "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "Jameson Williams sees two touches in Week 9 win - FantasyPros",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEVNUUtwelpIWmtwVHEyZzFRZjJzSkU0M2U5NDliVVpZRDVDRHlFTVRyazd1WlVxbjVIakl4QVJWWHBkWFA1V2U2VThVd3BDUlc0UmV0dHBIc1JrWDA3ZTFDM0JCejU1UU14MUNsTU9nUWUwa2xqU3prYlVSZ0N3VFpGdmdUa3huNnNnY0pra19pVlhVa1Br0gGcAUFVX3lxTFBON3g4QWd5ZlAyWFlTdkdQYzd4RXpIZmR0cEFrX2dsdERvYS1WWU4zdGZOQ2VqbWVkaldzZm1vcjFkbnlzaS1FQ3Z1OUhCOHNzbG0xSU9uMDJ5NjExNFVQREFoNm5HaFRSV1FTS2p4RS1Od0VPYlBsRUFjLVpfWEhYVW9hVFpNLTBnNFgyamFzRy1OaF9wZV80ZWMtLQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "The article reports Jameson Williams had two touches in Week 9 win. It highlights his limited involvement in the game.",
+   "excerpt": "Jameson Williams sees two touches in Week 9 win FantasyPros"
+  },
+  {
+   "title": "Jameson Winston, J.J. McCarthy combine to lead Giants to win and hand Eagles 7th straight loss - Rome Sentinel",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdTJKUzExY0w5dmlVRXg4WHZPZnJmU2ltbm9Zb25UMDQxUjRnVmRTZ013NGZ0QkUzVWdNZ2JtUl9GRy1iZ3NHdzAyS2JIdUFod2VjVlpjVEhKcHdBVTVzbVdrbXdadlZQbmpfTlhlUDlaRlI4dm5GdUwyWmdjY1piOG5zUUROQnJlTGtJeVpEUGJGVEdxWWt1WldGTlNWM3YtRXpGRHdlUlRVakFuVE9LVUgtQ2QzSTRqNm1mWWl3UFNjbk16dllmY2RrQjlIeGhWYU4zN0xiQVpLR1dqU2FIUVFpdHY0ZFhXNTJpWjhhT1J3SlZWbVVyR2Iwdw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-08",
+   "ai_summary": "The article reports Jameson Winston and J.J. McCarthy combined to lead Giants to a win and hand Eagles a seventh straight loss. It emphasizes the Giants' victory and the Eagles' continued losing streak.",
+   "excerpt": "Jameson Winston, J.J. McCarthy combine to lead Giants to win and hand Eagles 7th straight loss Rome Sentinel"
+  },
+  {
+   "title": "Jameson Williams Two touches in Week 9 win - Fantasy Footballers Podcast",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjhqaTNPUW1TY00tOFlqZWRISFhHX1RRZGN2bnI3S0J2T01GT2lTYmdSRzNPckdDMkFBekRVODUycUZKanl0QVRMNFhJTU9sUUtta0xSb0t2bWJnQ0Y5M2lMWmtkYndLcmY0OUFnT3RGRDFwREZBS1BQd1BVZzViSDdDZFdLdXYyRVRYV2lXaEVjMWZLWml0Zw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-08",
+   "ai_summary": "The article reports Jameson Williams had two touches in Week 9 win. It highlights his limited involvement in the game.",
+   "excerpt": "Jameson Williams Two touches in Week 9 win Fantasy Footballers Podcast"
+  },
+  {
+   "title": "Jameson Williams News: Two touches in Week 9 win - RotoWire",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMDJYbEFoOE1renZoLVN3dzd2Njl6dHhySEZKTEtmSTJ3UVhTLXgyUThBeEEyVXNLQ2ZZNXpTUmh5R3dDTWlEVk5PYWgzbzhSTE81dVY5SW1fT2hMOVN4c1pFV01scEctNmZJU2tuY0lNcDlVSnpLelNjcnQxLVNjLVFvQzU5NzZ0a3JpR2dNXzZ5OEpZQTZqN2w2OTlHZ1U?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-08",
+   "ai_summary": "The article reports Jameson Williams had two touches in Week 9 win. It highlights his limited involvement in the game.",
+   "excerpt": "Jameson Williams News: Two touches in Week 9 win RotoWire"
+  },
   {
    "title": "Jameson Williams held to two touches in Week 9 - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnpzRnFzVG1NQl9wcVB0d1hQOC1JeVdDcVlTNzk2SGRKbE5QcnBELW5nOTVHLU5yRFNoZ2ZiWEF0RDdiLUZXQ3hDM1NaRHlRcXp0ZkF2Y3lfYkRJUDQzODlHVmJNRUkzc3BOb0xIVU5OVno5N01Id0lPaXNLcGlBOGUxWlh4ejBs?oc=5",
