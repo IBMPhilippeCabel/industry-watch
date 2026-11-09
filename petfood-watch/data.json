@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-09T12:58:00Z",
+ "updated": "2026-11-09T14:49:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Freshpet’s Q3 sales surge and BARK’s pivot signal a focus on core strengths in the pet food sector.",
+  "hook": "Freshpet’s strong Q3 sales and margin growth highlight a bullish trend in the pet food market.",
   "categories": {
-   "📈 Market": "Freshpet’s 10% Q3 sales rise and BARK’s shift away from dog air travel highlight a trend toward core brand focus and volume growth.",
-   "⚖️ Regulation": "Eleven associations continue to support the pet food industry’s policy and trade initiatives.",
-   "💡 Innovation": "Freshpet’s record margins and a soy‑based dog chew award underscore innovation driving growth.",
-   "🤝 M&A": "European pet firms are expanding production capacity with new facilities and machinery upgrades."
+   "📈 Market": "Freshpet’s 10% Q3 sales rise and record margins signal robust consumer demand and effective marketing.",
+   "⚖️ Regulation": "Eleven industry associations continue to support the pet food sector’s policy and trade initiatives.",
+   "💡 Innovation": "Freshpet’s growth, coupled with new product launches and award‑winning research, underscores a focus on innovation and digital expansion.",
+   "🤝 M&A": "European pet companies are scaling production capacity, while Musti Group’s acquisition fuels double‑digit growth across markets."
   }
  },
  "articles": [
+  {
+   "title": "Hill’s World of the Small Dog Report highlights specific health needs of small, mini dog breeds",
+   "url": "https://www.petfoodprocessing.net/articles/21061-hills-world-of-the-small-dog-report-highlights-specific-health-needs-of-small-mini-dog-breeds",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "Hill’s World of the Small Dog Report highlights specific health needs of small, mini dog breeds — The report is a comprehensive, evidence-based guide that aims to redefine how veterinary teams and pet parents understand and care for small dogs.",
+   "excerpt": "The report is a comprehensive, evidence-based guide that aims to redefine how veterinary teams and pet parents understand and care for small dogs."
+  },
+  {
+   "title": "Matrix Partners launches Growth Accelerator Program",
+   "url": "https://www.petfoodprocessing.net/articles/21063-matrix-partners-launches-growth-accelerator-program",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-09",
+   "ai_summary": "Matrix Partners launches Growth Accelerator Program — The new service aims to uncover new retail and distribution partnerships for existing and emerging brands.",
+   "excerpt": "The new service aims to uncover new retail and distribution partnerships for existing and emerging brands."
+  },
+  {
+   "title": "Dr. Tim’s Pet Food introduces K9 Hero Series treats",
+   "url": "https://www.petfoodprocessing.net/articles/21062-dr-tims-pet-food-introduces-k9-hero-series-treats",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-09",
+   "ai_summary": "Dr. Tim’s Pet Food introduces K9 Hero Series treats — The freeze‑dried treat bags feature the story of a working dog hero, starting with Hercules.",
+   "excerpt": "The freeze-dried treat bags feature the story of a working dog hero, starting with Hercules."
+  },
   {
    "title": "New tricks to stand out in pet joint health",
    "url": "https://www.petfoodprocessing.net/articles/21060-new-tricks-to-stand-out-in-pet-joint-health",

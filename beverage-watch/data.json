@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-09T12:58:00Z",
+ "updated": "2026-11-09T14:49:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Pernod Ricard USA partners with VML while PepsiCo secures KFC drink contracts, Heineken rolls out 0.0 alcohol, Super Bock promotes its CFO, and Zevia boosts forecasts.",
+  "hook": "Day highlights include Pernod Ricard’s new agency partnership, Heineken’s F1‑Cruise tie‑in, and mixed market signals across Hain Celestial, PepsiCo and others.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard USA has appointed VML as its Commerce Agency of Record, marking a new partnership in its U.S. marketing strategy.",
-   "📈 Market": "PepsiCo has renewed its international KFC drink supply contracts after losing the chain’s U.S. business to Coca-Cola, securing a key beverage partnership.",
-   "🍸 Spirits & Premium": "Heineken introduced a 0.0 alcohol option at a remote New Zealand mountain hut, showcasing its branding strategy in Asia.",
-   "🍺 Beer & Brewing": "Super Bock Group announced that its CFO, Cláudio Mateus, will become chief executive next year, signaling a leadership transition.",
-   "💡 Innovation & No-Low": "Zevia lifted its forecast after reporting strong Q3 results, indicating positive momentum for its low‑calorie beverage line."
+   "🤝 Strategy & M&A": "Pernod Ricard USA names VML as its new commerce agency while Heineken continues its share‑buyback program.",
+   "📈 Market": "Hain Celestial reports sales and earnings pressure, PepsiCo renews KFC drink contracts, Castel faces governance disputes, Super Bock names a new CEO, Zevia lifts forecast, and Raisio downgrades outlook.",
+   "🍸 Spirits & Premium": null,
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to launch a Formula 1 themed collaboration."
   }
  },
  "articles": [
+  {
+   "title": "MSC Cruises, Heineken mark F1 at sea - Seatrade Cruise News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGhoNGpNcGJDNmFTS3pxMjBnejNuYjZqMWlwVEJCb3lXMnBTbGk3TTN5MHU5aWk1MlNYaEt2QXQ4MmdxbmxjQTRhU2plR004eEpzSktjc2pveTQxSzV2MFlsQ09tZ0t5ajk0WTlGQjZ3dUQ3UlE3RzQ1ZlFZZnhuVEQ3ekNhT0FlQUZtN3pHbEl0elQtS0k3b2hFa1dsU1hNNFJ6X3F3?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "MSC Cruises, Heineken mark F1 at sea",
+   "excerpt": "MSC Cruises, Heineken mark F1 at sea Seatrade Cruise News"
+  },
+  {
+   "title": "Heineken and MSC Cruises launch Formula 1 collaboration - DFNI",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLThlN2ViYkdRM3ZnOUNPQm1GNUdNSi1jTDlIYkN0SFlGVUJrVEJEY29Rbl9pbm1Lb3RFTGo0RUU4Y2J4VTB6ZVYwUnVuUF9KMzhXQUtwbm40NXF4NURMOVphQXdmTFJ1ZWNOeks4akpobWFKcG9VVzZ0RWhyYk5TYmJlVzZlaWt0QmUwcDQyOFhMSDBQcEVldFNnc01YeXpTRVZfTzVsc1NYWVhUdnVCTUZiY0N3Nko1Ymc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-09",
+   "ai_summary": "Heineken and MSC Cruises launch Formula 1 collaboration",
+   "excerpt": "Heineken and MSC Cruises launch Formula 1 collaboration DFNI"
+  },
+  {
+   "title": "Sales, earnings remain under pressure at Hain Celestial",
+   "url": "https://www.just-drinks.com/news/sales-earnings-remain-under-pressure-at-hain-celestial/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "Sales, earnings remain under pressure at Hain Celestial",
+   "excerpt": "Hain Celestial today (9 November) booked lower underlying first-quarter sales and earnings, contributing to another three-month period in the red."
+  },
+  {
+   "title": "VML Named Pernod Ricard USA Commerce Agency of Record - VML",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFlwQmNld0pwMkV5ZS1sS2Y3SmcxNjZsVkpLd0VKbDk0RnpLUmgzV3NlVnJGZ0RvRFlCTHdoeHFEVlFLVmFpOGdUQ3BwNm5HcHFDbjhORkVYbm0wY3haelV4YzhhY1J3OXkzZ2JoUkRHZ0MtUmpPTWRjRldTWlhKbjRkazY?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "VML Named Pernod Ricard USA Commerce Agency of Record - VML",
+   "excerpt": "VML Named Pernod Ricard USA Commerce Agency of Record VML"
+  },
   {
    "title": "VML Named Commerce AOR For Pernod Ricard USA 11/09/2026 - MediaPost",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGlDN1NaVmVnMjIwVy1PaC1rM2tNNktuZkNUMGNuVm04WmdmSjNCQno3ang5QjNZNFZCb1ktNXBKQVVkamVudzV3TnBSbmdvZ2tKVGdkV2lJWjNmWDFPVGh4VGc5ZXVVc3VKOHdQYjVGTHBicWhFYXNsZDZrTDBVX3l1eHFDcHZBZHhHanRNTGlVZFJJNU5SejlqeU5VRXJicXNjdTh3?oc=5",
@@ -39,6 +75,15 @@
    "date": "2026-11-09",
    "ai_summary": "VML has been named the Commerce Agency of Record for Pernod Ricard USA, according to LBB.",
    "excerpt": "VML Named Pernod Ricard USA Commerce Agency of Record — LBB LBB - Little Black Book"
+  },
+  {
+   "title": "Heineken Holding N.V. reports transactions under its current share buyback programme - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXBsZ1dNSkcyMDhLUGlKOUxVR0p3d1RzTE55eURSS0xvVXpzU0lDOUlSejZCTE9zR2k2eVp2cTdNdGltQmowamVjTmJDcWNaM2JkSk9NMFFkYVgyQmpIWS1ObThRRy1SbGZLT3BOOHFRemxpcGhVNTQtRFp1cnFsNzFBUUhSX3hQRkNYRV9aUmg1eVdOa29IWFlLV3p2azY0bGhDVUEtODF5M25uNnpwcC1ORFVIOUoyMk9Ib19WdmJLV3JVU3ZEcUxLakxZUzZjTjRDZXM5STR1WWc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Heineken Holding N.V. reports transactions under its current share buyback programme",
+   "excerpt": "Heineken Holding N.V. reports transactions under its current share buyback programme StreetInsider"
   },
   {
    "title": "Pernod Ricard USA Hires VML as Commerce Agency of Record - ADWEEK",
