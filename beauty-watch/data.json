@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-09T04:57:00Z",
+ "updated": "2026-11-09T07:14:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Beautyworld Osaka set a new trade‑visitor record while brands shift toward integrated, tech‑driven solutions and M&A moves reshape the landscape.",
+  "hook": "Today’s highlights show clean‑beauty expansion, GLP‑1 trends, and strategic moves across the beauty sector.",
   "categories": {
-   "📈 Market": "Beautyworld Osaka drew a record 37,561 trade visitors, underscoring sleep wellness as a key theme and signaling a shift toward integrated beauty solutions.",
-   "💄 Brands & Retail": "Oner opened its first physical store in New York, while Estée Lauder’s Justin Boxford departed and Coty announced major French layoffs, reflecting a period of brand realignment.",
-   "🤝 Strategy & M&A": "Office Nature’s merger targets global organic growth, Space NK’s turnover rises on Ulta acquisition, Nykaa’s premiumisation fuels a brand buy, and L’Oréal’s sustained China presence signals long‑term commitment.",
-   "💡 Innovation & Regulation": "Stabilo‑Kiko’s limited‑edition lip line, cutting‑edge beauty tech gadgets, Givaudan’s bio‑based SensoTrue DM5, and PhytoCellTec’s Aloha launch illustrate a surge in green and tech innovation amid regulatory pressures."
+   "📈 Market": "GLP‑1 treatments are increasingly used for aesthetic purposes, driving a shift toward integrated beauty systems over single products.",
+   "💄 Brands & Retail": "Costco is adding prestige beauty discovery tables, while Oner opens its first NYC flagship, signaling a focus on experiential retail.",
+   "🤝 Strategy & M&A": "Office Nature’s merger targets global organic growth, Nykaa boosts profits by acquiring SimplyNam, and Space NK’s Ulta acquisition fuels a 19% turnover rise.",
+   "💡 Innovation & Regulation": "Well People launches clean‑beauty products at Sprouts, Nivea ups recycled aluminium to 95%, Stabilo and Kiko release a limited lip line, and 2026 beauty tech gadgets trend toward holiday wishlists."
   }
  },
  "articles": [
+  {
+   "title": "Well People Brings High-Performance Clean Beauty to Sprouts Farmers Market - Quantisnow",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1k2NkFLYk9VaG4wZEZCOXFOMHlvb1dFWEtYQkxzYzhwVTN3c1NfNjlUMWg0dHJ0Qk1DbkpiNTFMN3llMi1fbUNWclhTdThyQm9rVUJRZ1ZlQWYzRnRzV01EQmN5R3dVa0NBdDkzMU1ManNIMTZfbUtvT25iYU9sWXE1N21FNUhwNUh3R0NaOVUwNUFWRGZJRFNfWDNrVnM1UkVNQ3Q0OWNzTUtEVGxDT1d5SQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "The article announces Well People’s entry into Sprouts Farmers Market with high-performance clean beauty products.",
+   "excerpt": "Well People Brings High-Performance Clean Beauty to Sprouts Farmers Market Quantisnow"
+  },
+  {
+   "title": "Well People Brings High-Performance Clean Beauty to Sprouts Farmers Market - The Joplin Globe",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU1BFVG5hdF8zOGlWd3AzZ013Wm1nVmthWHpDSFVRekFSY3VIclJ0clVQVDU1ZEtTVGVtNDZOeGkxYU5sLUpLcUNfMVpienBlTmN5S0ZHcDh3dnZNZ3lyMVVwdGRuMkZEdEtUN0ZfQUV6WHBfNmNyRmxUeXRLTVhVbGVDMG1uTGFBWWs4bnJIOE9YQjloaVFQc2tSWG0tb2wzNWVaNzg1LVdZRFBnU3RhNmVSUzB2LWsxUmk5UnNxZlpyM1NoSUJMdmpYb19HM0hId292cHRobEdMV0pzVGczVS05cnVyZG12SDR3cTdhUkdzM2F6b3N4aUdXUTY3dVQ5dHFhMXJ5T1g?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "The Joplin Globe reports on Well People’s launch of high-performance clean beauty at Sprouts Farmers Market.",
+   "excerpt": "Well People Brings High-Performance Clean Beauty to Sprouts Farmers Market The Joplin Globe"
+  },
+  {
+   "title": "Brand Founders Became Content Creators. Now They’re Getting More Strategic.",
+   "url": "https://www.beautyindependent.com/brand-founders-content-creators-now-more-strategic/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-09",
+   "ai_summary": "The piece explores how beauty founders are shifting from public brand building to more strategic content creation on social media.",
+   "excerpt": "Last year, we asked whether beauty founders had to build their brands in public, as entrepreneurs, particularly female entrepreneurs, discovered that making themselves the faces of their brands on social media could cut …"
+  },
+  {
+   "title": "Costco Steps Up Its Beauty Destination Ambitions With New Prestige Displays",
+   "url": "https://www.beautyindependent.com/costco-steps-up-beauty-destination-ambitions-new-prestige-displays/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-09",
+   "ai_summary": "Costco is expanding its prestige beauty offerings by adding dedicated discovery tables in many locations to emulate specialty store experiences.",
+   "excerpt": "Costco wants a bigger piece of prestige beauty. The warehouse club retailer is borrowing from the shopping experience at specialty beauty and department stores with new dedicated beauty discovery tables at 25 of its near…"
+  },
   {
    "title": "Office Nature asserts global growth targets in organic personal care",
    "url": "https://www.premiumbeautynews.com/en/office-nature-asserts-global,28502",
@@ -38,6 +74,24 @@
    "date": "2026-11-09",
    "ai_summary": "Beautyworld Osaka attracted a record 37,561 trade visitors, up 7.3% from the previous year, during its three-day run from 19-21 October 2026 at INTEX Osaka. The event featured 573 exhibitors and highlighted sleep wellness as a key theme.",
    "excerpt": "The beauty trade fair focusing on western Japan concluded its three-day run from 19-21 October 2026 at INTEX Osaka, welcoming a record 37,561 trade visitors, up 7.3% from the previous year. A total of 573 exhibitors from…"
+  },
+  {
+   "title": "The New Desire: Givaudan explores the impact of GLP-1 on consumers",
+   "url": "https://www.premiumbeautynews.com/en/the-new-desire-givaudan-explores,28508",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "The article discusses how GLP-1-based treatments like Ozempic, Wegovy, and Mounjaro are increasingly used for aesthetic purposes worldwide.",
+   "excerpt": "Ozempic, Wegovy, Mounjaro: the names of these GLP-1-based medical treatments for diabetes and obesity have become commonplace. All around the world, their use is soaring and increasingly extending to aesthetic purposes, …"
+  },
+  {
+   "title": "Beiersdorf and Novelis push recycled aluminium in Nivea Creme tin to 95%",
+   "url": "https://www.premiumbeautynews.com/en/beiersdorf-and-novelis-push,28505",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "The German skincare group is increasing the recycled aluminium content of its Nivea Creme tin to 95% through a partnership with Novelis.",
+   "excerpt": "The German skincare group is building on its partnership with aluminium specialist Novelis to raise the recycled aluminium content of its iconic Nivea Creme tin to 95%. This new achievement builds on an initial milestone…"
   },
   {
    "title": "The best new beauty tech gadgets of 2026 to put on your Christmas wishlist - T3",
