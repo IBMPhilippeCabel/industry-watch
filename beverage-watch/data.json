@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-09T07:14:00Z",
+ "updated": "2026-11-09T09:00:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Governance shake‑ups and takeover bids stir volatility across the beverage sector.",
+  "hook": "Day sees PepsiCo renewing KFC drink deals, Russian firm eyeing Coca-Cola HBC assets, and market shifts amid governance disputes.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Castel Group faces governance turmoil as its founder’s daughter exits boards, while a Russian firm seeks control of Coca‑Cola HBC assets, sending shares sharply lower.",
+   "🤝 Strategy & M&A": "Heineken rolls out a 0.0 alcohol option at a remote New Zealand mountain hut, underscoring its branding push in Asia.",
+   "📈 Market": "PepsiCo renews KFC drink contracts while a Russian firm seeks control of Coca-Cola HBC assets, amid Castel governance disputes, Super Bock’s CFO promotion, Zevia’s stronger forecast, and Raisio’s chairman exit.",
    "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "Super Bock Group promotes its CFO to chief executive next year.",
-   "💡 Innovation & No-Low": "Zevia lifts forecast after a strong Q3 and Celsius Holdings overhauls its US structure to focus on core brands."
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": null
   }
  },
  "articles": [
+  {
+   "title": "PepsiCo renews overseas KFC contracts after US blow",
+   "url": "https://www.just-drinks.com/news/pepsico-renews-overseas-kfc-contracts/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "PepsiCo renews its international KFC drink supply contracts following the loss of the chain’s US business to Coca-Cola.",
+   "excerpt": "PepsiCo has renewed its deal to supply drinks to KFC internationally, weeks after losing the fast-food chain's US business to Coca-Cola."
+  },
+  {
+   "title": "Heineken Takes 0.0 on Tap to Remote New Zealand Mountain Hut - Branding in Asia",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmczSlh4ZGdEQWh3d0lYNnhEM1NiM2VwbGd4TlU3ZF9aMG5LV19CSDFGbjlEVHhuZVFaS1RRN1BZOEhXSjlYWm9RQllRLWJrdGRkc05udjVjWG9MMjg2U2JWVFBqRmhIQWVvdE9VZWwzRU9zZ1RkdkJpU0YzQmtPdzFkX0RLaFlmaUF1ZUpkVm5Yc2gzMGFv?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Heineken introduces a 0.0 alcohol option at a remote New Zealand mountain hut, highlighting its branding strategy in Asia.",
+   "excerpt": "Heineken Takes 0.0 on Tap to Remote New Zealand Mountain Hut Branding in Asia"
+  },
   {
    "title": "Peter \"Pete\" Jameson Obituary Oct 31, 2026 - Legacy | Obituary",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOaDR1N3dJSk5Vajdvd2pkWWRSVzhtN3lfRjhyQ25sbG1iSXRYZkg5ck1PdVFpT3hTY193R1RXSm1zN2Ytd2FURE00NXdQbGhxQVZreUdR?oc=5",

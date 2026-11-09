@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-09T07:14:00Z",
+ "updated": "2026-11-09T09:00:00Z",
  "briefing": {
-  "date": "2026-11-08",
-  "hook": "Innovation and market shifts dominate today’s pet food landscape.",
+  "date": "2026-11-09",
+  "hook": "Pet food firms shift focus, boost sales, and expand innovation while regulatory support grows.",
   "categories": {
-   "📈 Market": "Private label brands are gaining ground in the global pet food market, with major retailers stepping up ambitions in Eastern Europe and North America.",
-   "⚖️ Regulation": "Eleven associations are supporting the pet food industry, shaping policy and expanding trade opportunities.",
-   "💡 Innovation": "Freshpet’s Q3 sales rise and record margins are driven by advertising, distribution gains, digital growth and innovation, while Blue Buffalo and Royal Canin launch new cat food lines and Dog & Whistle develops soy-based chews.",
-   "🤝 M&A": "European pet companies are scaling up production operations with new facilities and machinery upgrades across pet food, supplementary feed and microalgae ingredients."
+   "📈 Market": "Freshpet’s 10% sales rise and BARK’s divestment signal a focus on core brands and market momentum.",
+   "⚖️ Regulation": "Eleven associations continue to support the industry’s policy and trade initiatives.",
+   "💡 Innovation": "Dog & Whistle’s soy-based chew award and Freshpet’s margin gains highlight R&D progress.",
+   "🤝 M&A": "European pet companies are scaling production with new facilities and machinery upgrades."
   }
  },
  "articles": [
+  {
+   "title": "BARK to exit air travel business: what we know so far",
+   "url": "https://globalpetindustry.com/news/bark-to-exit-air-travel-business-what-we-know-so-far/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "BARK has agreed to sell its BARK Air customer list and license the brand, indicating a strategic move away from dog air travel. The preliminary deal marks a shift in the company's focus toward its core omnichannel dog brand business.",
+   "excerpt": "American omnichannel dog brand BARK has reached a preliminary agreement to sell BARK Air’s customer list and license the brand, marking a strategic shift away from its dog air travel business. BARK Air contributed $3.5 m…"
+  },
+  {
+   "title": "Freshpet benefits from higher volumes and sales growth",
+   "url": "https://globalpetindustry.com/news/freshpet-benefits-from-higher-volumes-and-sales-growth/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "Freshpet experienced a 10% year-over-year increase in net sales in Q3 FY2026, driven by higher volumes. The growth reflects the company's expanding market presence and sales momentum.",
+   "excerpt": "Freshpet reported a 10% year-over-year (YoY) increase in net sales in the third quarter (Q3) of fiscal year (FY) 2026, ended 30 September 2026, reaching $317.8 million (€284.6M). The increase was driven by volume gains o…"
+  },
   {
    "title": "Royal Canin Ragdoll 4kg - Royal mark of approval The changing face of official cyphers of Britain s Kings and Queens - www.auroradesio.it",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wUnhBcnNuZGl1NjN2ODF2ZW1XUjh6MWJ3RkE3OHRuY1N3NmRNZW9xbE54cGlYVDIwZEJtZ21VMU5wR2FxaVJGQS1NNTVONlJHZTdJ?oc=5",
