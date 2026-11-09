@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-09T10:51:00Z",
+ "updated": "2026-11-09T12:58:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Pet food firms shift focus, boost sales, and expand innovation while regulatory support grows.",
+  "hook": "Freshpet’s Q3 sales surge and BARK’s pivot signal a focus on core strengths in the pet food sector.",
   "categories": {
-   "📈 Market": "Freshpet’s 10% sales rise and BARK’s divestment signal a focus on core brands and market momentum.",
-   "⚖️ Regulation": "Eleven associations continue to support the industry’s policy and trade initiatives.",
-   "💡 Innovation": "Dog & Whistle’s soy-based chew award and Freshpet’s margin gains highlight R&D progress.",
-   "🤝 M&A": "European pet companies are scaling production with new facilities and machinery upgrades."
+   "📈 Market": "Freshpet’s 10% Q3 sales rise and BARK’s shift away from dog air travel highlight a trend toward core brand focus and volume growth.",
+   "⚖️ Regulation": "Eleven associations continue to support the pet food industry’s policy and trade initiatives.",
+   "💡 Innovation": "Freshpet’s record margins and a soy‑based dog chew award underscore innovation driving growth.",
+   "🤝 M&A": "European pet firms are expanding production capacity with new facilities and machinery upgrades."
   }
  },
  "articles": [
+  {
+   "title": "New tricks to stand out in pet joint health",
+   "url": "https://www.petfoodprocessing.net/articles/21060-new-tricks-to-stand-out-in-pet-joint-health",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "The article explores strategies for differentiating in the pet joint health market, emphasizing the importance of proof, convenience, and quality. It discusses how these factors can help brands stand out in a competitive space.",
+   "excerpt": "What does it take to stand out in the pet joint health space? Proof, convenience, and quality."
+  },
   {
    "title": "BARK to exit air travel business: what we know so far",
    "url": "https://globalpetindustry.com/news/bark-to-exit-air-travel-business-what-we-know-so-far/",

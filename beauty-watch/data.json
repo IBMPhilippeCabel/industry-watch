@@ -1,17 +1,98 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-09T10:51:00Z",
+ "updated": "2026-11-09T12:58:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Well People launches clean beauty at Sprouts while L’Oréal expands China presence and the market sees a surge in GLP‑1 driven aesthetics.",
+  "hook": "Innovation drives sustainability and nostalgia while brands pivot to wellness and wearables.",
   "categories": {
-   "📈 Market": "Beautyworld Osaka drew record visitors and highlighted sleep wellness, while GLP‑1 treatments are increasingly used for aesthetic purposes worldwide.",
-   "💄 Brands & Retail": "Costco adds prestige beauty discovery tables, and Oner opens its first physical flagship in New York to tap the market.",
-   "🤝 Strategy & M&A": "L’Oréal’s continued CIIE presence signals long‑term China strategy, and Nykaa’s acquisition of SimplyNam boosts its premium portfolio.",
-   "💡 Innovation & Regulation": "Well People enters Sprouts with high‑performance clean beauty, and Takasago opens a Dubai Creative Centre ahead of Beautyworld Middle East."
+   "📈 Market": "Estée Lauder’s long‑time president departs amid a shift toward integrated beauty solutions.",
+   "💄 Brands & Retail": "Ulta Beauty launches a health tracker, and Costco expands prestige beauty tables to emulate specialty stores.",
+   "🤝 Strategy & M&A": "Unilever exits Myanmar, Office Nature targets global organic growth, and Coty restructures in France.",
+   "💡 Innovation & Regulation": "PZ Cussons balances eye‑catching design with circular packaging, while matte lip products return with skin‑care ingredients."
   }
  },
  "articles": [
+  {
+   "title": "From keychains to whimsymaxxing: PZ Cussons on making Gen Z and Gen Alpha packaging trends more sustainable",
+   "url": "https://www.cosmeticsbusiness.com/from-keychains-to-whimsymaxxing-pz-cussons-on-making",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "PZ Cussons’ European Packaging Lead discusses balancing eye-catching design with circular sustainability for Gen Z and Gen Alpha packaging trends.",
+   "excerpt": "PZ Cussons’ European Packaging Lead Mark Browne explains how brands can balance eye-catching packaging with circular design"
+  },
+  {
+   "title": "Is the glow over? Why matte lips are making a big comeback",
+   "url": "https://www.cosmeticsbusiness.com/is-the-glow-over-why-matte-lips-are",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "Matte lip products are returning, driven by nostalgia and maximalist makeup, but now offer skin‑care ingredients instead of drying formulas.",
+   "excerpt": "Matte is back when it comes to lip looks, driven by nostalgia and the revival of maximalist make-up. But these next-generation lip products are a long way from the drying formulas of the past, delivering skin care ingred…"
+  },
+  {
+   "title": "Estée Lauder unveils ‘breakthrough’ platform to accelerate skin science and longevity innovations",
+   "url": "https://www.cosmeticsbusiness.com/elc-unveils-mastering-skin-longevity-platform",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "Estée Lauder’s new Mastering Skin Longevity platform focuses on master regulators of skin longevity to advance skin science and longevity innovations.",
+   "excerpt": "Estée Lauder Companies’ new Mastering Skin Longevity platform claims to look beyond the study of individual hallmarks of ageing by placing the focus on the ‘master regulators of skin longevity’, helping to advance skin s…"
+  },
+  {
+   "title": "Analysis: Where does Coty's new Fragrance Club initiative fit post-Gucci loss?",
+   "url": "https://www.cosmeticsbusiness.com/analysis-coty-new-fragrance-club-initiative",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "Coty’s new Fragrance Club initiative aims to strengthen fragrance expertise and competitiveness after losing the Gucci Beauty licence.",
+   "excerpt": "As Coty navigates the loss of its Gucci Beauty licence, the launch of the giant’s new Fragrance Club signals a strategic push to strengthen its fragrance expertise and gain a competitive edge in the hotly contested perfu…"
+  },
+  {
+   "title": "Unilever to exit joint venture in Myanmar after a decade",
+   "url": "https://www.cosmeticsbusiness.com/unilever-to-exit-joint-venture-in-myanmar",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Unilever plans to sell its stake in Unilever EAC Myanmar Company Limited, with the exit expected to complete in 2027.",
+   "excerpt": "Consumer goods giant Unilever is set to sell its stake in Unilever EAC Myanmar Company Limited, with completion expected in 2027"
+  },
+  {
+   "title": "Estée Lauder Companies Global President Justin Boxford exits the business",
+   "url": "https://www.cosmeticsbusiness.com/est%C3%A9e-lauder-companies-global-president-justin-boxford-exits",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "Estée Lauder Companies’ Global President Justin Boxford, who has served the company for over 22 years, is leaving the business.",
+   "excerpt": "Justin Boxford has worked at Estée Lauder Companies for more than 22 years and was named Global President of the company’s luxury beauty brands in September 2026"
+  },
+  {
+   "title": "Rhode, Cécred and Cetaphil named in Google’s most searched for gifts 2026 list",
+   "url": "https://www.cosmeticsbusiness.com/rhode-cecred-cetaphil-named-in-google-2026-holiday-100",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "Rhode, Cécred and Cetaphil are highlighted in Google’s 2026 Holiday 100 list as top searched gifts in the US beauty category.",
+   "excerpt": "Google’s Holiday 100 highlights the top trending gifts of the year in the US across a range of categories, with beauty brands Rhode, Cécred, Cetaphil, Tower 28 and Summer Fridays all making the search engine’s 2026 list"
+  },
+  {
+   "title": "Qiaoyi and GEKA showcase complementary beauty solutions at Cosmoprof Asia Hong Kong 2026",
+   "url": "https://www.cosmeticsbusiness.com/qiaoyi-and-geka-showcase-complementary-beauty-solutions-at",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "Qiaoyi and GEKA will showcase complementary beauty solutions at Cosmoprof Asia Hong Kong 2026, inviting visitors to Booth 6-F11, AWE Hall 6.",
+   "excerpt": "Qiaoyi, a part of medmix beauty will exhibit at Cosmoprof Asia Hong Kong 2026 joined by colleagues from GEKA’s sales and innovation team. Visitors can meet the teams at Booth 6- F11, AWE Hall 6 and discover their complem…"
+  },
+  {
+   "title": "Exclusive: Ulta Beauty bets on health tracking with Oura in 1,000 stores",
+   "url": "https://www.glossy.co/beauty/wellness/ulta-beauty-oura-ring-health-tracking/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-09",
+   "ai_summary": "Ulta Beauty introduces Oura’s $399 ring as its first health tracker, positioning wearables as a potential billion-dollar category.",
+   "excerpt": "Oura’s $399 ring will be Ulta Beauty’s first health tracker. With Whoop set to follow in March, the retailer sees wearables as part of what CEO Kecia Steelman has called its next potential billion-dollar category."
+  },
   {
    "title": "e.l.f. Beauty (NYSE:ELF): How Does Well People Fit Into Sprouts' Clean Beauty Push? - Kalkine",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUUVZa0N6eVZURnJMV2xGc1JJSGd3Nmd1TGltNWVPSFhCaTFVUWxGcTF2dXprbkFuOVM2bzdWZ1RFaDVuRHJURmhYUXBpNEctemlyRnNNOGxvWm4xZUtCemdNbkV0bVJQTU5WT0lDcHFjSmdYNndsVE5UaWs3Ml95V1BPVDB2T3RUZHN0QUp1ME5ISHNlbFotelhaZTdvSjMxWXJKZ0w1WXhLZ1dJMVl3Zg?oc=5",
@@ -23,11 +104,11 @@
   },
   {
    "title": "Well People Brings High-Performance Clean Beauty to Sprouts Farmers Market - Quantisnow",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1k2NkFLYk9VaG4wZEZCOXFOMHlvb1dFWEtYQkxzYzhwVTN3c1NfNjlUMWg0dHJ0Qk1DbkpiNTFMN3llMi1fbUNWclhTdThyQm9rVUJRZ1ZlQWYzRnRzV01EQmN5R3dVa0NBdDkzMU1ManNIMTZfbUtvT25iYU9sWXE1N21FNUhwNUh3R0NaOVUwNUFWRGZJRFNfWDNrVnM1UkVNQ3Q0OWNzTUtEVGxDT1d5SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2VxS1ctWWhXRVRMUTMxLWR4ZTltYkxiRFdvUVhCa0hsNmpPdk13Z0U0RzhCcW1qc3VNUzlzX0puWkpoenp4Z2xvZHhTcU54S0Rid2t6TEdDczJGLU5YalQ1SkI4Q2g3YlZZOVZObkFGbVFTWmJlMHQtUkZEMk5GZGNFUVJGYlh1MTZRT0tVUkNzaGk4MXZ3SEZjX0UwdVBjSWdsa3NDMWplWXg0WWpLeDN5TVRudWVm?oc=5",
    "source": "Beauty Innovation & Tech (Google News)",
    "category": "💡 Innovation & Regulation",
    "date": "2026-11-09",
-   "ai_summary": "The article announces Well People’s entry into Sprouts Farmers Market with high-performance clean beauty products.",
+   "ai_summary": "Well People launches its high-performance clean beauty line at Sprouts Farmers Market, as reported by Quantisnow.",
    "excerpt": "Well People Brings High-Performance Clean Beauty to Sprouts Farmers Market Quantisnow"
   },
   {
@@ -110,6 +191,15 @@
    "date": "2026-11-09",
    "ai_summary": "Takasago opened a new Creative Centre in Dubai ahead of the Beautyworld Middle East trade show, expanding its regional presence. The inauguration marks a further step in strengthening its footprint in the Middle East.",
    "excerpt": "On October 5, ahead of the Beautyworld Middle East trade show, Takasago officially inaugurated its new Creative Centre in Dubai, marking a further step in strengthening its presence in the region. The opening ceremony br…"
+  },
+  {
+   "title": "Caper flower and onycha: Stéphane Piquart's latest olfactory discoveries",
+   "url": "https://www.premiumbeautynews.com/en/caper-flower-and-onycha-stephane,28512",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-09",
+   "ai_summary": "Stéphane Piquart’s Behave explores new olfactory discoveries using original, environmentally responsible ingredients.",
+   "excerpt": "Having entered the world of perfumery through Australian sandalwood, Stéphane Piquart founded Behave in 2007 with the ambition of introducing the industry to original ingredients sourced through environmentally responsib…"
   },
   {
    "title": "The best new beauty tech gadgets of 2026 to put on your Christmas wishlist - T3",

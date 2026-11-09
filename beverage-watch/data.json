@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-09T10:51:00Z",
+ "updated": "2026-11-09T12:58:00Z",
  "briefing": {
   "date": "2026-11-09",
-  "hook": "Today’s highlights: Heineken’s 0.0 launch, PepsiCo’s KFC deal, and a Russian bid for Coca-Cola HBC.",
+  "hook": "Pernod Ricard USA partners with VML while PepsiCo secures KFC drink contracts, Heineken rolls out 0.0 alcohol, Super Bock promotes its CFO, and Zevia boosts forecasts.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken introduces a 0.0 alcohol option at a remote New Zealand mountain hut, highlighting its branding strategy in Asia.",
-   "📈 Market": "PepsiCo renews KFC drink supply contracts internationally after losing US business to Coca-Cola, while a Russian firm seeks control of Coca-Cola HBC assets.",
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": "Super Bock Group promotes its CFO, Cláudio Mateus, to chief executive next year.",
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Pernod Ricard USA has appointed VML as its Commerce Agency of Record, marking a new partnership in its U.S. marketing strategy.",
+   "📈 Market": "PepsiCo has renewed its international KFC drink supply contracts after losing the chain’s U.S. business to Coca-Cola, securing a key beverage partnership.",
+   "🍸 Spirits & Premium": "Heineken introduced a 0.0 alcohol option at a remote New Zealand mountain hut, showcasing its branding strategy in Asia.",
+   "🍺 Beer & Brewing": "Super Bock Group announced that its CFO, Cláudio Mateus, will become chief executive next year, signaling a leadership transition.",
+   "💡 Innovation & No-Low": "Zevia lifted its forecast after reporting strong Q3 results, indicating positive momentum for its low‑calorie beverage line."
   }
  },
  "articles": [
+  {
+   "title": "VML Named Commerce AOR For Pernod Ricard USA 11/09/2026 - MediaPost",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGlDN1NaVmVnMjIwVy1PaC1rM2tNNktuZkNUMGNuVm04WmdmSjNCQno3ang5QjNZNFZCb1ktNXBKQVVkamVudzV3TnBSbmdvZ2tKVGdkV2lJWjNmWDFPVGh4VGc5ZXVVc3VKOHdQYjVGTHBicWhFYXNsZDZrTDBVX3l1eHFDcHZBZHhHanRNTGlVZFJJNU5SejlqeU5VRXJicXNjdTh3?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "The Commerce Agency of Record for Pernod Ricard USA is VML, as announced by MediaPost on 11/09/2026.",
+   "excerpt": "VML Named Commerce AOR For Pernod Ricard USA 11/09/2026 MediaPost"
+  },
+  {
+   "title": "Coca-Cola India IPO moves forward with draft papers",
+   "url": "https://www.just-drinks.com/news/coca-cola-india-ipo-draft-papers/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Coca-Cola India’s parent company, Hindustan Coca-Cola Holdings, has filed draft papers for an IPO.",
+   "excerpt": "Hindustan Coca-Cola Holdings (HCCH), the parent of Coca-Cola’s Indian bottling arm, has filed draft papers for an IPO."
+  },
+  {
+   "title": "VML Named Pernod Ricard USA Commerce Agency of Record — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM0l6eEdZSFV4dnNqbjBWWFJzdW1ZdFp0YmRTNTVJRFFVUHJaNEJJblBNTHlmT2xGZTJETmI2OEZrelFRdWc2VXNZOGM4ajl1eEE1Z21xU2NiMDZ2Ym90a3RLUHQ0aVJ6X25WQlBDZ2poeDlNRnh3Qy1Ga2dHM1RUX3pfMnI0OUE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "VML has been named the Commerce Agency of Record for Pernod Ricard USA, according to LBB.",
+   "excerpt": "VML Named Pernod Ricard USA Commerce Agency of Record — LBB LBB - Little Black Book"
+  },
+  {
+   "title": "Pernod Ricard USA Hires VML as Commerce Agency of Record - ADWEEK",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGdlcUdkaHRfR0J4aGR0aWlRd0dxelUycFN4RVFpNjJmd2JhWEFrN045SVRfMGFmaUZMcGNRWmRIZDY4Y0pPblg5OTFCQktTbU13R0UxNDg1VER6amdGWDlaTTFIRFROMlMzbzZ0eWNCY084YnJFcmZWT3NCNU03VTdZVDdQZDRrcnVRR3VEbmdpOTg?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Pernod Ricard USA hires VML as its Commerce Agency of Record, as reported by ADWEEK.",
+   "excerpt": "Pernod Ricard USA Hires VML as Commerce Agency of Record ADWEEK"
+  },
   {
    "title": "NFL makes major Jameson Williams punishment decision after incident during Minnesota Vikings matchup - The Sun",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHAtbjVDQWx1N2d3LWhuNzdFaDJVXzZfRjhzMEJIVkYyNHJQSTRuZ1lISjlXZFR4MUZjZnMwLW1XX1R5cGRxNFJEYktOY0lBZGx6S0x2TWJyWXBDY1RJUV9tZm9FTVlDSTYzSWI5OGlSZC1xU0NqZzByQmVTUDF3TkdFZzRDc0xYVW50N0gzN2xGN0lZaFV4T0FUZVBKT0k5R0E?oc=5",
