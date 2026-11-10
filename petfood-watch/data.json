@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-10T14:49:00Z",
+ "updated": "2026-11-10T16:45:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Pet food market sees growth signals, new manufacturing entrants, and regulatory shifts while AI and niche segments drive innovation.",
+  "hook": "Today’s pet‑food landscape shows a shift toward AI, academic partnerships, and regulatory changes reshaping sourcing and safety.",
   "categories": {
-   "📈 Market": "New Argentine factory and precision fermentation focus signal continued market expansion and strategic shifts in pet food production.",
-   "⚖️ Regulation": "FDA’s proposed GRAS overhaul and skinification trend highlight evolving safety and labeling standards for pet products.",
-   "💡 Innovation": "AI integration, niche cat and dog segments, and new flavor releases illustrate a focus on tailored, tech‑driven product development.",
-   "🤝 M&A": "Fortifi’s acquisition of I.J. White Systems expands processing capabilities, reflecting consolidation in the pet food supply chain."
+   "📈 Market": "ADM is investing in precision fermentation while new Argentinian plants and BARK’s pivot signal continued market expansion and strategic realignment.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul and a growing focus on skin‑friendly pet products signal a tightening of safety and labeling standards.",
+   "💡 Innovation": "Academic‑industry collaborations, AI across the supply chain, and evolving price dynamics illustrate a push for smarter, more consumer‑centric pet food.",
+   "🤝 M&A": "Fortifi’s purchase of I.J. White Systems expands its processing line with spiral cooling, freezing and conveying technology."
   }
  },
  "articles": [
+  {
+   "title": "University and pet food industry partnerships drive research, train workforce",
+   "url": "https://www.petfoodindustry.com/business-strategy/article/15835012/university-and-pet-food-industry-partnerships-drive-research-train-workforce",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Partnerships between universities and pet food companies combine academic rigor with real-world manufacturing and marketplace experience. These collaborations aim to advance research and train a skilled workforce for the industry.",
+   "excerpt": "Partnerships between universities and pet food companies combine academic rigor with real-world manufacturing and marketplace..."
+  },
   {
    "title": "ADM to focus on precision fermentation for future potential",
    "url": "https://www.petfoodprocessing.net/articles/21066-adm-to-focus-on-precision-fermentation-for-future-potential",
