@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-10T08:52:00Z",
+ "updated": "2026-11-10T10:49:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s highlights show regulatory shifts, AI-driven innovation, market expansion, and a notable M&A move reshaping the pet food landscape.",
+  "hook": "Pet food trends shift toward niche segments, AI integration, and regulatory changes, while market growth remains steady.",
   "categories": {
-   "📈 Market": "The market sees growth with new factories, sales gains for Freshpet, and strategic shifts like BARK’s focus on core brands, reflecting continued expansion.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul signals a regulatory shift that could reshape ingredient approvals in pet food.",
-   "💡 Innovation": "AI is permeating formulation, sourcing, and marketing, while companies like Purina target niche segments and new treat lines, indicating a tech‑driven innovation wave.",
-   "🤝 M&A": "BARK’s sale of its BARK Air customer list and brand license marks a strategic divestiture, underscoring a focus on core omnichannel operations."
+   "📈 Market": "Freshpet’s 10% sales rise signals continued momentum in the pet food market, even as new factories enter Argentina.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape ingredient approvals, while skin-focused labeling gains traction.",
+   "💡 Innovation": "AI is expanding across formulation, sourcing, and marketing, and pet supplements are growing in Italy through specialist retail channels.",
+   "🤝 M&A": "BARK’s sale of its air travel customer list marks a strategic pivot toward its core omnichannel dog brand business."
   }
  },
  "articles": [
+  {
+   "title": "Pet supplements surge in Italy as specialist retail gains ground",
+   "url": "https://globalpetindustry.com/news/pet-supplements-surge-in-italy-as-specialist-retail-gains-ground/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Pet supplements are experiencing a surge in Italy as specialist retail channels gain traction, contributing to a 3.8% year-over-year growth in the Italian pet market, which reached €5.4 billion in July 2026.",
+   "excerpt": "The Italian pet market grew by 3.8% year-over-year (YoY) in July 2026, reaching €5.4 billion ($6.3B), according to the latest data from market research company Circana. Pet care ranks as the second-largest category by va…"
+  },
+  {
+   "title": "Beyond the price tag: the changing game of retail negotiations",
+   "url": "https://globalpetindustry.com/news/beyond-the-price-tag-the-changing-game-of-retail-negotiations/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Price continues to be a key factor in supplier‑retailer negotiations, but it is no longer the sole determinant as cost pressures and evolving consumer expectations reshape the pet industry.",
+   "excerpt": "Price remains central to supplier-retailer negotiations, but it is no longer the only deciding factor. As cost pressures and changing consumer expectations reshape the pet industry, commercial discussions are extending t…"
+  },
   {
    "title": "Formulating for pets: Why animal skin needs its own science",
    "url": "https://globalpetindustry.com/news/formulating-for-pets-why-animal-skin-needs-its-own-science/",

@@ -1,18 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-10T08:52:00Z",
+ "updated": "2026-11-10T10:49:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Pernod Ricard launches an RTD cocktail with Ocean Spray while Heineken teams up with MSC Cruises for F1‑themed drinks, and market tensions rise over Russian assets and KFC contracts.",
+  "hook": "Pernod Ricard wraps up a media pitch while Carlsberg divests Brazilian assets, and Heineken expands into non‑alcoholic beer and F1 collaborations.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard partners with Ocean Spray to launch a ready‑to‑drink cocktail, marking a new RTD collaboration.",
-   "📈 Market": "The Kremlin claims it is unaware of a Russian brewer’s attempt to seize Coca‑Cola HBC Russia’s assets, adding geopolitical tension to the market.",
-   "🍸 Spirits & Premium": "Suntory Global Spirits launches a new line of single malt whiskies under its Teacher’s blended Scotch brand, expanding its premium portfolio.",
-   "🍺 Beer & Brewing": "Heineken teams with MSC Cruises to offer Formula 1 race‑day experiences on cruise ships, blending beer with high‑speed entertainment.",
-   "💡 Innovation & No-Low": "Heineken and MSC Cruises collaborate to provide Formula 1 race‑day experiences on cruise ships, showcasing a novel on‑board entertainment concept."
+   "🤝 Strategy & M&A": "Pernod Ricard completes a regional media pitch and Carlsberg divests its Brazilian assets acquired from Britvic.",
+   "📈 Market": "Laurens Spethmann Holding appoints Jan Plambeck as CEO, signaling a leadership shift in the German food‑and‑drinks sector.",
+   "🍸 Spirits & Premium": "Suntory Global Spirits launches a new single‑malt whisky line under its Teacher’s blended Scotch brand.",
+   "🍺 Beer & Brewing": "Heineken debuts an alcohol‑free beer at a remote taproom in New Zealand’s mountains."
   }
  },
  "articles": [
+  {
+   "title": "Pernod Ricard concludes regional media pitch - Marketing-Interactive",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdCaW9hdk02UzdFdFRyT01KckZVY2pub3VHWXJWa1NwYlhmb2RtZGRJWWZJVFAyc2FPcnhPODBOSFRncDVNTHB0ZWlNUUI5U3VPLVFKVkxPYUhGSXFJbmtTOHg3cGdhTzRCUVlQZkxGaDVZQ0xoc0NPOGREanRhdE9Zd19ZSFpQUFE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Pernod Ricard concludes a regional media pitch, indicating the completion of a marketing outreach effort.",
+   "excerpt": "Pernod Ricard concludes regional media pitch Marketing-Interactive"
+  },
+  {
+   "title": "Carlsberg sells former Britvic Brazil assets",
+   "url": "https://www.just-drinks.com/news/carlsberg-sells-britvic-brazil-assets/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Carlsberg has agreed to sell the Brazilian assets it acquired from Britvic, marking a divestment of those former Britvic holdings.",
+   "excerpt": "Carlsberg has agreed to offload the Brazilian assets it secured through its acquisition of soft drinks major Britvic last year."
+  },
+  {
+   "title": "Germany’s Laurens Spethmann names new CEO",
+   "url": "https://www.just-drinks.com/news/laurens-spethmann-names-new-ceo/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-10",
+   "ai_summary": "Laurens Spethmann Holding appoints Jan Plambeck as its new CEO, reflecting a leadership change within the German food-and-drinks group.",
+   "excerpt": "German food-and-drinks group Laurens Spethmann Holding has appointed Jan Plambeck as its new CEO."
+  },
   {
    "title": "Who Should I Start? Jameson Williams or Germie Bernard - Fantasy Football Calculator",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTJ4Zkk1WU1aYnFMbGlhbVBUUFZHWHgtVUN4NHh5aWlRdXVQYjFvMlFqZUlhT3U0VmJQblRKQzh6aWgyUVdSMjlmaGNfMktCVmZJQUJnd0twZmpZZmRCVkhFQ3hNQ3pOSl9kcGNqWVp1Wlc1ZkMwejJaUG43bTFNVlZUS3c?oc=5",
@@ -39,6 +65,15 @@
    "date": "2026-11-10",
    "ai_summary": "A son discusses his mother's disappearance with ABC15 after 35 years. The interview explores the unresolved case and its impact on his life.",
    "excerpt": "What happened to Lisa (Collins) Jameson?: Son speaks with ABC15 35 years after his mother’s disappearance ABC15 Arizona"
+  },
+  {
+   "title": "Heineken Takes Alcohol Free Beer to Remote Taproom in NZ Mountains — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTa0hSb3pIcmtvN2hCRlh5cFI3N1NMc2xpcXBQcnIxazFQbjRfSGl2dE14azVEMHloa3RSSkJ2eVhCTW81Y1liUFdIWENfVml5RjNiOVFaa3VMMGctTXU0?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Heineken introduces alcohol-free beer at a remote taproom in New Zealand mountains, showcasing a new venue for its non-alcoholic product line.",
+   "excerpt": "Heineken Takes Alcohol Free Beer to Remote Taproom in NZ Mountains — LBB LBB - Little Black Book"
   },
   {
    "title": "MSC Cruises, Heineken Bring Formula 1 Race-Day Experiences to Sea - TravelPulse",

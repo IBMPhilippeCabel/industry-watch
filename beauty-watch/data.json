@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T08:52:00Z",
+ "updated": "2026-11-10T10:49:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s highlights span AI lipstick tech, retail expansion, and leadership shifts across the beauty sector.",
+  "hook": "Today’s highlights span AI-driven skin insights, a new hydration biotech, and strategic moves across the beauty sector.",
   "categories": {
-   "📈 Market": "Estée Lauder’s long‑time president departs as the company navigates a changing leadership landscape.",
-   "💄 Brands & Retail": "NakedMD, Glow Recipe, and Laneige all broaden their footprints, while L’Oréal Paris launches a new women‑empowerment initiative.",
-   "🤝 Strategy & M&A": "Office Nature’s merger fuels global organic growth, and Schwan Cosmetics opens a Korean innovation hub to tap local expertise.",
-   "💡 Innovation & Regulation": "Kolmar Korea’s AI lipstick system earns a CES award, and Dr. Amy Wechsler debuts a cruelty‑free pimple treatment line."
+   "📈 Market": "Estée Lauder’s long‑time president departs amid a strong Q3 earnings season that underscored dermocosmetics and China’s resurgence.",
+   "💄 Brands & Retail": "Glow Recipe expands into Ulta Beauty, while NakedMD scales its service model to over 50 locations and Laneige adds a lip mask station to its experiential strategy.",
+   "🤝 Strategy & M&A": "Office Nature’s merger fuels global growth in organic personal care, and Schwan Cosmetics plans a North Asia Innovation Hub in Seoul to tap Korean beauty innovation.",
+   "💡 Innovation & Regulation": "Vytrus Biotech unveils Hydranode for hydration by activation, Kolmar Korea wins a second CES beauty tech award for its AI lipstick system, and AI skin analysis reveals audience needs beyond product recommendations."
   }
  },
  "articles": [
+  {
+   "title": "Vytrus launched Hydranode for skin hydration at in-cosmetics Asia",
+   "url": "https://www.cosmeticsbusiness.com/vytrus-launched-hydranode-for-skin-hydration-at-in",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Vytrus launched Hydranode for skin hydration at in-cosmetics Asia — Vytrus Biotech launched Hydranode at in-cosmetics Asia 2026, introducing hydration by activation, not by water supply. Inspired by the drought resilience of the Mediterranean forest, this biotech ferment acts on the skin…",
+   "excerpt": "Vytrus Biotech launched Hydranode at in-cosmetics Asia 2026, introducing hydration by activation, not by water supply. Inspired by the drought resilience of the Mediterranean forest, this biotech ferment acts on the skin…"
+  },
+  {
+   "title": "There's a simple way to see what your customers' skin really needs. Most brands aren't using it",
+   "url": "https://www.cosmeticsbusiness.com/there-s-a-simple-way-to-see-what-your",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "There's a simple way to see what your customers' skin really needs. Most brands aren't using it — Many beauty brands already offer AI skin analysis on their website or in store – but only to recommend products. Added together, the same analyses show what an entire audience's skin needs. Here is how marketing teams tu…",
+   "excerpt": "Many beauty brands already offer AI skin analysis on their website or in store – but only to recommend products. Added together, the same analyses show what an entire audience's skin needs. Here is how marketing teams tu…"
+  },
+  {
+   "title": "Shiseido Co Q3 Results: EPS $0.23 beats estimate, sales up 8.10% - scanx.trade",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFkxZnZxYTJXd1E2UTJXMHBpdmdTWEs5LUE4X2dWUFJjTmlPNGhEQUlWYVNhYXF2X0piNnA4cFg2emtFb0JzTE1sZEdLZDF6UjdRZk1NZjZZSEZ1UGw1UWRzcFl5dHNVVmlacFpEdDlHckd2RzBsUEVmSnJCRHF0Um1hbGE1UWd1YTNCMW44bUpCQWpKaDJGZmtZX01BakpYcm0zakVfdVl5cFljZ0loN040TnppWC1s?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Shiseido Co Q3 Results: EPS $0.23 beats estimate, sales up 8.10% - scanx.trade — Shiseido Co Q3 Results: EPS $0.23 beats estimate, sales up 8.10% scanx.trade",
+   "excerpt": "Shiseido Co Q3 Results: EPS $0.23 beats estimate, sales up 8.10% scanx.trade"
+  },
   {
    "title": "A device that implements the lip color of an attractive influencer on the screen to my lips won the - 매일경제",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5MmpOcVNuNHpJOWwwdnNEOHdVWWNHS3ozVHNWWWN2Z0lQVWVYckVqTkI3cThjV2tWOGVmenpycUZzX2ZsNHo2YjdpNjlFcTVUdXo4?oc=5",
@@ -1010,6 +1037,15 @@
    "date": "2026-11-05",
    "ai_summary": "The growth of clean beauty: Market data breakdown – Elko Daily Free Press – The growth of clean beauty: Market data breakdown Elko Daily Free Press",
    "excerpt": "The growth of clean beauty: Market data breakdown Elko Daily Free Press"
+  },
+  {
+   "title": "The growth of clean beauty: Market data breakdown - Caledonian Record",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2ZRWHZ1OFhRa2tiYlRsY01sM05BUzRFUXJ0bXZrNm5TWXRtaWV6NHVReEo3YjdZbmV6YVlrck5oNHFoaWVhc2hpNjFsdlZjTnZkRkc2ZkVMY3NENnY1MHVyOV9KckFCQTBXc0EzVXFvVEFqMk1TZ1A3bzY0NUVOelp3eHQyN0F3cVBxSy16bVRpMm1YSUhNcEVXRWlIRDY5elpYT0tqdzdwelVuRFUtQXNaTWlwdjZvcUtOX1diYTJDamR4Q1hYNmdXMA?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The growth of clean beauty: Market data breakdown - Caledonian Record — The growth of clean beauty: Market data breakdown Caledonian Record",
+   "excerpt": "The growth of clean beauty: Market data breakdown Caledonian Record"
   },
   {
    "title": "The growth of clean beauty: Market data breakdown - Lake Geneva News",
