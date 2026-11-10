@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T20:39:00Z",
+ "updated": "2026-11-10T22:36:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s highlights show expanding retail footprints, tech‑driven innovation wins, strategic restructuring, and fresh marketing shifts in the beauty sector.",
+  "hook": "Retail expansion and tech wins drive today’s beauty buzz.",
   "categories": {
-   "📈 Market": "Brands are refreshing messaging and testing new engagement tactics, from Maybelline’s tagline shift to Dove’s claim approval, comedians in ads, e.l.f.’s CEO call, Coty’s model tweak, and Olive Young’s U.S. expansion.",
-   "💄 Brands & Retail": "Retail growth is accelerating with Dix Hectares, NakedMD, Glow Recipe, and Laneige expanding stores and experiences, while Sephora and Olive Young broaden their U.S. presence amid strong Q3 earnings.",
-   "🤝 Strategy & M&A": "Strategic moves include Shiseido’s solid Q3 results, Coty’s French reorganisation, Office Nature’s global growth push, and Unilever’s planned exit from Myanmar.",
-   "💡 Innovation & Regulation": "Innovation headlines feature clean‑beauty trend guidance, Kolmar Korea’s second consecutive CES Best of Innovation win, and speculation over Skims Beauty’s 2027 launch."
+   "📈 Market": "Maybelline refreshed its tagline to modernize its image, while Dove’s moisturising claim was upheld by the National Advertising Division.",
+   "💄 Brands & Retail": "Sally Beauty beat expectations, and several brands—Dix Hectares Eyes, Glow Recipe, NakedMD, Laneige—expanded retail footprints or enhanced experiential strategies.",
+   "🤝 Strategy & M&A": "Shiseido posted solid Q3 results, Coty reorganised French operations, and Office Nature set global growth targets after its merger.",
+   "💡 Innovation & Regulation": "Kolmar Korea secured CES Best of Innovation in Beauty Tech for a second year, highlighting advances in beauty tech, while clean‑beauty trends continue to shape the market."
   }
  },
  "articles": [
+  {
+   "title": "Sally Beauty Surpasses Expectations in Q4 Results",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/sally-beauty-surpasses-expectations-q4-results-1239409629/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "Sally Beauty exceeded expectations in its Q4 results, reporting modest sales growth. The retailer continues to focus on its value proposition to drive performance.",
+   "excerpt": "The beauty retailer reported modest sales growth, as it leans into its value proposition."
+  },
   {
    "title": "Seasonal Luxury Skin Care Brand Dix Hectares Eyes U.S. Expansion",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/dix-hectares-u-s-expansion-luxury-skin-care-1239408618/",
