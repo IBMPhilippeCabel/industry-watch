@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T12:53:00Z",
+ "updated": "2026-11-10T14:49:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s highlights show regulatory wins, digital innovation, strategic growth moves, and expanding retail footprints across the beauty sector.",
+  "hook": "Today’s beauty buzz spans fresh taglines, clean‑tech wins, and strategic moves across brands and markets.",
   "categories": {
-   "📈 Market": "Dove’s moisturising claim was upheld by the National Advertising Division, while comedians are increasingly used to inject humor into beauty marketing.",
-   "💄 Brands & Retail": "NakedMD expands to over 50 locations, Glow Recipe enters Ulta, and Laneige adds a lip mask station, reflecting a trend toward experiential and omnichannel retail.",
-   "🤝 Strategy & M&A": "Shiseido beats earnings estimates, Office Nature targets global growth, and Schwan Cosmetics opens a North Asia Innovation Hub, signaling continued strategic expansion.",
-   "💡 Innovation & Regulation": "Iberchem’s NUBIRAWAVE platform and Vytrus’s Hydranode showcase data‑driven fragrance and skin hydration tech, while AI skin analysis tools reveal unmet consumer needs."
+   "📈 Market": "Maybelline revamps its 35‑year‑old tagline, Dove’s 24‑hour moisturisation claim is upheld, comedians drive lighter campaigns, e.l.f. invites CEO calls, Coty tweaks its French model, and Olive Young opens five U.S. stores.",
+   "💄 Brands & Retail": "NakedMD expands to over 50 sites, Glow Recipe joins Ulta, Sephora highlights curation expertise, Olive Young opens Southern California stores, Laneige adds a lip‑mask station, Q3 earnings show dermocosmetics strength, and L’Oréal launches Women for Worth.",
+   "🤝 Strategy & M&A": "Shiseido beats Q3 estimates, Andrew Ross critiques M&A success, Office Nature targets global growth, Unilever exits Myanmar stake, and Schwan Cosmetics opens a Seoul innovation hub.",
+   "💡 Innovation & Regulation": "Clean‑beauty trends guide strategy, Kolmar Korea wins CES Best of Innovation, Skims’ 2027 launch faces competition, Iberchem’s NUBIRAWAVE platform refines fragrance creation, Vytrus introduces Hydranode hydration, and AI skin analysis reveals audience needs."
   }
  },
  "articles": [
+  {
+   "title": "Maybelline New York updates its 35-year-old ‘Maybe she’s born with it’ tagline",
+   "url": "https://www.cosmeticsbusiness.com/maybelline-new-york-updates-its-35-year-old-tagline",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-10",
+   "ai_summary": "Maybelline New York updates its 35-year-old ‘Maybe she’s born with it’ tagline to reflect a new chapter and modern beauty perceptions.",
+   "excerpt": "The L’Oréal-owned make-up brand has revamped its famous tagline, which first debuted in 1991, to reflect the brand’s “next chapter” and how women see beauty today. Sandrine Jolly, Global Brand President of Maybelline New…"
+  },
+  {
+   "title": "'Clean beauty': How to navigate the latest cosmetic and skincare trends - France 24",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGRZVkp5SEktc09tRC1RaDdVbHdUU3VJRXBWSk56NE9Sd2dJQ3kzd2pETVZtVHY1MXlMMDRXSlZrWnhhdWNXal9IVHB1VXBTYVI1WlBMY1hJRFU3bGx5TEwzMU5DNUgyUmgzcURlcnFfRk1QMjRrbU5OTGlxZ3VmWlZCbWN4Y1pmblZVaFE5MGxGSHF6VjR1NEVUaE5aNTdrOUFLdUNLSTZBSW5yS1RpUDFubGo1UlNHNjFzR053ZXhvM1U?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "The article discusses how to navigate current trends in clean beauty for cosmetics and skincare.",
+   "excerpt": "'Clean beauty': How to navigate the latest cosmetic and skincare trends France 24"
+  },
+  {
+   "title": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row - Macau Business",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb3B0NFBvc2NMTzVzNEZLSUFXMEJvNE9adjhvM3VDSVVJZzUyaGg0UU1DX21GSWNQS25JUERBeTB0TXFTcDlpejI3SFpfblFBekJIRV9fT09iZWo0b3NFbzViNUVfQVRaUHotcG9HY2UxMGhXSG9OdWhrUTBfOWJIZ0xMVnRtdUZ4NlZSWWwxMVg0aHR1ODNLU2xsU1ZIT0hLSGRtTWUtWVEwby1hQjVDaGNwWXFYajhpYkNadjI1czE2RUY5Tm5ra1JCdEswbk1vSnlV?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "It reports that Kolmar Korea won CES’s Best of Innovation in Beauty Tech for the second consecutive year.",
+   "excerpt": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row Macau Business"
+  },
   {
    "title": "Dove moisturising claims supported by US advertising watchdog after P&G challenge",
    "url": "https://www.cosmeticsbusiness.com/dove-moisturising-claims-supported-nad-p%26g-challenge",

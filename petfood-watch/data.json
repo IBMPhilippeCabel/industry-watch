@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-10T12:53:00Z",
+ "updated": "2026-11-10T14:49:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Pet food trends shift toward niche segments, AI integration, and regulatory changes, while market growth remains steady.",
+  "hook": "Pet food market sees growth signals, new manufacturing entrants, and regulatory shifts while AI and niche segments drive innovation.",
   "categories": {
-   "📈 Market": "Freshpet’s 10% sales rise signals continued momentum in the pet food market, even as new factories enter Argentina.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape ingredient approvals, while skin-focused labeling gains traction.",
-   "💡 Innovation": "AI is expanding across formulation, sourcing, and marketing, and pet supplements are growing in Italy through specialist retail channels.",
-   "🤝 M&A": "BARK’s sale of its air travel customer list marks a strategic pivot toward its core omnichannel dog brand business."
+   "📈 Market": "New Argentine factory and precision fermentation focus signal continued market expansion and strategic shifts in pet food production.",
+   "⚖️ Regulation": "FDA’s proposed GRAS overhaul and skinification trend highlight evolving safety and labeling standards for pet products.",
+   "💡 Innovation": "AI integration, niche cat and dog segments, and new flavor releases illustrate a focus on tailored, tech‑driven product development.",
+   "🤝 M&A": "Fortifi’s acquisition of I.J. White Systems expands processing capabilities, reflecting consolidation in the pet food supply chain."
   }
  },
  "articles": [
+  {
+   "title": "ADM to focus on precision fermentation for future potential",
+   "url": "https://www.petfoodprocessing.net/articles/21066-adm-to-focus-on-precision-fermentation-for-future-potential",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-10",
+   "ai_summary": "ADM is focusing on precision fermentation to support its future growth, with executives laying the groundwork for this approach.",
+   "excerpt": "The supplier’s executives are laying the foundation for precision fermentation to power its next phase of growth."
+  },
+  {
+   "title": "Fortifi acquires I.J. White, expands processing capabilities",
+   "url": "https://www.petfoodprocessing.net/articles/21065-fortifi-acquires-ij-white-expands-processing-capabilities",
+   "source": "Pet Food Processing",
+   "category": "🤝 M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Fortifi has acquired I.J. White Systems, adding spiral cooling, freezing and conveying systems to its processing capabilities.",
+   "excerpt": "I.J. White Systems offers spiral cooling, freezing and conveying systems."
+  },
+  {
+   "title": "Bocce’s unveils holiday treats inspired by Elf movie",
+   "url": "https://www.petfoodprocessing.net/articles/21064-bocces-unveils-holiday-treats-inspired-by-elf-movie",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Bocce’s has released holiday treats inspired by the Elf movie, featuring two new soft and chewy flavors.",
+   "excerpt": "The collection features two new soft and chewy treat flavors."
+  },
   {
    "title": "Pet supplements surge in Italy as specialist retail gains ground",
    "url": "https://globalpetindustry.com/news/pet-supplements-surge-in-italy-as-specialist-retail-gains-ground/",
