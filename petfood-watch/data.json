@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-10T16:45:00Z",
+ "updated": "2026-11-10T18:41:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s pet‑food landscape shows a shift toward AI, academic partnerships, and regulatory changes reshaping sourcing and safety.",
+  "hook": "Today’s focus is on sustainability, research collaboration, and regulatory shifts reshaping pet food.",
   "categories": {
-   "📈 Market": "ADM is investing in precision fermentation while new Argentinian plants and BARK’s pivot signal continued market expansion and strategic realignment.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul and a growing focus on skin‑friendly pet products signal a tightening of safety and labeling standards.",
-   "💡 Innovation": "Academic‑industry collaborations, AI across the supply chain, and evolving price dynamics illustrate a push for smarter, more consumer‑centric pet food.",
-   "🤝 M&A": "Fortifi’s purchase of I.J. White Systems expands its processing line with spiral cooling, freezing and conveying technology."
+   "📈 Market": "ADM is pivoting to precision fermentation to drive future growth while new entrants signal ongoing market recovery.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul and a shift toward skin-focused, safe products signal a regulatory push for safer, science-backed pet ingredients.",
+   "💡 Innovation": "Academic partnerships and regenerative ranching practices are driving new ingredient sourcing and product development, while price dynamics evolve beyond cost alone.",
+   "🤝 M&A": "Fortifi’s acquisition of I.J. White Systems expands its processing capabilities into spiral cooling and freezing technologies."
   }
  },
  "articles": [
+  {
+   "title": "Bison co-products in pet food support regenerative ranching",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16425094/bison-coproducts-in-pet-food-support-regenerative-ranching",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Bison co-products in pet food support regenerative ranching. At West Bijou Ranch, bison ranchers explained how pet food ingredients, whole-animal utilization and grazing management contribute.",
+   "excerpt": "At West Bijou Ranch, bison ranchers explained how pet food ingredients, whole-animal utilization and grazing management contribute..."
+  },
   {
    "title": "University and pet food industry partnerships drive research, train workforce",
    "url": "https://www.petfoodindustry.com/business-strategy/article/15835012/university-and-pet-food-industry-partnerships-drive-research-train-workforce",
