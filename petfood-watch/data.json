@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-09T22:39:00Z",
+ "updated": "2026-11-10T00:48:00Z",
  "briefing": {
-  "date": "2026-11-09",
-  "hook": "Freshpet’s strong Q3 sales and margin growth highlight a bullish trend in the pet food market.",
+  "date": "2026-11-10",
+  "hook": "The day highlights continued market expansion, new production capabilities, and fresh innovation initiatives in pet food.",
   "categories": {
-   "📈 Market": "Freshpet’s 10% Q3 sales rise and record margins signal robust consumer demand and effective marketing.",
-   "⚖️ Regulation": "Eleven industry associations continue to support the pet food sector’s policy and trade initiatives.",
-   "💡 Innovation": "Freshpet’s growth, coupled with new product launches and award‑winning research, underscores a focus on innovation and digital expansion.",
-   "🤝 M&A": "European pet companies are scaling production capacity, while Musti Group’s acquisition fuels double‑digit growth across markets."
+   "📈 Market": "New factory openings, volume growth, and custom production services signal ongoing market expansion and diversification.",
+   "⚖️ Regulation": null,
+   "💡 Innovation": "A growth accelerator program and a new freeze‑dried treat line illustrate fresh innovation efforts.",
+   "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "New pet food factory: Cosechas Argentinas bets on market recovery",
+   "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/16425020/new-pet-food-factory-cosechas-argentinas-bets-on-market-recovery",
+   "source": "Petfood Industry",
+   "category": "📈 Market",
+   "date": "2026-11-09",
+   "ai_summary": "New pet food factory: Cosechas Argentinas bets on market recovery — The entry of another pet food manufacturer into the Argentinian market is a sign that companies continue to see opportunities.",
+   "excerpt": "The entry of another pet food manufacturer into the Argentinian market is a sign that companies continue to see opportunities..."
+  },
   {
    "title": "Hill’s World of the Small Dog Report highlights specific health needs of small, mini dog breeds",
    "url": "https://www.petfoodprocessing.net/articles/21061-hills-world-of-the-small-dog-report-highlights-specific-health-needs-of-small-mini-dog-breeds",
@@ -1532,15 +1541,6 @@
    "date": "2026-10-11",
    "ai_summary": "The article lists and reviews the top cat foods recommended for Persian cats in 2026.",
    "excerpt": "7 Best Cat Foods for Persian Cats in 2026 - Reviews & Top Picks Catster"
-  },
-  {
-   "title": "New formats push pet supplement innovation",
-   "url": "https://www.petfoodindustry.com/pet-supplements-pro/industry-voices/article/15834650/new-formats-push-pet-supplement-innovation",
-   "source": "Petfood Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-10",
-   "ai_summary": "Soft chews currently dominate the market. Manufacturers are exploring powders and other next‑generation formats.",
-   "excerpt": "Soft chews dominate today's market, but pet supplement manufacturers are looking toward powders and other next-generation formats..."
   }
  ]
 }
