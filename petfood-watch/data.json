@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-10T06:56:00Z",
+ "updated": "2026-11-10T08:52:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "The day highlights continued market expansion, new production capabilities, and fresh innovation initiatives in pet food.",
+  "hook": "Today’s highlights show regulatory shifts, AI-driven innovation, market expansion, and a notable M&A move reshaping the pet food landscape.",
   "categories": {
-   "📈 Market": "New factory openings, volume growth, and custom production services signal ongoing market expansion and diversification.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": "A growth accelerator program and a new freeze‑dried treat line illustrate fresh innovation efforts.",
-   "🤝 M&A": null
+   "📈 Market": "The market sees growth with new factories, sales gains for Freshpet, and strategic shifts like BARK’s focus on core brands, reflecting continued expansion.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul signals a regulatory shift that could reshape ingredient approvals in pet food.",
+   "💡 Innovation": "AI is permeating formulation, sourcing, and marketing, while companies like Purina target niche segments and new treat lines, indicating a tech‑driven innovation wave.",
+   "🤝 M&A": "BARK’s sale of its BARK Air customer list and brand license marks a strategic divestiture, underscoring a focus on core omnichannel operations."
   }
  },
  "articles": [
+  {
+   "title": "Formulating for pets: Why animal skin needs its own science",
+   "url": "https://globalpetindustry.com/news/formulating-for-pets-why-animal-skin-needs-its-own-science/",
+   "source": "Global Pet Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Formulating for pets: Why animal skin needs its own science — The global pet care market is going through a shift driven by “skinification”, with brands focusing on mild, safe, natural and effective products backed by trustworthy labels. During a recent webinar co-hosted by GlobalP…",
+   "excerpt": "The global pet care market is going through a shift driven by “skinification”, with brands focusing on mild, safe, natural and effective products backed by trustworthy labels. During a recent webinar co-hosted by GlobalP…"
+  },
+  {
+   "title": "5 pet food supplier stocks outpace S&P 500 so far in 2026",
+   "url": "https://www.petfoodindustry.com/business-strategy/article/15834682/5-pet-food-supplier-stocks-outpace-sp-500-so-far-in-2026",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "5 pet food supplier stocks outpace S&P 500 so far in 2026 — Darling Ingredients and SLB reversed their 2025 declines, while ADM and Sensient continued to outperform the broader market.",
+   "excerpt": "Darling Ingredients and SLB reversed their 2025 declines, while ADM and Sensient continued to outperform the broader market."
+  },
+  {
+   "title": "Best uses of AI in pet food from farm to bag to bowl",
+   "url": "https://www.petfoodindustry.com/business-strategy/article/15834656/best-uses-of-ai-in-pet-food-from-farm-to-bag-to-bowl",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Best uses of AI in pet food from farm to bag to bowl — Artificial intelligence is moving into pet food formulation, sourcing, production and marketing, but industry experts say the...",
+   "excerpt": "Artificial intelligence is moving into pet food formulation, sourcing, production and marketing, but industry experts say the..."
+  },
+  {
+   "title": "Stop demonizing the process: What really makes pet food nutritious",
+   "url": "https://www.petfoodindustry.com/blogs-columns/ingredient-issues/article/15834288/stop-demonizing-the-process-what-really-makes-pet-food-nutritious",
+   "source": "Petfood Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Stop demonizing the process: What really makes pet food nutritious — Marketing may pit raw against cooked and frozen against freeze-dried, but true nutritional quality comes down to safety, digestibility...",
+   "excerpt": "Marketing may pit raw against cooked and frozen against freeze-dried, but true nutritional quality comes down to safety, digestibility..."
+  },
+  {
+   "title": "Petfood Industry evolves along with the market",
+   "url": "https://www.petfoodindustry.com/blogs-columns/something-to-chew-on/article/15834146/petfood-industry-evolves-along-with-the-market",
+   "source": "Petfood Industry",
+   "category": "📈 Market",
+   "date": "2026-11-10",
+   "ai_summary": "Petfood Industry evolves along with the market — The pet food industry and market have seen many developments over the past two decades, and the magazine (and its staff) has changed...",
+   "excerpt": "The pet food industry and market have seen many developments over the past two decades, and the magazine (and its staff) has changed..."
+  },
+  {
+   "title": "Changes are coming: FDA's GRAS proposal impacts animal food",
+   "url": "https://www.petfoodindustry.com/blogs-columns/pet-food-insights/article/15833854/changes-are-coming-fdas-gras-proposal-impacts-animal-food",
+   "source": "Petfood Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Changes are coming: FDA's GRAS proposal impacts animal food — The FDA's proposed overhaul of the GRAS notification process would reshape how pet food ingredients reach the market, and AFIA...",
+   "excerpt": "The FDA's proposed overhaul of the GRAS notification process would reshape how pet food ingredients reach the market, and AFIA..."
+  },
+  {
+   "title": "Purina, Hill’s and Smucker strategies shift toward cat, wet and fresh",
+   "url": "https://www.petfoodindustry.com/business-strategy/article/15834675/purina-hills-and-smucker-strategies-shift-toward-cat-wet-and-fresh",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Purina, Hill’s and Smucker strategies shift toward cat, wet and fresh — Top pet food companies are targeting specific pet food segments for growth as broader category conditions remain uneven.",
+   "excerpt": "Top pet food companies are targeting specific pet food segments for growth as broader category conditions remain uneven."
+  },
+  {
+   "title": "Pet treats market grows to $13.5 billion",
+   "url": "https://www.petfoodindustry.com/blogs-columns/market-report/article/15833736/pet-treats-market-grows-to-135-billion",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-10",
+   "ai_summary": "Pet treats market grows to $13.5 billion — Packaged Facts data show cat treat households grew 31% since 2020, outpacing a 2% drop among dog treat buyers, as Gen Z adoption...",
+   "excerpt": "Packaged Facts data show cat treat households grew 31% since 2020, outpacing a 2% drop among dog treat buyers, as Gen Z adoption..."
+  },
   {
    "title": "New pet food factory: Cosechas Argentinas bets on market recovery",
    "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/16425020/new-pet-food-factory-cosechas-argentinas-bets-on-market-recovery",
