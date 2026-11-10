@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T18:41:00Z",
+ "updated": "2026-11-10T20:39:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s focus spans Shiseido earnings, Coty restructuring, and fresh innovation wins.",
+  "hook": "Today’s highlights show expanding retail footprints, tech‑driven innovation wins, strategic restructuring, and fresh marketing shifts in the beauty sector.",
   "categories": {
-   "📈 Market": "Maybelline refreshed its long‑running tagline while Dove’s moisturizing claim was upheld by the National Advertising Division.",
-   "💄 Brands & Retail": "NakedMD expands to over 50 sites, Glow Recipe joins Ulta, and Laneige adds a lip‑mask station to its experiential strategy.",
-   "🤝 Strategy & M&A": "Shiseido beat earnings estimates, Coty reorganises French operations, and former Lauder M&A exec Andrew Ross outlines lessons for future deals.",
-   "💡 Innovation & Regulation": "Kolmar Korea earned CES Best of Innovation in Beauty Tech, Iberchem launched NUBIRAWAVE for data‑driven fragrances, and Vytrus introduced Hydranode for skin hydration."
+   "📈 Market": "Brands are refreshing messaging and testing new engagement tactics, from Maybelline’s tagline shift to Dove’s claim approval, comedians in ads, e.l.f.’s CEO call, Coty’s model tweak, and Olive Young’s U.S. expansion.",
+   "💄 Brands & Retail": "Retail growth is accelerating with Dix Hectares, NakedMD, Glow Recipe, and Laneige expanding stores and experiences, while Sephora and Olive Young broaden their U.S. presence amid strong Q3 earnings.",
+   "🤝 Strategy & M&A": "Strategic moves include Shiseido’s solid Q3 results, Coty’s French reorganisation, Office Nature’s global growth push, and Unilever’s planned exit from Myanmar.",
+   "💡 Innovation & Regulation": "Innovation headlines feature clean‑beauty trend guidance, Kolmar Korea’s second consecutive CES Best of Innovation win, and speculation over Skims Beauty’s 2027 launch."
   }
  },
  "articles": [
+  {
+   "title": "Seasonal Luxury Skin Care Brand Dix Hectares Eyes U.S. Expansion",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/dix-hectares-u-s-expansion-luxury-skin-care-1239408618/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "Seasonal Luxury Skin Care Brand Dix Hectares Eyes U.S. Expansion — Founder Charlotte Bouygues described the brand philosophy as being about “crafting exceptional actives, and then giving them to your skin at the right time.”",
+   "excerpt": "Founder Charlotte Bouygues described the brand philosophy as being about “crafting exceptional actives, and then giving them to your skin at the right time.”"
+  },
+  {
+   "title": "The evolution of clean beauty - Drug Store News",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LWUNOcElrcm9YVTJXOGJfci1lRmR0U2NfS3QwbUM1VXltQ29KRDM0TnZ1cm96Z1lfaGJGMnNRS2ZMVHBaWTNmVl9nS0hjNmIycUdkM3FuZUEyOHNR?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "The evolution of clean beauty - Drug Store News — The evolution of clean beauty Drug Store News",
+   "excerpt": "The evolution of clean beauty Drug Store News"
+  },
   {
    "title": "Shiseido Q3 2026 Earnings Results and Report - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM20wS1VEeXVJUUxkaXdsdmVZN195dDZ2d05UOURMWGlxMHdoSFEtQjhoUW1zaWFHYXh2WUJYUGpXZVNUQXhwMEZOSERBWFU1QlBmUjBMWFJLRmhpQmNGeEtVcEltaEZlQ2kxb0NIT0hlMU9reHZuSDhEV0NTMFp2RUs0T1BUakpIeXlUNzdFTQ?oc=5",
@@ -56,6 +74,15 @@
    "date": "2026-11-10",
    "ai_summary": "It reports that Kolmar Korea won CES’s Best of Innovation in Beauty Tech for the second consecutive year.",
    "excerpt": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row Macau Business"
+  },
+  {
+   "title": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row - Press Release Hub",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcHZWSk0xZjh4dWNheFk3T2pBanNpdzlHMHRtR3RlZFZpVS1HYkRRcnRKdnZ3Mjl0QVJ3NmltWHZJUzRWbk5PMUEwdGlDWk9aRXRHaHhzdWtmSE5tU1FjNWlQMEZ1ZEVEMGRxa0tpcFVicmo4NEtELXBaRkhMSjVxZmpLXzNmS1ROR09vZFVXNEY4WlA4b0hjR3pZZ0x4TmhBQzMwYWNMTEs1a1gydm03UTFaU3k1MS15VlFlbGFhdVlMYmtId0xwOVNLbUpERHAzWGstVjhYXzNiMkZHUTlQOU90dVk1Z3BLWWJmOWJfSTJWUHo4?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row - Press Release Hub — K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row Press Release Hub",
+   "excerpt": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row Press Release Hub"
   },
   {
    "title": "Dove moisturising claims supported by US advertising watchdog after P&G challenge",

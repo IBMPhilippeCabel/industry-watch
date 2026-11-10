@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-10T18:41:00Z",
+ "updated": "2026-11-10T20:39:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s focus is on sustainability, research collaboration, and regulatory shifts reshaping pet food.",
+  "hook": "Price and innovation shape the pet food day, with new supplier stocks rising and regulatory shifts on ingredient safety.",
   "categories": {
-   "📈 Market": "ADM is pivoting to precision fermentation to drive future growth while new entrants signal ongoing market recovery.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul and a shift toward skin-focused, safe products signal a regulatory push for safer, science-backed pet ingredients.",
-   "💡 Innovation": "Academic partnerships and regenerative ranching practices are driving new ingredient sourcing and product development, while price dynamics evolve beyond cost alone.",
-   "🤝 M&A": "Fortifi’s acquisition of I.J. White Systems expands its processing capabilities into spiral cooling and freezing technologies."
+   "📈 Market": "ADM is laying groundwork for precision fermentation to drive future growth.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet food ingredients reach the market.",
+   "💡 Innovation": "Price is no longer the sole driver as cost pressures and evolving consumer expectations reshape the industry.",
+   "🤝 M&A": "Fortifi’s acquisition of I.J. White Systems expands its processing capabilities."
   }
  },
  "articles": [
@@ -56,6 +56,15 @@
    "date": "2026-11-10",
    "ai_summary": "Bocce’s has released holiday treats inspired by the Elf movie, featuring two new soft and chewy flavors.",
    "excerpt": "The collection features two new soft and chewy treat flavors."
+  },
+  {
+   "title": "Mars announces £161m investment at historic Melton Mowbray factory - Hillingdon Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG02YXVlUjBNUi0tcHBPd0xOV0pGTHBMWXo4R0lxSEFzMFZjX2dsMm92Q0ljdmxUdkt3X1Bncng2N1ZMYlpua244VkhUWkNmdXdOWEl3bGozS2luRkNscnRYd01BR0k4TmVmWERLcnBGUFRxVTVJTXBwSUF2czY0WTc0eFd4WkIxaTNGQ1JtYU1tYWI5YjI2TGc3ZGl1UXlVRHNIQlNPb0FNN09LTEhQUQ?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Mars announces a £161m investment at its historic Melton Mowbray factory. The announcement was reported by the Hillingdon Times.",
+   "excerpt": "Mars announces £161m investment at historic Melton Mowbray factory Hillingdon Times"
   },
   {
    "title": "Pet supplements surge in Italy as specialist retail gains ground",
