@@ -1,18 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-10T00:48:00Z",
+ "updated": "2026-11-10T02:44:00Z",
  "briefing": {
-  "date": "2026-11-09",
-  "hook": "Today’s highlights span F1 cruise collaborations, new single malt launches, and Pernod Ricard’s fresh RTD partnership, amid market pressures and governance shifts.",
+  "date": "2026-11-10",
+  "hook": "Pernod Ricard teams with Ocean Spray for a new RTD cocktail, while Heineken and MSC Cruises launch a Formula 1 cruise experience and Suntory expands its single‑malt line.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard teams with Ocean Spray to launch a ready‑to‑drink cocktail, expanding its RTD portfolio.",
-   "📈 Market": "Market moves include a Kremlin denial of a Russian brewer’s takeover bid, Hain Celestial’s ongoing earnings pressure, PepsiCo’s KFC drink contract renewal, Castel governance dispute, Super Bock’s CFO promotion, and Zevia’s upbeat forecast.",
-   "🍸 Spirits & Premium": "Suntory Global Spirits unveils a new single malt whisky line under its Teacher’s blended Scotch brand.",
-   "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to bring Formula 1 race‑day experiences to cruise ships, while Suntory launches a new single malt whisky line."
+   "🤝 Strategy & M&A": "Pernod Ricard partners with Ocean Spray to launch a ready‑to‑drink cocktail.",
+   "📈 Market": "The Kremlin says it is unaware of a Russian brewer’s attempt to seize Coca‑Cola HBC Russia’s assets.",
+   "🍸 Spirits & Premium": "Suntory Global Spirits introduces a new line of single‑malt whiskies under its Teacher’s blended Scotch brand.",
+   "🍺 Beer & Brewing": null
   }
  },
  "articles": [
+  {
+   "title": "What happened to Lisa (Collins) Jameson?: Son speaks with ABC15 35 years after his mother’s disappearance - ABC15 Arizona",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG0zSXNMaGxaV05LWXdTTXdtWW94cnA4LTZwLWEzQ05wSHQyMjlVclJEU3dMSWxSclNKYS1DX2VvNTE1amFqRzZNY1dUWUljS0xDSk5WX2s5REsxRmtLelhPYlBCTU1oMTQxVVhpSG5IbEpBMXgtaUVraUhhaG1YMWt2TzNabkw5R3B4cmpZa0JWZFF0YnNkc1BxVEtxYnJRZzcxNzRqNUstRlpjV0ZiZXZSTjh1NnRLTEk4QlZGOTdPNmp1SWtfX2hFTVB5QnFOandiajJQNkVhbzU3SWE5Sjl4TkxCMkdt?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-10",
+   "ai_summary": "A son discusses his mother's disappearance with ABC15 after 35 years. The interview explores the unresolved case and its impact on his life.",
+   "excerpt": "What happened to Lisa (Collins) Jameson?: Son speaks with ABC15 35 years after his mother’s disappearance ABC15 Arizona"
+  },
   {
    "title": "MSC Cruises, Heineken Bring Formula 1 Race-Day Experiences to Sea - TravelPulse",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDE3NnBmbzhnclRGNTZDY0NITEYtb0Y0SVZ0MkIydndyWFBERi1RSmdoTWFQbGNUbWxMNmZ6U0xXSS14X1NIR0JMZlN5QThmaDR3OVNsOUdmTW05M2hTazdZaVduLTFNc3dRdVVEVFlHN2E4eTRMTkhYOUYxY3BPWkdnRXEzNThqbmpjQzc3OE5ES3M3Xzl6VjJmNDktVXZPeW14czRfSQ?oc=5",

@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T00:48:00Z",
+ "updated": "2026-11-10T02:44:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Day highlights green tech award, clean beauty rollouts, and leadership changes across the beauty sector.",
+  "hook": "Today’s focus spans strategic exits, tech awards, and retail expansion in the beauty sector.",
   "categories": {
-   "📈 Market": "Estée Lauder’s long‑time president departs as Beautyworld Osaka draws record visitors, underscoring shifting leadership and event momentum.",
-   "💄 Brands & Retail": "Brands pivot to YouTube holiday videos, Ulta launches a $399 health tracker, and Costco expands prestige beauty tables to emulate specialty stores.",
-   "🤝 Strategy & M&A": "Unilever exits its Myanmar stake, Office Nature merges to drive global organic growth, and Schwan Cosmetics opens a Korean innovation hub.",
-   "💡 Innovation & Regulation": "Greentech wins IFSCC Grand Prize for neuro‑pigmentation research, while Estée Lauder unveils a skin‑longevity platform and clean‑beauty rollouts reshape packaging and product trends."
+   "📈 Market": "Estée Lauder’s long‑time president is stepping down, marking a leadership shift in the company.",
+   "💄 Brands & Retail": "Olive Young is opening five U.S. stores while Ulta Beauty launches a health tracker, signaling a push into new markets and tech.",
+   "🤝 Strategy & M&A": "Unilever plans to divest its Myanmar stake by 2027, and Office Nature aims to grow globally after merging two French natural cosmetics firms.",
+   "💡 Innovation & Regulation": "Kolmar Korea wins another CES Beauty Tech Award and Beiersdorf raises recycled aluminium in Nivea tins to 95%, highlighting sustainability and tech focus."
   }
  },
  "articles": [
+  {
+   "title": "50/50 Isn’t Good Enough: Former Lauder M&A Exec Andrew Ross On What Makes Acquisitions Succeed Or Fail",
+   "url": "https://www.beautyindependent.com/former-estee-lauder-ma-exec-andrew-ross-what-derails-acquisitions/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-10",
+   "ai_summary": "50/50 Isn’t Good Enough: Former Lauder M&A Exec Andrew Ross On What Makes Acquisitions Succeed Or Fail — How much humble pie does it take to write an entire book? For Andrew Ross, a senior advisor and venture partner at XRC Ventures’ Brand Capital Fund who spent 12 years overseeing mergers and acquisitions at the Estée Laud…",
+   "excerpt": "How much humble pie does it take to write an entire book? For Andrew Ross, a senior advisor and venture partner at XRC Ventures’ Brand Capital Fund who spent 12 years overseeing mergers and acquisitions at the Estée Laud…"
+  },
+  {
+   "title": "Kolmar Korea Wins CES Beauty Tech Award Again - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUVsblQ3Xy1vaFRVRldaTDI4VVg4NXMyQThBQjNHRzRUVzNQOFBqUm5sVTlQQlB6cjM3ZFlmQXA4M2Q0ZWRMMUlmSVJnN19ZdVRmbUFXVENYa1VPcW10cHdBWkNyRDVQQnZvcHpwMDdGNXNra2kxNUsyemJadzA4dmExRjVmZm82?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Kolmar Korea Wins CES Beauty Tech Award Again - 조선일보 — Kolmar Korea Wins CES Beauty Tech Award Again 조선일보",
+   "excerpt": "Kolmar Korea Wins CES Beauty Tech Award Again 조선일보"
+  },
+  {
+   "title": "Olive Young Accelerates U.S. Expansion With 5 New California Stores by H1 2027",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/olive-young-usa-expansion-five-new-california-stores-1239408131/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "Olive Young Accelerates U.S. Expansion With 5 New California Stores by H1 2027 — The K-beauty retailer is set to open new locations across Greater Los Angeles and San Diego.",
+   "excerpt": "The K-beauty retailer is set to open new locations across Greater Los Angeles and San Diego."
+  },
+  {
+   "title": "Kolmar Korea Tops CES Beauty Tech Again - Businesskorea",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nelNNcXNHOUZEQ2dySXZ3dnlBc0cxTk1tcFBkS3pVN2kwaTNacWN3TFVvTnFjYkxrR3laRzZ4UWxDTHhfd2YzWXE5WFlOWGV3Q3pTYmlmUThYejN5WXdwbU0yV0ZFLWtHRmJVM19KYkp5Tm42?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Kolmar Korea Tops CES Beauty Tech Again - Businesskorea — Kolmar Korea Tops CES Beauty Tech Again Businesskorea",
+   "excerpt": "Kolmar Korea Tops CES Beauty Tech Again Businesskorea"
+  },
   {
    "title": "Greentech wins top IFSCC award for breakthrough in neuro-pigmentation",
    "url": "https://www.premiumbeautynews.com/en/greentech-wins-top-ifscc-award-for,28523",
