@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T02:44:00Z",
+ "updated": "2026-11-10T04:46:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Today’s focus spans strategic exits, tech awards, and retail expansion in the beauty sector.",
+  "hook": "Kolmar Korea dominates CES beauty tech, while L’Oréal’s leadership shift and Ulta’s wearable push signal a dynamic market.",
   "categories": {
-   "📈 Market": "Estée Lauder’s long‑time president is stepping down, marking a leadership shift in the company.",
-   "💄 Brands & Retail": "Olive Young is opening five U.S. stores while Ulta Beauty launches a health tracker, signaling a push into new markets and tech.",
-   "🤝 Strategy & M&A": "Unilever plans to divest its Myanmar stake by 2027, and Office Nature aims to grow globally after merging two French natural cosmetics firms.",
-   "💡 Innovation & Regulation": "Kolmar Korea wins another CES Beauty Tech Award and Beiersdorf raises recycled aluminium in Nivea tins to 95%, highlighting sustainability and tech focus."
+   "📈 Market": "Estée Lauder’s long‑time president departs as the brand faces leadership change amid a record‑attended Beautyworld Osaka event highlighting sleep wellness.",
+   "💄 Brands & Retail": "Ulta Beauty launches a high‑priced health tracker, and Olive Young expands into U.S. California stores, reflecting a push into new channels and tech.",
+   "🤝 Strategy & M&A": "Office Nature’s merger fuels global growth plans, and Unilever’s planned exit from Myanmar signals strategic portfolio realignment.",
+   "💡 Innovation & Regulation": "Kolmar Korea wins CES beauty tech awards again, while Beiersdorf raises Nivea tin recycled aluminium to 95% and Greentech earns an IFSCC Grand Prize for neuro‑pigmentation research."
   }
  },
  "articles": [
+  {
+   "title": "Kolmar Korea's AI lip maker wins top CES beauty award - The Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xSlJCcDlMQk42Q3I1ZUNKNW93Nkw0OGUwS0RLX3hNUVJxM3lvcFQ5YV9PaDRhSG5OWGJzMFE5aVhvRGdKZWdxNm5tSnN6c2lsWmpKbG90VQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Kolmar Korea's AI lip maker received the top award at CES beauty. The award recognizes its leading technology.",
+   "excerpt": "Kolmar Korea's AI lip maker wins top CES beauty award The Korea Herald"
+  },
+  {
+   "title": "Kolmar Korea Wins Top CES Beauty Tech Award for Second Year - Seoul Economic Daily",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjMtV3BQcjRDbHpXcE9GZFdsMklKbzB6OC1VbnN3Q214cHhvLVZIU3daRTFSOERLRDVNTFJpUTZZRTJTYTE2YjJlZ240YTRzMldmY0lTX1NaTXRDTWtoclNJMXBwUTExcWJGaENZS1g1SEpORWJxZ2ZEaEdFZDFPWTRFV3FKSDNWSTEya19YeTBpWE5JRi00bGRMU042MWQtd1BuaQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Kolmar Korea secured the top CES beauty tech award for the second consecutive year. The achievement highlights its continued innovation.",
+   "excerpt": "Kolmar Korea Wins Top CES Beauty Tech Award for Second Year Seoul Economic Daily"
+  },
   {
    "title": "50/50 Isn’t Good Enough: Former Lauder M&A Exec Andrew Ross On What Makes Acquisitions Succeed Or Fail",
    "url": "https://www.beautyindependent.com/former-estee-lauder-ma-exec-andrew-ross-what-derails-acquisitions/",
