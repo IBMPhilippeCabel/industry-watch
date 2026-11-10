@@ -1,17 +1,125 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T04:46:00Z",
+ "updated": "2026-11-10T06:56:00Z",
  "briefing": {
   "date": "2026-11-10",
-  "hook": "Kolmar Korea dominates CES beauty tech, while L’Oréal’s leadership shift and Ulta’s wearable push signal a dynamic market.",
+  "hook": "AI lipstick wins CES award while brands expand retail and L’Oréal sees leadership changes amid market shifts.",
   "categories": {
-   "📈 Market": "Estée Lauder’s long‑time president departs as the brand faces leadership change amid a record‑attended Beautyworld Osaka event highlighting sleep wellness.",
-   "💄 Brands & Retail": "Ulta Beauty launches a high‑priced health tracker, and Olive Young expands into U.S. California stores, reflecting a push into new channels and tech.",
-   "🤝 Strategy & M&A": "Office Nature’s merger fuels global growth plans, and Unilever’s planned exit from Myanmar signals strategic portfolio realignment.",
-   "💡 Innovation & Regulation": "Kolmar Korea wins CES beauty tech awards again, while Beiersdorf raises Nivea tin recycled aluminium to 95% and Greentech earns an IFSCC Grand Prize for neuro‑pigmentation research."
+   "📈 Market": "Estée Lauder’s long‑time president departs as the beauty sector notes record trade show attendance and rising interest in GLP‑1 treatments for aesthetics.",
+   "💄 Brands & Retail": "NakedMD, Glow Recipe, Laneige, and L’Oréal Paris launch initiatives that broaden physical presence and support women’s empowerment.",
+   "🤝 Strategy & M&A": "Unilever exits Myanmar, Office Nature merges for organic growth, and Schwan Cosmetics opens a Korean innovation hub, reflecting strategic realignment.",
+   "💡 Innovation & Regulation": "Kolmar Korea’s AI lipstick system earns a second CES award, Maybelline refreshes its tagline, and Spotless introduces a cruelty‑free pimple gel."
   }
  },
  "articles": [
+  {
+   "title": "Kolmar Korea's AI lipstick system wins CES beauty tech award - The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUC1kWUVMa3gxMDJrUmZsQ0otbGE3WFV2VmJLWW54bnBGcXkwa2J2R0VhSjRyeXdIdVpYSEVZQUVYNDM2R0IyX2JVSkNkVHRFNjVESUxpMUlFRFVBR2xTVE5zd2ZsYlZtemxBWmhyeEdPNGhjdGstQ1dDY0tyQzdKQ21iUHhVWTQ1UWkxVTNCSkRiODVXeWtFVWNod3lxdGExUGdVakVOT29Wd01nTGRiSU9SOUplWUHSAbwBQVVfeXFMTzhSNFlVZERqVHh6QTJfSS1yVFh1NnJvOXNWenFYbWJPVkg4eG8wWHVURVdnSzN3YzF5LU8zWFRMbmQ3bkdYVFZVZnV6M1JUZTI4M3lTdWJId00xMF9JaEE1bTFDcVJKNUw4WWhGcjNJaFE5UHN3WUVMLXNJUnl3NlFOS3Y0UjZkOUZESDVMcWZDa21MNkdwSTl6SGp4aWZ6VUd0YTBFWHZnZFJCQ1AxMWdvU0lKNG1VN0kwQ0Q?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Kolmar Korea's AI lipstick system wins CES beauty tech award - The Korea Times — Kolmar Korea's AI lipstick system wins CES beauty tech award The Korea Times",
+   "excerpt": "Kolmar Korea's AI lipstick system wins CES beauty tech award The Korea Times"
+  },
+  {
+   "title": "NakedMD Has Gone From 2 To 50-Plus Locations With A Limited Menu, No Franchising And “Old-School Products”",
+   "url": "https://www.beautyindependent.com/nakedmd-50-plus-locations-limited-menu-no-franchising-old-school-products/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "NakedMD is expanding from 2 to over 50 locations, focusing on a limited menu of services delivered consistently without franchising.",
+   "excerpt": "NakedMD wants to do for injectables what In-N-Out has done for burgers: Build a recognizable chain around a limited menu of services delivered consistently from location to location. “They really specialize in the burger…"
+  },
+  {
+   "title": "EXCLUSIVE: Glow Recipe Is Entering Ulta Beauty",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/glow-recipe-ulta-beauty-eye-patch-grinder-1239403548/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "Glow Recipe is expanding its retail presence by entering Ulta Beauty after a decade since its debut at Sephora and a recent viral moment.",
+   "excerpt": "Nearly a decade after the brand made its debut at Sephora — and one month since it went viral during \"eye patch gate\" — Glow Recipe is expanding its retail footprint."
+  },
+  {
+   "title": "EXCLUSIVE: Maybelline New York’s Iconic ‘Maybe She’s Born With It’ Tagline Gets a Revamp",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/miley-cyrus-maybe-its-maybelline-new-slogan-1239402476/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Maybelline New York is revamping its iconic ‘Maybe She’s Born With It’ tagline to better align with contemporary women's needs.",
+   "excerpt": "For the first time since the slogan was introduced in 1991, Maybelline is adjusting it “in the direction of what women need today,” said global president Sandrine Jolly."
+  },
+  {
+   "title": "Beauty Briefing: How Sephora is banking on expertise",
+   "url": "https://www.glossy.co/beauty/beauty-briefing-how-sephora-is-banking-on-expertise/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "This article examines how Sephora leverages expertise in brand curation and marketing, while also covering Olive Young’s expansion plans in Southern California and Skims’ recent developments.",
+   "excerpt": "This week, I checked in on how expertise is showing up at Sephora in both its brand curation and marketing strategies. Additionally, Olive Young announces big ambitions to grow across Southern California, and Skims tries…"
+  },
+  {
+   "title": "K-beauty brand Laneige bets on experiential retail with new lip mask station",
+   "url": "https://www.glossy.co/beauty/k-beauty-brand-laneige-bets-on-experiential-retail-with-new-lip-mask-station/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "Laneige is enhancing its experiential retail strategy with a new lip mask station as part of its global growth efforts.",
+   "excerpt": "Laneige, a Korean beauty brand known for its lip masks and moisturizers, is stepping up its experiential retail efforts as it targets global growth."
+  },
+  {
+   "title": "Quarterly Checkup: The Top Takeaways From Beauty’s Q3 2026 Earnings Season",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/top-takeaways-beauty-q3-2026-earnings-season-1239406656/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "The article highlights key takeaways from beauty’s Q3 2026 earnings season, noting continued strength driven by dermocosmetics and China’s market resurgence.",
+   "excerpt": "Despite the ongoing challenges of the macroenvironment, it was good news for beauty companies, which continued to be buoyed by the rise of dermocosmetics and China's resurgence."
+  },
+  {
+   "title": "EXCLUSIVE: Cause and Effect: ‘Women for Worth’ Is L’Oréal Paris’ New Initiative",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/cause-effect-women-for-worth-loreal-paris-new-initiative-1239407415/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "EXCLUSIVE: Cause and Effect: ‘Women for Worth’ Is L’Oréal Paris’ New Initiative — The program will support and celebrate people who concretely elevate women’s role in society.",
+   "excerpt": "The program will support and celebrate people who concretely elevate women’s role in society."
+  },
+  {
+   "title": "The Latest Beauty Executive Moves at Front Row, the Estée Lauder Cos. and More",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-executive-moves-november-2026-1239398638/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "The Latest Beauty Executive Moves at Front Row, the Estée Lauder Cos. and More — Lyma and Clinique introduce new leaders to their marketing teams, plus other C-suite changes.",
+   "excerpt": "Lyma and Clinique introduce new leaders to their marketing teams, plus other C-suite changes."
+  },
+  {
+   "title": "The Top 10 Brands Inside Olive Young at Sephora",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/top-brands-olive-young-sephora-1239398701/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "The Top 10 Brands Inside Olive Young at Sephora — Arencia, Torriden, Abib, and more captured the majority share of dot-com sales among the 19 brands curated by Olive Young at the retailer.",
+   "excerpt": "Arencia, Torriden, Abib, and more captured the majority share of dot-com sales among the 19 brands curated by Olive Young at the retailer."
+  },
+  {
+   "title": "EXCLUSIVE: Dr. Amy Wechsler of Spotless Launches Eponymous Product Line",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/dr-amy-wechsler-skin-care-launch-1239406821/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "EXCLUSIVE: Dr. Amy Wechsler of Spotless Launches Eponymous Product Line — The brand opens with The Spot Gel, $34, a non-comedogenic, cruelty-free pimple treatment formulated with 2 percent salicylic acid.",
+   "excerpt": "The brand opens with The Spot Gel, $34, a non-comedogenic, cruelty-free pimple treatment formulated with 2 percent salicylic acid."
+  },
+  {
+   "title": "Kolmar Korea Wins CES Beauty Tech Best of Innovation Award for Second Consecutive Year - 파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RVWVPN210SUJlT0JoSHllMGpQLVNOWUZmUlN3cWhHVjg1WHFVLTlyeHlNakZ1VEpENEo4ekN2ZWVINzhWcmN6ekZqdUF0d1cyQXFqZ001VWc?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-10",
+   "ai_summary": "Kolmar Korea Wins CES Beauty Tech Best of Innovation Award for Second Consecutive Year - 파이낸셜뉴스 — Kolmar Korea Wins CES Beauty Tech Best of Innovation Award for Second Consecutive Year 파이낸셜뉴스",
+   "excerpt": "Kolmar Korea Wins CES Beauty Tech Best of Innovation Award for Second Consecutive Year 파이낸셜뉴스"
+  },
   {
    "title": "Kolmar Korea's AI lip maker wins top CES beauty award - The Korea Herald",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xSlJCcDlMQk42Q3I1ZUNKNW93Nkw0OGUwS0RLX3hNUVJxM3lvcFQ5YV9PaDRhSG5OWGJzMFE5aVhvRGdKZWdxNm5tSnN6c2lsWmpKbG90VQ?oc=5",
