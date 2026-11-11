@@ -1,17 +1,98 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-11T10:53:00Z",
+ "updated": "2026-11-11T12:55:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Today’s highlights show a shift toward tech‑driven growth, strategic restructuring, and innovative product launches across the beauty sector.",
+  "hook": "Today’s highlights show a mix of new brand launches, strategic acquisitions, and tech-driven retail shifts in the beauty sector.",
   "categories": {
-   "📈 Market": "GLP‑1 treatments such as Ozempic, Wegovy and Mounjaro are increasingly being used for aesthetic purposes worldwide.",
-   "💄 Brands & Retail": "Ulta Beauty is expanding into wearables while Sally Beauty reports modest sales growth, and the sector continues to break down distribution barriers with tech‑driven supply chains.",
-   "🤝 Strategy & M&A": "Rhode targets $1 billion in net sales after its E.l.f. acquisition, Coty is restructuring its French operations to counter declining sales, and Shiseido reports solid Q3 earnings.",
-   "💡 Innovation & Regulation": "Atomy wins a CES 2027 Beauty Tech Award for personalized cleansing, Quadpack launches a haircare packaging line focused on targeted treatments, and Stabilo and Kiko Milano collaborate on a limited‑edition lip collection."
+   "📈 Market": "Shiseido returns to profit in Q3 2026 while Drunk Elephant sees a 23% global sales drop, reflecting mixed performance across the industry.",
+   "💄 Brands & Retail": "Ulta Beauty pushes into wearables and expands its footprint, while Sally Beauty focuses on value to drive modest growth.",
+   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s aims to boost sales to €2 bn by 2030, and Rhode targets $1 bn in net sales after its E.l.f. acquisition.",
+   "💡 Innovation & Regulation": "Virospack’s Autofiller dropper and Atomy’s personalized cleansing tech win awards, signaling a focus on user-friendly innovation."
   }
  },
  "articles": [
+  {
+   "title": "Influencer Stella Tzortzi on building a brand inspired by Mediterranean hair oiling rituals",
+   "url": "https://www.cosmeticsbusiness.com/influencer-stella-tzortzi-on-building-cee-cee",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Influencer Stella Tzortzi built Cee Cee from scratch, drawing on Mediterranean hair oiling rituals to create a culturally-driven natural hair care brand.",
+   "excerpt": "Influencer Stella Tzortzi built Cee Cee from scratch. Now, the content creator is ready for the world to try her culturally-driven, natural hair care inspired by Mediterranean hair oiling rituals passed down from generat…"
+  },
+  {
+   "title": "Cardi B brings Grow-Good Beauty to Canada",
+   "url": "https://www.cosmeticsbusiness.com/cardi-b-brings-grow-good-beauty-to-canada",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-11",
+   "ai_summary": "Cardi B’s hair care brand Grow‑Good Beauty launches direct‑to‑consumer sales in Canada, marking a new phase of growth for the Dominican‑inspired brand.",
+   "excerpt": "Rapper Cardi B’s hair care brand, Grow-Good Beauty, launches direct to consumers in Canada, marking the ‘next chapter’ in the Dominican-inspired brand’s growth"
+  },
+  {
+   "title": "Shiseido returns to profit in Q3 26, but Drunk Elephant records ‘severe underperformance’",
+   "url": "https://www.cosmeticsbusiness.com/shiseido-returns-to-profit-in-q3-26",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Shiseido returns to profit in Q3 2026, while Drunk Elephant experiences a 23% drop in global sales and severe underperformance in US e-commerce.",
+   "excerpt": "Despite returning to profit, Drunk Elephant global sales decreased 23% during the quarter after recording ‘some severe underperformance’ in US e-commerce sales"
+  },
+  {
+   "title": "Phlur opens festive pop-up with Space NK to ‘build’ hype around Heavy Cream franchise",
+   "url": "https://www.cosmeticsbusiness.com/phlur-opens-festive-pop-up-with-space-nk",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Phlur partners with Space NK for a festive pop‑up to promote its Heavy Cream fragrance line, creating hype around the new Eau de Parfum and Body Butter.",
+   "excerpt": "Phlur has teamed up with the UK beauty retailer on a festive activation to promote the masstige fragrance brand’s new Heavy Cream Eau de Parfum and Heavy Cream Body Butter, alongside Space NK exclusive Cashmere Frost Hai…"
+  },
+  {
+   "title": "Indie brand Monte Club is shaking up the tired male grooming industry",
+   "url": "https://www.cosmeticsbusiness.com/indie-brand-monte-club-is-shaking-up-male-grooming",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Indie brand Monte Club aims to revitalize the male grooming market with its award‑winning Pure Beauty product and strong marketing efforts.",
+   "excerpt": "With male grooming moving at a glacial pace at times, indie hair care brand Monte Club wants to make a difference in the stagnant category. Find out how its Pure Beauty Award-winning product and stellar marketing are mak…"
+  },
+  {
+   "title": "Olaplex helps Henkel’s sales in Q3 as hair care acquisitions set to boost growth",
+   "url": "https://www.cosmeticsbusiness.com/olaplex-helps-henkel-sales-q3-hair-acquistions-boost-growth",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-11",
+   "ai_summary": "Henkel’s acquisition of Olaplex and Not Your Mother’s is expected to boost sales and deliver above‑average growth, targeting €2 bn in annual sales by 2030.",
+   "excerpt": "Henkel’s newly acquired hair care brands Olaplex and Not your Mother’s are expected to help deliver ‘above-average growth’ and €2bn of annual sales by 2030"
+  },
+  {
+   "title": "Sol de Janeiro and Smashbox among brands donating $83 million excess stock in new initiative",
+   "url": "https://www.cosmeticsbusiness.com/sol-de-janeiro-smashbox-brands-donating-excess-stock-beauty-vessel",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Sol de Janeiro and Smashbox donate $83 million of excess stock to Vessel, a start‑up aiming to reduce beauty industry waste.",
+   "excerpt": "Vessel, a new start-up with $5 million backing, aims to solve the issue of excess inventory going to landfills or incineration in the beauty industry and beyond, with brands Sol de Janeiro and Smashbox taking part in the…"
+  },
+  {
+   "title": "Why do chemicals in beauty products have a bad reputation? How better science communication can tackle misinformation",
+   "url": "https://www.cosmeticsbusiness.com/chemicals-beauty-products-bad-reputation-science-comms-tackle-misinformation",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Chemicals in beauty products suffer from a bad reputation due to misinformation; better science communication can help reshape public perception.",
+   "excerpt": "In an era of widespread misinformation, inaccurate science communication is rife. In his keynote speech at the CTPA Scientific Conference, Beta Montemayor tackled how the industry can start to rewire the public perceptio…"
+  },
+  {
+   "title": "From twist to drop: Meet Virospack autofill",
+   "url": "https://www.cosmeticsbusiness.com/from-twist-to-drop-meet-virospack-autofill",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-11",
+   "ai_summary": "Virospack introduces the Autofiller push‑button dropper to improve application with intuitive design and precision.",
+   "excerpt": "Virospack presents Autofiller push button dropper, a new solution designed to enhance the application experience through a combination of intuitive functionality, precision, and premium design. Designed especially for se…"
+  },
   {
    "title": "Rhode’s Road Map to $1 Billion in Sales",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/rhodes-roadmap-1-billion-sales-1239408689/",

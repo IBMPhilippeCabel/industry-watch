@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-11T10:53:00Z",
+ "updated": "2026-11-11T12:55:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Today’s focus is on cat‑food growth, precision fermentation, and regulatory shifts reshaping ingredient approval.",
+  "hook": "Regulatory shifts, market growth, regenerative sourcing, and investment expansion shape the pet food landscape today.",
   "categories": {
-   "📈 Market": "Hill’s cat‑food sales rise and ADM’s precision fermentation signal a strategic pivot toward high‑growth segments.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could change how pet‑food ingredients reach the market.",
-   "💡 Innovation": "Bison co‑products and university partnerships highlight a move toward regenerative sourcing and research‑driven development.",
-   "🤝 M&A": "Mars’s £161 m factory expansion and Fortifi’s acquisition of I.J. White Systems strengthen production capabilities."
+   "📈 Market": "Hill’s Pet Nutrition reports a 5.6% YoY rise in cat‑food sales, underscoring the segment’s growing importance.",
+   "⚖️ Regulation": "The FDA’s proposed overhaul of the GRAS notification process could reshape how pet‑food ingredients reach the market.",
+   "💡 Innovation": "Bison co‑products in pet food support regenerative ranching by promoting whole‑animal utilization and grazing management.",
+   "🤝 M&A": "Mars will invest £161 million to expand its Leicestershire factory, boosting production capacity for pet food products."
   }
  },
  "articles": [
+  {
+   "title": "Fressnapf expands urban concept as Europe’s pet retailers test new store formats",
+   "url": "https://globalpetindustry.com/news/fressnapf-maxi-zoo-to-expand-urban-store-concept-in-vienna-berlin-and-hamburg/",
+   "source": "Global Pet Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-11",
+   "ai_summary": "Fressnapf expands urban concept as Europe’s pet retailers test new store formats — Pet retailers in the region are exploring ways to expand their physical presence. Recent developments in France, Germany, Italy and the Netherlands highlight how players are adapting their store networks to reach customers.",
+   "excerpt": "Pet retailers in the region are exploring ways to expand their physical presence. Recent developments in France, Germany, Italy and the Netherlands highlight how players are adapting their store networks to reach custome…"
+  },
   {
    "title": "Hill’s puts cat food at the center of growth strategy",
    "url": "https://globalpetindustry.com/news/hills-puts-cat-food-at-the-center-of-growth-strategy/",

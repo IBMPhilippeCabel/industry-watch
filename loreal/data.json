@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-11T10:53:00Z",
+ "updated": "2026-11-11T12:55:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "L’Oréal’s day highlighted a sell rating, startup support, Maybelline tagline revamp, and Q3 haircare growth.",
+  "hook": "L'Oréal faces a sell rating while boosting startup support and launching new initiatives amid Maybelline's tagline overhaul and Q3 growth.",
   "categories": {
-   "🤝 Strategy & M&A": "Deutsche Bank issues a sell rating for L’Oréal while the group helps startups commercialise innovations.",
-   "💄 Brands & Launches": "Maybelline refreshes its long‑standing tagline to appeal to Gen Z and Miley Cyrus’s influence.",
-   "💡 Beauty Tech & ESG": "Q3 sales growth is driven by stronger demand in the haircare segment.",
-   "📈 Market": null
+   "🤝 Strategy & M&A": "Deutsche Bank rates L'Oréal as sell, while the group helps startups turn ideas into business models and launches a new Women for Worth initiative.",
+   "💄 Brands & Launches": "Maybelline refreshes its 35‑year‑old tagline, redefining its iconic message for a new era.",
+   "💡 Beauty Tech & ESG": "L'Oréal reports Q3 growth across all divisions, driven by strong demand in haircare.",
+   "📈 Market": "Maybelline’s revamped tagline signals a shift in its marketing strategy, aligning with Gen Z appeal."
   }
  },
  "articles": [
@@ -92,6 +92,15 @@
    "date": "2026-11-10",
    "ai_summary": "Maybelline updates its 35-year-old tagline to appeal to Gen Z. The change reflects a shift in marketing strategy.",
    "excerpt": "Maybelline Rewrites Its 35-Year-Old Tagline for Gen Z ADWEEK"
+  },
+  {
+   "title": "MAYBELLINE NEW YORK REIMAGINES ITS ICONIC TAGLINE, GIVING 'MAYBE' A NEW MEANING FOR A NEW ERA - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGp6WFprQmcza0NURmFHMVQ4OFhpOVRfOEJHSE9feUIxN2lkSE5nb0dEb0s3TnZpMjhQa0JaOXdCOEFLUURtaE1HcWM5YXA3TllLamI3VnRTcGNGY2tvV0M4NWpjWV9NZUwzT3pqUE9hM2JhSDZpcEJRNkdPTWpUMDlwRVJzVnQzUFJQYXhQTi05b0RBaHRMM0xmWjFQVXozbVhvTTlaaDBiRWk0UnItWDdkTmlTRDlqekJ3YUNSRDM3NFZtRkFOOXNQQ0dYRlliaWFnQ3pPTVVCamg3WjVz?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-10",
+   "ai_summary": "Maybelline New York updates its iconic tagline, redefining the word 'maybe' for a new era. The change reflects the brand’s evolving message and contemporary positioning.",
+   "excerpt": "MAYBELLINE NEW YORK REIMAGINES ITS ICONIC TAGLINE, GIVING 'MAYBE' A NEW MEANING FOR A NEW ERA PR Newswire"
   },
   {
    "title": "How L’Oréal is helping startups turn innovation into business - Jing Daily",

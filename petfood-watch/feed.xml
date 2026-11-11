@@ -5,7 +5,16 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-11-11T10:53:00Z</updated>
+  <updated>2026-11-11T12:55:00Z</updated>
+  <entry>
+    <title>Fressnapf expands urban concept as Europe’s pet retailers test new store formats</title>
+    <id>https://globalpetindustry.com/news/fressnapf-maxi-zoo-to-expand-urban-store-concept-in-vienna-berlin-and-hamburg/</id>
+    <link href="https://globalpetindustry.com/news/fressnapf-maxi-zoo-to-expand-urban-store-concept-in-vienna-berlin-and-hamburg/"/>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <category term="⚖️ Regulation"/>
+    <author><name>Global Pet Industry</name></author>
+    <summary>Fressnapf expands urban concept as Europe’s pet retailers test new store formats — Pet retailers in the region are exploring ways to expand their physical presence. Recent developments in France, Germany, Italy and the Netherlands highlight how players are adapting their store networks to reach customers.</summary>
+  </entry>
   <entry>
     <title>Hill’s puts cat food at the center of growth strategy</title>
     <id>https://globalpetindustry.com/news/hills-puts-cat-food-at-the-center-of-growth-strategy/</id>
@@ -446,14 +455,5 @@
     <category term="💡 Innovation"/>
     <author><name>Petfood Industry</name></author>
     <summary>Researchers used machine learning and mathematical optimization to create potential wet dog food recipes, but data gaps limit the approach.</summary>
-  </entry>
-  <entry>
-    <title>Companionship costs: Why dog ownership is becoming harder to afford</title>
-    <id>https://www.petfoodprocessing.net/articles/21046-companionship-costs-why-dog-ownership-is-becoming-harder-to-afford</id>
-    <link href="https://www.petfoodprocessing.net/articles/21046-companionship-costs-why-dog-ownership-is-becoming-harder-to-afford"/>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <category term="📈 Market"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>Interest in dog ownership remains strong, yet economic pressures are creating barriers for many prospective owners.</summary>
   </entry>
 </feed>
