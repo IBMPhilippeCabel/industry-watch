@@ -5,7 +5,16 @@
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/feed.xml" rel="self"/>
   <link href="https://ibmphilippecabel.github.io/industry-watch/petfood-watch/"/>
   <id>https://ibmphilippecabel.github.io/industry-watch/petfood-watch/</id>
-  <updated>2026-11-11T08:50:00Z</updated>
+  <updated>2026-11-11T10:53:00Z</updated>
+  <entry>
+    <title>Hill’s puts cat food at the center of growth strategy</title>
+    <id>https://globalpetindustry.com/news/hills-puts-cat-food-at-the-center-of-growth-strategy/</id>
+    <link href="https://globalpetindustry.com/news/hills-puts-cat-food-at-the-center-of-growth-strategy/"/>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <category term="📈 Market"/>
+    <author><name>Global Pet Industry</name></author>
+    <summary>Hill’s Pet Nutrition focuses on cat food as a key growth area, reporting a 5.6% YoY increase in net sales to $1.2 billion in Q3 FY2026. The segment accounts for 22% of the group’s total net sales, highlighting its importance to the company’s strategy.</summary>
+  </entry>
   <entry>
     <title>Bison co-products in pet food support regenerative ranching</title>
     <id>https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16425094/bison-coproducts-in-pet-food-support-regenerative-ranching</id>
@@ -446,14 +455,5 @@
     <category term="📈 Market"/>
     <author><name>Pet Food Processing</name></author>
     <summary>Interest in dog ownership remains strong, yet economic pressures are creating barriers for many prospective owners.</summary>
-  </entry>
-  <entry>
-    <title>Fiber for Dogs transitions to certified organic ingredients</title>
-    <id>https://www.petfoodprocessing.net/articles/21045-fiber-for-dogs-transitions-to-certified-organic-ingredients</id>
-    <link href="https://www.petfoodprocessing.net/articles/21045-fiber-for-dogs-transitions-to-certified-organic-ingredients"/>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <category term="⚖️ Regulation"/>
-    <author><name>Pet Food Processing</name></author>
-    <summary>The brand’s dog supplement upgrade to certified organic ingredients aims to meet the highest standards of purity and quality.</summary>
   </entry>
 </feed>

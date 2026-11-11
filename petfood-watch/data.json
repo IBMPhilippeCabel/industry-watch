@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-11T08:50:00Z",
+ "updated": "2026-11-11T10:53:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Pet food trends today mix regenerative ranching, academic partnerships, and strategic investments amid evolving pricing and regulatory shifts.",
+  "hook": "Today’s focus is on cat‑food growth, precision fermentation, and regulatory shifts reshaping ingredient approval.",
   "categories": {
-   "📈 Market": "ADM’s focus on precision fermentation signals a shift toward innovative production methods in the pet food sector.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how ingredients enter the market, while skin-focused science drives safer product labels.",
-   "💡 Innovation": "Academic collaborations and regenerative ranching initiatives are driving new ingredient sourcing and workforce development in the industry.",
-   "🤝 M&A": "Mars’s £161 million investment in its Leicestershire factory underscores continued expansion of production capacity in the UK pet food market."
+   "📈 Market": "Hill’s cat‑food sales rise and ADM’s precision fermentation signal a strategic pivot toward high‑growth segments.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could change how pet‑food ingredients reach the market.",
+   "💡 Innovation": "Bison co‑products and university partnerships highlight a move toward regenerative sourcing and research‑driven development.",
+   "🤝 M&A": "Mars’s £161 m factory expansion and Fortifi’s acquisition of I.J. White Systems strengthen production capabilities."
   }
  },
  "articles": [
+  {
+   "title": "Hill’s puts cat food at the center of growth strategy",
+   "url": "https://globalpetindustry.com/news/hills-puts-cat-food-at-the-center-of-growth-strategy/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Hill’s Pet Nutrition focuses on cat food as a key growth area, reporting a 5.6% YoY increase in net sales to $1.2 billion in Q3 FY2026. The segment accounts for 22% of the group’s total net sales, highlighting its importance to the company’s strategy.",
+   "excerpt": "Hill’s Pet Nutrition recorded a 5.6% year-over-year (YoY) increase in net sales to $1.2 billion (€1.04B) in the third quarter (Q3) of fiscal year (FY) 2026, accounting for 22% of the group’s total net sales. Organic sale…"
+  },
   {
    "title": "Bison co-products in pet food support regenerative ranching",
    "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16425094/bison-coproducts-in-pet-food-support-regenerative-ranching",
