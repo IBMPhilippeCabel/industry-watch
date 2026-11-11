@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-11T21:27:00Z",
+ "updated": "2026-11-11T22:45:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Today’s highlights show a focus on sustainability, market growth, regulatory shifts, and strategic investments in pet food.",
+  "hook": "Pet food industry sees growth, innovation, and regulatory shifts amid new plant expansions and strategic investments.",
   "categories": {
-   "📈 Market": "Hill’s Pet Nutrition’s cat‑food sales rise signals a key growth area while new Argentinian factory entry indicates continued market optimism.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet‑food ingredients reach the market.",
-   "💡 Innovation": "Industry leaders emphasize that nutrition, price, accessibility and brand recognition outweigh pure environmental claims in consumer choices, while new supplement lines and academic partnerships push product development.",
-   "🤝 M&A": "Mars is investing £161 million to expand its Leicestershire factory, boosting production capacity for pet food products."
+   "📈 Market": "Pet’s Table expands its fresh pet food market in Mexico, while Hill’s Pet Nutrition reports cat food growth and ADM pushes precision fermentation.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape ingredient approvals, while skinification trends drive safer, natural pet products.",
+   "💡 Innovation": "Sustainability debates coexist with price and nutrition priorities, as Spirited Paw launches new supplements and bison co‑products support regenerative ranching.",
+   "🤝 M&A": "Mars invests £161 million to expand its Leicestershire factory, and Fortifi acquires I.J. White Systems to broaden processing capabilities."
   }
  },
  "articles": [
+  {
+   "title": "Pet’s Table expands Mexico’s fresh pet food market with new plant",
+   "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/16425359/pets-table-expands-mexicos-fresh-pet-food-market-with-new-plant",
+   "source": "Petfood Industry",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Pet’s Table expands Mexico’s fresh pet food market with new plant — The producer of freshly cooked and frozen pet food has grown from a small startup kitchen to a 6,000-square-meter facility near...",
+   "excerpt": "The producer of freshly cooked and frozen pet food has grown from a small startup kitchen to a 6,000-square-meter facility near..."
+  },
   {
    "title": "Expand, redesign or end? Deciding the fate of a pet food sustainability program",
    "url": "https://www.petfoodindustry.com/business-strategy/article/16425330/expand-redesign-or-end-deciding-the-fate-of-a-pet-food-sustainability-program",
