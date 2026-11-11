@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-11T00:48:00Z",
+ "updated": "2026-11-11T02:43:00Z",
  "briefing": {
-  "date": "2026-11-10",
-  "hook": "Price and innovation shape the pet food day, with new supplier stocks rising and regulatory shifts on ingredient safety.",
+  "date": "2026-11-11",
+  "hook": "Pet food trends today mix regenerative ranching, academic partnerships, and strategic investments amid evolving pricing and regulatory shifts.",
   "categories": {
-   "📈 Market": "ADM is laying groundwork for precision fermentation to drive future growth.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet food ingredients reach the market.",
-   "💡 Innovation": "Price is no longer the sole driver as cost pressures and evolving consumer expectations reshape the industry.",
-   "🤝 M&A": "Fortifi’s acquisition of I.J. White Systems expands its processing capabilities."
+   "📈 Market": "ADM’s focus on precision fermentation signals a shift toward innovative production methods in the pet food sector.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how ingredients enter the market, while skin-focused science drives safer product labels.",
+   "💡 Innovation": "Academic collaborations and regenerative ranching initiatives are driving new ingredient sourcing and workforce development in the industry.",
+   "🤝 M&A": "Mars’s £161 million investment in its Leicestershire factory underscores continued expansion of production capacity in the UK pet food market."
   }
  },
  "articles": [
@@ -29,6 +29,24 @@
    "date": "2026-11-10",
    "ai_summary": "Partnerships between universities and pet food companies combine academic rigor with real-world manufacturing and marketplace experience. These collaborations aim to advance research and train a skilled workforce for the industry.",
    "excerpt": "Partnerships between universities and pet food companies combine academic rigor with real-world manufacturing and marketplace..."
+  },
+  {
+   "title": "'We are strengthening the site's role within our regional supply network and ensuring we can continue to meet the needs of British pet owners for years to come' - Melton Times",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzFzaTNUdXdKVHAtRFVZdDdXRjNBRXVYTFZWWjlCcGxBQkY4Q2JPVnNDdDZ4ckRfMHAzNVU1WHJNckFOZ1Ria2FCVUs0OWRJWWl6VzVaMTd3MlpPZFgxX21DUWdJNnBZZ2JUMl9LUVRCRzNYRnRpVHhHZ3Y1T1RibFlIUC1FbnpHMzlzbjI4TWk5UTRyTTR2QkY0SmdraXBXbVJnMFdMbE9ta1lhT0JOQnlKalNXVzA5d2c?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-10",
+   "ai_summary": "The company emphasizes strengthening the site’s role in the regional supply network to continue meeting British pet owners’ needs for years to come.",
+   "excerpt": "'We are strengthening the site's role within our regional supply network and ensuring we can continue to meet the needs of British pet owners for years to come' Melton Times"
+  },
+  {
+   "title": "Mars invest £161M into Leicestershire factory - Food Manufacture",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWNULTg4dGlrUGFLWkw1YWswUG1iYzhnRW9qTW4zTlIwaGdKOGZmLXZmbzVPVVZ3N0FTWGpXU2tleXhQUEktRlBCbzhFSHBEME8wVXFqeXZiOGlmRmhFQzA0YjdRbWdQU0o0QU5LclBUbm1FY1ZWLU9CcGhLdzVOQUptak81NWxyWnJfY3BLUDZKY24tQVVBV2E3a09vZw?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Mars will invest £161M to expand its Leicestershire factory, enhancing production capacity for pet food products.",
+   "excerpt": "Mars invest £161M into Leicestershire factory Food Manufacture"
   },
   {
    "title": "ADM to focus on precision fermentation for future potential",
