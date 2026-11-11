@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-11T06:59:00Z",
+ "updated": "2026-11-11T08:50:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Innovation wins and market shifts highlight a dynamic beauty sector.",
+  "hook": "Today’s highlights show a shift toward tech‑driven growth, strategic restructuring, and innovative product launches across the beauty sector.",
   "categories": {
-   "📈 Market": "GLP‑1 treatments are increasingly used for aesthetic purposes as their popularity grows worldwide.",
-   "💄 Brands & Retail": "Sephora and Ulta expand, while brands like Glow Recipe and NakedMD grow retail footprints and embrace technology.",
-   "🤝 Strategy & M&A": "Coty is restructuring its French operations to counter declining sales as part of a turnaround strategy.",
-   "💡 Innovation & Regulation": "Atomy wins the CES 2027 Beauty Tech Innovation Award for its personalized cleansing technology, while Greentech receives the 2026 IFSCC Grand Prize for applied research."
+   "📈 Market": "GLP‑1 treatments such as Ozempic, Wegovy and Mounjaro are increasingly being used for aesthetic purposes worldwide.",
+   "💄 Brands & Retail": "Ulta Beauty is expanding into wearables while Sally Beauty reports modest sales growth, and the sector continues to break down distribution barriers with tech‑driven supply chains.",
+   "🤝 Strategy & M&A": "Rhode targets $1 billion in net sales after its E.l.f. acquisition, Coty is restructuring its French operations to counter declining sales, and Shiseido reports solid Q3 earnings.",
+   "💡 Innovation & Regulation": "Atomy wins a CES 2027 Beauty Tech Award for personalized cleansing, Quadpack launches a haircare packaging line focused on targeted treatments, and Stabilo and Kiko Milano collaborate on a limited‑edition lip collection."
   }
  },
  "articles": [
@@ -56,6 +56,15 @@
    "date": "2026-11-11",
    "ai_summary": "Atomy wins CES 2027 Beauty Tech Innovation Award, demonstrating the strength of its personalized cleansing technology 파이낸셜뉴스",
    "excerpt": "Atomy wins CES 2027 Beauty Tech Innovation Award, demonstrating the strength of its personalized cleansing technology 파이낸셜뉴스"
+  },
+  {
+   "title": "Quadpack unveils packaging collection for the new generation of haircare",
+   "url": "https://www.premiumbeautynews.com/en/quadpack-unveils-packaging,28526",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-11",
+   "ai_summary": "Quadpack introduces a new packaging collection for haircare, reflecting trends like skinification, premiumisation, and hyper-segmentation. The focus shifts from traditional shampoos and conditioners to targeted treatments aimed at stronger, denser, and healthier hair.",
+   "excerpt": "Driven by trends such as skinification, premiumisation and hyper-segmentation, the haircare category is moving beyond traditional shampoos and conditioners towards targeted treatments promising stronger, denser and healt…"
   },
   {
    "title": "Coty to Restructure French Business, Cut Jobs and Refocus Strategy - Global Banking & Finance Review",
