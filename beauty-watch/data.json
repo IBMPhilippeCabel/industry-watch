@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-11T16:49:00Z",
+ "updated": "2026-11-11T18:48:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Today’s highlights show a mix of new brand launches, strategic acquisitions, and tech-driven retail shifts in the beauty sector.",
+  "hook": "Tech, expansion and sustainability dominate the beauty market today.",
   "categories": {
-   "📈 Market": "Shiseido returns to profit in Q3 2026 while Drunk Elephant sees a 23% global sales drop, reflecting mixed performance across the industry.",
-   "💄 Brands & Retail": "Ulta Beauty pushes into wearables and expands its footprint, while Sally Beauty focuses on value to drive modest growth.",
-   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s aims to boost sales to €2 bn by 2030, and Rhode targets $1 bn in net sales after its E.l.f. acquisition.",
-   "💡 Innovation & Regulation": "Virospack’s Autofiller dropper and Atomy’s personalized cleansing tech win awards, signaling a focus on user-friendly innovation."
+   "📈 Market": "Shiseido returns to profit while Drunk Elephant sees a sharp sales drop, and Sol de Janeiro and Smashbox donate excess stock to reduce waste.",
+   "💄 Brands & Retail": "No Makeup Makeup appoints Bill Guthy as CEO, Ulta pushes into wearables, and Sally Beauty reports modest sales growth.",
+   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s targets €2 bn sales by 2030, and E.l.f. Beauty aims to take Rhode to $1 bn net sales.",
+   "💡 Innovation & Regulation": "TRI-K unveils TRIglyphix Soothe for sensitive scalp, Virospack launches Autofiller dropper, and Atomy wins a CES 2027 Beauty Tech Innovation Award."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: Beauty Power Couple Victoria Jackson and Bill Guthy Join Forces to Take Over the Color Cosmetics Industry",
+   "url": "https://wwd.com/beauty-industry-news/color-cosmetics/bill-guthy-victoria-jackson-no-makeup-makeup-1239409753/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-11",
+   "ai_summary": "Beauty Power Couple Victoria Jackson and Bill Guthy join forces, with Guthy named CEO of No Makeup Makeup, the tech-driven brand founded by Jackson in 2024.",
+   "excerpt": "Guthy has been named chief executive officer of No Makeup Makeup, the tech-driven brand founded by Jackson in 2024."
+  },
+  {
+   "title": "TRI-K introduces TRIglyphix Soothe: advanced scalp soothing for lasting comfort",
+   "url": "https://www.cosmeticsbusiness.com/tri-k-introduces-triglyphix-soothe-advanced-scalp-soothing",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-11",
+   "ai_summary": "TRI-K launches TRIglyphix Soothe, an advanced scalp soothing ingredient showcased at in-cosmetics Asia, designed to help formulators address sensitive scalp needs with visible benefits and a focus on comfort.",
+   "excerpt": "Debuting at in-cosmetics Asia, this new ingredient helps formulators address sensitive scalp needs with visible benefits and a focus on comfort"
+  },
   {
    "title": "Influencer Stella Tzortzi on building a brand inspired by Mediterranean hair oiling rituals",
    "url": "https://www.cosmeticsbusiness.com/influencer-stella-tzortzi-on-building-cee-cee",
