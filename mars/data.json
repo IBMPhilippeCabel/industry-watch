@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-11T02:43:00Z",
+ "updated": "2026-11-11T04:52:00Z",
  "briefing": {
-  "date": "2026-11-10",
-  "hook": "Mars announces a $1.4B U.S. investment to expand manufacturing and snacking portfolio after its $36B Kellanova acquisition.",
+  "date": "2026-11-11",
+  "hook": "Mars boosts US manufacturing while M&M's launches holiday-themed packs and viral OPI advent calendar, amid playful NASCAR‑Snickers banter.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars will invest $1.4B in U.S. manufacturing in 2027 to grow its snacking portfolio following the $36B acquisition of Kellanova.",
+   "🤝 Mars Corporate & M&A": "Mars announced a $1.4B investment in U.S. manufacturing in 2027 to expand its snacking portfolio after acquiring Kellanova.",
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "Hendrick Motorsports’ playful Snickers joke featuring Denny Hamlin sparked social media buzz, while the FruitGuys pitch promotes healthier fruit choices over Snickers in workplaces.",
+   "🍫 Snacking & FMCG Market": "M&M's tied three Christmas films to candy packs, released a colorful OPI x M&M's advent calendar, and responded to a NASCAR‑Snickers joke.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M'S ties 3 Christmas films to holiday candy packs - ContentGrip",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ncURKWXlycU1KR24yUm85UmtLazR2d0JHbWRGZUJ1Ty11RTBEem9vYkpJMkxpbjFVRklRNkZtc0FrTFRpMTRDVzlEOGdrUmQtbW9ybWNvRE5mTjcwNkxXdDdhVWg0cy14cnpj?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-11",
+   "ai_summary": "M&M'S ties three Christmas films to holiday candy packs.",
+   "excerpt": "M&M'S ties 3 Christmas films to holiday candy packs ContentGrip"
+  },
   {
    "title": "Denny Hamlin Responds to Hendrick's 'Snickers' Photo Jab - MotorBiscuit",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rLXBtb2ItRmFudlZ6Qlh6Uy1zLTJlYldWUVN2QXpYZUVQc3U5bjlpT3A0MUNjR0dKbk5ScnFxckdEU0xfYlBCQ193dUxnbGE5V1JROWFfM2k0eHhSTzZUeWE5T2F5X25nTDJQMmJFbXFQYXB6SzZzbkVHMlZjd0k?oc=5",
@@ -30,6 +39,15 @@
    "date": "2026-11-10",
    "ai_summary": "Reviewers praise the OPI x M&M's viral advent calendar for its vibrant colors, ideal for winter celebrations.",
    "excerpt": "Reviewers Say OPI x M&M's Viral Advent Calendar Is Filled With \"Vibrant\" Colors for Winter AOL.com"
+  },
+  {
+   "title": "Reviewers Say OPI x M&M's Viral Advent Calendar Is Filled With \"Vibrant\" Colors for Winter - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV19IaDVLWDVDZGYxNTMyMURNSHF2amtVY1JZWkg5RGJ6aDBUM3VDRlBTMjZ5ZTZzQlJjWGFUX3dMY25iXzdNcnFjT09CMHNYVFowZkt0cHFBN0NjSHEwdUxkWmx3VEtCMzBRcXNFRjloV1YxdmdYRmdJRkFNcm95clZyZ1ZQek9WYVFWSA?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-10",
+   "ai_summary": "Reviewers say the OPI x M&M's viral advent calendar is filled with vibrant colors for winter.",
+   "excerpt": "Reviewers Say OPI x M&M's Viral Advent Calendar Is Filled With \"Vibrant\" Colors for Winter Yahoo"
   },
   {
    "title": "Hendrick Motorsports pokes fun at Denny Hamlin with Snickers photo: \"That was all Rick\" - Motorsport.com",
