@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-10T22:36:00Z",
+ "updated": "2026-11-11T00:48:00Z",
  "briefing": {
-  "date": "2026-11-10",
-  "hook": "Retail expansion and tech wins drive today’s beauty buzz.",
+  "date": "2026-11-11",
+  "hook": "Today’s highlights show a shift toward tech‑driven personalization, strategic restructuring, and expanding retail footprints across the beauty sector.",
   "categories": {
-   "📈 Market": "Maybelline refreshed its tagline to modernize its image, while Dove’s moisturising claim was upheld by the National Advertising Division.",
-   "💄 Brands & Retail": "Sally Beauty beat expectations, and several brands—Dix Hectares Eyes, Glow Recipe, NakedMD, Laneige—expanded retail footprints or enhanced experiential strategies.",
-   "🤝 Strategy & M&A": "Shiseido posted solid Q3 results, Coty reorganised French operations, and Office Nature set global growth targets after its merger.",
-   "💡 Innovation & Regulation": "Kolmar Korea secured CES Best of Innovation in Beauty Tech for a second year, highlighting advances in beauty tech, while clean‑beauty trends continue to shape the market."
+   "📈 Market": "Maybelline refreshed its long‑running tagline to modernize its image while Dove’s moisturizing claim was upheld, reflecting a mix of brand repositioning and regulatory support.",
+   "💄 Brands & Retail": "Sally Beauty reported modest sales growth, while brands like Dix Hectares, NakedMD, and Glow Recipe expand retail presence, and Sephora continues to leverage curation amid Olive Young’s U.S. expansion.",
+   "🤝 Strategy & M&A": "Coty is restructuring its French business to counter sales decline, Shiseido reports solid Q3 results, and Office Nature targets global growth after its merger, underscoring a focus on turnaround and expansion.",
+   "💡 Innovation & Regulation": "Atomy won a CES 2027 Beauty Tech award for personalized cleansing, while Greentech earned a 2026 IFSCC Grand Prize, and Stabilo and Kiko launched a playful lip line, highlighting tech and clean‑beauty innovation."
   }
  },
  "articles": [
+  {
+   "title": "Atomy wins CES 2027 Beauty Tech Innovation Award, demonstrating the strength of its personalized cleansing technology - 파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMWVuZTFqZFBmZVNGM0dNaXFheTlDVXhXS04zRU1FNE1HSm1uRTFJQkxER2w5SEhOeWNxVlNwUEZNNE5Ja0FkYzJ4ZUJDdkdnSzk3YnNZb1c?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-11",
+   "ai_summary": "Atomy wins CES 2027 Beauty Tech Innovation Award, demonstrating the strength of its personalized cleansing technology 파이낸셜뉴스",
+   "excerpt": "Atomy wins CES 2027 Beauty Tech Innovation Award, demonstrating the strength of its personalized cleansing technology 파이낸셜뉴스"
+  },
+  {
+   "title": "Coty to Restructure French Business, Cut Jobs and Refocus Strategy - Global Banking & Finance Review",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjAzcnQtNmtBVkp6OEs0d1pfVXd0enJ0anRWZVRJckRQS0ZzUkxkeXk4VV91eF94Rk1Lbi1NQWxGaGtKT2ZvUWZUVFF4UzRTVDFsWUhWQ0hYMFJ2eHJRMk5wU19nRXl4ZzFwRHJDdTVza2UwaEk3NzJWZ3VqcDIxYzdqdlVTTGU1X05wcjJn?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Coty to Restructure French Business, Cut Jobs and Refocus Strategy Global Banking & Finance Review",
+   "excerpt": "Coty to Restructure French Business, Cut Jobs and Refocus Strategy Global Banking & Finance Review"
+  },
+  {
+   "title": "State Of Indie Beauty 2026: The Old Order Gives Way In A Less Forgiving Market",
+   "url": "https://www.beautyindependent.com/state-of-indie-beauty-2026-old-order-gives-way-less-forgiving-market/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-10",
+   "ai_summary": "In a year when many trends looked backward, the beauty industry steamrolled forward, tearing down walls separating distribution channels, reworking supply chains and pushing technological boundaries with artificial intel…",
+   "excerpt": "In a year when many trends looked backward, the beauty industry steamrolled forward, tearing down walls separating distribution channels, reworking supply chains and pushing technological boundaries with artificial intel…"
+  },
   {
    "title": "Sally Beauty Surpasses Expectations in Q4 Results",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/sally-beauty-surpasses-expectations-q4-results-1239409629/",
@@ -5006,15 +5033,6 @@
    "date": "2026-10-13",
    "ai_summary": "Amber Valletta launches a new clean hair care brand that offers a luxury experience.",
    "excerpt": "Amber Valletta's New Venture Gives Clean Hair Care The Luxury Treatment Bustle"
-  },
-  {
-   "title": "Elina Svitolina - Monica Puig - Flashscore.com",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUg0Y0VqQVRWLVBYNjZPNndNXzFuWGpwMEJGZjZ2OFNlRWV1ZWlNV2swSURfbXpFcFFqZjhYNTFDdElqRVdkSm1aTTh5SDhhSnVjeG1OMmRTUXA5SURPUG9wcHdDSl9tc2J5cjVxY2xRb2k1UU1HOFUyT1pRREhKVzRqVC1UMWlUY3hNeg?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-11",
-   "ai_summary": "",
-   "excerpt": "Elina Svitolina - Monica Puig Flashscore.com"
   }
  ]
 }
