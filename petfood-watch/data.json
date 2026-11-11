@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-11T18:48:00Z",
+ "updated": "2026-11-11T21:27:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Today’s highlights show a focus on sustainable claims, market expansion, regulatory shifts, and strategic investments in pet food.",
+  "hook": "Today’s highlights show a focus on sustainability, market growth, regulatory shifts, and strategic investments in pet food.",
   "categories": {
-   "📈 Market": "Hill’s Pet Nutrition’s cat‑food sales rise and new Argentinian factory entry signal growth opportunities in the sector.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet food ingredients reach the market.",
-   "💡 Innovation": "Pet food firms emphasize nutrition, price, and brand over environmental claims, while new supplement lines and university partnerships push product development.",
-   "🤝 M&A": "Mars’s £161 million investment in its Leicestershire factory underscores continued capacity expansion in the pet‑food industry."
+   "📈 Market": "Hill’s Pet Nutrition’s cat‑food sales rise signals a key growth area while new Argentinian factory entry indicates continued market optimism.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet‑food ingredients reach the market.",
+   "💡 Innovation": "Industry leaders emphasize that nutrition, price, accessibility and brand recognition outweigh pure environmental claims in consumer choices, while new supplement lines and academic partnerships push product development.",
+   "🤝 M&A": "Mars is investing £161 million to expand its Leicestershire factory, boosting production capacity for pet food products."
   }
  },
  "articles": [
+  {
+   "title": "Expand, redesign or end? Deciding the fate of a pet food sustainability program",
+   "url": "https://www.petfoodindustry.com/business-strategy/article/16425330/expand-redesign-or-end-deciding-the-fate-of-a-pet-food-sustainability-program",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-11",
+   "ai_summary": "Pet food industry leaders discussed how they weigh environmental versus financial priorities when deciding which sustainability...",
+   "excerpt": "Pet food industry leaders discussed how they weigh environmental versus financial priorities when deciding which sustainability..."
+  },
   {
    "title": "Sustainable pet food needs more than environmental claims to sell",
    "url": "https://www.petfoodindustry.com/pet-food-marketing-and-branding/article/16425210/sustainable-pet-food-needs-more-than-environmental-claims-to-sell",
