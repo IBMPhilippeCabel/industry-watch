@@ -1,5 +1,41 @@
 [
   {
+    "source": "WWD Beauty",
+    "title": "Rhode’s Road Map to $1 Billion in Sales",
+    "link": "https://wwd.com/beauty-industry-news/beauty-features/rhodes-roadmap-1-billion-sales-1239408689/",
+    "summary": "After its $1 billion acquisition by E.l.f. Beauty, Rhode has the goal of being the fastest beauty brand to reach $1 billion in global net sales, fueled by record-breaking launches, strategic Sephora expansion and categor…",
+    "date": "2026-11-11T05:01:00+00:00",
+    "category": "🤝 Strategy & M&A",
+    "ai_summary": "Rhode aims to become the fastest beauty brand to reach $1 billion in global net sales after its acquisition by E.l.f. Beauty, driven by record launches and strategic Sephora expansion."
+  },
+  {
+    "source": "Glossy",
+    "title": "Inside Maybelline’s third summer in the ‘Love Island’ villa",
+    "link": "https://www.glossy.co/beauty/maybelline-love-island-usa-lifter-gel/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+    "summary": "At the Glossy Beauty & Wellness Summit, Maybelline and Essie USA president Yasmin Dastmalchi explained why she banned the word “sponsorship” and how her team built a lip gloss launch into “Love Island USA.”",
+    "date": "2026-11-11T05:00:00+00:00",
+    "category": "💡 Innovation & Regulation",
+    "ai_summary": "Maybelline and Essie USA president Yasmin Dastmalchi discussed banning the word “sponsorship” and how her team turned a lip gloss launch into a ‘Love Island USA’ experience at the Glossy Beauty & Wellness Summit."
+  },
+  {
+    "source": "Glossy",
+    "title": "Wellness Briefing: Why Ulta Beauty is racing toward wearables, plus news",
+    "link": "https://www.glossy.co/beauty/wellness/wellness-briefing-why-ulta-beauty-is-racing-toward-wearables-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+    "summary": "For the Wellness Briefing, Glossy is reporting from this week’s annual Glossy Beauty & Wellness Summit with takeaways from a fireside chat with Ulta Beauty’s Laura Beres and Oura Ring’s Dr. Chris Curry, MD, PhD. Addition…",
+    "date": "2026-11-11T05:00:00+00:00",
+    "category": "💄 Brands & Retail",
+    "ai_summary": "The Wellness Briefing covered Ulta Beauty’s push into wearables and included insights from a fireside chat with Ulta’s Laura Beres and Oura Ring’s Dr. Chris Curry at the Glossy Beauty & Wellness Summit."
+  },
+  {
+    "source": "WWD Beauty",
+    "title": "EXCLUSIVE: Skin Pharm Expands Nationwide Footprint With Northeast Clinic",
+    "link": "https://wwd.com/beauty-industry-news/skin-care/skin-pharm-boston-clinic-opening-1239408053/",
+    "summary": "Opening Thursday, the new spot will be located at 149 Newbury Street in Boston.",
+    "date": "2026-11-11T05:00:00+00:00",
+    "category": "💄 Brands & Retail",
+    "ai_summary": "Skin Pharm is expanding its nationwide footprint with a new clinic opening at 149 Newbury Street in Boston."
+  },
+  {
     "source": "Beauty Innovation & Tech (Google News)",
     "title": "Atomy wins CES 2027 Beauty Tech Innovation Award, demonstrating the strength of its personalized cleansing technology - 파이낸셜뉴스",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMWVuZTFqZFBmZVNGM0dNaXFheTlDVXhXS04zRU1FNE1HSm1uRTFJQkxER2w5SEhOeWNxVlNwUEZNNE5Ja0FkYzJ4ZUJDdkdnSzk3YnNZb1c?oc=5",
@@ -52,5 +88,14 @@
     "date": "2026-11-11",
     "category": "💡 Innovation & Regulation",
     "ai_summary": "It explores emerging trends in perfumery, highlighting the roles of artificial intelligence, neuroscience, discovery techniques, hybridization, dupes, and personalization in shaping the industry."
+  },
+  {
+    "source": "Premium Beauty News",
+    "title": "Takasago expands its Middle East presence with new Dubai Creative Centre",
+    "link": "https://www.premiumbeautynews.com:8443/en/takasago-expands-its-middle-east,28510",
+    "summary": "On October 5, ahead of the Beautyworld Middle East trade show, Takasago officially inaugurated its new Creative Centre in Dubai, marking a further step in strengthening its presence in the region. The opening ceremony br…",
+    "date": "2026-11-11",
+    "category": "💡 Innovation & Regulation",
+    "ai_summary": "Takasago inaugurated a new Creative Centre in Dubai ahead of the Beautyworld Middle East trade show, expanding its presence in the Middle East."
   }
 ]
