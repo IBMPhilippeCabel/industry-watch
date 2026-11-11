@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-11T12:55:00Z",
+ "updated": "2026-11-11T14:48:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Heineken’s sudden CEO loss and a looming 150% tariff on Scotch in India dominate today’s drinks headlines.",
+  "hook": "Heineken faces leadership loss while Pernod Ricard navigates tariff threats and new media strategy in India.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard and Diageo face a 150% tariff on bulk Scotch imports in India, potentially reshaping their pricing and market strategy.",
-   "📈 Market": "The spirits industry remains tough as quarterly results from major distillers underline ongoing challenges.",
-   "🍸 Spirits & Premium": "Suntory Global Spirits launches a new line of single‑malt whiskies under its Teacher’s blended Scotch brand.",
-   "🍺 Beer & Brewing": "Heineken Netherlands’ CEO Maarten Schuurman died suddenly, prompting immediate leadership concerns.",
-   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to offer Formula 1 race‑day experiences on cruise ships."
+   "🤝 Strategy & M&A": "Pernod Ricard and Diageo face a 150% tariff on bulk Scotch imports in India, potentially reshaping pricing and strategy, while Pernod Ricard appoints Initiative as its media agency for India and APAC.",
+   "📈 Market": "Underberg will distribute Loch Lomond Group in Germany, and Constellation Brands has sold its US whiskey business back to its founding brothers, reflecting ongoing portfolio shifts.",
+   "🍸 Spirits & Premium": "Suntory Global Spirits launches a new single malt line under its Teacher’s blended Scotch brand, adding depth to its premium portfolio.",
+   "🍺 Beer & Brewing": "Heineken’s Netherlands CEO Maarten Schuurman has died, creating a leadership vacuum amid ongoing strategic moves.",
+   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to offer Formula 1 race‑day experiences on cruise ships, blending sports and beverage hospitality."
   }
  },
  "articles": [
+  {
+   "title": "Del Monte invests in Canadian protein shakes maker Good Protein",
+   "url": "https://www.just-drinks.com/news/del-monte-invests-in-canadian-protein-shakes-maker-good-protein/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-11",
+   "ai_summary": "Del Monte has invested in Canadian protein shakes maker Good Protein.",
+   "excerpt": "Fresh produce giant Del Monte has invested in the Canadian shakes firm Good Protein."
+  },
+  {
+   "title": "Underberg adds Loch Lomond to German distribution portfolio",
+   "url": "https://www.just-drinks.com/news/underberg-loch-lomond-german-distribution/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Underberg will distribute Scotch whisky producer Loch Lomond Group in Germany.",
+   "excerpt": "German spirits group Underberg is to distribute for Scotch whisky producer Loch Lomond Group."
+  },
+  {
+   "title": "Constellation offloads US whiskey distiller Nelson’s Green Brier",
+   "url": "https://www.just-drinks.com/news/constellation-offloads-us-whiskey-distiller-nelsons-green-brier/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Constellation Brands has sold its US whiskey business Nelson’s Green Brier back to its founding brothers.",
+   "excerpt": "Constellation Brands has completed the sale of US whisker business Nelson's Green Brier back to its founding brothers Andy and Charlie Nelson."
+  },
   {
    "title": "Heineken Netherlands CEO Maarten Schuurman dies unexpectedly at age 57 - NL Times",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUF6RkM5eUdpcjF4YnFxQlJNbVZWNVNLRndrRVZLb2t5bmJuZV9ma0pXZkUyWTluM1cxVEdvV0RQemxFZnZvSEJ2eVQxMU96Y3U0UnJVcTR5RVZOWWJHR3dwVWxTbWdQUE1LcWJiN0tOR012N2FoSnlOakRPZno0cU15MW9vajZSNVN2Ym9RSVpfREhfSGxEcjBmUGhiZw?oc=5",
@@ -30,6 +57,15 @@
    "date": "2026-11-11",
    "ai_summary": "Fantasy football best and worst Week 10 matchups: Start Jameson Williams, sit Chase Brown",
    "excerpt": "Fantasy football best and worst Week 10 matchups: Start Jameson Williams, sit Chase Brown The New York Times"
+  },
+  {
+   "title": "Soft drinks hit hardest by UK nutrient rule change – study",
+   "url": "https://www.just-drinks.com/news/uk-nutrient-profiling-model-study/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-11",
+   "ai_summary": "Soft drinks, cereals and yogurt would be the products most affected by the UK government’s updated nutrient rule.",
+   "excerpt": "Soft drinks, cereals and yogurt would be the products worst affected if the UK government updates its system for identifying less healthy food,"
   },
   {
    "title": "Arkansas History for November 11: Jordan Jameson lynching in Magnolia - Magnolia Reporter",

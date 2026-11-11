@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-11T12:55:00Z",
+ "updated": "2026-11-11T14:48:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Regulatory shifts, market growth, regenerative sourcing, and investment expansion shape the pet food landscape today.",
+  "hook": "Today’s highlights show a focus on sustainable claims, market expansion, regulatory shifts, and strategic investments in pet food.",
   "categories": {
-   "📈 Market": "Hill’s Pet Nutrition reports a 5.6% YoY rise in cat‑food sales, underscoring the segment’s growing importance.",
-   "⚖️ Regulation": "The FDA’s proposed overhaul of the GRAS notification process could reshape how pet‑food ingredients reach the market.",
-   "💡 Innovation": "Bison co‑products in pet food support regenerative ranching by promoting whole‑animal utilization and grazing management.",
-   "🤝 M&A": "Mars will invest £161 million to expand its Leicestershire factory, boosting production capacity for pet food products."
+   "📈 Market": "Hill’s Pet Nutrition’s cat‑food sales rise and new Argentinian factory entry signal growth opportunities in the sector.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet food ingredients reach the market.",
+   "💡 Innovation": "Pet food firms emphasize nutrition, price, and brand over environmental claims, while new supplement lines and university partnerships push product development.",
+   "🤝 M&A": "Mars’s £161 million investment in its Leicestershire factory underscores continued capacity expansion in the pet‑food industry."
   }
  },
  "articles": [
+  {
+   "title": "Sustainable pet food needs more than environmental claims to sell",
+   "url": "https://www.petfoodindustry.com/pet-food-marketing-and-branding/article/16425210/sustainable-pet-food-needs-more-than-environmental-claims-to-sell",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-11",
+   "ai_summary": "Sustainable pet food needs more than environmental claims to sell — Pet food industry executives say nutrition, price, accessibility and brand recognition play larger roles in consumer purchasing.",
+   "excerpt": "Pet food industry executives say nutrition, price, accessibility and brand recognition play larger roles in consumer purchasing..."
+  },
+  {
+   "title": "Exhibitors encouraged to secure booth space early for IBIE 2028",
+   "url": "https://www.petfoodprocessing.net/articles/21069-exhibitors-encouraged-to-secure-booth-space-early-for-ibie-2028",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-11",
+   "ai_summary": "Exhibitors encouraged to secure booth space early for IBIE 2028 — The event provided information about deadlines and getting the best booth selection.",
+   "excerpt": "The event provided information about deadlines and getting the best booth selection."
+  },
+  {
+   "title": "HPAI dairy outbreak leads to death in Washington",
+   "url": "https://www.petfoodprocessing.net/articles/21068-hpai-dairy-outbreak-leads-to-death-in-washington",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-11",
+   "ai_summary": "HPAI dairy outbreak leads to death in Washington — The individual suffered severe illness after contracting HPAI following exposure at a dairy with infected cattle.",
+   "excerpt": "The individual suffered severe illness after contracting HPAI following exposure at a dairy with infected cattle."
+  },
+  {
+   "title": "Spirited Paw launches on Chewy",
+   "url": "https://www.petfoodprocessing.net/articles/21067-spirited-paw-launches-on-chewy",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-11",
+   "ai_summary": "Spirited Paw launches on Chewy — Spirited Paw offers targeted supplements for dogs and cats, including daily chews, powders and capsules.",
+   "excerpt": "Spirited Paw offers targeted supplements for dogs and cats, including daily chews, powders and capsules."
+  },
   {
    "title": "Fressnapf expands urban concept as Europe’s pet retailers test new store formats",
    "url": "https://globalpetindustry.com/news/fressnapf-maxi-zoo-to-expand-urban-store-concept-in-vienna-berlin-and-hamburg/",
