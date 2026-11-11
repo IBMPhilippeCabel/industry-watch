@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-11T14:48:00Z",
+ "updated": "2026-11-11T16:49:00Z",
  "briefing": {
   "date": "2026-11-11",
-  "hook": "Heineken faces leadership loss while Pernod Ricard navigates tariff threats and new media strategy in India.",
+  "hook": "Heineken partners with MSC Cruises for F1-themed drinks while Pernod Ricard faces tariff setbacks and the market sees whisky distribution shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard and Diageo face a 150% tariff on bulk Scotch imports in India, potentially reshaping pricing and strategy, while Pernod Ricard appoints Initiative as its media agency for India and APAC.",
-   "📈 Market": "Underberg will distribute Loch Lomond Group in Germany, and Constellation Brands has sold its US whiskey business back to its founding brothers, reflecting ongoing portfolio shifts.",
-   "🍸 Spirits & Premium": "Suntory Global Spirits launches a new single malt line under its Teacher’s blended Scotch brand, adding depth to its premium portfolio.",
-   "🍺 Beer & Brewing": "Heineken’s Netherlands CEO Maarten Schuurman has died, creating a leadership vacuum amid ongoing strategic moves.",
-   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to offer Formula 1 race‑day experiences on cruise ships, blending sports and beverage hospitality."
+   "🤝 Strategy & M&A": "Pernod Ricard faces a 150% tariff on bulk Scotch imports in India, threatening its pricing and regional strategy.",
+   "📈 Market": "Underberg will distribute Loch Lomond Group in Germany while Constellation Brands divests its US whiskey business back to its founding brothers.",
+   "🍸 Spirits & Premium": "Suntory Global Spirits launches a new line of single malt whiskies under its Teacher’s blended Scotch brand.",
+   "🍺 Beer & Brewing": null,
+   "💡 Innovation & No-Low": "Heineken and MSC Cruises launch limited‑edition F1 cans and offer race‑day experiences aboard cruise ships."
   }
  },
  "articles": [
+  {
+   "title": "Heineken and MSC Cruises launch limited-edition F1 can - TRBusiness",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDk2WllsNVNqcDZCSWdRRTJXUjd1MnkwVmlhNng4c3FrYS1xWHhHOVptWkRyazZRYmNENHB0eXIzbkpIMGt2TFZoUGRyNmF1dWI4NjZTbWpTbWRiZEtUNmQ5U1ZpSlJDcXhjbGRIMEJ3WWEyWTNBT01MZUp0WmNZWHRRYXk5WmVMTlloUnFDTXRjRVpUMDhGNElzSXplbEZUT2pyMjQ0YzVodzVkSW5EXzVXNldmLXlOTzFyQTM3bw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-11",
+   "ai_summary": "Heineken and MSC Cruises launch limited-edition F1 can",
+   "excerpt": "Heineken and MSC Cruises launch limited-edition F1 can TRBusiness"
+  },
+  {
+   "title": "Pernod Ricard stumbles as tariffs make a comeback - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlE2WHVRaXRQbFFVSTEwME1sRThVb3Z3Q2hSajFOdnJQc1RlREVCQXc1NnFwWDg4Q1VOX01VZW5oMmlsSjhpMm5Cd1RfOV9uMEhiSkZrUW1DSFlGRHJRbEJBOTkwNkt2N0pGOTJzRlhPdDNsLVllejZGMTdOUmxmR3VnU2s2TzNVY2pGSEdQcEVsbERjblVIbGs0bC01enlnTXBOaw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-11",
+   "ai_summary": "Pernod Ricard stumbles as tariffs make a comeback",
+   "excerpt": "Pernod Ricard stumbles as tariffs make a comeback www.marketscreener.com"
+  },
   {
    "title": "Del Monte invests in Canadian protein shakes maker Good Protein",
    "url": "https://www.just-drinks.com/news/del-monte-invests-in-canadian-protein-shakes-maker-good-protein/",
