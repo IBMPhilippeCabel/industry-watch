@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-12T12:57:00Z",
+ "updated": "2026-11-12T14:50:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "Today’s buzz spans celebrity fragrance revivals, live‑shopping lifts, and strategic moves like L’Oréal’s biotech funding and Henkel’s Olaplex acquisition.",
+  "hook": "Today’s buzz spans new bio-actives, live‑shopping lift, celebrity fragrance revival, and strategic moves by L’Oréal, Henkel, and Rhode.",
   "categories": {
-   "📈 Market": "Celebrity fragrance launches echo early 2000s wardrobes while live‑shopping streams drive consumers back to high‑street beauty sales.",
-   "💄 Brands & Retail": "Prestige skincare and eye shadow are regaining growth, and creator‑led brands like POV Beauty are shaping new retail strategies.",
-   "🤝 Strategy & M&A": "L’Oréal’s BOLD fund invests in a Chinese biotech, and Henkel’s purchase of Olaplex and Not Your Mother’s aims to hit €2 bn sales by 2030.",
-   "💡 Innovation & Regulation": "K‑beauty saturation is debated as brands adopt Korean packaging and ingredients, while new stress‑resilient skin tech and targeted haircare collections push innovation."
+   "📈 Market": "Live‑shopping streams on TikTok Shop UK are driving consumers back to high‑street beauty sales, while a surge in celebrity‑led fragrance lines signals a return to early‑2000s‑style wardrobes.",
+   "💄 Brands & Retail": "Prestige skincare, lip color, and eye shadows are rebounding, Away’s aluminum luggage sees a 20% sales jump, and tech‑driven No Makeup Makeup launches under Victoria Jackson’s partnership.",
+   "🤝 Strategy & M&A": "L’Oréal’s BOLD fund invests in Chinese biotech PAM2L, Henkel acquires Olaplex and Not Your Mother’s to boost sales, and Rhode’s $1 billion goal is accelerated by its acquisition by e.l.f. Beauty.",
+   "💡 Innovation & Regulation": "Activon’s magnolia‑derived actives and PhytoCellTec’s stress‑resilient skin tech, alongside Express’s fragrance revival and Very Edie’s sculptural lipstick packaging, showcase fresh innovation."
   }
  },
  "articles": [
+  {
+   "title": "Activon introduces magnolia-derived actives for next-generation skincare",
+   "url": "https://www.cosmeticsbusiness.com/activon-introduces-magnolia-derived-actives-for-next-generation",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Activon introduces magnolia-derived actives for next-generation skincare — Harnessing the natural power of magnolia for antimicrobial protection and skin benefits",
+   "excerpt": "Harnessing the natural power of magnolia for antimicrobial protection and skin benefits"
+  },
+  {
+   "title": "How is the beauty-tech world adapting as healthy hair outshines glossy hair - Emirates Woman",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVpjWFMybGFqcExDWTA0eFJmcEhLQ2drZ1RQLW5lRFZ0STlxcVU4SlczbmtGa016N180aVFtWk9MTVFiRGMxalYxbHBuY0dNTWZtQlhDcW1qeVpsQ0d5OURORTJ4QlNFMEYwa3BKQktIY1VTNXdTandBRlpWRDNadnR5Qk5BWlV5N3ByVHZPb3lPck9PalJHY05maHJNN3NyUmxOZQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "How is the beauty-tech world adapting as healthy hair outshines glossy hair - Emirates Woman — How is the beauty-tech world adapting as healthy hair outshines glossy hair Emirates Woman",
+   "excerpt": "How is the beauty-tech world adapting as healthy hair outshines glossy hair Emirates Woman"
+  },
   {
    "title": "Are we going back to the 2000s celebrity fragrance wardrobe era?",
    "url": "https://www.cosmeticsbusiness.com/return-to-the-2000s-celebrity-fragrance-wardrobe",
