@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-11T22:45:00Z",
+ "updated": "2026-11-12T00:57:00Z",
  "briefing": {
-  "date": "2026-11-11",
-  "hook": "Mars Corp pushes snacking growth with a $1.4B US investment while its brands tap Olympic, NASCAR, TikTok and holiday themes.",
+  "date": "2026-11-12",
+  "hook": "Mars gears up for a massive 2027 US manufacturing push while snacking brands stir up viral moments and Olympic buzz.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars will invest $1.4B in U.S. manufacturing and operations in 2027 to expand its snacking portfolio after acquiring Kellanova.",
+   "🤝 Mars Corporate & M&A": "Mars plans its biggest‑ever US manufacturing investment in 2027 after acquiring Kellanova, aiming to grow its snacking portfolio.",
    "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "Mars brands tie into the LA28 Olympics, NASCAR awards, TikTok trends and holiday films to boost visibility and sales.",
+   "🍫 Snacking & FMCG Market": "Cheez‑It and Pringles were named official salty snacks of the LA28 Olympics, and Pringles is riding TikTok’s ‘rat snacks’ trend to boost sales.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "The Viral Snickers Victory Photo Was Rick Hendrick’s Idea - MotorBiscuit",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtclR1RnY3ZmJSOHdCQjlobUVDeVRjOTY1WDNleThlLTY2bUxmTmJvSTkzRDhvSW14NlRWTUdQcFF1QlNPQUpwdFNRaEU2Zzc3c2RtbV9xakZ4UW9YaDUzZ0gtRUNvSTY0d01NNndSN011OWZ6REJlQjRR?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-12",
+   "ai_summary": "The Viral Snickers Victory Photo Was Rick Hendrick’s Idea - MotorBiscuit — The Viral Snickers Victory Photo Was Rick Hendrick’s Idea MotorBiscuit",
+   "excerpt": "The Viral Snickers Victory Photo Was Rick Hendrick’s Idea MotorBiscuit"
+  },
+  {
+   "title": "Mars plans its biggest-ever year of US manufacturing investment in 2027 after buying Kellanova - MLQ.ai",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcC15OER3LTVrd3JYQnM4aFRscGtISE1EeWc2UjhDMVRFQ0lFZG9Sd1VCeWVFVWxEMEtjYnFHdHN5SHpNTGxNNUJtTGYwQmU1S3lpdjBlZmNHVkdOZ1VPbkUxQVAtd2RkZ1VwWXBTTXEtOFZMamFiam1PeGY1Q25SXzhvMldBTFpkQUFqM29PMVBXdUUwNkJUdnVkSG5kUnhTV0RWVHhqN0xlLVZwRWliM0szUHgzQQ?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-11-11",
+   "ai_summary": "Mars plans its biggest-ever year of US manufacturing investment in 2027 after buying Kellanova - MLQ.ai — Mars plans its biggest-ever year of US manufacturing investment in 2027 after buying Kellanova MLQ.ai",
+   "excerpt": "Mars plans its biggest-ever year of US manufacturing investment in 2027 after buying Kellanova MLQ.ai"
+  },
+  {
+   "title": "Rick Hendrick Saved a Snickers for Denny Hamlin - Autoweek",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMEJTTmkzakZaZ3VUV3NKcnhiVWRGWVcyeV9rOEUxT3FQTXhoNWxGWDFFVnV6WHJVejdodUlYRXUxMmVKQ3NvdDk1UU1mWXdrOHVzSWZjbnRzeUQzS044OW1ReWY0Vzk4cG0zd3VCT1ZpQTA3c09IRVJxT0FtTHBUZ0F3SzZsalotNUZ5V2tjRU1IVmxJcWc?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-11",
+   "ai_summary": "Rick Hendrick Saved a Snickers for Denny Hamlin - Autoweek — Rick Hendrick Saved a Snickers for Denny Hamlin Autoweek",
+   "excerpt": "Rick Hendrick Saved a Snickers for Denny Hamlin Autoweek"
+  },
   {
    "title": "Cheez-It, Pringles named official salty snacks of LA28 Olympics - Commercial Baking",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGU1UHdUQ09OTGtmZ01iVWVjd2VfanlNVDg1aFQ1YmJTaTlKZ0p1d0pETkRFT1h0V2h3am0wSGc5cG1vS1lYei11TWVHdFFpeVF6c3lPUUtvM0RMOVNSaFp3S0dpbktqZm9fNzR4QzlGV0FyR3dqTU1HU0FDRkl4bEFaOVpTcmZPcUpHd1Jvel91ZU9oel9V?oc=5",
@@ -1758,24 +1785,6 @@
    "date": "2026-10-13",
    "ai_summary": "Pringles offers a branded urn as a final resting place for a devoted fan. The initiative is highlighted in ADWEEK.",
    "excerpt": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn ADWEEK"
-  },
-  {
-   "title": "Where CPG Revenue Goes Missing and How AI Can Find It",
-   "url": "https://consumergoods.com/where-cpg-revenue-goes-missing-and-how-ai-can-find-it",
-   "source": "Consumer Goods Technology",
-   "category": "⚡ Tech & Operations",
-   "date": "2026-10-12",
-   "ai_summary": "Learn how AI can help brands find recoverable revenue, spot the decisions that erode margin, and turn deduction data into a clearer picture of retail performance.",
-   "excerpt": "Learn how AI can help brands find recoverable revenue, spot the decisions that erode margin, and turn deduction data into a clearer picture of retail performance."
-  },
-  {
-   "title": "General Mills Bets on Influencers, Cultural Moments to Fuel Growth",
-   "url": "https://consumergoods.com/general-mills-bets-influencers-cultural-moments-fuel-growth",
-   "source": "Consumer Goods Technology",
-   "category": "⚡ Tech & Operations",
-   "date": "2026-10-12",
-   "ai_summary": "During General Mills’ Q1 2027 earnings call last month, COO Dana McNabb described the manufacturer’s stronger foundation this year after it brought more value to consumers by adjusting base prices last year.",
-   "excerpt": "During General Mills’ Q1 2027 earnings call last month, COO Dana McNabb described the manufacturer’s stronger foundation this year after it brought more value to consumers by adjusting base prices last year."
   }
  ]
 }
