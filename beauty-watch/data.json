@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-12T14:50:00Z",
+ "updated": "2026-11-12T22:08:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "Today’s buzz spans new bio-actives, live‑shopping lift, celebrity fragrance revival, and strategic moves by L’Oréal, Henkel, and Rhode.",
+  "hook": "Today’s beauty buzz blends sustainable packaging, live‑shopping surges, and high‑profile M&A moves across the industry.",
   "categories": {
-   "📈 Market": "Live‑shopping streams on TikTok Shop UK are driving consumers back to high‑street beauty sales, while a surge in celebrity‑led fragrance lines signals a return to early‑2000s‑style wardrobes.",
-   "💄 Brands & Retail": "Prestige skincare, lip color, and eye shadows are rebounding, Away’s aluminum luggage sees a 20% sales jump, and tech‑driven No Makeup Makeup launches under Victoria Jackson’s partnership.",
-   "🤝 Strategy & M&A": "L’Oréal’s BOLD fund invests in Chinese biotech PAM2L, Henkel acquires Olaplex and Not Your Mother’s to boost sales, and Rhode’s $1 billion goal is accelerated by its acquisition by e.l.f. Beauty.",
-   "💡 Innovation & Regulation": "Activon’s magnolia‑derived actives and PhytoCellTec’s stress‑resilient skin tech, alongside Express’s fragrance revival and Very Edie’s sculptural lipstick packaging, showcase fresh innovation."
+   "📈 Market": "Eastman’s new PET resins gain RecyClass approval, boosting Europe’s recycling compatibility while live‑shopping streams drive in‑store beauty sales.",
+   "💄 Brands & Retail": "Brands are leaning into live shopping this holiday season, turning digital discovery into in‑store purchases and reshaping consumer buying patterns.",
+   "🤝 Strategy & M&A": "L’Oréal’s BOLD fund invests in Chinese biotech PAM2L, and Henkel’s acquisition of Olaplex and Not Your Mother’s aims to lift sales toward €2 bn by 2030.",
+   "💡 Innovation & Regulation": "Toly and Eastman launch Gemini, the first sustainable luxury packaging, while Victoria Beckham’s Middle East debut showcases a hands‑on, wear‑tested approach to beauty."
   }
  },
  "articles": [
+  {
+   "title": "Victoria Beckham’s Hands-on Approach Shapes Her Beauty Brand’s Middle East Debut",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/victoria-beckham-beauty-middle-east-debut-1239412525/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Victoria Beckham’s Hands-on Approach Shapes Her Beauty Brand’s Middle East Debut — The designer talks wear-testing, kajal and how beauty and fashion feed each other ahead of the Nov. 20 launch with Ounass and Bloomingdales.ae.",
+   "excerpt": "The designer talks wear-testing, kajal and how beauty and fashion feed each other ahead of the Nov. 20 launch with Ounass and Bloomingdales.ae."
+  },
+  {
+   "title": "Fragonard Hosts Centenary Birthday Exhibition at the Paris Mint",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/fragonard-hosts-centenary-birthday-exhibition-paris-mint-1239413451/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "Fragonard hosts a centenary birthday exhibition at the Paris Mint, showcasing 250 artworks and objects from the house’s heritage collection.",
+   "excerpt": "It brings together 250 artworks and objects from the house’s heritage collection."
+  },
+  {
+   "title": "Brands are banking on live shopping this holiday season",
+   "url": "https://www.glossy.co/beauty/the-holiday-playbook-how-brands-are-banking-on-live-shopping-this-holiday-season/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "Brands are banking on live shopping this holiday season — This year, more brands are gravitating toward live shopping, a growing channel that is set to play an outsized influence on shopping trends.",
+   "excerpt": "This year, more brands are gravitating toward live shopping, a growing channel that is set to play an outsized influence on shopping trends."
+  },
+  {
+   "title": "Toly and Eastman introduce Gemini, a new standard in sustainable luxury packaging",
+   "url": "https://www.cosmeticsbusiness.com/toly-and-eastman-introduce-gemini-a-new-standard",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Toly and Eastman introduce Gemini, a new standard in sustainable luxury packaging — Cosmetics compact from Toly is the first to feature Eastman Cristal™ One Renew IM812",
+   "excerpt": "Cosmetics compact from Toly is the first to feature Eastman Cristal™ One Renew IM812"
+  },
+  {
+   "title": "Eight specialty PET resins from Eastman receive RecyClass Approval",
+   "url": "https://www.cosmeticsbusiness.com/eight-specialty-pet-resins-from-eastman-receive-recyclass",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Eight specialty PET resins from Eastman receive RecyClass Approval — Eastman copolyester resins earn RecyClass Approval, with six grades fully compatible with Europe's PET bottle recycling processes",
+   "excerpt": "Eastman copolyester resins earn RecyClass Approval, with six grades fully compatible with Europe's PET bottle recycling processes"
+  },
+  {
+   "title": "World’s first recombinant PDRN powers award-winning skincare innovation - Cosmetics Business",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkZDQ3Y3Zno2RXI4bkR5RUo0ZE5VTm5RSTV4VE41R1lvRXhkN1daS2tUckl0R2VlbXB6NFZIMkt4TWVrY0FEVVZlVEgxZXItb0lKSnhXWmlic3BPMkNXU1hZdkx2Y0Zua2JmSW41d21RODNBZzJKcUZjdlZhNzlOY2hBSVcwNVZ6UGoxMnI3aVBzMUhObFVOOGx3?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "World’s first recombinant PDRN powers award-winning skincare innovation, as reported by Cosmetics Business.",
+   "excerpt": "World’s first recombinant PDRN powers award-winning skincare innovation Cosmetics Business"
+  },
+  {
+   "title": "The Business of Beauty Advent Calendars Today",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-advent-calendars-skims-1239411273/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "The Business of Beauty Advent Calendars today highlights that consumers are becoming increasingly discerning about value propositions.",
+   "excerpt": "Consumers are becoming increasingly discerning when it comes to value propositions."
+  },
+  {
+   "title": "PPWR compliance for cosmetics: what to ask your manufacturer",
+   "url": "https://www.cosmeticsbusiness.com/ppwr-compliance-for-cosmetics-what-to-ask-your",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "PPWR compliance for cosmetics: what to ask your manufacturer — As the EU Packaging and Packaging Waste Regulation begins to reshape cosmetics packaging, having a manufacturer that follows the legislation closely is becoming a practical advantage",
+   "excerpt": "As the EU Packaging and Packaging Waste Regulation begins to reshape cosmetics packaging, having a manufacturer that follows the legislation closely is becoming a practical advantage"
+  },
   {
    "title": "Activon introduces magnolia-derived actives for next-generation skincare",
    "url": "https://www.cosmeticsbusiness.com/activon-introduces-magnolia-derived-actives-for-next-generation",
@@ -65,6 +137,15 @@
    "date": "2026-11-12",
    "ai_summary": "L'Oréal leads funding round for Chinese biotech company PAM2L — L'Oréal’s strategic corporate venture capital fund BOLD said it will leverage its beauty and formulation expertise to explore the broader scientific value of innovative bio-actives via a minority investment in PAM2L Biot…",
    "excerpt": "L'Oréal’s strategic corporate venture capital fund BOLD said it will leverage its beauty and formulation expertise to explore the broader scientific value of innovative bio-actives via a minority investment in PAM2L Biot…"
+  },
+  {
+   "title": "World’s first recombinant PDRN powers award-winning skincare innovation",
+   "url": "https://www.cosmeticsbusiness.com/world-s-first-recombinant-pdrn-powers-award-winning-skincare",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "World’s first recombinant PDRN powers award-winning skincare innovation — Uniproma’s PDRN Soothing Repair Cream earns recognition in the Technology & Disruption category at the 2026 Laura Marshall Awards",
+   "excerpt": "Uniproma’s PDRN Soothing Repair Cream earns recognition in the Technology & Disruption category at the 2026 Laura Marshall Awards"
   },
   {
    "title": "Live shopping is boosting beauty, converting digital discovery to in-store sales",

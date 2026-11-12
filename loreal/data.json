@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-12T14:50:00Z",
+ "updated": "2026-11-12T22:08:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "L'Oréal advances in AI, biotech, and brand refreshes while tightening ESG focus.",
+  "hook": "L’Oréal’s day blends AI-driven valuation debates, fresh Maybelline campaigns, and Q3 haircare growth amid market buzz.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal highlighted AI leadership at the New York Summit, led a funding round for Chinese biotech PAM2L through BOLD, expanded its New Jersey research hub, appointed a new e‑commerce director, and partnered with Walgreens on a biomaterials start‑up.",
-   "💄 Brands & Launches": "Maybelline refreshed its brand with a new campaign featuring Megan Lawless and updated its long‑running tagline alongside Miley Cyrus, signaling a shift toward contemporary beauty storytelling.",
-   "💡 Beauty Tech & ESG": "L'Oréal reported Q3 growth driven by stronger haircare demand, with sales expanding across all divisions.",
-   "📈 Market": "Maybelline showcased its new lip gloss at the Glossy Summit and updated its iconic tagline, aligning the brand’s messaging with its ‘next chapter’ vision."
+   "🤝 Strategy & M&A": "L’Oréal’s AI summit spotlight and a 14% overvaluation claim, plus a funding round for Chinese biotech PAM2L, shape its strategic narrative.",
+   "💄 Brands & Launches": "Maybelline refreshed its tagline and launched a new campaign with Megan Lawless, signaling a shift toward contemporary beauty storytelling.",
+   "💡 Beauty Tech & ESG": "Q3 sales growth across all divisions, especially haircare, underscores L’Oréal’s continued demand in core beauty tech segments.",
+   "📈 Market": "Maybelline’s latest lip gloss debut at the Glossy Summit and a revamped tagline highlight its evolving market positioning."
   }
  },
  "articles": [
+  {
+   "title": "Circana and L'Oréal Showcase at Advertising Week LATAM How Marketing Mix Modeling Drives Investment Decisions - Circana",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNckRwbXJOUUtQQW5Vc0VPM3ZqVHc2cnpSUDVxdVBzaHkwbUh6UFpzZU96cWhsVUhUQXB1TWtDTG5QZ3hwYnhPdE1icjFvSklMdV82UkpMelR4emxZTFpDWkZMZlhVcEpSNzRabXhZYXZQSTJkbUg0RVNLZGgyUEQ1STNyaGFCb3BNQlBLUGJaZVpSUGt3MExyeVY5S1JzaWRXYUQ2U3hPcF9Fa1REZV9FSjFFcEZjSlhkN1ZBUFhkM1B1SGtzWmhMaUg2bWVPQQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "Circana and L'Oréal showcase how Marketing Mix Modeling influences investment decisions at Advertising Week LATAM.",
+   "excerpt": "Circana and L'Oréal Showcase at Advertising Week LATAM How Marketing Mix Modeling Drives Investment Decisions Circana"
+  },
+  {
+   "title": "Is L'Oréal (ENXTPA:OR) Fully Valued As AI Summit Attention Turns To Its Premium Price? - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHFJRGR2dmhPZVJFaUVBV3BKVTVzTUphVzdYUS1VcFJGRGQ3MUZVeDhNbDRNV3BRZDFKenF6MjJ1eGhSSFZnWVVBV2NhdXVLX2ZoMmVST0xJVFBma3N0S1c1OXZKTnRzaHBISHI5V3Mya2hMN0pCWldDbjJYM29oTw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "The article questions whether L'Oréal's premium price reflects full valuation amid AI summit attention.",
+   "excerpt": "Is L'Oréal (ENXTPA:OR) Fully Valued As AI Summit Attention Turns To Its Premium Price? Yahoo Finance Singapore"
+  },
+  {
+   "title": "L'Oréal (ENXTPA:OR) Stock Could Be 14% Overvalued After AI Imagery News - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSnJHVUo3NlZXdC1jNHdLQlVDNEpGTkN2YUtaa3VPSGtnZ0FDbGRjaGR3SUpYbTVYcDV2TGZDNGUtenN5eGpxTENsMThaR2UzaGhKSDFiOW0yQWtfNV9YTDR3VWFzNE9fN0VvWUxmVEJNWmdlUkw3M0VLaWdlWE0?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "L'Oréal stock may be overvalued by 14% following AI imagery news.",
+   "excerpt": "L'Oréal (ENXTPA:OR) Stock Could Be 14% Overvalued After AI Imagery News Yahoo Finance Singapore"
+  },
+  {
+   "title": "Movers & Shakers: Harley-Davidson, Gut and Maybelline New York - Campaign US",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0cyUThzRVdRZVNRTHhXRjBKZFg4WGZpUEhROXE0VXVCajF5ZFBSeE9RYnBnUkJGMFk5bS1VaVpnYlFCSzZCZ05LcnlNZjVyWTkzcGpoYl9ILVBiTXVCU1BBUDk2c04wNkdkN09zUURFdVRydjZlcFFhX242MkNIb1lrWGY2dXFIcWJHTWFTUFdibEF5SFUyOGRsVjUtVVN0?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-12",
+   "ai_summary": "The piece covers updates from Harley-Davidson, Gut, and Maybelline New York in the Campaign US context.",
+   "excerpt": "Movers & Shakers: Harley-Davidson, Gut and Maybelline New York Campaign US"
+  },
+  {
+   "title": "I Need Makeup That Can Survive a Full Night of Holiday Parties—L'Oréal Paris's Tinted Balm Is My Top Choice - Who What Wear",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEowdFZDR1pwVi1NX1RCT3BYcG00cVpoTXlNQ25kZmNVTDJsM3A3Q3BBNExVR0d6WUNEakZxZHk0Sk1lVVFCcVRLaDI4ZWJULTB2TUZNS3Zpd01XZnRaTkw4SXRNWjVsc3NtLTJzSzFhWnZRaVJkMTJkRlNrdUNtRmhVcE8zVEZVbGVscXQ5WUhlRG83NmlRRWE0bXl0bVQ1M3B6ZA?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "L'Oréal Paris's tinted balm is highlighted as a durable choice for holiday parties.",
+   "excerpt": "I Need Makeup That Can Survive a Full Night of Holiday Parties—L'Oréal Paris's Tinted Balm Is My Top Choice Who What Wear"
+  },
   {
    "title": "The AI Summit New York 2026 Announces Keynote and Featured Speaker Lineup with Leaders from Google, L’Oréal and Dell Technologies - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamVpZzJEdUxIQU9PMjB4ZXZmeVFmcTQ1REtWZEZjbG45aWFWWVBoVE5EM1FoTFEtSWIwcVBQUmYzYjlPMFZnUmlKamdCZTJ4bzBNVjluVEw2UkMzRkVqSmF2OUMyWVFST2NCbVJzQ2xhZGtDdUljRVh2WF9RYVUzcC1uT01xZUROX09pSnZsb2NMWVhSb2FQbw?oc=5",
@@ -83,6 +128,15 @@
    "date": "2026-11-12",
    "ai_summary": "Kanika Sud joins L’Oréal as Commercial Director for E-commerce and Selective Retail - Exchange4Media — Kanika Sud joins L’Oréal as Commercial Director for E-commerce and Selective Retail Exchange4Media",
    "excerpt": "Kanika Sud joins L’Oréal as Commercial Director for E-commerce and Selective Retail Exchange4Media"
+  },
+  {
+   "title": "Maybelline Rolls Out Polarizing New Tagline To Replace “Maybe She’s Born With It. Maybe It’s Maybelline” Slogan After 35 Years - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPamhZeUJFUWIwN25sbWJhcF81RV9kLWc0dk1rN0dMOTFTc09fZ1ZoaDIwVjZreEFTdF9ITi1FM3FuX0N6LWZNdVp1OHFFS0tMNnJBVGp2Ty0xcjBWU2hndzlMNER5VW5LNHo2cF9sbGQ3cE5WVE9oODJYU3dLblJ4LXFDcVBqQkVOQlNJcnpBazR6QkYyM0Njdzd6bGgxam54dFRTZXY3NEY2MU05MmhjaEpOeVdqNGxfWFZ0TDdLZzJnVEZNYmFSSTB2STU3VUpDSTE2Y0xIeVNtZEtZQU41bHl4ZTF1eS02Rlg5SEJvbl82Qzl2bGtNLU53dm0xdUdVeUpkaWw3R2Z2N1E?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-11",
+   "ai_summary": "Maybelline introduces a new tagline to replace its long-standing slogan after 35 years.",
+   "excerpt": "Maybelline Rolls Out Polarizing New Tagline To Replace “Maybe She’s Born With It. Maybe It’s Maybelline” Slogan After 35 Years Forbes"
   },
   {
    "title": "In 1999, a 25-year-old started a makeup brand with $250,000 from her parents; 15 years later, she sold it to L’Oréal for roughly $400 million - Parade Magazine",
