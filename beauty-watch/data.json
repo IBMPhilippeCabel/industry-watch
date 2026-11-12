@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-12T04:52:00Z",
+ "updated": "2026-11-12T07:02:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "M&A moves, brand expansions, and innovation pushes keep the beauty market dynamic today.",
+  "hook": "Innovation buzz, brand rebounds, and strategic moves shape today’s beauty landscape.",
   "categories": {
-   "📈 Market": "Demand for body‑firming creams and contouring products surges, while Shiseido returns to profit and Drunk Elephant sees a 23% global sales drop.",
-   "💄 Brands & Retail": "Rhode expands its footprint after an e.l.f. acquisition, Ulta pushes into wearables, and Sally Beauty reports modest sales growth while focusing on value.",
-   "🤝 Strategy & M&A": "Henkel acquires Olaplex and Not Your Mother’s to hit €2 bn sales, while One/Size secures $140 m financing and Coty restructures its French business.",
-   "💡 Innovation & Regulation": "Quadpack introduces haircare packaging for targeted treatments, TRI‑K unveils a scalp soothing ingredient, Virospack launches an autofiller dropper, and Cardi B’s Grow‑Good Beauty opens direct‑to‑consumer sales in Canada."
+   "📈 Market": "Demand for body‑firming creams, lotions and contouring products is soaring, raising questions about the GLP‑1 era’s impact.",
+   "💄 Brands & Retail": "Prestige skincare rebounds in Q3 2026, with lip color and eye shadows also returning to growth.",
+   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s aims to boost sales and hit €2 bn in annual revenue by 2030.",
+   "💡 Innovation & Regulation": "Express reenters the fragrance market by reviving nostalgic heroes and adding new scents and formats for a comeback."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: Express Is Reentering Fragrance",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/express-fragrance-relaunch-love-loyalty-mist-1239411787/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Express is reentering the fragrance market by reviving nostalgic heroes and adding new scents and formats for a comeback.",
+   "excerpt": "The fashion retailer is bringing back nostalgic heroes alongside new scents and formats as it gears up for a comeback in the category."
+  },
+  {
+   "title": "How Did Beauty Perform During the Third Quarter of 2026?",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-sales-2026-q3-skin-care-hair-fragrance-1239411003/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "Prestige skincare rebounds in Q3 2026, while lip color and eye shadows also return to growth, according to Circana data.",
+   "excerpt": "Data from Circana shows that prestige skin care is rebounding following a softer 2025, while lip color and eye shadows have also returned to growth."
+  },
+  {
+   "title": "POV Beauty’s Mikayla Nogueira unpacks her creator-brand playbook with CEO and co-founder Ani Hadjinian",
+   "url": "https://www.glossy.co/podcasts/pov-beautys-mikayla-nogueira-unpacks-her-creator-brand-playbook-with-ceo-and-co-founder-ani-hadjinian/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "POV Beauty’s founder Mikayla Nogueira discusses her creator-brand strategy with CEO Ani Hadjinian on the Glossy Beauty Podcast during the annual Beauty & Wellness Summit.",
+   "excerpt": "In this special episode of the Glossy Beauty Podcast, we are taking you directly to the main stage of Glossy's annual Beauty & Wellness Summit for a conversation between POV Beauty founder Mikayla Nogueira, POV Beauty CE…"
+  },
+  {
+   "title": "Fashion Briefing: How Zara Larsson, Charli XCX and burning suitcases drove a boom in Away’s aluminum luggage business",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-how-zara-larsson-charli-xcx-and-burning-suitcases-drove-a-boom-in-aways-aluminum-luggage-business/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "Zara Larsson, Charli XCX, and burning suitcases have spurred a 20% sales increase in Away’s aluminum luggage, making it the brand’s best-selling and fastest-growing category.",
+   "excerpt": "Sales of aluminum products at Away have increased 20% from 2025 to 2026, making aluminum Away's best-selling and fastest-growing category."
+  },
+  {
+   "title": "EXCLUSIVE: Rina Lipa Lands First Beauty Campaign as Face of GCDS Morso Fragrance",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/rina-lipa-first-beauty-campaign-gcds-morso-fragrance-calza-1239408394/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-12",
+   "ai_summary": "Rina Lipa becomes the face of GCDS Morso Fragrance, sharing her collaboration experience and mutual interests with the brand’s founder.",
+   "excerpt": "Lipa and the brand’s founder Giuliano Calza talked with WWD about how the collaboration came up, their favorite moments from the set and mutual interests, spanning from Britney Spears to “La La Land.”"
+  },
+  {
+   "title": "EXCLUSIVE: Belgian Beauty House Very Edie Is Born",
+   "url": "https://wwd.com/beauty-industry-news/color-cosmetics/belgian-beauty-house-very-edie-launch-1239410392/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "EXCLUSIVE: Belgian Beauty House Very Edie Is Born — It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging.",
+   "excerpt": "It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging."
+  },
   {
    "title": "One/Size’s $140M Financing Deal, Nia Long Eyes Fragrance, Spencer Hedges Launches Brand And More Indie Beauty Dish",
    "url": "https://www.beautyindependent.com/one-size-financing-deal-nia-long-fragrance-spencer-hedges-brand-indie-beauty-dish/",
@@ -29,6 +83,15 @@
    "date": "2026-11-12",
    "ai_summary": "From Rhode To Shark, What’s On Beauty Shoppers’ Holiday Wishlists – With Americans worried about everything from grocery prices to housing costs, a $349.99 face mask might seem like an unlikely item to find under the Christmas tree, yet Shark’s CryoGlow LED Face Mask is among the beauty products on shoppers’ wishlists.",
    "excerpt": "With Americans worried about everything from grocery prices to housing costs, a $349.99 face mask might seem like an unlikely item to find under the Christmas tree. Yet Shark’s CryoGlow LED Face Mask is among the beauty …"
+  },
+  {
+   "title": "Silab unveils Metallomia, a detoxifying active ingredient for menopausal skin",
+   "url": "https://www.premiumbeautynews.com:8443/en/silab-unveils-metallomia-a,28529",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Silab introduces Metallomia, a detoxifying ingredient derived from marshmallow roots that targets iron regulation in menopausal skin to ensure controlled iron release.",
+   "excerpt": "Derived from the roots of marshmallow, Silab's new natural active ingredient targets the body's iron regulation process to ensure the controlled release of iron in menopausal skin. Thus, Metallomia combats “metal-linked-…"
   },
   {
    "title": "How body contouring and firming products are getting a boost from the GLP-1 era",
