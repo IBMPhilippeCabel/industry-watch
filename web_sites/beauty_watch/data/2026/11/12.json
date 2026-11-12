@@ -1,5 +1,59 @@
 [
   {
+    "source": "WWD Beauty",
+    "title": "EXCLUSIVE: Express Is Reentering Fragrance",
+    "link": "https://wwd.com/beauty-industry-news/fragrance/express-fragrance-relaunch-love-loyalty-mist-1239411787/",
+    "summary": "The fashion retailer is bringing back nostalgic heroes alongside new scents and formats as it gears up for a comeback in the category.",
+    "date": "2026-11-12T05:01:00+00:00",
+    "category": "💡 Innovation & Regulation",
+    "ai_summary": "Express is reentering the fragrance market by reviving nostalgic heroes and adding new scents and formats for a comeback."
+  },
+  {
+    "source": "WWD Beauty",
+    "title": "How Did Beauty Perform During the Third Quarter of 2026?",
+    "link": "https://wwd.com/beauty-industry-news/beauty-features/beauty-sales-2026-q3-skin-care-hair-fragrance-1239411003/",
+    "summary": "Data from Circana shows that prestige skin care is rebounding following a softer 2025, while lip color and eye shadows have also returned to growth.",
+    "date": "2026-11-12T05:01:00+00:00",
+    "category": "💄 Brands & Retail",
+    "ai_summary": "Prestige skincare rebounds in Q3 2026, while lip color and eye shadows also return to growth, according to Circana data."
+  },
+  {
+    "source": "Glossy",
+    "title": "POV Beauty’s Mikayla Nogueira unpacks her creator-brand playbook with CEO and co-founder Ani Hadjinian",
+    "link": "https://www.glossy.co/podcasts/pov-beautys-mikayla-nogueira-unpacks-her-creator-brand-playbook-with-ceo-and-co-founder-ani-hadjinian/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+    "summary": "In this special episode of the Glossy Beauty Podcast, we are taking you directly to the main stage of Glossy's annual Beauty & Wellness Summit for a conversation between POV Beauty founder Mikayla Nogueira, POV Beauty CE…",
+    "date": "2026-11-12T05:00:00+00:00",
+    "category": "💄 Brands & Retail",
+    "ai_summary": "POV Beauty’s founder Mikayla Nogueira discusses her creator-brand strategy with CEO Ani Hadjinian on the Glossy Beauty Podcast during the annual Beauty & Wellness Summit."
+  },
+  {
+    "source": "Glossy",
+    "title": "Fashion Briefing: How Zara Larsson, Charli XCX and burning suitcases drove a boom in Away’s aluminum luggage business",
+    "link": "https://www.glossy.co/fashion/fashion-briefing-how-zara-larsson-charli-xcx-and-burning-suitcases-drove-a-boom-in-aways-aluminum-luggage-business/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+    "summary": "Sales of aluminum products at Away have increased 20% from 2025 to 2026, making aluminum Away's best-selling and fastest-growing category.",
+    "date": "2026-11-12T05:00:00+00:00",
+    "category": "💄 Brands & Retail",
+    "ai_summary": "Zara Larsson, Charli XCX, and burning suitcases have spurred a 20% sales increase in Away’s aluminum luggage, making it the brand’s best-selling and fastest-growing category."
+  },
+  {
+    "source": "WWD Beauty",
+    "title": "EXCLUSIVE: Rina Lipa Lands First Beauty Campaign as Face of GCDS Morso Fragrance",
+    "link": "https://wwd.com/beauty-industry-news/fragrance/rina-lipa-first-beauty-campaign-gcds-morso-fragrance-calza-1239408394/",
+    "summary": "Lipa and the brand’s founder Giuliano Calza talked with WWD about how the collaboration came up, their favorite moments from the set and mutual interests, spanning from Britney Spears to “La La Land.”",
+    "date": "2026-11-12T05:00:00+00:00",
+    "category": "💄 Brands & Retail",
+    "ai_summary": "Rina Lipa becomes the face of GCDS Morso Fragrance, sharing her collaboration experience and mutual interests with the brand’s founder."
+  },
+  {
+    "source": "WWD Beauty",
+    "title": "EXCLUSIVE: Belgian Beauty House Very Edie Is Born",
+    "link": "https://wwd.com/beauty-industry-news/color-cosmetics/belgian-beauty-house-very-edie-launch-1239410392/",
+    "summary": "It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging.",
+    "date": "2026-11-12T05:00:00+00:00",
+    "category": "💡 Innovation & Regulation",
+    "ai_summary": "EXCLUSIVE: Belgian Beauty House Very Edie Is Born — It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging."
+  },
+  {
     "source": "Beauty Independent",
     "title": "One/Size’s $140M Financing Deal, Nia Long Eyes Fragrance, Spencer Hedges Launches Brand And More Indie Beauty Dish",
     "link": "https://www.beautyindependent.com/one-size-financing-deal-nia-long-fragrance-spencer-hedges-brand-indie-beauty-dish/",
@@ -43,5 +97,14 @@
     "date": "2026-11-12",
     "category": "💡 Innovation & Regulation",
     "ai_summary": "Caper flower and onycha: Stéphane Piquart's latest olfactory discoveries – Having entered the world of perfumery through Australian sandalwood, Stéphane Piquart founded Behave in 2007 with the ambition of introducing the industry to original ingredients sourced through environmentally responsible methods."
+  },
+  {
+    "source": "Premium Beauty News",
+    "title": "Silab unveils Metallomia, a detoxifying active ingredient for menopausal skin",
+    "link": "https://www.premiumbeautynews.com:8443/en/silab-unveils-metallomia-a,28529",
+    "summary": "Derived from the roots of marshmallow, Silab's new natural active ingredient targets the body's iron regulation process to ensure the controlled release of iron in menopausal skin. Thus, Metallomia combats “metal-linked-…",
+    "date": "2026-11-12",
+    "category": "💡 Innovation & Regulation",
+    "ai_summary": "Silab introduces Metallomia, a detoxifying ingredient derived from marshmallow roots that targets iron regulation in menopausal skin to ensure controlled iron release."
   }
 ]
