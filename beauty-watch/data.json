@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-12T08:53:00Z",
+ "updated": "2026-11-12T10:55:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "Innovation buzz, brand rebounds, and strategic moves shape today’s beauty landscape.",
+  "hook": "Today’s buzz spans rising body‑firming demand, strategic acquisitions, and fresh innovation in stress‑resilient skin and fragrance revivals.",
   "categories": {
-   "📈 Market": "Demand for body‑firming creams, lotions and contouring products is soaring, raising questions about the GLP‑1 era’s impact.",
-   "💄 Brands & Retail": "Prestige skincare rebounds in Q3 2026, with lip color and eye shadows also returning to growth.",
-   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s aims to boost sales and hit €2 bn in annual revenue by 2030.",
-   "💡 Innovation & Regulation": "Express reenters the fragrance market by reviving nostalgic heroes and adding new scents and formats for a comeback."
+   "📈 Market": "Body‑firming creams and contouring products are in high demand, raising questions about the GLP‑1 era’s influence on this surge.",
+   "💄 Brands & Retail": "Prestige skincare rebounds in Q3 2026, while lip color and eye shadows also return to growth, according to Circana data.",
+   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s aims to boost sales and hit €2 bn by 2030, while Rhode’s deal with E.l.f. Beauty targets a $1 bn net‑sales milestone.",
+   "💡 Innovation & Regulation": "New stress‑resilient skin tech from PhytoCellTec™ Aloha and a fragrance comeback with nostalgic heroes illustrate a trend toward resilient, nostalgic, and packaging‑innovative products."
   }
  },
  "articles": [
+  {
+   "title": "Stress-resilient skin",
+   "url": "https://www.cosmeticsbusiness.com/stress-resilient-skin",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Stress-resilient skin — Derived from the resilient plant Waltheria indica, PhytoCellTec™ Aloha is based on stem cell technology to protect the skin from the visible impact of psychological stress.",
+   "excerpt": "Derived from the resilient plant Waltheria indica, PhytoCellTec™ Aloha is based on stem cell technology to protect the skin from the visible impact of psychological stress"
+  },
   {
    "title": "EXCLUSIVE: Express Is Reentering Fragrance",
    "url": "https://wwd.com/beauty-industry-news/fragrance/express-fragrance-relaunch-love-loyalty-mist-1239411787/",
