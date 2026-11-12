@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-12T10:55:00Z",
+ "updated": "2026-11-12T12:57:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "Heineken expands in Brazil while tariffs hit Pernod, and F1-themed cruise launches stir innovation.",
+  "hook": "Heineken expands in Brazil and launches F1‑inspired cruise drinks while market signals softness and restructuring ripple across the beverage sector.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken’s acquisition of Better Drinks in Brazil signals growth in Latin America, while tariffs resurface to challenge Pernod Ricard’s margins.",
-   "📈 Market": "Underberg’s partnership with Loch Lomond and Constellation’s sale of Nelson’s Green Brier highlight shifting distribution, while PepsiCo’s job cuts and a tough spirits outlook underscore market strain.",
-   "🍸 Spirits & Premium": "Underberg’s German distribution of Loch Lomond and Constellation’s divestiture of Nelson’s Green Brier illustrate consolidation in premium spirits, amid a challenging industry climate.",
+   "🤝 Strategy & M&A": "Heineken completes its acquisition of Better Drinks in Brazil, expanding its portfolio in the Latin American market.",
+   "📈 Market": "Market softness is evident as Suja Life cuts 2026 guidance, Radnor Hills enters functional drinks, Underberg distributes Loch Lomond in Germany, Constellation sells Nelson’s Green Brier, Hain faces going‑concern risk, and PepsiCo plans further North American job cuts.",
+   "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Heineken and MSC Cruises launch a Formula 1‑inspired limited‑edition can, combining racing excitement with cruise‑ship experiences."
+   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises to launch limited‑edition Formula 1‑themed cans, tying the brand to race weekends at sea."
   }
  },
  "articles": [
+  {
+   "title": "UPMC letter details services offered in wake of Sharon Regional shutdown - WFMJ",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTDhZT1BPQmJjNmNfNHRuRkRxVGl1M2ZvTFpsa3VldE5KdnFtUkgtTWp2dTJpeTlRT056elc2Y0N6eFFkMnVwTVJUazlEWTRrX2lzWlZ6bDhsMFd2a1d3NjZoTHIwQnNZWjF2bWpWejJXWHB6WTBMMV9zVWxROVVzcXVrYzFDSDFlVmdmV0JZUHpIb3BuaGRxNnQydXY0M2daSGUzbUJBX2h6Wk1jV05zTndMcTV5QWJCRFA3bFU2M2JjbG5PbnNodV9iZ1N3Z0FDRS04MTFkWUtYQ3NGLUxzQ1NWcXRneGR0TXc3NGduaVAyN1I2dU1IOG9B?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "UPMC letter details services offered in wake of Sharon Regional shutdown.",
+   "excerpt": "UPMC letter details services offered in wake of Sharon Regional shutdown WFMJ"
+  },
+  {
+   "title": "Bank of America trade head Jameson to join JP Morgan - Global Trade Review (GTR)",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcmpYUmtvRko0eG9taHJuRXM1eFdLN3ZxQ3NkcXNzdEtRWFcwVWNJSXpwVDZaSDBrZ2xPN0NTN1FLd2k4RVowN21WVzEwdV8yZkRYb2NkTXItU0NQN19MbkgtZHFqbkxobkpYcDFUSW5JMmtIN3B0NjkzMm01X3lyRTJES1owU2NpT1V2ZVRLZlg3eUJHelZQaFFSTQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "Bank of America trade head Jameson will join JP Morgan Global Trade Review.",
+   "excerpt": "Bank of America trade head Jameson to join JP Morgan Global Trade Review (GTR)"
+  },
+  {
+   "title": "Suja Life trims forecasts for annual sales, earnings growth",
+   "url": "https://www.just-drinks.com/news/suja-life-trims-2026-forecasts/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Suja Life has trimmed its annual sales and profit guidance for 2026, pointing to \"continued softness in the grocery channel\".",
+   "excerpt": "Suja Life has trimmed its annual sales and profit guidance for 2026, pointing to \"continued softness in the grocery channel”."
+  },
+  {
+   "title": "Radnor Hills takes “natural next step” into functional drinks",
+   "url": "https://www.just-drinks.com/news/radnor-hills-functional-drinks/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "UK-based mineral waters business Radnor Hills is set to enter the functional drinks market with Radnor+.",
+   "excerpt": "UK-based mineral waters business Radnor Hills is set to enter the functional drinks market with Radnor+."
+  },
   {
    "title": "Heineken acquires Better Drinks in Brazil - Latin Lawyer",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JNlVzMWU2dU9lY1ZJaGVWbW1DZC1HYmx4WTFMOTdLb1ZGZlpKOTg2Q3drNzE1dWJ6OV9ILXJpak5lalZkV0ZWRGdlV3BZU1FlcjRuOEI5R3BETDJZdDVjV2Y0ZmJPZ0psTk94dVo5SzkyamlxbWVPS0dna0Rjdw?oc=5",

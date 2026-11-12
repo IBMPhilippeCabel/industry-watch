@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-12T10:55:00Z",
+ "updated": "2026-11-12T12:57:00Z",
  "briefing": {
   "date": "2026-11-12",
-  "hook": "Today’s buzz spans rising body‑firming demand, strategic acquisitions, and fresh innovation in stress‑resilient skin and fragrance revivals.",
+  "hook": "Today’s buzz spans celebrity fragrance revivals, live‑shopping lifts, and strategic moves like L’Oréal’s biotech funding and Henkel’s Olaplex acquisition.",
   "categories": {
-   "📈 Market": "Body‑firming creams and contouring products are in high demand, raising questions about the GLP‑1 era’s influence on this surge.",
-   "💄 Brands & Retail": "Prestige skincare rebounds in Q3 2026, while lip color and eye shadows also return to growth, according to Circana data.",
-   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s aims to boost sales and hit €2 bn by 2030, while Rhode’s deal with E.l.f. Beauty targets a $1 bn net‑sales milestone.",
-   "💡 Innovation & Regulation": "New stress‑resilient skin tech from PhytoCellTec™ Aloha and a fragrance comeback with nostalgic heroes illustrate a trend toward resilient, nostalgic, and packaging‑innovative products."
+   "📈 Market": "Celebrity fragrance launches echo early 2000s wardrobes while live‑shopping streams drive consumers back to high‑street beauty sales.",
+   "💄 Brands & Retail": "Prestige skincare and eye shadow are regaining growth, and creator‑led brands like POV Beauty are shaping new retail strategies.",
+   "🤝 Strategy & M&A": "L’Oréal’s BOLD fund invests in a Chinese biotech, and Henkel’s purchase of Olaplex and Not Your Mother’s aims to hit €2 bn sales by 2030.",
+   "💡 Innovation & Regulation": "K‑beauty saturation is debated as brands adopt Korean packaging and ingredients, while new stress‑resilient skin tech and targeted haircare collections push innovation."
   }
  },
  "articles": [
+  {
+   "title": "Are we going back to the 2000s celebrity fragrance wardrobe era?",
+   "url": "https://www.cosmeticsbusiness.com/return-to-the-2000s-celebrity-fragrance-wardrobe",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Are we going back to the 2000s celebrity fragrance wardrobe era? — With a plethora of celebrities entering fragrance, from rappers Megan Thee Stallion and Ice Spice to singer Tate McRae, perfume collections are beginning to reflect the A-list-founded wardrobes of the early 2000s. But ca…",
+   "excerpt": "With a plethora of celebrities entering fragrance, from rappers Megan Thee Stallion and Ice Spice to singer Tate McRae, perfume collections are beginning to reflect the A-list-founded wardrobes of the early 2000s. But ca…"
+  },
+  {
+   "title": "Are we nearing peak K-beauty? Industry experts weigh in…",
+   "url": "https://www.cosmeticsbusiness.com/k-beauty-nearing-peak-fatigue-industry-experts-views",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-12",
+   "ai_summary": "Are we nearing peak K-beauty? Industry experts weigh in… — With K-beauty brands entering numerous US retailers, and Western brands tapping into innovation from Korea – from packaging to ingredients – Cosmetics Business asked industry experts if we are nearing K-beauty saturation…",
+   "excerpt": "With K-beauty brands entering numerous US retailers, and Western brands tapping into innovation from Korea – from packaging to ingredients – Cosmetics Business asked industry experts if we are nearing K-beauty saturation…"
+  },
+  {
+   "title": "Symrise names Martin Huber new CFO to support ‘next phase of durable growth’",
+   "url": "https://www.cosmeticsbusiness.com/symrise-names-martin-huber-new-cfo-to-support",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Symrise names Martin Huber new CFO to support ‘next phase of durable growth’ — Former Aryzta and Nestlé executive, Martin Huber, will succeed Olaf Klinger as CFO of Symrise from 1 April 2027",
+   "excerpt": "Former Aryzta and Nestlé executive, Martin Huber, will succeed Olaf Klinger as CFO of Symrise from 1 April 2027"
+  },
+  {
+   "title": "L'Oréal leads funding round for Chinese biotech company PAM2L",
+   "url": "https://www.cosmeticsbusiness.com/lor%C3%A9al-leads-funding-round-for-biotech-company-PAM2L",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-12",
+   "ai_summary": "L'Oréal leads funding round for Chinese biotech company PAM2L — L'Oréal’s strategic corporate venture capital fund BOLD said it will leverage its beauty and formulation expertise to explore the broader scientific value of innovative bio-actives via a minority investment in PAM2L Biot…",
+   "excerpt": "L'Oréal’s strategic corporate venture capital fund BOLD said it will leverage its beauty and formulation expertise to explore the broader scientific value of innovative bio-actives via a minority investment in PAM2L Biot…"
+  },
+  {
+   "title": "Live shopping is boosting beauty, converting digital discovery to in-store sales",
+   "url": "https://www.cosmeticsbusiness.com/live-shopping-is-boosting-beauty-in-store-sales",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Live shopping is boosting beauty, converting digital discovery to in-store sales — Data from TikTok Shop UK has revealed how live shopping streams are pushing consumers to return to the high street and shop in-store, with the beauty category among the strongest performers",
+   "excerpt": "Data from TikTok Shop UK has revealed how live shopping streams are pushing consumers to return to the high street and shop in-store, with the beauty category among the strongest performers"
+  },
+  {
+   "title": "Colgate-Palmolive fined $930,000 by US authorities over ‘violations’ of chemical reporting",
+   "url": "https://www.cosmeticsbusiness.com/colgate-palmolive-fined-930-000-chemical-reporting",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Colgate-Palmolive fined $930,000 by US authorities over ‘violations’ of chemical reporting — Colgate-Palmolive, the owner of Sanex, failed to report numerous chemical substances imported between 2016 and 2019, and has reached a settlement with the US Environmental Protection Agency over violations of its chemica…",
+   "excerpt": "Colgate-Palmolive, the owner of Sanex, failed to report numerous chemical substances imported between 2016 and 2019, and has reached a settlement with the US Environmental Protection Agency over violations of its chemica…"
+  },
+  {
+   "title": "Neom Wellbeing CEO Isabel Malbois exits the business after five years",
+   "url": "https://www.cosmeticsbusiness.com/neom-wellbeing-ceo-isabel-malbois-exits-the-business",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-12",
+   "ai_summary": "Neom Wellbeing CEO Isabel Malbois exits the business after five years. Oliver Mennell, co-founder, returns to lead the company as Executive Chair.",
+   "excerpt": "Malbois will depart the British wellbeing and home fragrance brand this month, with Neom Wellbeing co-founder Oliver Mennell returning to lead the company as Executive Chair"
+  },
   {
    "title": "Stress-resilient skin",
    "url": "https://www.cosmeticsbusiness.com/stress-resilient-skin",
