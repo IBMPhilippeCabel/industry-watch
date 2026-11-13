@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-13T05:38:00Z",
+ "updated": "2026-11-13T14:08:00Z",
  "briefing": {
   "date": "2026-11-13",
-  "hook": "M&A activity heats up while live shopping drives in‑store beauty sales.",
+  "hook": "Clean energy goals, celebrity fragrance trends, and strategic moves shape today’s beauty landscape.",
   "categories": {
-   "📈 Market": "Live shopping is boosting beauty, converting digital discovery to in‑store sales, making the category a strong performer.",
-   "💄 Brands & Retail": "Brands are banking on live shopping this holiday season, with more brands gravitating toward the channel to influence shopping trends.",
-   "🤝 Strategy & M&A": "Henkel’s acquisition of Olaplex and Not Your Mother’s, and E.l.f. Beauty’s purchase of Rhode, aim to accelerate growth and reach new sales targets.",
-   "💡 Innovation & Regulation": "L'Oreal BIG BANG showcases beauty tech startups in Shanghai, highlighting the sector’s focus on tech innovation."
+   "📈 Market": "e.l.f. Beauty aims for 50% clean electricity in manufacturing by 2032, while dermatologists top Gen Z’s trusted skin care list and Unilever pushes electrification at COP31.",
+   "💄 Brands & Retail": "Brands like Creed focus on heritage, CeraVe partners with film, and live shopping gains traction for holiday sales.",
+   "🤝 Strategy & M&A": "L'Oréal funds Chinese biotech PAM2L, Henkel acquires Olaplex, and Rhode targets $1 billion after its e.l.f. acquisition.",
+   "💡 Innovation & Regulation": "New launches span fragrances, hair scents, and Ayurvedic skincare, with AI‑driven campaigns sparking debate on authenticity."
   }
  },
  "articles": [
+  {
+   "title": "e.l.f. Beauty targets 50% clean electricity use in product manufacturing by 2032",
+   "url": "https://www.cosmeticsbusiness.com/e-l-f-beauty-targets-50-clean-electricity-use-2032",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "e.l.f. Beauty targets 50% clean electricity use in product manufacturing by 2032 — The company’s 50% clean electricity goal for 2032 was reported in e.l.f. Beauty’s new impact report, which details how the owner of Hailey Bieber’sRhode is making an environmental and social impact",
+   "excerpt": "The company’s 50% clean electricity goal for 2032 was reported in e.l.f. Beauty’s new impact report, which details how the owner of Hailey Bieber’sRhode is making an environmental and social impact"
+  },
+  {
+   "title": "Cosmetics Business picks: 7 need-to-know beauty launches for November",
+   "url": "https://www.cosmeticsbusiness.com/cb-picks-7-new-beauty-launches-nov26",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-13",
+   "ai_summary": "Cosmetics Business picks: 7 need-to-know beauty launches for November — New fragrances by Orebella and Parfums de Marly, Loewe’s The Nightmare Before Christmas collections and Amika and The Nue Co’s entries into body care are among this week’s best new beauty launches",
+   "excerpt": "New fragrances by Orebella and Parfums de Marly, Loewe’s The Nightmare Before Christmas collections and Amika and The Nue Co’s entries into body care are among this week’s best new beauty launches"
+  },
+  {
+   "title": "EXCLUSIVE: Creed’s Future Focus Is Informed By Its Heritage",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/creed-future-focus-informed-by-heritage-loreal-perfume-1239414634/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-13",
+   "ai_summary": "EXCLUSIVE: Creed’s Future Focus Is Informed By Its Heritage — Here’s what is fueling growth at the world’s oldest existing high-end niche fragrance brand.",
+   "excerpt": "Here’s what is fueling growth at the world’s oldest existing high-end niche fragrance brand."
+  },
+  {
+   "title": "Dermatologists top Gen Z’s most-trusted list for skin care advice",
+   "url": "https://www.cosmeticsbusiness.com/dermatologists-top-gen-z-s-most-trusted-list",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "Dermatologists top Gen Z’s most-trusted list for skin care advice — A survey by tele-dermatology service Curology of nearly 2,000 skin care purchasers aged 13 to 29 found that 43% named dermatologists as their most trusted skin care source",
+   "excerpt": "A survey by tele-dermatology service Curology of nearly 2,000 skin care purchasers aged 13 to 29 found that 43% named dermatologists as their most trusted skin care source"
+  },
+  {
+   "title": "EXCLUSIVE: CeraVe Links With ‘Dune: Part Three’ for First Film Partnership",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/cerave-dune-part-three-first-film-partnership-1239413763/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe partners with ‘Dune: Part Three’ for its first film collaboration, broadening its media and advertising approach.",
+   "excerpt": "The dermatology-based skincare brand is expanding its media and advertising strategy."
+  },
+  {
+   "title": "Unilever calls for more government action on electrification at COP31",
+   "url": "https://www.cosmeticsbusiness.com/unilever-calls-for-more-government-action-on-electrification",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "Unilever calls for more government action on electrification at COP31 — Unilever has joined the We Mean Business Coalition’s new Electric Advantage Leadership Alliance at COP31, taking place in Antalya, Türkiye, bringing together business leaders working to accelerate the shift to electrific…",
+   "excerpt": "Unilever has joined the We Mean Business Coalition’s new Electric Advantage Leadership Alliance at COP31, taking place in Antalya, Türkiye, bringing together business leaders working to accelerate the shift to electrific…"
+  },
+  {
+   "title": "What Is e.l.f. Beauty (ELF) Gaining From This 500 Store Clean Beauty Launch? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHR3SE5kR0hyZ1NmY3RjcVRMQkRlTFJ5NU15dk1sY0tnSDNRUXpRR2tyb25HdVc5M2xvbXI1Q1JjVFRRcC0wb0FvMDQ0OUdWYnFEWVNXNDdTcFpWb01mUWwtN2NVNnM4Z3dkeHdLbWlHSFZKZnRBbDBLT1FXNUxrREo4c3M4MWRI?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-13",
+   "ai_summary": "e.l.f. Beauty’s 500-store clean beauty launch aims to enhance its market presence and product reach.",
+   "excerpt": "What Is e.l.f. Beauty (ELF) Gaining From This 500 Store Clean Beauty Launch? Yahoo Finance"
+  },
   {
    "title": "Beauty’s Growing Pains: What’s Making It Harder To Scale A Brand?",
    "url": "https://www.beautyindependent.com/beauty-growing-pains-what-making-harder-scale-brand/",

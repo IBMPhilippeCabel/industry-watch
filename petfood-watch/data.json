@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-13T05:38:00Z",
+ "updated": "2026-11-13T14:08:00Z",
  "briefing": {
-  "date": "2026-11-12",
-  "hook": "Today highlights Mars’ expansion, TikTok pet sales surge, and FDA GRAS changes reshape the market.",
+  "date": "2026-11-13",
+  "hook": "Today’s highlights show pet food firms expanding facilities, launching new treats, and navigating regulatory shifts.",
   "categories": {
-   "📈 Market": "TikTok Shop’s rapid growth in pet products and Hill’s cat‑food sales rise signal a shift toward online and niche segments.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul and evolving store formats signal regulatory and retail shifts.",
-   "💡 Innovation": "Mars’ India expansion, new natural treat launches, and debates on sustainability versus consumer priorities illustrate innovation focus.",
-   "🤝 M&A": "Mars’ £161 m factory investment and Fortifi’s acquisition of I.J. White Systems highlight consolidation and capacity expansion."
+   "📈 Market": "Citizens Pet expands its California facility and appoints new leaders while TikTok Shop drives rapid growth in the U.S. pet product market.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet food ingredients reach the market, while industry leaders discuss safety and nutrition.",
+   "💡 Innovation": "Redbarn’s ActiveGuard treats, PSC’s sustainability awards, and new natural treat launches signal a focus on science-backed, eco-conscious products.",
+   "🤝 M&A": "Mars invests £161 million to modernize its Leicestershire and Melton Mowbray plants, expanding production capacity for pet food brands."
   }
  },
  "articles": [
+  {
+   "title": "Redbarn launches functional treat line",
+   "url": "https://www.petfoodprocessing.net/articles/21076-redbarn-launches-functional-treat-line",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-13",
+   "ai_summary": "Redbarn launches functional treat line — The ActiveGuard line pairs Redbarn’s signature Bully Slices and Collagen Slims with targeted, science-backed ingredients.",
+   "excerpt": "The ActiveGuard line pairs Redbarn’s signature Bully Slices and Collagen Slims with targeted, science-backed ingredients."
+  },
+  {
+   "title": "Citizens Pet strengthens leadership, expands California facility",
+   "url": "https://www.petfoodprocessing.net/articles/21075-citizens-pet-strengthens-leadership-expands-california-facility",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "Citizens Pet strengthens leadership, expands California facility — The company announced six new leadership appointments and a 40,000-square-foot expansion of its facility.",
+   "excerpt": "The company announced six new leadership appointments and a 40,000-square-foot expansion of its facility."
+  },
+  {
+   "title": "PSC presents Pet Sustainability Awards during Impact Unleashed",
+   "url": "https://www.petfoodprocessing.net/articles/21074-psc-presents-pet-sustainability-awards-during-impact-unleashed",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-13",
+   "ai_summary": "PSC presents Pet Sustainability Awards during Impact Unleashed — The first-ever awards honor PSC-accredited companies for innovation, environmental excellence and leadership.",
+   "excerpt": "The first-ever awards honor PSC-accredited companies for innovation, environmental excellence and leadership."
+  },
+  {
+   "title": "Mars invests in modernization of UK pet food facility",
+   "url": "https://www.petfoodprocessing.net/articles/21073-mars-invests-in-modernization-of-uk-pet-food-facility",
+   "source": "Pet Food Processing",
+   "category": "🤝 M&A",
+   "date": "2026-11-13",
+   "ai_summary": "Mars invests in modernization of UK pet food facility — The Melton Mowbray plant was the birthplace of the WHISKAS and PEDIGREE brands.",
+   "excerpt": "The Melton Mowbray plant was the birthplace of the WHISKAS and PEDIGREE brands."
+  },
   {
    "title": "Royal Canin Parent Company Mars Expands Presence in India, Opens Global Capability Center - Pet Age",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ubDJvbmRBQzBvWXRXTU9nd1hfZ3N3dTl0YUF0ZzdmNVY4YVkyZ3U2VTVPVTJTbmRrSGxrTzRCTEZRZEJoa2NxSDYwUmJZaWdYODktYmh6T1M2Wl9IWUUtaEozMFVmd3ZTSDBOa1dMOVBQVGR2RmRJUHF0Yw?oc=5",

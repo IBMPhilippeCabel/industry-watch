@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-13T05:38:00Z",
+ "updated": "2026-11-13T14:08:00Z",
  "briefing": {
-  "date": "2026-11-12",
-  "hook": "A day of consolidation, tariff disputes, and fresh non‑alcoholic pushes in the beverage world.",
+  "date": "2026-11-13",
+  "hook": "Heineken pushes new Tiger flavours while expanding into non‑alcoholic RTDs and F1‑themed products amid market moves toward sustainability and diversification.",
   "categories": {
-   "🤝 Strategy & M&A": "Greenland Energy’s all‑stock purchase of 80 Mile consolidates Jameson mineral licenses while India’s tariff dispute stalls Pernod Ricard and Diageo Scotch shipments.",
-   "📈 Market": "Retail softness pushes Suja Life to cut 2026 guidance, Radnor Hills enters functional drinks, Underberg distributes Loch Lomond in Germany, Constellation sells Nelson’s Green Brier, Hain Celestial faces going‑concern risk, and PepsiCo plans further North American job cuts.",
+   "🤝 Strategy & M&A": "Heineken launches two new Tiger beer flavours and continues investment activity, while AB InBev backs Cutwater and Greenland Energy acquires 80 Mile, signalling ongoing portfolio expansion.",
+   "📈 Market": "Tesco’s supplier emissions platform, Suja Life’s guidance cut, Radnor Hills’ functional drink entry, Underberg’s German distribution, and Constellation’s whiskey divestiture illustrate a market pivot toward sustainability, diversification, and risk management.",
    "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": null
+   "🍺 Beer & Brewing": "Heineken introduces two new Tiger beer flavours and AB InBev invests in Cutwater, reflecting continued growth in the beer sector."
   }
  },
  "articles": [
+  {
+   "title": "Cubs’ $68 Million Starter Castoff Jameson Taillon Makes Return Announcement - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODlLbGhDaDZCZGhCY2p1ckdORFVtRjhPdUVmdWJSdTdTQ0ZXRTNVeHhMeExPb2NNOWdDUl9xaUhXQ2xEejd4cndmMlB6ODJYbjN6UFdMR01sMm5wZ3pDdTA2TkhQUzI2VEQtRUJsWWZtZlQ3ZVRhU0lNT0ROclpGZHc1ckFUQWdkQ1BSbjY1cWdvUE0wRjZIQ2hUZGhPYURSeEhvSHZPQTVpTURSRUo2R2MyOEMtVzV6WVlzeXZkQ0NtUV9tVnc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-13",
+   "ai_summary": "Cubs’ $68 Million Starter Castoff Jameson Taillon Makes Return Announcement",
+   "excerpt": "Cubs’ $68 Million Starter Castoff Jameson Taillon Makes Return Announcement Forbes"
+  },
+  {
+   "title": "Tesco joins platform to collect supplier emissions data",
+   "url": "https://www.just-drinks.com/news/tesco-joins-platform-to-collect-supplier-emissions-data/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "Tesco joins platform to collect supplier emissions data",
+   "excerpt": "Tesco has invited suppliers to join a data-sharing platform to standardise emissions reporting and speed up decarbonisation."
+  },
+  {
+   "title": "AB InBev invests again in Cutwater production",
+   "url": "https://www.just-drinks.com/news/ab-inbev-invests-again-in-cutwater-production/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-13",
+   "ai_summary": "AB InBev invests again in Cutwater production",
+   "excerpt": "Anheuser-Busch InBev is ploughing more cash into its production of Cutwater RTDs."
+  },
+  {
+   "title": "Heineken releases Tiger beer in two new flavours - The Drinks Business",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0Uwb1VMdHYwSnpiT1NWMl8zdklNb1lMdllyTXYzRFNuSUVhdGRyOWxQTWdQVi1jN3g1SjFZV2VJei1iQkJKYm03b28wckFGRURyR213U2RnNm1kMGVKazkzMThKM19jWW5vbnNUTUJkcUhoMDVLMkFDM3RzOEl5QzVtdlhEdEFCUmZRUXlmTllCcXFyN1E?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-13",
+   "ai_summary": "Heineken releases Tiger beer in two new flavours",
+   "excerpt": "Heineken releases Tiger beer in two new flavours The Drinks Business"
+  },
+  {
+   "title": "Your weekend playlist, inspired by Heineken House - Time Out Worldwide",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0N1UWN3U0l0LWMzZzdpX1FvWlcyN3JBeVNmaHVocTlELWN2OEVzSG5iaVRiTW43MkhxLVdDaEVzYmdhN1pjTmgzTGpYRWNXMjhVUEdkY2RObEprbllsNjl5YUdycVVHWUVKbENkRTY4UkVnMGFEbXFUdWFGN3U2VTRGeFQtdG5RbGlaOURSMjNxYUl6VUE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-13",
+   "ai_summary": "Your weekend playlist, inspired by Heineken House",
+   "excerpt": "Your weekend playlist, inspired by Heineken House Time Out Worldwide"
+  },
   {
    "title": "Greenland Energy to buy 80 Mile in all-stock deal, consolidating Jameson minerals licenses - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzFDYTJWczYxZHlfcFkxTm1RTThPYVJ1Z3UzVDZaZkhOd2VVNDV5NDdTZV92OWhTV3pDN2pZcGZHRjRMaFk2NVVoN19pOS1aMUhLTWdMZTBfR0FSTnQ2eTRNRTQ4SDlmRGNUZzYxTHlhcy1OZDJlYTFDY25LV09jSGVEMi10cEFmVVN6RS1HcUxzX3Bidlc0em5lTG1YQ2NHZHFXaUV2MnZLMWJacUdHOGF1Y3VMdExiTUNLaFFhYWo1YXVPbFE?oc=5",
