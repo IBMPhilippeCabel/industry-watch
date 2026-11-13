@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-12T22:08:00Z",
+ "updated": "2026-11-13T05:38:00Z",
  "briefing": {
-  "date": "2026-11-12",
-  "hook": "Mars expands globally, boosts US manufacturing, and sees snacking sales surge amid creative marketing.",
+  "date": "2026-11-13",
+  "hook": "Mars expands globally, boosts marketing, and plans record investment.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars doubles India business after Kellanova buy, opens a GCC in Hyderabad, and plans its largest US manufacturing investment in 2027.",
-   "🐾 Petcare & Royal Canin": "Royal Canin expands in India with a new Global Capability Center to strengthen regional operations.",
-   "🍫 Snacking & FMCG Market": "Reese’s Pieces sales jumped 65% after M&M’s declined E.T., while a viral Snickers photo boosted brand engagement.",
-   "⚡ Tech & Operations": "Mars opens its first GCC in Hyderabad to hire 1,000 tech talent, enhancing operational capabilities.",
+   "🤝 Mars Corporate & M&A": "Mars’s Kellanova acquisition has doubled its India business, spurred a new GCC in Hyderabad, and set the stage for its largest US manufacturing investment in 2027.",
+   "🐾 Petcare & Royal Canin": "Royal Canin, under Mars, is expanding in India by opening a Global Capability Center to strengthen operations.",
+   "🍫 Snacking & FMCG Market": "Mars snacking news includes a new global VP of corporate affairs, a 65% sales jump for Reese’s Pieces, a holiday candy line, and a viral Snickers photo that boosted engagement.",
+   "⚡ Tech & Operations": "Mars is opening its first GCC in Hyderabad, planning to hire 1,000 tech staff to support its expanding operations.",
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "Mars Snacking names João Belo global VP of corporate affairs - PRWeek",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3JEZFVKRmdwNFZYQ3cyeEdoNW5yU1ZWREQ1X05rRVQ0dHNWRDZrU1BWWUxTb3Naa3Riek8ySVhqV1psN01fWGROcEw2bXRfOXg4N1NfaFFyaEFIaGlLOHViVVgwX2pDc0dxU1k3RERhNzhVZnNVaE9VdzhNTXRUZnpWQS1Ib2pKb2xKRFAzZFE3Q1VqeXdrcEhaTVQ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-12",
+   "ai_summary": "Mars Snacking appoints João Belo as global VP of corporate affairs. The announcement was reported by PRWeek.",
+   "excerpt": "Mars Snacking names João Belo global VP of corporate affairs PRWeek"
+  },
   {
    "title": "Mars sees India business more than doubling after Kellanova buy - The Economic Times",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0FITDg2RG1uSHlHbS1UeVlLUGw1ZWhTV3pldHNZcHZlRklOdDFJMjJjNHpBUjMxR2Q2UHR0WnA1YjlDRGp0cFpCc3cwQXQtUHJlZ0hzV1pGdjBwQ1Z4MXM0ZnA2cnQtMTFzbW5MbzluMnNPd2tyVUVadXhaVTV2UGRZVkJGNlU2Z3gtaGlGMGtzMmVaSTRvcDk5bmUtYmVqT0VyUFFtT01ZRXYxUkNRZXh5c0ZySmlJemFneHdKT3dIaU14b0QwckN1STNtLTFqS2xqbEVQZ2hkdEU1SmYyaXZCcHhZbzlrUGfSAeMBQVVfeXFMTjJUd2FDOWtxZE9hbkRVZ1Y1akpjaXFCd2VoSUNCZTZKdG0zVUNzRUdkejJ1Ym85YzhxZ2ZBNDVRcXQ1b1FCNnJfcndfdEVHRkYzMEQ3c1NwcVpaQzh5eUZPMTlFR1NNM094dnNIMzN6R0RLYlZLSzdZejJlZi10VHlPZFZCU2VRTEJfMXBvdjRmeWY5R3dvMGpZOFdfc0kxeWNQN0pvcEppM3N3bE1lU2tQYUdpSWxxVkxDSWk5OHcxMF9xZVlEdzR5ZXFueExQSWhJNmtRWW1qcnJzRnRvWE5aMFU?oc=5",
@@ -1803,60 +1812,6 @@
    "date": "2026-10-14",
    "ai_summary": "The article discusses a contest offering a chance to win 200 years of Pringles chips. It highlights the unusual prize and the opportunity for participants to spend eternity in a Pringles can.",
    "excerpt": "Want to spend eternity in a Pringles can? You could win 200 years of chips ABC10"
-  },
-  {
-   "title": "P&G to Scale Smart, Touchless Supply Chain Optimizations",
-   "url": "https://consumergoods.com/pg-scale-smart-touchless-supply-chain-optimizations",
-   "source": "Consumer Goods Technology",
-   "category": "⚡ Tech & Operations",
-   "date": "2026-10-13",
-   "ai_summary": "In a recent blog, the company highlighted some of the tech strategies for Product Supply, the organization behind its manufacturing and supply chain operations.",
-   "excerpt": "In a recent blog, the company highlighted some of the tech strategies for Product Supply, the organization behind its manufacturing and supply chain operations."
-  },
-  {
-   "title": "Sportswear Company On Deploys AI Agent Workflows",
-   "url": "https://consumergoods.com/sportswear-company-deploys-ai-agent-workflows",
-   "source": "Consumer Goods Technology",
-   "category": "⚡ Tech & Operations",
-   "date": "2026-10-13",
-   "ai_summary": "As the company scaled globally, it needed to bolster its infrastructure to run more efficiently, which required tackling foundational fragmentation between compute, data and AI.",
-   "excerpt": "As the company scaled globally, it needed to bolster its infrastructure to run more efficiently, which required tackling foundational fragmentation between compute, data and AI."
-  },
-  {
-   "title": "Pringles Wants To Bury You In A Pringles Urn - Sporked",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jaWRMYWlKOWNTY3RnM2JRQVpkVW9YLTI5MWpYdE5WSDlITnRWWHZUYXlESlFwNmxPa2t4QlR2eVNleUl0aTF0Ykg1cXdoZGlVclYxMTdNWmJLNy0tdERtaWk0Q2RjTWZFT1Z6OU52Uy1IMHR0SWpmSFJoSzBlQQ?oc=5",
-   "source": "Mars Snacking & Brands (Google News)",
-   "category": "🍫 Snacking & FMCG Market",
-   "date": "2026-10-13",
-   "ai_summary": "",
-   "excerpt": "Pringles Wants To Bury You In A Pringles Urn Sporked"
-  },
-  {
-   "title": "The Pringles Can Inventor Was Buried In One—Now You Could Be, Too - Delish",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1ZEYjFKV21TOFh0aTFEOGdmRXRzVmNuVkctU1Vsd3FjU29GNHRIZ3paWHljZ1pOUXBsU3NXMzBmRjJlczkydV9kRG8xd2psc3Zocl9hbm5KTWRXYXp0VVp5cXAtdGhMRS0tSEFSTkRid1E1YWU1WU9OdVJTaVhnWkhMZGo?oc=5",
-   "source": "Mars Snacking & Brands (Google News)",
-   "category": "🍫 Snacking & FMCG Market",
-   "date": "2026-10-13",
-   "ai_summary": "",
-   "excerpt": "The Pringles Can Inventor Was Buried In One—Now You Could Be, Too Delish"
-  },
-  {
-   "title": "PRINGLES® DARES DIE-HARD FANS TO PROVE THEIR LOVE FOR A CHANCE TO WIN A ONE-OF-A-KIND CAN-SHAPED URN AND AN \"AFTERLIFETIME\" SUPPLY OF PRINGLES - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNVXBPcHZZazZOQ3RHeXhNbk84emt0blhkaFVHUUJFTVlyckdDQTl1ZWtaaDFOdlRNbXpKbXA1MGN6UF9UZ2J2WUJqeDd6a0JCTzB3Y1NjUGJOWW1PQk4xemlxZmZLU1NqWEk1LXRWZUpudDByOTJ3OUJrRk51UHNWbVdrQUlkdWdPekNGWnRhdWNFNGpXbGZtRUZGSUxOdm9LWWl3ZTBscWlnSGV4REtXS2poMWt4cHlaRDBCbkNjVWhkcUZmT1BUdnlwcDNxRGNUZ3dIdUp3djdYOTdvaWtEOGFmVWZsNGc5T3hBQmpCMml4QU00a3NFeDZrNm9jd2RtUzFlQ3NZWV9lV1VGMnhCcGl1WGE5TlpqZ3Z1THVHVWw?oc=5",
-   "source": "Mars Snacking & Brands (Google News)",
-   "category": "🍫 Snacking & FMCG Market",
-   "date": "2026-10-13",
-   "ai_summary": "",
-   "excerpt": "PRINGLES® DARES DIE-HARD FANS TO PROVE THEIR LOVE FOR A CHANCE TO WIN A ONE-OF-A-KIND CAN-SHAPED URN AND AN \"AFTERLIFETIME\" SUPPLY OF PRINGLES PR Newswire"
-  },
-  {
-   "title": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn - ADWEEK",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFRjTkJfc3p3a20yekdzcGxTb0FaWElnc1lLaXdSOUdoUmMtd0dFVzBvSWp3SGRqMUxMMXVHY3YyeEd5YjF3ZnBDNGd4cmRLaGNVQ3VpWFBac0tnaWlTUDhaQm9BWS1wVjgzRHduQXdjZVhlXzBzc2UyVkpWM3F4NTFGWnVLWUVxSXV0bzQ1TVJtY0JCbW9VQ0FOSVQ2OTZxN3paOXNYS09xUQ?oc=5",
-   "source": "Mars Snacking & Brands (Google News)",
-   "category": "🍫 Snacking & FMCG Market",
-   "date": "2026-10-13",
-   "ai_summary": "Pringles offers a branded urn as a final resting place for a devoted fan. The initiative is highlighted in ADWEEK.",
-   "excerpt": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn ADWEEK"
   }
  ]
 }

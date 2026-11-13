@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-12T22:08:00Z",
+ "updated": "2026-11-13T05:38:00Z",
  "briefing": {
-  "date": "2026-11-12",
-  "hook": "L’Oréal’s day blends AI-driven valuation debates, fresh Maybelline campaigns, and Q3 haircare growth amid market buzz.",
+  "date": "2026-11-13",
+  "hook": "L'Oréal's day highlights AI-driven strategy talks, new beauty tech showcase, Maybelline's fresh campaigns, and market buzz around brand updates.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal’s AI summit spotlight and a 14% overvaluation claim, plus a funding round for Chinese biotech PAM2L, shape its strategic narrative.",
-   "💄 Brands & Launches": "Maybelline refreshed its tagline and launched a new campaign with Megan Lawless, signaling a shift toward contemporary beauty storytelling.",
-   "💡 Beauty Tech & ESG": "Q3 sales growth across all divisions, especially haircare, underscores L’Oréal’s continued demand in core beauty tech segments.",
-   "📈 Market": "Maybelline’s latest lip gloss debut at the Glossy Summit and a revamped tagline highlight its evolving market positioning."
+   "🤝 Strategy & M&A": "L'Oréal leads funding round for Chinese biotech PAM2L while discussing marketing mix modeling at Advertising Week LATAM and AI summit valuations.",
+   "💄 Brands & Launches": "Maybelline launches new 'Maybe' line, revamps its long‑standing tagline, and partners with Megan Lawless for a fresh campaign.",
+   "💡 Beauty Tech & ESG": "L'Oréal showcases beauty tech startups at its BIG BANG event in Shanghai.",
+   "📈 Market": "Maybelline revamps its iconic tagline and highlights its latest lip gloss launch at the Glossy Beauty & Wellness Summit."
   }
  },
  "articles": [
+  {
+   "title": "L'Oreal BIG BANG Startups Showcase Beauty Tech in Shanghai - Seoul Economic Daily",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlBKSTVJNWxBTXQ4am5pUExqV2RCQWpOa1BsVEhpMzBSb3lLTXdTNWFTSm9xdHhTZldoNkNaY0tCWFZXRHc0ZG9oR3h4ZC1ORXpHV002ZXRDYUNXMVRkamJRdzhmS1daWEkxcHlDUjFoZlZzWUtYVjItSVliRUsweVZ2UDFINEhiZHhRWS14ZktSaGIwZ3NOY01jS3h1cElpQlE?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-11-13",
+   "ai_summary": "L'Oreal BIG BANG Startups showcase beauty tech in Shanghai.",
+   "excerpt": "L'Oreal BIG BANG Startups Showcase Beauty Tech in Shanghai Seoul Economic Daily"
+  },
   {
    "title": "Circana and L'Oréal Showcase at Advertising Week LATAM How Marketing Mix Modeling Drives Investment Decisions - Circana",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNckRwbXJOUUtQQW5Vc0VPM3ZqVHc2cnpSUDVxdVBzaHkwbUh6UFpzZU96cWhsVUhUQXB1TWtDTG5QZ3hwYnhPdE1icjFvSklMdV82UkpMelR4emxZTFpDWkZMZlhVcEpSNzRabXhZYXZQSTJkbUg0RVNLZGgyUEQ1STNyaGFCb3BNQlBLUGJaZVpSUGt3MExyeVY5S1JzaWRXYUQ2U3hPcF9Fa1REZV9FSjFFcEZjSlhkN1ZBUFhkM1B1SGtzWmhMaUg2bWVPQQ?oc=5",
@@ -101,6 +110,15 @@
    "date": "2026-11-12",
    "ai_summary": "Kanika Sud Joins L’Oréal As Commercial Director For E-commerce & Selective Retail.",
    "excerpt": "Kanika Sud Joins L’Oréal As Commercial Director For E-commerce & Selective Retail BW Marketing World"
+  },
+  {
+   "title": "Maybelline's new 'Maybe': A beauty revolution or a marketing reset? - Open Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGI0WEs1c19NbWJ2ZUVJS3lPVFAwSVFWdnd4WkpMOGhRZXNaMTEzaGtsMlZ2MDVjZDl5VlBkQ1ZybE00SUdqWUs5ZlREazVIN1pfQWx5dVlXbGlONXpGbTlPT2RmNmVjaGxicFJSZ2UwVW5pUTVMU2JDd1NtVFMxbmw5UDRiQ2NZVlpsUVA5WHJKenF2aW1rZnRrcE92MWNYYTJJMUtnRmkxTHB3M2J4bktoTHVzSnJuVnNGWm1KWWRIaWM?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-12",
+   "ai_summary": "Maybelline's new 'Maybe' is examined as either a beauty revolution or a marketing reset.",
+   "excerpt": "Maybelline's new 'Maybe': A beauty revolution or a marketing reset? Open Magazine"
   },
   {
    "title": "L’Oréal and Walgreens Back Chinese Biomaterials Start-Up - Global Cosmetics News",
@@ -1991,33 +2009,6 @@
    "date": "2026-10-14",
    "ai_summary": "",
    "excerpt": "Marking 28 years of impact, the 2026 L’Oréal–UNESCO For Women in UNESCO"
-  },
-  {
-   "title": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health - Lohud",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajhlMUFXUDFRd3ZJekxyeDN3WUN2UExKVU1BdlVnaDV3ZzM5YlZWZDRmY3RVRjVoNmpLa0tpLXBmUjhaQjQteVd4ZzRiMzdLX2tCdG1aT0FoY21uWUh1N2FVTnZ1R1NubVhyWTJUMmh6eTh1QmlQUUFiajlpMjcxeWxCYzdsMlJuOW02eE9UNDA1UlBubF9WbzluQXhKQ29ubXYxVS1NV0g4OEM3M1p1QVoxNFRjZXhPSGc1SGh1cHhCLWFpa1NwRHkyNHhGajYzWG5PZV9jajBpUDAx?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-13",
-   "ai_summary": "",
-   "excerpt": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health Lohud"
-  },
-  {
-   "title": "L’Oréal’s AI search push raises a new question: who controls brand discovery? - Marketing Tech News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelM3Z25aSFNXUkp1SnNUOXNoZzJkYWJwV2pWZ0hjMEFjRHZ4Q21LYjJObFhhSENKVVAtZTdmUFpxalM0TUxqMjRzUlJOVkhZc1E4VHRMb1F1UEZBV1FuUzRMS3AxZUVILWw1VFBqaHFJTnNaaWFEZnRzREZfUDZneHNlMDNrQ2ZNcnlVVjRlNHVMdE9kdzFTQVgwV2tJTFNGZkVIOURhNVphMnExT1phYm16NA?oc=5",
-   "source": "L'Oréal Beauty Tech & ESG (Google News)",
-   "category": "💡 Beauty Tech & ESG",
-   "date": "2026-10-13",
-   "ai_summary": "L’Oréal’s AI search push raises a new question: who controls brand discovery?",
-   "excerpt": "L’Oréal’s AI search push raises a new question: who controls brand discovery? Marketing Tech News"
-  },
-  {
-   "title": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health - The Oklahoman",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ1VuWTByZTBib0hyUkJzeFVRWTlKZjBBX2ZrN2sxa2RNdkl1TlhLRjFSRnI5eDNIWTJsaDlQOUdJeVZ1dUJrV2JPb0c2RG1pTGVuQUF4ejNUc2hTekthU285bHI2WGJOaUFtR09WY2hvaFEwbHlnT2NXUExkWUdxQ0VGZXpzNmttZDduT2ZsbF9xS2ItdExLQmRBcHBSVHRvMVB2WlhpQWF5bXlmRmtUQjhBM3VDWFpoal9ONHVXSVZXMXZ6NXlCb0plbWsySGQ4OXQ3dkdjLXVRSmQ1SXpXdDF3?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-13",
-   "ai_summary": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health – a joint launch of a global initiative by ADAA and Lancôme to address women's mental health.",
-   "excerpt": "ADAA and Lancôme Launch Global 'I’m Fine' Initiative to Break the Silence on Women’s Mental Health The Oklahoman"
   }
  ]
 }
