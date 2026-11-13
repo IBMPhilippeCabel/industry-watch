@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-13T14:08:00Z",
+ "updated": "2026-11-13T21:50:00Z",
  "briefing": {
   "date": "2026-11-13",
-  "hook": "L’Oréal’s day highlights new film tie‑ins, brand refreshes, investment moves, tech showcases and market buzz.",
+  "hook": "L’Oréal’s day highlights new partnerships, investment moves and a film‑based launch, underscoring its focus on women’s empowerment and tech innovation.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal’s Venture Fund Bold names Jasjot Kaur as Investment Director for India while the Bettencourt family expands its investment team.",
-   "💄 Brands & Launches": "CeraVe partners with the film DUNE as its official moisturizer of Arrakis and Maybelline launches a new tagline to replace its long‑standing slogan.",
+   "🤝 Strategy & M&A": "L’Oréal’s Venture Fund Bold appoints Jasjot Kaur as Investment Director for India, while the Bettencourt Family expands its investment team.",
+   "💄 Brands & Launches": "CeraVe partners with ‘Dune: Part Three’ as its official moisturizer of Arrakis, marking the brand’s first film partnership.",
    "💡 Beauty Tech & ESG": "L’Oreal BIG BANG Startups showcase beauty tech in Shanghai.",
-   "📈 Market": "Maybelline showcases its latest lip gloss launch at the Love Island villa and revamps its famous tagline to reflect the brand’s next chapter."
+   "📈 Market": "The L’Oréal-owned make‑up brand revamps its famous tagline to reflect a new chapter in how women see beauty today."
   }
  },
  "articles": [
+  {
+   "title": "The Ripple Effect of L’Oréal Paris’ Women of Worth - Vanity Fair",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzVJZ3VXdmJ1WDVfek1Dd0Q4Snc4UkR0WllQb01MMFdKakNDQ3Foa1NON2hVQkp2VVRQVVliaEs2d2NEaC1OcjdSM2k4SElnSFRWTS0wSGs1NGI1UDFWUmoyak5oVENHY3VnWW95NkppeXZoNzVMVXZoQUJaY2ZtNGdXM0hUWDYzOEFMRHRhTV95SE1oT0E?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-13",
+   "ai_summary": "The Ripple Effect of L’Oréal Paris’ Women of Worth highlights the impact of the initiative on women and society.",
+   "excerpt": "The Ripple Effect of L’Oréal Paris’ Women of Worth Vanity Fair"
+  },
+  {
+   "title": "CeraVe announces ‘Dune: Part Three’ partnership - Drug Store News",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mLXN4emlkY1pDT0NXNXNpRFZkUHR1THJ4alhVa0RZY1FnTG55cElNcTdkamstQ1pjUVMzYk8zQmhMMlNyZlhCTWs3T0hWaTE1eW1JMVhIQTlyNTg3aWt1Z0VEQ1c1aFhDemUyQTF1UnpDZDlBUVFJUUVR?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe announces a partnership with the film Dune: Part Three, marking a new collaboration in the beauty industry.",
+   "excerpt": "CeraVe announces ‘Dune: Part Three’ partnership Drug Store News"
+  },
+  {
+   "title": "CeraVe named ‘official moisturiser of Arrakis’ with Dune Part Three film tie-up - Cosmetics Business",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNODc3MkctVWozNkJnSDEwcDRtcXpVVTJuYU1ZRm15UkhkQUpxN1FFaWFwQzJ1YW9HTnhENTdUZzB2c1ZBNllEd3FpQ0k4VURSVS1HVTd4V2hKT1dISmhoNW1RRnhMQjBwcFV2bU1xdDduUGxqOXhVOVBzakJKZjQ4Z2xxeWhQME9NNHdrZA?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe is named the official moisturizer of Arrakis, aligning the brand with the Dune Part Three film.",
+   "excerpt": "CeraVe named ‘official moisturiser of Arrakis’ with Dune Part Three film tie-up Cosmetics Business"
+  },
+  {
+   "title": "CeraVe named ‘official moisturiser of Arrakis’ with Dune Part Three film tie-up",
+   "url": "https://www.cosmeticsbusiness.com/cerave-named-official-moisturiser-of-arrakis-with-dune",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe’s first film partnership will roll out globally ahead of the Dune Part Three release in December.",
+   "excerpt": "In its first film partnership, CeraVe’s Dune Part Three activations will roll out globally ahead of the film’s release in December"
+  },
   {
    "title": "CeraVe Becomes 'The Official Moisturizer of Arrakis' in First-Ever Film Partnership with DUNE: PART THREE - The Manila Times",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSl9SWVktVTJkUEVxamE1eVFnaG5xMkIwTjJkUlJ0X1hrNjJnZW5ORXBfLXZLNV9KbV9nUHZRanpSMThPNEhia2RvdlBxZThUTHAwSWVPZXhaR2I1VmhFakRwdE9nZVpabk9iQUZndHJSR2F3aXZsX01MbFpMNkRBcU5PQmZiQ3RXOUhlU3BkQnhGWW9YenZZd2xBelRtTlNpMzJyV3R6Uy15VWhabkpoNmh1TUhDS3dYcTJZckZsZ3ZacG5VbndxUnJSNUdmWTBUdVpIVXFHdDFyUzJZcXdJbzZlWXhnYWo2LTE4N2otbXZsWmFnUUs3OVJiU293X0s2VHVNV9IBigJBVV95cUxNWG5EZGRmanVscVhNMlZ5al8xRjdhWHVVRDFEejg1OEJNQmdxTUhmZDVpNG90TFMwcDhkaGpYTmpEQjE1b2h4emtLX1pydnV2S0lXcUdiX0RFQkpmUXVGQkRIMV84cVp5MTRYNEw0Y0lhV0tvX3JTOGVXT0hZaFZmX2FycER1T2NOSUdzTzI1dXJzM3l1d25zLV9RLUsxekx4WGhfem1STHJwYklZRUI2NWJWZWh3N05fQnpyQWFVSHFDdGlqUElYV00zV2VKd0NxMTFsWlNMWkNfS2ZMN1dZelN4cERRaHFyRTV0X3BtaXMxVGlUMHBIUmR1ZF9Dd0V5NWp4Q0Jkdk9MQQ?oc=5",
@@ -20,6 +56,15 @@
    "date": "2026-11-13",
    "ai_summary": "CeraVe partners with the film DUNE, becoming its official moisturizer of Arrakis.",
    "excerpt": "CeraVe Becomes 'The Official Moisturizer of Arrakis' in First-Ever Film Partnership with DUNE: PART THREE The Manila Times"
+  },
+  {
+   "title": "CeraVe Becomes \"The Official Moisturizer of Arrakis\" in First-Ever Film Partnership with DUNE: PART THREE - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaGgxazk2NnJaejRZYmVnSWYtekk5MFF3NS1oUWstVUM2S1oxdWhvSVRHNU94OXFaSE90THY0UkpGT0hhVWw1Rm5fYXRmX0tSeUpQZHR2NngySHh4eUY2QjI0SzhZSHZqdXh3VkVrelRXY2gxOXY1VmlVUEprNUt6d1RJX0JoNHdwcVFyXzQ1YklwTXVZSmMyaGpIQzJtYi1VZTJNWGE4c3JTVDBEWFZ5MFR6ZWRFQ1NuRENKOWg5WF9BRjJ4NVBMb3Bxa3Z4eElmVk1TejgxMVZWN2E1VDlZRHp3b0pnUDVKZVdZMnhvVQ?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe becomes the official moisturizer of Arrakis in a first‑ever film partnership with DUNE: PART THREE.",
+   "excerpt": "CeraVe Becomes \"The Official Moisturizer of Arrakis\" in First-Ever Film Partnership with DUNE: PART THREE PR Newswire"
   },
   {
    "title": "EXCLUSIVE: CeraVe Links With ‘Dune: Part Three’ for First Film Partnership - WWD",
@@ -83,6 +128,15 @@
    "date": "2026-11-13",
    "ai_summary": "L'Oreal BIG BANG Startups showcase beauty tech in Shanghai.",
    "excerpt": "L'Oreal BIG BANG Startups Showcase Beauty Tech in Shanghai Seoul Economic Daily"
+  },
+  {
+   "title": "“It's up to us to make refilling attractive,” Mandana Vahedi, Planet B",
+   "url": "https://www.premiumbeautynews.com/en/it-s-up-to-us-to-make-refilling,28533",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "Mandana Vahedi, at 26, discusses challenges in luxury beauty packaging and her experience after an internship at L’Oréal Luxe.",
+   "excerpt": "At just 26, Mandana Vahedi has already taken on several major challenges in luxury beauty packaging. After an initial internship at L'Oréal Luxe, she joined Puig in Spain, where she worked on the Carolina Herrera makeup …"
   },
   {
    "title": "Circana and L'Oréal Showcase at Advertising Week LATAM How Marketing Mix Modeling Drives Investment Decisions - Circana",

@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-13T14:08:00Z",
+ "updated": "2026-11-13T21:50:00Z",
  "briefing": {
   "date": "2026-11-13",
-  "hook": "Clean energy goals, celebrity fragrance trends, and strategic moves shape today’s beauty landscape.",
+  "hook": "Fragrance brands pivot to affordable luxury while clean beauty pushes sustainability and new launches surge.",
   "categories": {
-   "📈 Market": "e.l.f. Beauty aims for 50% clean electricity in manufacturing by 2032, while dermatologists top Gen Z’s trusted skin care list and Unilever pushes electrification at COP31.",
-   "💄 Brands & Retail": "Brands like Creed focus on heritage, CeraVe partners with film, and live shopping gains traction for holiday sales.",
-   "🤝 Strategy & M&A": "L'Oréal funds Chinese biotech PAM2L, Henkel acquires Olaplex, and Rhode targets $1 billion after its e.l.f. acquisition.",
-   "💡 Innovation & Regulation": "New launches span fragrances, hair scents, and Ayurvedic skincare, with AI‑driven campaigns sparking debate on authenticity."
+   "📈 Market": "CeraVe partners with Dune Part Three, e.l.f. targets 50% clean electricity by 2032, and dermatologists top Gen Z trust list.",
+   "💄 Brands & Retail": "Ode Parfums launches affordable luxury fragrance, Creed leans on heritage for growth, and CeraVe expands media reach through film tie‑in.",
+   "🤝 Strategy & M&A": "L'Oréal funds Chinese biotech PAM2L, Henkel acquires Olaplex, and e.l.f. Beauty’s $140M deal with One/Size signals liquidity moves.",
+   "💡 Innovation & Regulation": "Clean beauty brands like e.l.f., Skylar, and Kristin Ess launch new products, while Eye Palettes market forecasts premiumization to 2035."
   }
  },
  "articles": [
+  {
+   "title": "EXCLUSIVE: Ode Parfums Aims to Disrupt the Fragrance Market",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/ode-parfums-disrupt-fragrance-market-1239414976/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-13",
+   "ai_summary": "Ode Parfums aims to disrupt the fragrance market as an affordable luxury brand for everyone, founded by former Maesa cofounders.",
+   "excerpt": "The brand's cofounders Grégory Mager and Julien Saada, who formerly cofounded Maesa, developed Ode to be an affordable luxury brand for everybody."
+  },
+  {
+   "title": "Eye Palettes Market To 2035: Premiumization and Clean Beauty Fuel Expansion - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmx3eGxiVTQ3Q081WjZ2dHZqdmNLRjV1R2s5Q3g5YWNOa0FfNjVneDlrUTV5aVRTZGZILVczaDRkSENJSmRidXp0ZE5IT1RONnktdlc3cVhFOGRCNzIxZVJHbi1jVHhsOVhuSnhLcmtRSU5oYnQxOFg4Qnc1OXBwTmR5M0FjYXVnU0h3WWFJbkdQSGh2X3ZLbFdabmstX0VURkd4YU0xR0tSUW5jWjN1Q1FaU0FLeGlKbGc?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-13",
+   "ai_summary": "Eye Palettes Market To 2035: Premiumization and Clean Beauty Fuel Expansion - News and Statistics - IndexBox",
+   "excerpt": "Eye Palettes Market To 2035: Premiumization and Clean Beauty Fuel Expansion - News and Statistics IndexBox"
+  },
+  {
+   "title": "EXCLUSIVE: Clean Fragrance Brand Skylar Reintroduces Hair and Body Mists",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/skylar-hair-body-mists-leah-kateb-1239414204/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-13",
+   "ai_summary": "Clean fragrance brand Skylar reintroduces hair and body mists after Leah Kateb joined as refounder and chief creative officer.",
+   "excerpt": "The launch comes a little over a year after \"Love Island USA\" star Leah Kateb joined the brand as refounder and chief creative officer."
+  },
+  {
+   "title": "CeraVe named ‘official moisturiser of Arrakis’ with Dune Part Three film tie-up",
+   "url": "https://www.cosmeticsbusiness.com/cerave-named-official-moisturiser-of-arrakis-with-dune",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe is named the official moisturiser of Arrakis with a partnership for Dune Part Three, rolling out global activations before the film’s December release.",
+   "excerpt": "In its first film partnership, CeraVe’s Dune Part Three activations will roll out globally ahead of the film’s release in December"
+  },
   {
    "title": "e.l.f. Beauty targets 50% clean electricity use in product manufacturing by 2032",
    "url": "https://www.cosmeticsbusiness.com/e-l-f-beauty-targets-50-clean-electricity-use-2032",
@@ -155,6 +191,24 @@
    "date": "2026-11-13",
    "ai_summary": "L'Oreal BIG BANG showcases beauty tech startups in Shanghai, as reported by Seoul Economic Daily.",
    "excerpt": "L'Oreal BIG BANG Startups Showcase Beauty Tech in Shanghai Seoul Economic Daily"
+  },
+  {
+   "title": "“It's up to us to make refilling attractive,” Mandana Vahedi, Planet B",
+   "url": "https://www.premiumbeautynews.com/en/it-s-up-to-us-to-make-refilling,28533",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-13",
+   "ai_summary": "Mandana Vahedi, at 26, tackles luxury beauty packaging challenges, having worked at L'Oréal Luxe and Puig on Carolina Herrera makeup.",
+   "excerpt": "At just 26, Mandana Vahedi has already taken on several major challenges in luxury beauty packaging. After an initial internship at L'Oréal Luxe, she joined Puig in Spain, where she worked on the Carolina Herrera makeup …"
+  },
+  {
+   "title": "Sol de Janeiro teams up with Brazilian racing driver Aurelia Nobels",
+   "url": "https://www.premiumbeautynews.com:8443/en/sol-de-janeiro-teams-up-with,28531",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-13",
+   "ai_summary": "Sol de Janeiro partners with Brazilian racing driver Aurelia Nobels to launch a limited-edition fragrance inspired by her roots and motorsport.",
+   "excerpt": "Sol de Janeiro has partnered with rising Brazilian racing driver Aurelia Nobels to launch Aurelia Perfume Mist , a limited-edition fragrance inspired by her Brazilian roots and the adrenaline of motorsport. A rising tale…"
   },
   {
    "title": "Victoria Beckham’s Hands-on Approach Shapes Her Beauty Brand’s Middle East Debut",
@@ -956,6 +1010,15 @@
    "date": "2026-11-10",
    "ai_summary": "Greentech wins top IFSCC award for breakthrough in neuro-pigmentation. The company received the 2026 IFSCC Grand Prize for Applied Research at the 36th International Federation of Societies of Cosmetic Chemists Congress in Perth, Australia, for research highlighting the role…",
    "excerpt": "Greentech has received the 2026 IFSCC Grand Prize for Applied Research at the 36th International Federation of Societies of Cosmetic Chemists (IFSCC) Congress, held in Perth, Australia, for research highlighting the role…"
+  },
+  {
+   "title": "Coty Inc. 2027 Q1 - Results - Earnings Call Presentation (NYSE:COTY) 2026-11-09 - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkxrd1ZGMFZkSGZmZlozNE5ZdmJ1bGFPOU84M2g3d0NIbGFsNFhKNXlZQU51Sm4taWk5ZFl2bmo5RFotSHBzTkpHQ052ZmFIRG9LR0ZyNVRLNGRWNmhKbGlERUp1VDdDOWlQNE9KZnJlcUpaUkRTdWx6VjAzRGNuTE5vNll3bVdUTnFSd2M3ZHpjalllUk84?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-09",
+   "ai_summary": "Coty Inc. presents its 2027 Q1 earnings call results on 2026-11-09.",
+   "excerpt": "Coty Inc. 2027 Q1 - Results - Earnings Call Presentation (NYSE:COTY) 2026-11-09 Seeking Alpha"
   },
   {
    "title": "Brands are putting YouTube front and center in their holiday marketing strategies",

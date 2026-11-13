@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-13T14:08:00Z",
+ "updated": "2026-11-13T21:50:00Z",
  "briefing": {
   "date": "2026-11-13",
-  "hook": "Today’s highlights show pet food firms expanding facilities, launching new treats, and navigating regulatory shifts.",
+  "hook": "Today’s highlights show a surge in sustainability initiatives, digital sales growth, and regulatory shifts reshaping the pet food landscape.",
   "categories": {
-   "📈 Market": "Citizens Pet expands its California facility and appoints new leaders while TikTok Shop drives rapid growth in the U.S. pet product market.",
-   "⚖️ Regulation": "The FDA’s proposed GRAS overhaul could reshape how pet food ingredients reach the market, while industry leaders discuss safety and nutrition.",
-   "💡 Innovation": "Redbarn’s ActiveGuard treats, PSC’s sustainability awards, and new natural treat launches signal a focus on science-backed, eco-conscious products.",
-   "🤝 M&A": "Mars invests £161 million to modernize its Leicestershire and Melton Mowbray plants, expanding production capacity for pet food brands."
+   "📈 Market": "TikTok Shop’s rapid growth and Pet Valu’s revenue increase signal a strong digital and retail momentum in the pet food market.",
+   "⚖️ Regulation": "The FDA’s proposed overhaul of the GRAS notification process could reshape how pet food ingredients reach the market.",
+   "💡 Innovation": "Sustainability remains a key focus, with new product lines, awards, and research underscoring diverse consumer demand for eco‑friendly pet foods.",
+   "🤝 M&A": "Mars is expanding its UK production capacity with a £161 million investment in its historic Melton Mowbray factory."
   }
  },
  "articles": [
+  {
+   "title": "No single pet owner group dominates sustainability demand",
+   "url": "https://www.petfoodindustry.com/pet-food-marketing-and-branding/article/16425542/no-single-pet-owner-group-dominates-sustainability-demand",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-13",
+   "ai_summary": "Research identifies seven consumer segments with distinct motivations and purchasing priorities regarding sustainability. The study shows that no single pet owner group dominates the demand for sustainable products.",
+   "excerpt": "Research identifies seven consumer segments with different motivations, purchasing priorities and responses to sustainability..."
+  },
   {
    "title": "Redbarn launches functional treat line",
    "url": "https://www.petfoodprocessing.net/articles/21076-redbarn-launches-functional-treat-line",
