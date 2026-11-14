@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-14T02:00:00Z",
+ "updated": "2026-11-14T08:54:00Z",
  "briefing": {
-  "date": "2026-11-13",
-  "hook": "Mars expands globally, boosts US manufacturing, and launches new snacking campaigns amid legal and marketing buzz.",
+  "date": "2026-11-14",
+  "hook": "Mars expands globally while boosting snack sales and launching festive candy, signaling growth in India, GCC, and US manufacturing.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars’s acquisition of Kellanova fuels a record US manufacturing investment and a new GCC in Hyderabad, expanding its global footprint.",
-   "🐾 Petcare & Royal Canin": "Royal Canin’s parent, Mars, opens a Global Capability Center in India to strengthen regional operations.",
-   "🍫 Snacking & FMCG Market": "Mars launches a holiday candy line, appoints a new VP of corporate affairs, and sees Reese’s Pieces sales surge after a viral marketing photo.",
-   "⚡ Tech & Operations": "Mars plans its largest US manufacturing investment in 2027, leveraging the Kellanova acquisition to grow its snacking portfolio.",
+   "🤝 Mars Corporate & M&A": "Mars doubles India business after Kellanova buy, opens GCC in Hyderabad, expands Global Capability Center in India, wins regional awards, and plans biggest US manufacturing investment in 2027.",
+   "🐾 Petcare & Royal Canin": null,
+   "🍫 Snacking & FMCG Market": "M&M’s launches a holiday candy line inspired by classic Christmas movies, sees Reese’s Pieces sales jump 65%, and Snickers defends itself in court while a viral photo campaign boosts brand buzz.",
+   "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "m&m's - Taxi — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnSThsbmswUE9tMC03MnZsSEplUWR2dUFvZGlhcjJMLVJta1N6cUlRR3pWaU53Rk9TWkV5Y0Z3ZEV3Z1U5RF9uVg?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-13",
+   "ai_summary": "m&m's - Taxi — LBB - LBB - Little Black Book — m&m's - Taxi — LBB LBB - Little Black Book",
+   "excerpt": "m&m's - Taxi — LBB LBB - Little Black Book"
+  },
   {
    "title": "Yoon Snickers in Court, Refuting Allegations of Continuing Insurrection After Troop Withdrawal - news.sbs.co.kr",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByTmI4NVpqSVhaWnFybHY2ZGtXUXFfRGpqUWpVbHVFRzR2MWVRbzRuM19KUWwxeE1RRkRNVlVFdDBhRnNKZUlNVDlTanFUd0FjUjFtdmkxTlJ0WUE0MlRfaS1qSlNSVGhLb2ZWNU5B?oc=5",
@@ -201,6 +210,15 @@
    "date": "2026-11-10",
    "ai_summary": "Reviewers say the OPI x M&M's viral advent calendar is filled with vibrant colors for winter.",
    "excerpt": "Reviewers Say OPI x M&M's Viral Advent Calendar Is Filled With \"Vibrant\" Colors for Winter Yahoo"
+  },
+  {
+   "title": "OPI and M&M’s Advent Calendar Is Filled With \"Beautiful and Vibrant\" Colors for Winter - Good Housekeeping",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGl2WElPYU83UmhfeXU4NWthWmZnYjdxcTNoNkoxYUVDQkxSX1k1bVRqZXhNWDN1ZVhZR2dmSE1OVHR4V1MzN0FXd1Rtd3dUVFU3dlZnTWVRckUtdEhtSHd1QWdTV0t6R1R4ekh0Z2Y1dlBOOUhCYlAzYmM1d21IOG1FS0kwRTg1c3FmN09TVTFuVmRDbXFkU3daVGdJbTl6RWhUNWdwUFNtdw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-10",
+   "ai_summary": "OPI and M&M’s Advent Calendar Is Filled With \"Beautiful and Vibrant\" Colors for Winter - Good Housekeeping — OPI and M&M’s Advent Calendar Is Filled With \"Beautiful and Vibrant\" Colors for Winter Good Housekeeping",
+   "excerpt": "OPI and M&M’s Advent Calendar Is Filled With \"Beautiful and Vibrant\" Colors for Winter Good Housekeeping"
   },
   {
    "title": "Hendrick Motorsports pokes fun at Denny Hamlin with Snickers photo: \"That was all Rick\" - Motorsport.com",

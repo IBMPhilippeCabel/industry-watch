@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-14T02:00:00Z",
+ "updated": "2026-11-14T08:54:00Z",
  "briefing": {
-  "date": "2026-11-13",
-  "hook": "Today’s highlights show a surge in sustainability initiatives, digital sales growth, and regulatory shifts reshaping the pet food landscape.",
+  "date": "2026-11-14",
+  "hook": "Today’s pet‑food news highlights sustainability research, new functional treats, and Mars’ expansion in India amid growing small‑dog market and TikTok sales boom.",
   "categories": {
-   "📈 Market": "TikTok Shop’s rapid growth and Pet Valu’s revenue increase signal a strong digital and retail momentum in the pet food market.",
-   "⚖️ Regulation": "The FDA’s proposed overhaul of the GRAS notification process could reshape how pet food ingredients reach the market.",
-   "💡 Innovation": "Sustainability remains a key focus, with new product lines, awards, and research underscoring diverse consumer demand for eco‑friendly pet foods.",
-   "🤝 M&A": "Mars is expanding its UK production capacity with a £161 million investment in its historic Melton Mowbray factory."
+   "📈 Market": "The market sees small‑dog popularity rise, TikTok pet‑product sales surge, and Pet Valu reporting a 3.5% revenue lift, indicating diversified growth drivers.",
+   "⚖️ Regulation": null,
+   "💡 Innovation": "Innovation focus spans new sustainability research on consumer segments, Redbarn’s science‑backed treat line, PSC’s inaugural sustainability awards, Mars’ India expansion, and Francis & Bee’s Chewy launch.",
+   "🤝 M&A": "M&A activity includes Mars modernizing its UK plant, partnering for regenerative agriculture, appointing a new VP, and Trupanion and Lemonade expanding tech and customer acquisition."
   }
  },
  "articles": [
@@ -56,6 +56,24 @@
    "date": "2026-11-13",
    "ai_summary": "Mars invests in modernization of UK pet food facility — The Melton Mowbray plant was the birthplace of the WHISKAS and PEDIGREE brands.",
    "excerpt": "The Melton Mowbray plant was the birthplace of the WHISKAS and PEDIGREE brands."
+  },
+  {
+   "title": "Trupanion lifts profits while Lemonade faces higher claims costs",
+   "url": "https://globalpetindustry.com/news/trupanion-lifts-profits-while-lemonade-faces-higher-claims-costs/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-13",
+   "ai_summary": "Trupanion lifts profits while Lemonade faces higher claims costs — US pet insurance providers Trupanion and Lemonade reported positive momentum in the third quarter of 2026, expanding their portfolios while pursuing investments in technology and customer acquisition. Trupanion: more rev…",
+   "excerpt": "US pet insurance providers Trupanion and Lemonade reported positive momentum in the third quarter of 2026, expanding their portfolios while pursuing investments in technology and customer acquisition. Trupanion: more rev…"
+  },
+  {
+   "title": "Are small dogs becoming a big opportunity for pet food?",
+   "url": "https://globalpetindustry.com/news/are-small-dogs-becoming-a-big-opportunity-for-pet-food/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-13",
+   "ai_summary": "Are small dogs becoming a big opportunity for pet food? — Small breed dogs are gaining popularity among US pet owners and prospective adopters, according to Hill’s Pet Nutrition’s 2026 State of Shelter Pet Adoption Report. The survey, which polled 2,000 US consumers between in …",
+   "excerpt": "Small breed dogs are gaining popularity among US pet owners and prospective adopters, according to Hill’s Pet Nutrition’s 2026 State of Shelter Pet Adoption Report. The survey, which polled 2,000 US consumers between in …"
   },
   {
    "title": "Royal Canin Parent Company Mars Expands Presence in India, Opens Global Capability Center - Pet Age",
