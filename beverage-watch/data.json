@@ -1,18 +1,54 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-14T08:54:00Z",
+ "updated": "2026-11-14T16:25:00Z",
  "briefing": {
   "date": "2026-11-14",
-  "hook": "Day highlights premiumisation, RTD expansion, and Heineken’s F1 tie‑ins amid regulatory shifts.",
+  "hook": "Heineken's growth in Vietnam contrasts with tax worries, while premium tequila and non‑alcoholic RTDs push market shifts.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Premiumisation drives U.S. tequila growth, while a nootropic RTD seed round signals niche expansion; EU wine output is forecast to fall 4%, Tesco gathers emissions data, and Suja cuts 2026 guidance amid grocery softness.",
-   "🍸 Spirits & Premium": "Tequila premiumisation continues to lift craft brands in the U.S. market.",
+   "🤝 Strategy & M&A": "Heineken reports double‑digit Q3 growth in Vietnam but its CFO warns of tax and margin pressures.",
+   "📈 Market": "Premium tequila is driving U.S. craft growth, while a seed round for Nütrl Vodka Soda signals rising nootropic interest, EU wine output is forecast to fall, Tesco is gathering supplier emissions data, Suja is cutting 2026 guidance, and Radnor Hills is entering functional waters.",
+   "🍸 Spirits & Premium": "Premium tequila is fueling U.S. craft growth and a seed round for Nütrl Vodka Soda highlights rising nootropic spirits.",
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Heineken partners with MSC Cruises for a limited‑edition F1‑inspired can, while Almave launches non‑alcoholic RTDs at Target, and Germany postpones its sugar tax."
+   "💡 Innovation & No-Low": "Germany has delayed its sugar tax, Almave is debuting non‑alcoholic RTDs at Target, and Heineken is launching a limited‑edition F1‑inspired product with MSC Cruises."
   }
  },
  "articles": [
+  {
+   "title": "Jameson Williams Week 10 Outlook for Fantasy Football (2026) - RotoBaller",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXlwNUF1cVgwSEZnMW5ya1dkN3ZMRWQySkhwODRTakl0ZF9DcHpGa3F0Ri0wMkFiVHVyTnM1UmYzUmM4N3hUUTlJZ0IzYUJQSXFNT0VwR3U4VzRPZEVDRVBGREV4ZlhTVFhJdTJvTDBha2U1eC1USXNaZFVUQUhrZHNralhJUmZyQTdNSXI0N1hJREtGeHhvNHZyVlpDMUE5OGhDYjdzdWszd0RXemh5N3ZSWnJ5M2d1SmNIaHJmaGY0UFBGMGc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-14",
+   "ai_summary": "Jameson Williams’ Week 10 fantasy football outlook is discussed in a RotoBaller piece.",
+   "excerpt": "Jameson Williams Week 10 Outlook for Fantasy Football (2026) RotoBaller"
+  },
+  {
+   "title": "10-year MLB vet slams 'comically bad' league proposal in rant - USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3VNTENzcDBIOHE5UkNMVkpZd2RSSGFTWTYtc0JhMllQRFhyNkxjQW1lemVCTjk0RGVkQzRCV1JYSC1pazhRWnhibVhlM29ILUJBOU1yaUFORFNjLXpHa21WQkRRbGxXeWZlUUF4N1o1cFJESFFEY1hKUlRsMUpPTnZrOUFLV3ZLRmVMRUs1YlNwTGJCUkhCN2xqV3FzYUdqLVNyNlNyWUR6OWhPN0NhUlBJSQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-14",
+   "ai_summary": "A 10-year MLB veteran calls the league’s proposal 'comically bad' in a USA Today rant.",
+   "excerpt": "10-year MLB vet slams 'comically bad' league proposal in rant USA Today"
+  },
+  {
+   "title": "Jameson Taillon Slams MLB’s Lockout Narrative - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFJaSDdXZ3BuRDk0QXRmWkd3MGFxTU5PQV9CYmtXTmpLSEZzTDVZT1JELWJ1Zzl6SWtyYWdNSVdSbGhHd2RwemZ4QnRrNnA2dUQwTmRlTE1TSGkzM2pTaXUyajE0N0RFSjA3UzRMSVY0STVsZXI2UUV4Q0tXOHVueURVbTU1WjlvR2c?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-14",
+   "ai_summary": "Jameson Taillon criticizes MLB’s lockout narrative in a Yahoo Sports article.",
+   "excerpt": "Jameson Taillon Slams MLB’s Lockout Narrative Yahoo Sports"
+  },
+  {
+   "title": "Heineken posts double-digit Q3 growth in Vietnam, CFO warns of tax, margin pressures - Theinvestor",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcDJfQ19rLTVjM2h5R0k5TURNdzFQUmF0UkhvRklvZTlCQzhtb3M4eURBNTRCTUlzVmRETUNRcmRubFdmVUtDUENkUF9QdkNscXBLTzR0TFotVEU4MTQ4WXhPc2NUVzVhQkdabHYyM1V2eFJpY3otNDBIQzJ0b0R2c2RfVXpRSll5Q19xSkZvczJuR1lNN2lqa19wZ0haUDFSVjRGSk1nVnVIR1gwcS1DLWR3R2FkaUk1?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-14",
+   "ai_summary": "Heineken reports double-digit Q3 growth in Vietnam, while its CFO warns of tax and margin pressures in Theinvestor coverage.",
+   "excerpt": "Heineken posts double-digit Q3 growth in Vietnam, CFO warns of tax, margin pressures Theinvestor"
+  },
   {
    "title": "Jameson Hilton-led Wesleyan powers into second round - Gwinnett Daily Post",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUFjTTdXaDNDYjgzZ3RKaTdVVTFKOFF0SW12aFlZVWlRcDFvNVVFTkcycHlZckNjWGcxWFRnNGlBUWdORnZFM2pPaURpSi0tc2pYektrZHlRdjBlZ0tVVzdGRlJ5R0drRG1vcjdOMjB0VHhRUzYwU2hlT3UxdFdtLVdwRWRnYUJuNmNZX3VPM25vc3lxOUZTWDJjVzZCSjJwOVd4dTFFbnZSY3VFS1pKRXZfQ0N5WDQ0NzFseEoyT0JjX0tFNXFLYllfU05LZmZ2S2hTNWE2UU9wcEtMQjhrVDNn?oc=5",
@@ -39,6 +75,15 @@
    "date": "2026-11-14",
    "ai_summary": "Greenwich's Jameson Dobson five-yard touchdown - The Post Star",
    "excerpt": "Greenwich's Jameson Dobson five-yard touchdown The Post Star"
+  },
+  {
+   "title": "Parker Washington and Jameson Williams LEAD Week 10 Fantasy Football WR STARTS - Central Oregon Daily",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObGNpS2FzY0M3dHVacUpncG1HbThETDBTeHdxUy1FSE83WkVnSmxvQmhCN1BTbDJuWXdlQ01kVzVpVG9BU3ZYYTZJcl9CUGN4NW9adEs0M21CZjFGdUJvOTB0bWlDdFJUY2FsekI3MFpieUtUNk15QXRmUVVneUhtQS1XUGp2d2pxbUFmOUJlSUxrd05fOC1uZFBSY0gwU21vVXB6RmI0R3AwZncyLW5rS3RfX0ItX2pZNTNRTWpHSDJ4OUt1bXphMHVlUEZRd0dmTEFmX05YbnlpQl8wZGhKbC1vWTRPXzlqWDNiRDFCNDVNdWtLdk1PUUFfLTA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-13",
+   "ai_summary": "Parker Washington and Jameson Williams lead Week 10 fantasy football WR starts in a Central Oregon Daily article.",
+   "excerpt": "Parker Washington and Jameson Williams LEAD Week 10 Fantasy Football WR STARTS Central Oregon Daily"
   },
   {
    "title": "Will Jameson Williams come up big against New England? - Yahoo Sports",
