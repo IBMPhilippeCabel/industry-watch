@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-15T13:38:00Z",
+ "updated": "2026-11-15T19:37:00Z",
  "briefing": {
   "date": "2026-11-15",
-  "hook": "Mars Corp’s day highlights expansion, new leadership, and a quirky legal scare in London.",
+  "hook": "Mars Corp’s day highlights expansion in India, new snacking launches, and a fresh corporate affairs hire.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars opens a GCC in Hyderabad to hire 1,000 techies and doubles its India business after the Kellanova buy.",
-   "🐾 Petcare & Royal Canin": "Royal Canin’s parent, Mars, expands in India with a Global Capability Center to boost operations.",
-   "🍫 Snacking & FMCG Market": "Mars Snacking names João Belo as global VP of corporate affairs while M&M’s launches a holiday candy line and sees Reese’s Pieces sales surge.",
-   "⚡ Tech & Operations": "Mars opens its first GCC in Hyderabad, targeting a large tech workforce.",
+   "🤝 Mars Corporate & M&A": "Mars expands in India with a new GCC in Hyderabad and a Kellanova acquisition that more than doubles its India business.",
+   "🐾 Petcare & Royal Canin": "Royal Canin opens a Global Capability Center in India to boost operational capabilities.",
+   "🍫 Snacking & FMCG Market": "M&M’s launches a holiday collection and a new global VP of corporate affairs is appointed, while Reese’s Pieces sales surge.",
+   "⚡ Tech & Operations": "Mars opens its first GCC in Hyderabad, planning to hire 1,000 tech staff.",
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M’S Brings Three Classic Christmas Movies to Life With New Holiday Collection - Men's Journal",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1FaRW1Sc1c5ZExWdWwwWjdGcmQtR0dSaUpodEdLTWJ4N2g5OUktcmVUTEtNWkZVZHBOeThDR2lSdjZ0ck9rNXJsZHJ4aVhQbW1HS1YyN1FXUTJRcXd5VkRTa2FvcWVwQTZPeXJPdmxUSFJqZXFvZ0tuWFM5eGxJM0JaUEk2REtjelB3a2thM3V1Nm85cEZZNjdzbTc1T2dQM2JCUG9BMWh5TG5NWXBJ?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-15",
+   "ai_summary": "M&M’S introduces a new holiday collection featuring three classic Christmas movies. The collection is highlighted in Men's Journal.",
+   "excerpt": "M&M’S Brings Three Classic Christmas Movies to Life With New Holiday Collection Men's Journal"
+  },
   {
    "title": "The illegal Chinese casino on top of M&M’s World - London Centric",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Zbi1keWJSYVJOSEVpNjhrd25IT25ydjd3RXZpV1BwYllRdWxQMjVBajNTQnJIaHpGT0lBdlA5N1ozYlpjRHNHbkFLM3lOWEdwcEVNaWRGQkV0Nk80SDM4QnJFVlpBWXVvOUpyVkRtWDh2RU01Y09qNmJn?oc=5",
