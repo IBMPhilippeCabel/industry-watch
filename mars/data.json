@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-15T05:25:00Z",
+ "updated": "2026-11-15T13:38:00Z",
  "briefing": {
-  "date": "2026-11-14",
-  "hook": "Mars Corporation expands globally while boosting snacking sales and investing in US manufacturing.",
+  "date": "2026-11-15",
+  "hook": "Mars Corp’s day highlights expansion, new leadership, and a quirky legal scare in London.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars doubles India business after Kellanova buy and opens a GCC in Hyderabad to hire 1,000 techies, signalling a focus on regional growth.",
-   "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "M&M’s launches a holiday line inspired by classic Christmas movies and sees Reese’s Pieces sales jump 65% in two weeks, while Snickers defends itself in court.",
-   "⚡ Tech & Operations": null,
+   "🤝 Mars Corporate & M&A": "Mars opens a GCC in Hyderabad to hire 1,000 techies and doubles its India business after the Kellanova buy.",
+   "🐾 Petcare & Royal Canin": "Royal Canin’s parent, Mars, expands in India with a Global Capability Center to boost operations.",
+   "🍫 Snacking & FMCG Market": "Mars Snacking names João Belo as global VP of corporate affairs while M&M’s launches a holiday candy line and sees Reese’s Pieces sales surge.",
+   "⚡ Tech & Operations": "Mars opens its first GCC in Hyderabad, targeting a large tech workforce.",
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "The illegal Chinese casino on top of M&M’s World - London Centric",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Zbi1keWJSYVJOSEVpNjhrd25IT25ydjd3RXZpV1BwYllRdWxQMjVBajNTQnJIaHpGT0lBdlA5N1ozYlpjRHNHbkFLM3lOWEdwcEVNaWRGQkV0Nk80SDM4QnJFVlpBWXVvOUpyVkRtWDh2RU01Y09qNmJn?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-15",
+   "ai_summary": "The article discusses an illegal Chinese casino located on the roof of M&M’s World in London. It highlights concerns about the legality and potential impact on the surrounding area.",
+   "excerpt": "The illegal Chinese casino on top of M&M’s World London Centric"
+  },
   {
    "title": "m&m's - Taxi — LBB - LBB - Little Black Book",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnSThsbmswUE9tMC03MnZsSEplUWR2dUFvZGlhcjJMLVJta1N6cUlRR3pWaU53Rk9TWkV5Y0Z3ZEV3Z1U5RF9uVg?oc=5",
