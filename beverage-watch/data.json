@@ -1,18 +1,63 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-15T19:37:00Z",
+ "updated": "2026-11-15T23:51:00Z",
  "briefing": {
   "date": "2026-11-15",
-  "hook": "Today's highlights show premiumisation, new RTD funding, and regulatory shifts shaping the beverage landscape.",
+  "hook": "Premiumisation drives craft tequila growth while nootropic RTDs attract investment and EU wine output faces a decline.",
   "categories": {
    "🤝 Strategy & M&A": null,
-   "📈 Market": "Premiumisation fuels craft tequila growth while a seed round backs a nootropic RTD, EU wine output is forecast to fall, Tesco collects emissions data, Suja trims guidance, and Radnor Hills enters functional drinks.",
+   "📈 Market": "Premiumisation is boosting craft tequila sales, a nootropic RTD brand secured seed funding, and EU wine production is forecast to fall 4% in 2026.",
    "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Almave debuts non‑alcoholic RTDs at Target, Germany delays its sugar tax, and Heineken sponsors the 2026 Las Vegas F1 Grand Prix."
+   "💡 Innovation & No-Low": "Germany postponed its sugar tax, a non‑alcoholic RTD brand launched at Target, and the 2026 Heineken Las Vegas Grand Prix is set to feature Formula 1 programming."
   }
  },
  "articles": [
+  {
+   "title": "Jameson Williams goes for 50 yards in Week 10 win - FantasyPros",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUhUa2pkNm1tNU8wZ1d6OWQ0STZRLU5XaE44QzV5UUFENU00b0RrVDRJYkpzbU81YXlPajVEVy01UlphdVdRNzlUb25BcDBJV3BRNi1WTkdkX2RkU2pVNVZNcHVaWTlzRy1fVDlZdFFrTDhQNzFsS1oxcTlpRWxTcmlqSVRPc2VHQ0wwZEp5SFNHVUoy0gGaAUFVX3lxTE54emRCT1VJTUpjZEx0UVRYMFI0TEdtNUVQalZIMFFydmJYd1N1dUZPTTFDWEpQZkFrZlVHRHhsZ3NxYWpiak55YnJHdnpoWW01b1lHalQ2QnNCY2xzeXBxZktfSHV6T01RTk1DOElRUWdwMDVwNzIxbHZYRFFpMDc5aXBtcnJ2S2tMQkdyNkkwZVFXS1QxNUdxb3c?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-15",
+   "ai_summary": "Jameson Williams aimed for 50 yards during a Week 10 victory, noted by FantasyPros.",
+   "excerpt": "Jameson Williams goes for 50 yards in Week 10 win FantasyPros"
+  },
+  {
+   "title": "Sam Holcomb, Jameson Davis lead Brother Rice past Normal into 7A semifinals - Southwest Regional Publishing",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSElzbU5rRVJVMC1fZDJURG9fVlFEZE5od1JSNkcxRHEybk9BNk1OS0pXMno0UGQweGEzTEV5Z0JsTktTWERoaGpUWVFpeXJUVFVuRUJ2em1aVXFMaTYwOURWVkdGNEh0cHVYc3dUcEgyR2x3YXBPTUlYLVFDRnliZnpHVHBsbEJWV2pDNTFVdnNxWXJPMGRPdk9PbDB2SG5KX2h3RDE4dTctRGZYc0dKcGJvclZrNlBRRks2M3lRWHZ3dXpI?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-15",
+   "ai_summary": "Sam Holcomb and Jameson Davis led Brother Rice to a 7A semifinal win over Normal, as covered by Southwest Regional Publishing.",
+   "excerpt": "Sam Holcomb, Jameson Davis lead Brother Rice past Normal into 7A semifinals Southwest Regional Publishing"
+  },
+  {
+   "title": "Jameson Williams Four grabs in win over Pats - Fantasy Footballers Podcast",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXRYdXlzc05PbTdCdjVRZm9VQl9Ob2VPWUJia1lfSWVkT3N6azRwVEllZFZJMGJ3aWsxSk1yUkJpc2FBdGxIWGx2YURvU05kd3EteUJyRldPZ2EzSTBLbjZUVjYyUEVjNExmTmhDSEJraWx3YWtqa3lBaDZWdml6RFBsLVloN0NITGFZelJMNFlyekk0OEN4cC1OMA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-15",
+   "ai_summary": "Jameson Williams achieved four grabs in a victory over the Patriots, highlighted in a podcast discussion.",
+   "excerpt": "Jameson Williams Four grabs in win over Pats Fantasy Footballers Podcast"
+  },
+  {
+   "title": "Lions' Jameson Williams: Four grabs in win over Pats - CBS Sports",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzVWTTZBeVlISEs1SW9iLVA4TEE0RkVRYUtQbktsQ0h1RERHRzc3cC1TOXVOTEliRFpYdnZ6OGV2emlxd21VeWFlbUlYTUdPRGI0MkJJZi05dWxGSV96Mjg0RzhxeVdLSl8tNWZVSnE1LWtZNjAzQ2NWR1QzT0lFbndFMzV0RUNuNnc1UFYxdE9tMGRWeWJKc19MOTlvZDhN?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-15",
+   "ai_summary": "Jameson Williams recorded four grabs in a win against the Patriots, reported by CBS Sports.",
+   "excerpt": "Lions' Jameson Williams: Four grabs in win over Pats CBS Sports"
+  },
+  {
+   "title": "Jameson Williams News: Four grabs in win over Pats - RotoWire",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVV5TFAtQ1lkR0Jlb1pUSTRwdDlSZTRqemEyM0VoOExwRmg2T0JMRzNwWUlzUEowblF2bFdIek5wWktzRzhTMnJpenMtRjVqOGp6cHJJY1JUR1NrQ3hHTEhRN2xKZmJFb1E3TTBGcXJ3SWFaeFU2QV9VbEZ4c204aFVDWEVBQS02TF8yckctRE9ZMGJxN2U0LU5Eby1KajNyRnc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-15",
+   "ai_summary": "Jameson Williams secured four grabs in a win over the Patriots, reported by RotoWire.",
+   "excerpt": "Jameson Williams News: Four grabs in win over Pats RotoWire"
+  },
   {
    "title": "Four grabs for Jameson Williams in Week 10 vs. Patriots - AOL.com",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1ZtVU1zaWhVc0lncWw2UjUwNENxb2lvOVUzY1YxOGpmOVExWDJGTnFpRXJJUllOMUMxT1dwOXFmRGpoUG5TQXBYc2tXUHh1MnQxUms4RzF1Vm80aDFQcXNrYkM4cWFxVWZGNHVIekFaSklqY2ZWYk5kb1pUWjJBdEtB?oc=5",
