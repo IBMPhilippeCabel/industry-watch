@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-14T22:05:00Z",
+ "updated": "2026-11-15T05:25:00Z",
  "briefing": {
-  "date": "2026-11-14",
-  "hook": "Today’s highlights span clean‑beauty launches, fragrance collaborations, and strategic moves in the beauty sector.",
+  "date": "2026-11-15",
+  "hook": "Today’s highlights show clean beauty narratives, tech‑driven retail shifts, and a surge in sustainability commitments across the industry.",
   "categories": {
-   "📈 Market": "Dermatologists are the top trusted source for Gen Z skin care, while e.l.f. Beauty targets 50% clean electricity use by 2032.",
-   "💄 Brands & Retail": "Ode Parfums positions itself as affordable luxury, and Creed leverages heritage to drive growth.",
-   "🤝 Strategy & M&A": "L’Oréal invests in Chinese biotech PAM2L, and Henkel’s acquisition of Olaplex aims to boost sales to €2 bn by 2030.",
-   "💡 Innovation & Regulation": "WWD ranks red‑light therapy panels, and Sol de Janeiro launches a motorsport‑inspired fragrance with Brazilian driver Aurelia Nobels."
+   "📈 Market": "Dermatologists top Gen Z’s trust list for skincare advice, while e.l.f. Beauty aims for 50% clean electricity use by 2032.",
+   "💄 Brands & Retail": "Ode Parfums positions itself as affordable luxury, and CeraVe partners with a film for a media‑driven campaign.",
+   "🤝 Strategy & M&A": "L'Oréal leads a funding round for Chinese biotech PAM2L, expanding its bio‑active portfolio.",
+   "💡 Innovation & Regulation": "Plum emphasizes a ‘Being Good’ narrative in India’s clean beauty sector, and WWD ranks red‑light therapy panels for beauty tech."
   }
  },
  "articles": [
+  {
+   "title": "Plum: Positioning Around “Being Good” in India’s Clean Beauty Market - MarkHub24",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm9YRzdKVnU2OWZ2XzkyZ2luN25MSTVta095RngzVlF5SnlCVldXWV9rWVNpMWlVS3padGRua0V3cUJyajFCTHpkaUR5X2Frc3FUSjhxRG5LekpVaUc1U2lNbURLLUZPaVlPV3RwU1pDYjVndTdaTmVsN1d5aWRhNk5pRHMxUFZrS3doWTZXeEY5aDhJRTFhOGs2M20?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-15",
+   "ai_summary": "Plum focuses on the 'Being Good' narrative within India's clean beauty sector. The article explores how this positioning shapes consumer perception and market strategy.",
+   "excerpt": "Plum: Positioning Around “Being Good” in India’s Clean Beauty Market MarkHub24"
+  },
   {
    "title": "The Best Red Light Therapy Panels, Tested by WWD Editors Who Take Their Beauty Tech Seriously - WWD",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkpNWllqM3h2SGZpREFtRXhJZnhJYTlnTDBsTDVHOTEtaENSRi1FY1g1bDFlSTBwM0J3YXA0NU9mWHg2VXh2d1A5dl83eXNIU2p4UlNlblRvZVZiTUdHbEFkOWZPZDNxNExRMW1BVFQ5ZnFfTTBKUmdGME0zbHd6MTBiNUNxUVBscUJreFFsSllxcXhHMkN3eXAxZ0YzT1FyazVzd2FEVQ?oc=5",
@@ -5537,78 +5546,6 @@
    "date": "2026-10-16",
    "ai_summary": "",
    "excerpt": "This week, LVMH reported earnings that showed its recovery last quarter was short-lived."
-  },
-  {
-   "title": "The holiday playbook: How brands are navigating launches, stock and promotions",
-   "url": "https://www.glossy.co/fashion/the-holiday-playbook-how-brands-are-navigating-launches-stock-and-promotions/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "",
-   "excerpt": "Glossy+ Research’s holiday report found that most brands don’t plan to offer steeper discounts than in the 2025 holiday season, and bundling options may be more attractive for smaller brands that can’t absorb the costs o…"
-  },
-  {
-   "title": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India - FashionNetwork - The World's Fashion Business News",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWW5pdm15U1BlMjU4cUJlNW5KZHJ3aFpjdDk0bkxFR2NxbHRkSmJNNEI2dm1fZTlFYzFtek1wSUJJTVBJRU1rSTFJeTZneWd5R05XNUx6V1J1N3pOVUFpSWhnSHFGRFlBM2p5Uk9UZlBYTkhpMEo5UlhkSkF1cUY1Rll5UjByMVl2QUVoWnBoZUszbm12TXp4NjM2azB6NHhkSXJDNXN0V1lSVlMyNDQzM0tmTzdFX3RCWFpsQ0hOOGNfSVhrUG9jZDkxdEpUdW56R3R3emE5SEl2dGI5a2Mza0E5SFMyUk5sMXBabW8welZ3Wk81Tmc?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India - FashionNetwork - The World's Fashion Business News — Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India FashionNetwork - The World's Fashion Business News",
-   "excerpt": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India FashionNetwork - The World's Fashion Business News"
-  },
-  {
-   "title": "10 years in, Good American brings its full vision to NYC with landmark pop-up",
-   "url": "https://www.glossy.co/fashion/10-years-in-good-american-brings-its-full-vision-to-nyc-with-landmark-pop-up/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "",
-   "excerpt": "It has been 10 years, almost to the day, since pop-culture icon Khloé Kardashian and then-budding brand mogul Emma Grede introduced their disruptive denim-first fashion brand, Good American, designed to fit and flatter w…"
-  },
-  {
-   "title": "Estée Lauder and Reliance Foundation launch partnership to empower one million girls in India - DFNI",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWFSdldCZGZUeS11WlhMRmRVQ1d3T1QxRkxIamlyVEs2TzhzUHZlZU1CTHl5ckw2QXJTRldLZ3pXWEhha19MaEZLdVVPWmFGRmZlVGpyWHpnMVFPSVFoREJIdnV1bm1xblNEZEdiX1NCOVhEck5zUWFGcVpGc0FqaXZaNW9KRE4zNEU0LTdXRHhXQnFKcDVjWEF6aS0xVS1WR1NkTTJac0RXblBINVUxenJ6YXVXYlNMcEpLdU0tQm1WU0VnWEgtU3VnRWptSGRvcHhhSllKSVZ0SnYw?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Estée Lauder and Reliance Foundation launch a partnership to empower one million girls in India.",
-   "excerpt": "Estée Lauder and Reliance Foundation launch partnership to empower one million girls in India DFNI"
-  },
-  {
-   "title": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance - Coty",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pTWxseGt2QVc2QXBmaS1ZajRHXy05ckNUbk1iS1RlZTR2MEExQU9fSjRpLWlfUjdOcTlhbjhBOFJkdVlUa0xzdVdZMWdMSmpiQ0ZJNXNDQjc5WFRxLWdXbGhmV21jY2d5cjcwTUh3?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-15",
-   "ai_summary": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance — Coty launches a global fragrance club to create a community that shapes the future of fragrance.",
-   "excerpt": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance Coty"
-  },
-  {
-   "title": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India - FashionNetwork USA",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMUhFWDhwa3VjVTZVcWtMQ0h4ZUoxSElCcjBKSkN5eGQtOTRPZE90WjJtVHRxdzQ4R2JaMWF3VXRNd1VEdkxtcmNKT2cxaDd0c1owSy04ZDZrdmFyaDRmZDlwLUFjUmlack9HUUFXRUwwcm5QR3VBLU9VZkRBOVhOaFU3akxJdTVNeXE5VHBpanA0ajRNVWxYT0UxaVpUTFBQT2RJREUteDQ2VDJaS1pZQXg5eDdWUlBQVnRZYnljYVpqREIyazZnN0hzUXJFTXFuSTJFV0g2NlFZQVZ6THhiWnE0V1FZM1NvMDRwMW5taFRrY1hnQVE?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-15",
-   "ai_summary": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India - FashionNetwork USA — Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India FashionNetwork USA",
-   "excerpt": "Reliance Foundation and Estée Lauder Companies Charitable Foundation launch women’s empowerment initiative in India FashionNetwork USA"
-  },
-  {
-   "title": "Amid an executive shakeup, Gap Beauty expands with its first gourmand fragrance",
-   "url": "https://www.glossy.co/beauty/amid-an-executive-shakeup-gap-beauty-expands-with-its-first-gourmand-fragrance/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-15",
-   "ai_summary": "",
-   "excerpt": "Ahead of the crucial holiday shopping season, the retail giant is growing its beauty assortment with Bliss, a limited-edition scent available in eau de parfum and body-care formats."
-  },
-  {
-   "title": "Shots Fired in the Clean Beauty Wars… - Puck",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQ0NWR1Y0b3lxc2ZjOXhZOEJSYnFNcXRPZm5RQ1B5SkxiTnBzNEVLV3RWeGtrem5kbndqSDdoS2VVbUxoMC1NWmtwQWNOVTl4U1Q5U0FuNDFScVpUY2JCNw?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-15",
-   "ai_summary": "",
-   "excerpt": "Shots Fired in the Clean Beauty Wars… Puck"
   }
  ]
 }

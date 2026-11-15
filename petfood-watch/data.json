@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-14T22:05:00Z",
+ "updated": "2026-11-15T05:25:00Z",
  "briefing": {
-  "date": "2026-11-14",
-  "hook": "Today’s pet‑food news highlights sustainability research, new functional treats, and Mars’ expansion in India amid growing small‑dog market and TikTok sales boom.",
+  "date": "2026-11-15",
+  "hook": "Sustainability research, new treat lines, and expanding facilities signal a growth‑oriented pet food market today.",
   "categories": {
-   "📈 Market": "The market sees small‑dog popularity rise, TikTok pet‑product sales surge, and Pet Valu reporting a 3.5% revenue lift, indicating diversified growth drivers.",
+   "📈 Market": "Market activity highlights small‑breed demand, Pet Valu's Q3 revenue rise, and TikTok Shop's rapid pet product sales, underscoring diverse growth channels.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Innovation focus spans new sustainability research on consumer segments, Redbarn’s science‑backed treat line, PSC’s inaugural sustainability awards, Mars’ India expansion, and Francis & Bee’s Chewy launch.",
-   "🤝 M&A": "M&A activity includes Mars modernizing its UK plant, partnering for regenerative agriculture, appointing a new VP, and Trupanion and Lemonade expanding tech and customer acquisition."
+   "💡 Innovation": "Innovation buzz centers on sustainability research, Redbarn's science‑backed treats, PSC's inaugural sustainability awards, Mars' India expansion, and Francis & Bee's Chewy launch.",
+   "🤝 M&A": "M&A moves include Mars' UK plant upgrade, Trupanion and Lemonade's profit growth, and local praise for Mars' investment in Melton."
   }
  },
  "articles": [
@@ -182,6 +182,15 @@
    "date": "2026-11-11",
    "ai_summary": "Spirited Paw launches on Chewy — Spirited Paw offers targeted supplements for dogs and cats, including daily chews, powders and capsules.",
    "excerpt": "Spirited Paw offers targeted supplements for dogs and cats, including daily chews, powders and capsules."
+  },
+  {
+   "title": "Melton council says Mars investment is 'a huge vote of confidence in our town' - Melton Times",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk14aTU2cjM1TWJLT1B6clNpeTlWTVF4MDBSVUFxdFdyLWdRZGhZV2tyYlJmWU5HVm1tNkplaUg4aTJONF9CZXNENExjczFxLTJ3Zkp1N2VTSWRJRjNGM0hDVTFVOFV6Mms0NFE1Z3VTX0V0RzkzSWJkRldLcXhwRmNrY0xMNmhJZmxWbkJESktjeVU5YkJNTFgzR0Z4dVB1LXN5MVZxUlpEM1FzRFJxX0t2cVJ2cDhodzhQa2VXdENucGpKZGc?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-11",
+   "ai_summary": "Melton council praises Mars investment as a significant vote of confidence for the town. The statement highlights the positive impact on the local community.",
+   "excerpt": "Melton council says Mars investment is 'a huge vote of confidence in our town' Melton Times"
   },
   {
    "title": "Fressnapf expands urban concept as Europe’s pet retailers test new store formats",
@@ -1577,78 +1586,6 @@
    "date": "2026-10-16",
    "ai_summary": "Royal Canin India aims to triple its growth over five years by increasing investment in brand building, distribution, and packaging. The company plans to strengthen its market presence through these strategic initiatives.",
    "excerpt": "Royal Canin India targets 3x growth in 5 years, steps up investment in brand building, distribution and pack.. ET Retail"
-  },
-  {
-   "title": "Europe’s heat wave sends a warning to pet food makers",
-   "url": "https://www.petfoodindustry.com/regions/europe/article/15837643/europes-heat-wave-sends-a-warning-to-pet-food-makers",
-   "source": "Petfood Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Europe’s heat wave has turned climate-related supply disruptions into a real business challenge for pet food makers. The warning highlights the need for immediate adaptation to these emerging risks.",
-   "excerpt": "Climate-related supply disruptions have shifted from a distant, theoretical risk for pet food to a tangible business challenge..."
-  },
-  {
-   "title": "PetLabCo. launches NeuraBlend™ Calming Chew for dogs",
-   "url": "https://www.petfoodprocessing.net/articles/20990-petlabco-launches-neurablend-calming-chew-for-dogs",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "PetLabCo. launches NeuraBlend™ Calming Chew for dogs, featuring active ingredients that work across four pathways: gut-brain, stress response, neurotransmitter and botanical support.",
-   "excerpt": "It features active ingredients that work across four pathways: gut-brain, stress response, neurotransmitter and botanical support."
-  },
-  {
-   "title": "Ari’s Purrfect introduces new products at CatCon",
-   "url": "https://www.petfoodprocessing.net/articles/20989-aris-purrfect-introduces-new-products-at-catcon",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Ari’s Purrfect introduces new products at CatCon, offering a dental chew and Omega-based lickable supplement in the US market.",
-   "excerpt": "The Korean feline-focused brand offers a dental chew and Omega-based lickable supplement in the US market."
-  },
-  {
-   "title": "Evolution of AI in food, beverage industry continues",
-   "url": "https://www.petfoodprocessing.net/articles/20988-evolution-of-ai-in-food-beverage-industry-continues",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Evolution of AI in food, beverage industry continues, noting that artificial intelligence is no longer just a buzzword but a business tool.",
-   "excerpt": "Artificial intelligence is no longer just a buzzword; it’s a business tool."
-  },
-  {
-   "title": "Missouri distillery unleashes bourbon-inspired dog treats",
-   "url": "https://www.petfoodprocessing.net/articles/20984-missouri-distillery-unleashes-bourbon-inspired-dog-treats",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-15",
-   "ai_summary": "Missouri distillery unleashes bourbon-inspired dog treats, Holladay Bourbones made with the same grains used to make its bourbon.",
-   "excerpt": "Holladay Bourbones are made with the same grains the distillery uses to make its bourbon."
-  },
-  {
-   "title": "From veterinary AI to pet wellness: the latest M&A deals",
-   "url": "https://globalpetindustry.com/news/from-veterinary-ai-to-pet-wellness-the-latest-ma-deals/",
-   "source": "Global Pet Industry",
-   "category": "🤝 M&A",
-   "date": "2026-10-15",
-   "ai_summary": "From veterinary AI to pet wellness: the latest M&A deals highlights M&A activity in September and early October spanning veterinary AI, pet health, pet food ingredients, manufacturing and wellness products. Companies are also expanding their presence across Europe and Asia.",
-   "excerpt": "M&A activity in September and early October spanned veterinary AI, pet health, pet food ingredients, manufacturing and wellness products, with companies also expanding their presence across Europe and Asia. IDEXX IDEXX h…"
-  },
-  {
-   "title": "Innovation drives new pet supplement offerings",
-   "url": "https://www.petfoodindustry.com/pet-supplements-pro/pet-supplements-and-treats-digest/article/15837344/innovation-drives-new-pet-supplement-offerings",
-   "source": "Petfood Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Innovation drives new pet supplement offerings, with new launches focusing on cat-specific products, longevity, and canine oral health. The emphasis is on specialized formulations tailored to each species' needs.",
-   "excerpt": "New launches focus on cat-specific products, longevity and canine oral health."
-  },
-  {
-   "title": "Analysis: Fish oil finds new opportunities in pet nutrition",
-   "url": "https://globalpetindustry.com/news/analysis-fish-oil-finds-new-opportunities-in-pet-nutrition/",
-   "source": "Global Pet Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-15",
-   "ai_summary": "Fish oil and fishmeal are expanding into new pet nutrition uses, yet supply pressures remain due to ongoing coastal El Niño conditions in Peru.",
-   "excerpt": "Fishmeal and fish oil serve a growing range of applications, but supply is under pressure. Data from The Marine Ingredients Organisation (IFFO) shows that under ongoing coastal El Niño conditions, the Peruvian authoritie…"
   }
  ]
 }
