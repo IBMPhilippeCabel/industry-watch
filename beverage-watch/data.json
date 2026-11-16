@@ -1,18 +1,81 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-16T05:24:00Z",
+ "updated": "2026-11-16T15:10:00Z",
  "briefing": {
   "date": "2026-11-16",
-  "hook": "Premiumisation drives craft tequila growth while a nootropic RTD secures seed funding, shaping the spirits and innovation landscape.",
+  "hook": "Today's focus spans tax policy shifts, advertising scrutiny, tech risk, and premium trends reshaping the global drinks landscape.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "Premiumisation is driving growth for craft tequila products in the U.S. market.",
-   "🍸 Spirits & Premium": null,
+   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme, signalling ongoing capital allocation.",
+   "📈 Market": "German spirits push back on rushed RTD tax, Australian regulators curb sports alcohol ads, Microsoft outage highlights digital ID risks, Asahi reports below‑plan sales, waste‑heat recovery offers cost cuts, and premiumisation drives U.S. tequila growth.",
+   "🍸 Spirits & Premium": "Premiumisation continues to lift U.S. tequila demand, with craft brands like Volcan de mi Tierra capitalising on consumer shifts.",
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Nütrl founders secured seed funding for a nootropic RTD, impacting the emerging nootropic beverage market."
+   "💡 Innovation & No-Low": "Recovering waste heat with heat pumps and storage can cut costs and emissions while sustaining production."
   }
  },
  "articles": [
+  {
+   "title": "German spirits sector slams “rushed” plan to widen RTD tax",
+   "url": "https://www.just-drinks.com/news/german-spirits-sector-slams-rushed-plan-to-widen-rtd-tax/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "German spirits sector slams “rushed” plan to widen RTD tax.",
+   "excerpt": "Germany’s plan to broaden its alcopop tax to stronger products will drive up prices, the spirits industry has warned."
+  },
+  {
+   "title": "Australian media watchdog presses TV networks to curb sports alcohol ads",
+   "url": "https://www.just-drinks.com/news/australia-curb-sports-alcohol-tv-ads/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "Australian media watchdog presses TV networks to curb sports alcohol ads.",
+   "excerpt": "Australia’s media regulator has called on free-to-air television networks to take “immediate steps” to reduce children’s exposure to alcohol advertising."
+  },
+  {
+   "title": "What the Microsoft outage reveals about digital ID and supply chain risk",
+   "url": "https://www.just-drinks.com/analyst-comment/what-the-microsoft-outage-reveals-about-digital-id-and-supply-chain-risk/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "What the Microsoft outage reveals about digital ID and supply chain risk.",
+   "excerpt": "Centralised log-in systems have given FMCG companies speed and control – until a single platform failure brings communication and operations to a halt."
+  },
+  {
+   "title": "Asahi warns Europe, Asia Pacific tracking “below plan”",
+   "url": "https://www.just-drinks.com/news/asahi-warns-europe-asia-pacific-tracking-below-plan/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "Asahi warns Europe, Asia Pacific tracking “below plan”.",
+   "excerpt": "Asahi’s businesses in Europe and Asia Pacific are under-performing the company’s expectations, the Japanese drinks giant has said."
+  },
+  {
+   "title": "Could your F&B plant put waste heat to work?",
+   "url": "https://www.just-drinks.com/sponsored/could-your-fb-plant-put-waste-heat-to-work/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "Could your F&B plant put waste heat to work? — How can recovering waste heat, using heat pumps and storing energy can help cut costs and emissions while keeping production running.",
+   "excerpt": "How can recovering waste heat, using heat pumps and storing energy can help cut costs and emissions while keeping production running."
+  },
+  {
+   "title": "AdVini enters talks to buy two Invivo wine brands",
+   "url": "https://www.just-drinks.com/news/advini-buy-invivo-wine-brands/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-16",
+   "ai_summary": "AdVini enters talks to buy two Invivo wine brands — French wine producer AdVini has confirmed it is in talks to acquire two wine brands from Vinadeis by InVivo.",
+   "excerpt": "French wine producer AdVini has confirmed it is in talks to acquire two wine brands from Vinadeis by InVivo."
+  },
+  {
+   "title": "'Getting too comfortable': Pernod Ricard India CMO on why Initiative replaces Wavemaker - Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR201aVlDeXVQRk5CeXgzUVhNMG5RNzQyUFNaSUJFc0NTZjZvU2tWT3RHWXB0UGVYY1c2MHFhSDFGSkh0aVQ2VlZWMzRjdmJJcVVma0R0cDRrQ0kwX1F1cmk1MzBleFBOX2c3STNRYWJGbGxnbk5xS05DQzRPNjF3di0zZTJqY2N1RXVTejRyTW1MbzRtTm5MTEM1eXBSRjR0QU1WNmVBR1dpajE1ekhHMkhzc0V1bUQ2Q1k4Ti10OFp5MnpoQTIyZTc1c9IB0AFBVV95cUxNSnZVSlRTQ1V4LWxlRGt3STEwcnJGYUZFQUFZUG1pRC1ycnU0QlNZV29hUm44YUVza3p2ZVZBd2RQMVl3dW1DeHd2QlE2S3VrTXVQeTROc3ZmX0ZxT0RLV3BXTm1ERy1sZmczUml6cjlaaHRHRlF6WEt4MkNZRVYwa0Z6d0ZZVnZxbEY1R2J3ejBveEQ1TW9WTEdCVjMyNUJJUVlwUVlLUERYWlJKNFREbUdOb0dtUzBOOVNKT1BvckxsRmttanMxU1l4UWtzdFdX?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-16",
+   "ai_summary": "'Getting too comfortable': Pernod Ricard India CMO on why Initiative replaces Wavemaker.",
+   "excerpt": "'Getting too comfortable': Pernod Ricard India CMO on why Initiative replaces Wavemaker Storyboard18"
+  },
   {
    "title": "Jameson Williams goes for 50 yards in Week 10 win - FantasyPros",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUhUa2pkNm1tNU8wZ1d6OWQ0STZRLU5XaE44QzV5UUFENU00b0RrVDRJYkpzbU81YXlPajVEVy01UlphdVdRNzlUb25BcDBJV3BRNi1WTkdkX2RkU2pVNVZNcHVaWTlzRy1fVDlZdFFrTDhQNzFsS1oxcTlpRWxTcmlqSVRPc2VHQ0wwZEp5SFNHVUoy0gGaAUFVX3lxTE54emRCT1VJTUpjZEx0UVRYMFI0TEdtNUVQalZIMFFydmJYd1N1dUZPTTFDWEpQZkFrZlVHRHhsZ3NxYWpiak55YnJHdnpoWW01b1lHalQ2QnNCY2xzeXBxZktfSHV6T01RTk1DOElRUWdwMDVwNzIxbHZYRFFpMDc5aXBtcnJ2S2tMQkdyNkkwZVFXS1QxNUdxb3c?oc=5",

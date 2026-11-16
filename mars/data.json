@@ -1,18 +1,45 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-16T05:24:00Z",
+ "updated": "2026-11-16T15:10:00Z",
  "briefing": {
-  "date": "2026-11-15",
-  "hook": "Mars Corp’s day highlights a new holiday M&M’s line, a legal controversy, and expansion moves in India and GCC.",
+  "date": "2026-11-16",
+  "hook": "Mars expands leadership post-Kellanova deal while snack brands launch festive and flavor innovations.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars opens a GCC in Hyderabad to hire 1,000 techies and expands its India footprint with a Global Capability Center, boosting regional operations.",
-   "🐾 Petcare & Royal Canin": "Royal Canin’s parent, Mars, is expanding its India footprint with a Global Capability Center, enhancing operational capabilities.",
-   "🍫 Snacking & FMCG Market": "M&M’s launches a holiday collection featuring three classic Christmas movies, while a separate article reports an illegal casino on the roof of M&M’s World in London.",
-   "⚡ Tech & Operations": "Mars opens its first GCC in Hyderabad, targeting 1,000 tech hires to strengthen technology operations.",
+   "🤝 Mars Corporate & M&A": "Mars Snacking builds out leadership after Kellanova acquisition.",
+   "🐾 Petcare & Royal Canin": null,
+   "🍫 Snacking & FMCG Market": "Pringles Japan launches a new ‘Cheese World’ flavor and M&M’s releases a holiday collection featuring classic Christmas movies.",
+   "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin - GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONEtYaGs3LXNtck5xLXZoUk1fclcyS0J3djdfajNIbGtWbVZEWVFBZTEzSDMtaUI4TjdUYkQycEFLR29TS3ZOTkFza0g3Zl9TaEtqY283dThDeXl2OWN0aElTZ012aGZ5RDhxMzFTU2FIbVgzMl9BSVlzV3dTY0gzakdjcUNoZTNrNXpTTDcwRHlfNEg5YzEyZXQtUHJYZFltbnpUUS1jOGdVNGVLMW84SWdSeE9jMkxHaEhCeG1UbTRYeU9tUTZDMWZPU3J2QV83ZkpoQVo4Zm5vODBIUnZBak5pMlZLRWhDNDlLUDBzcTQ2dXJoc04weHh4MFFnZEk?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-11-16",
+   "ai_summary": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin",
+   "excerpt": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin GlobeNewswire"
+  },
+  {
+   "title": "Mars Snacking builds out leadership after Kellanova acquisition - FoodNavigator.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajRyMlBPRUtNbVFsLVlnNW5UWXo4RDdESVd0SUM1ZVNvVlJxV1lEUTQ2aFdadDQ3UmRXQWg1T2FiejZKLVpnMFBtR0VJWmhMQ1VuZ05ZVDY5X0JDQmJ0aEQ3eWM5TXlBOVVJVXlna2kwZDRiWVVsbVRxcXFBYVZiZllXY0FSaVBLQVkzTmViWmlheVZKZGdIa3d6anJRNXdud09VT0NISEhCMlZITkJVVDV1cXJyZw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-11-16",
+   "ai_summary": "Mars Snacking builds out leadership after Kellanova acquisition",
+   "excerpt": "Mars Snacking builds out leadership after Kellanova acquisition FoodNavigator.com"
+  },
+  {
+   "title": "Pringles Japan turns up the flavor with wire stunts, all-yellow ‘Cheese World’ for new ‘Hi! CHEESE!’ push - marketech apac",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXVNbWVZRU51NURhaTRDVnU4VUlBMzBJR25qb3BDV2hEdmpRNkN1X2FyeTZWb1Rjd29OSndORFNqQXYxVUw5dE1CTE9yS0ZmcTljZ2dqTlVjTGhOYWktWUE5VlZpRTVNcUctbzBmMURub2NvalpibS1lYTJzSENCazRPVTQxTkNrb1hRX0N5bU5Ob3JMR0ZTQWJReFFQcWNMd3p6VTg4VW1HQnR1TGhCSXFNS3ZiTm0yaUJiRldTRnM3Yk02?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-16",
+   "ai_summary": "Pringles Japan turns up the flavor with wire stunts, all-yellow ‘Cheese World’ for new ‘Hi! CHEESE!’ push",
+   "excerpt": "Pringles Japan turns up the flavor with wire stunts, all-yellow ‘Cheese World’ for new ‘Hi! CHEESE!’ push marketech apac"
+  },
   {
    "title": "M&M’S Brings Three Classic Christmas Movies to Life With New Holiday Collection - Men's Journal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1FaRW1Sc1c5ZExWdWwwWjdGcmQtR0dSaUpodEdLTWJ4N2g5OUktcmVUTEtNWkZVZHBOeThDR2lSdjZ0ck9rNXJsZHJ4aVhQbW1HS1YyN1FXUTJRcXd5VkRTa2FvcWVwQTZPeXJPdmxUSFJqZXFvZ0tuWFM5eGxJM0JaUEk2REtjelB3a2thM3V1Nm85cEZZNjdzbTc1T2dQM2JCUG9BMWh5TG5NWXBJ?oc=5",
@@ -48,6 +75,15 @@
    "date": "2026-11-13",
    "ai_summary": "m&m's - Taxi — LBB - LBB - Little Black Book — m&m's - Taxi — LBB LBB - Little Black Book",
    "excerpt": "m&m's - Taxi — LBB LBB - Little Black Book"
+  },
+  {
+   "title": "Rick Hendrick admits he waited months to answer Denny Hamlin Snickers jab - On3",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkxNQldOUUdhY0tHOHZDbmxEWVRrV1A4RGJxOFJEQlBzWk9Kam5YUENuT29LZU9TN191WTVvdkdfMTZHMWFjUW5ud04tbWRSUUF4b2x5OGoyVjg3ZVQ0X3Y2a3JtbXlfZVFNQU1Pa25BN19xMEVYRUlPbkttTzk0WkMxT0VYODM4V3pDUmNEOTdBUW9uRldWLVFma0VvcUQ4cjZPRVBrNXZvdw?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-13",
+   "ai_summary": "Rick Hendrick admits he waited months to answer Denny Hamlin Snickers jab",
+   "excerpt": "Rick Hendrick admits he waited months to answer Denny Hamlin Snickers jab On3"
   },
   {
    "title": "Yoon Snickers in Court, Refuting Allegations of Continuing Insurrection After Troop Withdrawal - news.sbs.co.kr",

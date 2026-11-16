@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-16T05:24:00Z",
+ "updated": "2026-11-16T15:10:00Z",
  "briefing": {
-  "date": "2026-11-15",
-  "hook": "Sustainability research, new treat lines, and TikTok sales surge highlight a day of innovation and market growth in pet food.",
+  "date": "2026-11-16",
+  "hook": "Today’s highlights show pet food brands expanding retail reach, embracing sustainability, and investing in manufacturing while small‑dog demand rises.",
   "categories": {
-   "📈 Market": "Pet food sales are buoyed by a surge in TikTok pet product sales, a 3.5% revenue rise for Pet Valu, and growing demand for small‑breed dog foods.",
+   "📈 Market": "Pet Supplies Plus opens a Texas store, Citizens Pet expands its California facility, and small‑breed dogs are gaining popularity, signaling growth in niche segments.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Research shows diverse sustainability demand, while Redbarn, PSC, and Francis & Bee launch new products and awards spotlight innovation in pet food.",
-   "🤝 M&A": "Mars modernizes its UK plant, Trupanion and Lemonade report Q3 gains, and CESAR partners with Lacey Chabert for a limited edition pack."
+   "💡 Innovation": "Brands like Royal Canin, PetSmart, Redbarn, and PSC are launching new products, expanding sustainability research, and celebrating pet‑sustainability awards, underscoring a focus on functional and eco‑friendly offerings.",
+   "🤝 M&A": "Mars is investing in U.K. and U.S. manufacturing upgrades, Petz‑Cobasi reports profit gains, and alternative‑protein projects are expanding across Europe, reflecting a trend toward production expansion."
   }
  },
  "articles": [
+  {
+   "title": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin - GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONEtYaGs3LXNtck5xLXZoUk1fclcyS0J3djdfajNIbGtWbVZEWVFBZTEzSDMtaUI4TjdUYkQycEFLR29TS3ZOTkFza0g3Zl9TaEtqY283dThDeXl2OWN0aElTZ012aGZ5RDhxMzFTU2FIbVgzMl9BSVlzV3dTY0gzakdjcUNoZTNrNXpTTDcwRHlfNEg5YzEyZXQtUHJYZFltbnpUUS1jOGdVNGVLMW84SWdSeE9jMkxHaEhCeG1UbTRYeU9tUTZDMWZPU3J2QV83ZkpoQVo4Zm5vODBIUnZBak5pMlZLRWhDNDlLUDBzcTQ2dXJoc04weHh4MFFnZEk?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-11-16",
+   "ai_summary": "More than 5,500 dogs are set to compete at the 26th AKC National Championship presented by Royal Canin.",
+   "excerpt": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin GlobeNewswire"
+  },
+  {
+   "title": "US rendered animal proteins approved for use in Moroccan pet food",
+   "url": "https://www.petfoodprocessing.net/articles/21080-us-rendered-animal-proteins-approved-for-use-in-moroccan-pet-food",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-16",
+   "ai_summary": "US rendered animal proteins approved for use in Moroccan pet food — NARA identified Morocco a high-priority market for the ingredients in 2022.",
+   "excerpt": "NARA identified Morocco a high-priority market for the ingredients in 2022."
+  },
+  {
+   "title": "Pet Supplies Plus opens new store in Texas",
+   "url": "https://www.petfoodprocessing.net/articles/21079-pet-supplies-plus-opens-new-store-in-texas",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "Pet Supplies Plus opens new store in Texas — The new store is owned by local entrepreneurs Todd McEvoy and Alan Mann, who met while working as restaurant owners.",
+   "excerpt": "The new store is owned by local entrepreneurs Todd McEvoy and Alan Mann, who met while working as restaurant owners."
+  },
+  {
+   "title": "Unconditional launches in PetSmart stores nationwide",
+   "url": "https://www.petfoodprocessing.net/articles/21078-unconditional-launches-in-petsmart-stores-nationwide",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-16",
+   "ai_summary": "Unconditional launches in PetSmart stores nationwide — PetSmart shoppers can now find the air-dried dog food brand’s full portfolio in-store and online.",
+   "excerpt": "PetSmart shoppers can now find the air-dried dog food brand’s full portfolio in-store and online."
+  },
+  {
+   "title": "Mars shares plans for $1.4 billion manufacturing investment in 2027",
+   "url": "https://www.petfoodprocessing.net/articles/21077-mars-shares-plans-for-14-billion-manufacturing-investment-in-2027",
+   "source": "Pet Food Processing",
+   "category": "🤝 M&A",
+   "date": "2026-11-16",
+   "ai_summary": "Mars shares plans for $1.4 billion manufacturing investment in 2027 — The company invested $49 million in its Ohio wet pet food plant to produce Temptations Lickable Treats.",
+   "excerpt": "The company invested $49 million in its Ohio wet pet food plant to produce Temptations Lickable Treats."
+  },
+  {
+   "title": "Petz-Cobasi accelerates profit gains with integration plan and private labels",
+   "url": "https://globalpetindustry.com/news/petz-cobasi-accelerates-profit-gains-with-integration-plan-and-private-labels/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-16",
+   "ai_summary": "Petz-Cobasi accelerates profit gains with integration plan and private labels — Net sales of Brazilian retailer União Pet, formed by the merger of Petz and Cobasi, posted a 2.2% year-over-year (YoY) increase in the third quarter of 2026, to R$1.7 billion ($310M/€270M). In the first nine months of th…",
+   "excerpt": "Net sales of Brazilian retailer União Pet, formed by the merger of Petz and Cobasi, posted a 2.2% year-over-year (YoY) increase in the third quarter of 2026, to R$1.7 billion ($310M/€270M). In the first nine months of th…"
+  },
+  {
+   "title": "Round-up: Alternative proteins drive new production investments",
+   "url": "https://globalpetindustry.com/news/round-up-alternative-proteins-drive-new-production-investments/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-16",
+   "ai_summary": "Round-up: Alternative proteins drive new production investments — Pet players in the UK, Finland, France and Spain are expanding their production capabilities, with projects spanning alternative proteins, ingredients and animal nutrition. Meatly UK-based cultivated meat company Meatly …",
+   "excerpt": "Pet players in the UK, Finland, France and Spain are expanding their production capabilities, with projects spanning alternative proteins, ingredients and animal nutrition. Meatly UK-based cultivated meat company Meatly …"
+  },
   {
    "title": "No single pet owner group dominates sustainability demand",
    "url": "https://www.petfoodindustry.com/pet-food-marketing-and-branding/article/16425542/no-single-pet-owner-group-dominates-sustainability-demand",
@@ -209,6 +272,15 @@
    "date": "2026-11-11",
    "ai_summary": "Hill’s Pet Nutrition focuses on cat food as a key growth area, reporting a 5.6% YoY increase in net sales to $1.2 billion in Q3 FY2026. The segment accounts for 22% of the group’s total net sales, highlighting its importance to the company’s strategy.",
    "excerpt": "Hill’s Pet Nutrition recorded a 5.6% year-over-year (YoY) increase in net sales to $1.2 billion (€1.04B) in the third quarter (Q3) of fiscal year (FY) 2026, accounting for 22% of the group’s total net sales. Organic sale…"
+  },
+  {
+   "title": "How Mars Is Investing in the Future of British Manufacturing - Mars, Incorporated",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMk9hQTNvWWZiY0l2VGVwUlo1OHlHUVdpT0c2aEJGVkkyYmJ1U2VmcnZJZHJqNVZyVm5ZaFVyQkxTMDAyUm4yRERpSkZsR2huR3M3NExDSmp0VjROSGZfTFZCUzJKVHRCX0VEd05BZjJXV3F2cXBWQkJTSGd3bGpiQWlINEVaem9DNzR0SDdhZnhPMVVHbkZMcVdLMjYzaE5pNWpDNGNyNDBGVkk?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-10",
+   "ai_summary": "Mars, Incorporated is investing in the future of British manufacturing.",
+   "excerpt": "How Mars Is Investing in the Future of British Manufacturing Mars, Incorporated"
   },
   {
    "title": "Bison co-products in pet food support regenerative ranching",
