@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-15T23:51:00Z",
+ "updated": "2026-11-16T05:24:00Z",
  "briefing": {
-  "date": "2026-11-15",
-  "hook": "CeraVe partners with Dune: Part Three as official moisturizer, marking a first film collaboration for the brand.",
+  "date": "2026-11-16",
+  "hook": "L’Oréal’s latest moves span sunscreen innovation, film collaborations, and tech showcases, underscoring its multi‑channel growth strategy.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal's Venture Fund Bold appoints Jasjot Kaur as Investment Director for India, expanding its investment footprint.",
-   "💄 Brands & Launches": "CeraVe becomes the official moisturizer of Arrakis through a partnership with Dune: Part Three, launching a new film‑based campaign.",
-   "💡 Beauty Tech & ESG": "L'Oréal showcases beauty tech startups at its BIG BANG event in Shanghai.",
-   "📈 Market": "Mandana Vahedi, former L'Oréal Luxe intern, now tackles luxury beauty packaging challenges at Puig."
+   "🤝 Strategy & M&A": "L’Oréal’s Venture Fund Bold appoints a new Investment Director for India, signalling a focus on expanding its global investment footprint.",
+   "💄 Brands & Launches": "CeraVe partners with the film Dune: Part Three as its official moisturizer of Arrakis, marking a first‑ever film collaboration in beauty.",
+   "💡 Beauty Tech & ESG": "L’Oreal BIG BANG Startups showcase beauty tech in Shanghai, highlighting the group’s commitment to innovation.",
+   "📈 Market": "The FDA’s approval of BEMT in a new sunscreen launch by La Roche‑Posay signals a major shift in the U.S. sunscreen market, opening dialogue with new consumers."
   }
  },
  "articles": [
+  {
+   "title": "Inside L’Oréal-owned La Roche-Posay’s BEMT launch: ‘It’s enabling us to have a new conversation with new consumers’",
+   "url": "https://www.glossy.co/beauty/inside-loreal-owned-la-roche-posays-bemt-launch-its-enabling-us-to-have-a-new-conversation-with-new-consumers/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "📈 Market",
+   "date": "2026-11-16",
+   "ai_summary": "Inside L’Oréal-owned La Roche-Posay’s BEMT launch: ‘It’s enabling us to have a new conversation with new consumers’ — U.S. sunscreen manufacturers are currently navigating the biggest change in the market in nearly 25 years. In June, the FDA approved its first new sunscreen filter in 25 years with the addition of BEMT, an ingredient tha…",
+   "excerpt": "U.S. sunscreen manufacturers are currently navigating the biggest change in the market in nearly 25 years. In June, the FDA approved its first new sunscreen filter in 25 years with the addition of BEMT, an ingredient tha…"
+  },
   {
    "title": "CeraVe takes Dune's desert into a skincare campaign - ContentGrip",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HM3BuRU5uMjZ4ZjF5b2NNX1R5bUpWNHBMQjVrYjRYSGpQdmlWYVJJc3ktbE9MQnlXNU9uN24ycTl0Mmk2blFWelVON2M4bTZKanFUUnRUcldPb0Y1dTBpYjMwbXVGMlQyQVU0bQ?oc=5",
@@ -2099,24 +2108,6 @@
    "date": "2026-10-18",
    "ai_summary": "",
    "excerpt": "L’Oréal Paris Names 2026 Women of Worth Honourees Driving Change Across US Communities Fair Play Talks"
-  },
-  {
-   "title": "Matte, Dewy, or Radiant: Which Maybelline Foundation Is Right for Your Skin Type? - InStyle",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVRCLVBlUkk2TDMwZVowR183alQ2dUFmeTZLRUNhYXJyMGJDamhxY2VCVUswUzZ3d2c1Q2lfN2N2Wm5iRWJ0SFV3NVVKN1NnYUpVdll0REdzVEg3eHZnUnNXQnp3ZnV4SmRfbE9wenhRT3czcHhBZXN3YTIxb3d0LXVqWERXZHFLVlJ5R1VyY2UwUQ?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-16",
-   "ai_summary": "",
-   "excerpt": "Matte, Dewy, or Radiant: Which Maybelline Foundation Is Right for Your Skin Type? InStyle"
-  },
-  {
-   "title": "Maybelline New York named first-ever official cosmetic partner of WWE - WWE",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXRLc0pXZUp2UlJmZXRGMTZJcmlobnN4Nkg0b1VyZURpSGpjTGktOTBQdHBoei01cFphSW5CZ3pPYjJYWjdHSkt1RGV4YlJERi1Mb240WHFLWXdvMU5fbXdvLWZOa0prdktISGtkRHhYZHBPQVJvcjB3V3VRZzBSWEdNTXpDZGRBOXkxZFNjOGprVF9ibnlLdnUyeEFDdw?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-16",
-   "ai_summary": "",
-   "excerpt": "Maybelline New York named first-ever official cosmetic partner of WWE WWE"
   }
  ]
 }
