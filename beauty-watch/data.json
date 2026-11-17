@@ -1,17 +1,107 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-17T10:21:00Z",
+ "updated": "2026-11-17T20:36:00Z",
  "briefing": {
   "date": "2026-11-17",
-  "hook": "TikTok Shop drives indie growth while brands pivot to niche luxury and AI‑powered fragrance innovation.",
+  "hook": "Innovation drives new formulations while brands pivot to digital channels and M&A reshapes the market landscape.",
   "categories": {
-   "📈 Market": "Euromonitor highlights trust, transparency, reliability and tangible benefits as key 2027 consumer trends.",
-   "💄 Brands & Retail": "Indie brands thrive on TikTok Shop paid ads, while luxury labels like Rigaud Paris and Alberta Ferretti launch niche lines and seasonal gift sets at Ulta and Sephora.",
-   "🤝 Strategy & M&A": "Inflexion’s sale of Medik8 to L’Oréal and its pivot to health‑focused nail care signals a strategic shift toward niche beauty opportunities.",
-   "💡 Innovation & Regulation": "AI is shaping perfume creation and new nail care formats, while events like Shanghai Autumn/Winter 2026 showcase emerging fragrance and nail trends."
+   "📈 Market": "Sephora plans ten more UK stores in 2027 while The Ordinary prioritises blood donations over sales on Black Friday.",
+   "💄 Brands & Retail": "Shiseido Liyuan Cosmetics is sold to an IDG-led consortium and indie brands grow on TikTok Shop, with Rhode and Tarte topping holiday gift sets.",
+   "🤝 Strategy & M&A": "Inflexion sells Medik8 to L’Oréal and bets on health‑focused nail care, while Solabia divests diagnostics and acquires Ethical Naturals to strengthen its cosmetics focus.",
+   "💡 Innovation & Regulation": "IFF shares eyelash serum formulation insights, Fiabila unveils new nail care tech, and the 2026 in‑cosmetics Asia Awards spotlight advances in cosmetic science."
   }
  },
  "articles": [
+  {
+   "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+   "url": "https://www.glossy.co/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "The Work/Life Awards finalists, including KERV.ai, Macmillan Publishers and Chomps, showcase companies redefining workplace culture to boost performance, engagement and innovation.",
+   "excerpt": "This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation. Across industries, organizations are gi…"
+  },
+  {
+   "title": "Is Puig Poised to Acquire Parfums de Marly?",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/puig-poised-acquire-parfums-de-marly-sources-niche-perfume-1239420484/",
+   "source": "WWD Beauty",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "Industry sources say the Spanish company is in a final stage of talks with Marly parent Artessence Group.",
+   "excerpt": "Industry sources say the Spanish company is in a final stage of talks with Marly parent Artessence Group."
+  },
+  {
+   "title": "Shiseido Selling Chinese Subsidiary Producing Aupres Brand",
+   "url": "https://wwd.com/beauty-industry-news/skin-care/shiseido-selling-chinese-subsidiary-producing-aupres-1239420296/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-17",
+   "ai_summary": "Shiseido Liyuan Cosmetics will go to an investor consortium led by IDG Capital.",
+   "excerpt": "Shiseido Liyuan Cosmetics will go to an investor consortium led by IDG Capital."
+  },
+  {
+   "title": "The Ordinary will close on Black Friday to prioritise blood donations over ‘hyperconsumerism’",
+   "url": "https://www.cosmeticsbusiness.com/the-ordinary-will-close-on-black-friday-to",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "The Ordinary will close on Black Friday to prioritise blood donations over ‘hyperconsumerism’ — The Estée Lauder companies-owned skin care brand is hosting The Ordinary Blood Drive in the US and Canada on Black Friday (27 November) to encourage donations and ‘expand access to this life‑saving resource’, with comple…",
+   "excerpt": "The Estée Lauder companies-owned skin care brand is hosting The Ordinary Blood Drive in the US and Canada on Black Friday (27 November) to encourage donations and ‘expand access to this life-saving resource’, with comple…"
+  },
+  {
+   "title": "Sephora eyes ten more UK stores in 2027 to accelerate growth",
+   "url": "https://www.cosmeticsbusiness.com/sephora-eyes-ten-more-uk-stores-in-2027",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "Sephora eyes ten more UK stores in 2027 to accelerate growth — The LVMH-owned beauty retailer is allegedly planning to open ten more UK stores next year, taking its total store count in the region to 28, according to a new report that cites property sources",
+   "excerpt": "The LVMH-owned beauty retailer is allegedly planning to open ten more UK stores next year, taking its total store count in the region to 28, according to a new report that cites property sources"
+  },
+  {
+   "title": "Meet the Maestro: For perfumer Abdulla Ajmal, fragrance is in his blood",
+   "url": "https://www.cosmeticsbusiness.com/meet-the-maestro-perfumer-abdulla-ajmal-fragrance",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "Meet the Maestro: For perfumer Abdulla Ajmal, fragrance is in his blood — Abdulla Ajmal has worked for more than 30 years in the Middle Eastern fragrance business. He delves into why oud is more than just a buzzword, and how his brand Ajmal Perfumes will continue to iterate its scent offering",
+   "excerpt": "Abdulla Ajmal has worked for more than 30 years in the Middle Eastern fragrance business. He delves into why oud is more than just a buzzword, and how his brand Ajmal Perfumes will continue to iterate its scent offering"
+  },
+  {
+   "title": "How to make an eyelash serum: IFF shares its formulation insights",
+   "url": "https://www.cosmeticsbusiness.com/how-to-make-an-eyelash-serum-iff-shares",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "How to make an eyelash serum: IFF shares its formulation insights — As consumer demand for lash growth serums rises, Morgane Piet explores how to formulate a serum designed to condition lashes and improve strength, length and thickness",
+   "excerpt": "As consumer demand for lash growth serums rises, Morgane Piet explores how to formulate a serum designed to condition lashes and improve strength, length and thickness"
+  },
+  {
+   "title": "L’Occitane’s Managing Director UK and Ireland departs after four years",
+   "url": "https://www.cosmeticsbusiness.com/loccitane-managing-director-uk-and-ireland-departs",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "L’Occitane’s Managing Director UK and Ireland departs after four years — Dianne Tieu, L’Occitane’s Managing Director for the UK and Ireland, has confirmed she is departing the beauty company following four years at the helm",
+   "excerpt": "Dianne Tieu, L’Occitane’s Managing Director for the UK and Ireland, has confirmed she is departing the beauty company following four years at the helm"
+  },
+  {
+   "title": "E.l.f. Beauty and Twitch break GRWM Guinness World Record",
+   "url": "https://www.cosmeticsbusiness.com/elf-beauty-and-twitch-break-grwm-guinness-world-record",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "E.l.f. Beauty and Twitch break GRWM Guinness World Record — E.l.f. Beauty partnered with streaming service Twitch to hold the world’s largest ‘get ready with me’ at Twitchcon, breaking a world record in the process",
+   "excerpt": "E.l.f. Beauty partnered with streaming service Twitch to hold the world’s largest ‘get ready with me’ at Twitchcon, breaking a world record in the process"
+  },
+  {
+   "title": "Rhode unveils first matte blush in founder Hailey Bieber’s 30th birthday collection",
+   "url": "https://www.cosmeticsbusiness.com/rhode-unveils-first-matte-blush-in-founder-biebers-30th-birthday-capsule",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "Rhode launches a limited-edition navy capsule featuring its first matte blush and wearable merchandise for Hailey Bieber’s 30th birthday.",
+   "excerpt": "The e.l.f. Beauty-owned brand is launching a limited-edition navy capsule this month to mark founder Bieber’s 30th birthday, featuring Rhode’s first-ever matte blush Pocket Plush and first piece of wearable merchandise –…"
+  },
   {
    "title": "The 15 Indie Beauty Brands Leading Organic Sales Growth On TikTok Shop",
    "url": "https://www.beautyindependent.com/indie-beauty-brands-leading-organic-sales-growth-tiktok-shop/",

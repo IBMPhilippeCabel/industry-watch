@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-17T10:21:00Z",
+ "updated": "2026-11-17T20:36:00Z",
  "briefing": {
   "date": "2026-11-17",
-  "hook": "Pet food trends focus on digestive health, new retail launches, and regulatory shifts toward cultivated proteins.",
+  "hook": "New pet food trends and regulatory moves shape the market today.",
   "categories": {
-   "📈 Market": "Pet Supplies Plus opens a new store in Texas, expanding its footprint.",
-   "⚖️ Regulation": "Cultivated meat pet food companies in the UK and Asia are progressing regulatory milestones to expand sustainable alternatives.",
-   "💡 Innovation": "Pet parents now demand digestive health support from pet food, leading to new product launches like Unconditional's full portfolio in PetSmart.",
-   "🤝 M&A": "Retailers face expansion pressure while Mars invests $1.4B in manufacturing and Petz-Cobasi boosts profits through integration, amid growing alternative protein production."
+   "📈 Market": "Pet Supplies Plus expands in Texas and San Antonio, adding new stores and jobs.",
+   "⚖️ Regulation": "Cultivated meat pet food firms in the UK and Asia advance regulatory milestones for sustainable alternatives.",
+   "💡 Innovation": "R&B Dog Bakery treats launch on Chewy, while Purina Pro Plan introduces new cat nutrition options and digestive health becomes a priority for pet parents.",
+   "🤝 M&A": "Retailers face pressure from rising construction costs, and Mars plans a $1.4 billion investment in a new Ohio wet pet food plant."
   }
  },
  "articles": [
+  {
+   "title": "Royal Canin's Cécile Coutens: \"Scalability Requires Standardisation\" - Business Leader",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTUydFVXMFp3QjJqNmcyenFGQVBlNmdNWnp1OGRNdTk2MnhaZUFJREJtVjNVaEFCWTJXV3EyM01kRFEyckk2V2xkQTZSZ3doSkwycGNHQ0NHLXJvZXluMGdmQlRlZkFBQV9LeEs1OHcwVWk0djBJcnRxMnQxZldHSmNjQQ?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "Royal Canin's Cécile Coutens: \"Scalability Requires Standardisation\" - Business Leader — Royal Canin's Cécile Coutens: \"Scalability Requires Standardisation\" Business Leader",
+   "excerpt": "Royal Canin's Cécile Coutens: \"Scalability Requires Standardisation\" Business Leader"
+  },
+  {
+   "title": "R&B Dog Bakery treats launch on Chewy",
+   "url": "https://www.petfoodprocessing.net/articles/21085-r-and-b-dog-bakery-treats-launch-on-chewy",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-17",
+   "ai_summary": "R&B Dog Bakery treats launch on Chewy — After an initial denial, founder Aisha Byrd turned feedback into growth, and her treats are headed to Chewy.",
+   "excerpt": "After an initial denial, founder Aisha Byrd turned feedback into growth, and her treats are headed to Chewy."
+  },
+  {
+   "title": "Pet Supplies Plus opens new store in San Antonio",
+   "url": "https://www.petfoodprocessing.net/articles/21084-pet-supplies-plus-opens-new-store-in-san-antonio",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "Pet Supplies Plus opens new store in San Antonio — The new 6,100-square-foot store in Alamo Ranch brings 20 jobs to the community.",
+   "excerpt": "The new 6,100-square-foot store in Alamo Ranch brings 20 jobs to the community."
+  },
+  {
+   "title": "NARA signs MOU to help strengthen Ghana’s feed sector",
+   "url": "https://www.petfoodprocessing.net/articles/21083-nara-signs-mou-to-help-strengthen-ghanas-feed-sector",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "NARA signs MOU to help strengthen Ghana’s feed sector — The partnership will advance the country’s training and safe use of rendered animal proteins in the animal feed industry.",
+   "excerpt": "The partnership will advance the country’s training and safe use of rendered animal proteins in the animal feed industry."
+  },
+  {
+   "title": "Animal health officials urge USDA to develop dairy cattle vaccine",
+   "url": "https://www.petfoodprocessing.net/articles/21082-animal-health-officials-urge-usda-to-develop-dairy-cattle-vaccine",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-17",
+   "ai_summary": "Animal health officials urge USDA to develop dairy cattle vaccine — Economic losses continue as HPAI circulates through birds and cattle across multiple states.",
+   "excerpt": "Economic losses continue as HPAI circulates through birds and cattle across multiple states."
+  },
+  {
+   "title": "Purina Pro Plan Veterinary unveils new cat nutrition innovations",
+   "url": "https://www.petfoodprocessing.net/articles/21081-purina-pro-plan-veterinary-unveils-new-cat-nutrition-innovations",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-17",
+   "ai_summary": "Purina Pro Plan Veterinary unveils new cat nutrition innovations — The new therapeutic diet and two new supplements offer additional options to support common cat health needs.",
+   "excerpt": "The new therapeutic diet and two new supplements offer additional options to support common cat health needs."
+  },
   {
    "title": "New store equation: The changing economics of pet retail expansion",
    "url": "https://globalpetindustry.com/news/new-store-equation-the-changing-economics-of-pet-retail-expansion/",
