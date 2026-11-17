@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-17T00:02:00Z",
+ "updated": "2026-11-17T10:21:00Z",
  "briefing": {
   "date": "2026-11-17",
-  "hook": "L'Oréal pushes anti‑aging tech, expands brand reach, and navigates sunscreen market shifts.",
+  "hook": "L'Oréal navigates legal, partnership, and product launches amid market shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal teams with Estée Lauder on cellular‑level anti‑aging skincare and quietly acquires med‑spa assets to broaden its service portfolio.",
-   "💄 Brands & Launches": "CeraVe’s Dune partnership globalizes its social‑first approach, while Maybelline refreshes its tagline and CeraVe launches a desert‑themed skincare campaign.",
+   "🤝 Strategy & M&A": "L'Oréal settles US hair relaxer cancer cases while partnering with Estée Lauder on cellular‑level anti‑aging skincare, signaling a focus on safety and innovation.",
+   "💄 Brands & Launches": "CeraVe extends its social‑first playbook by partnering with the ‘Dune’ franchise, launching a skincare line themed around the film’s desert imagery.",
    "💡 Beauty Tech & ESG": null,
-   "📈 Market": "La Roche‑Posay’s BEMT launch, backed by FDA’s first new sunscreen filter in 25 years, signals a major shift in U.S. sunscreen competition."
+   "📈 Market": "La Roche‑Posay’s BEMT launch, backed by FDA’s first new sunscreen filter in 25 years, opens a new conversation with consumers amid a shifting market."
   }
  },
  "articles": [
+  {
+   "title": "L’Oréal US Settles Hair Relaxer Cancer Cases During First Trial - The Business of Fashion",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUllNRjV4a2hqRWJQaFdZV1VuamZBTFk3M1VwTDNhaTJvTFI4RHR5NmdHZnNScjJXVnpwcEJxOXZsY0lXUU42VThLWFQxa0xpNi1PWWt1eEN3YjE2eGV1YTlOUmxaNEYxWnJYY0RlZVNHODNNU0szREMyazgxdjVhSWpVMUxtRjVldndOUlRVZw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "L’Oréal US settles hair relaxer cancer cases during first trial, addressing legal claims related to hair straightening products.",
+   "excerpt": "L’Oréal US Settles Hair Relaxer Cancer Cases During First Trial The Business of Fashion"
+  },
+  {
+   "title": "L'Oréal Settles Hair Relaxer Cancer Cases In First US Trial: Can Chemical Hair Straighteners Cause Cancer? - Health and Me",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmQ2V3B6eGVDOXJhNWpZaVFEa0plWVlLOU12MWc5dGxJdUw2LXBBbzdTWHRROVVsUGFpQXN1aTRfVlNGN3JwUHpXWUM5M2FiYktCZC1kTG9Lbl9VSk9TRXdLQzg4Uk9XVVc2QWhFaUY0bGthUGhWVm8zR3FucmNnMkJvVThzZGpJZzh6b1dqZnVaMlllX1RtNDNydWkyNzdFOHlOYk9mX0hXcFE4a09NYU5vaS1GRXhvWnh3UnkyT3FHOTlPdXo5UktNeng4Vks0aDNOS0s3RWo0aHpFaU9QRl91dnZYWkQ4NndGdkNDcFlPQQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "L'Oréal settles hair relaxer cancer cases in first US trial, raising questions about the safety of chemical hair straighteners.",
+   "excerpt": "L'Oréal Settles Hair Relaxer Cancer Cases In First US Trial: Can Chemical Hair Straighteners Cause Cancer? Health and Me"
+  },
   {
    "title": "How CeraVe’s ‘Dune’ deal takes the brand’s social-first playbook global - Marketing Dive",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTU9qdU5EZGtlYy1tN1pGenpsSTJoRXh2V1pZQ2NrZnZzRm1iOWtOM3RtX1FVTVNwanBpUHRlczlOUkQ1bkdhRlBZOE5hUUx4bVlQZGRzMEQ0TDJ4eDU5Tjg1Z1dBZUM1alp6dFpZWk5jU0pDeHcwUE01RWoyeEFQbGNHOXFEUzlFWTczR0RNOFJ1Zm9xM2hETEJiTW02LWM5WkVjNVVSLXRySjNwWXFr?oc=5",
@@ -38,6 +56,15 @@
    "date": "2026-11-16",
    "ai_summary": "L'Oréal and Estée Lauder are investing in skincare products that claim to alter aging at the cellular level. The collaboration highlights their focus on innovative anti-aging solutions.",
    "excerpt": "L'Oréal and Estée Lauder bet on skincare that claims to change aging at the cellular level Yahoo"
+  },
+  {
+   "title": "CeraVe gives the sandworms of ‘Dune’ a much-needed skincare routine - Ad Age",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5NHdGM29VRDkyYTVFTEYycWZIRGt3OURnUXVTanhnSEV2cHBTT01zRGUwbFl2ck81dzZUbVZiMXptRWFUNTdocTJiZ0FPdV9IekNKRElJYnJ2SzlPZDF1S1hlUDkzZ09Xci0xZ2ViVkQ2M0NEYlE?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-16",
+   "ai_summary": "CeraVe provides a skincare routine for the sandworms of ‘Dune’, highlighting a creative partnership with the film franchise.",
+   "excerpt": "CeraVe gives the sandworms of ‘Dune’ a much-needed skincare routine Ad Age"
   },
   {
    "title": "Maybelline reinterprets its iconic brand tagline - https://marketingreport.one/",
@@ -173,6 +200,15 @@
    "date": "2026-11-13",
    "ai_summary": "CeraVe partners with ‘Dune: Part Three’ for its first film partnership, revealed by Yahoo Finance Singapore.",
    "excerpt": "EXCLUSIVE: CeraVe Links With ‘Dune: Part Three’ for First Film Partnership Yahoo Finance Singapore"
+  },
+  {
+   "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Disney to Maybelline - ADWEEK",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeHpsZlJQdUM4MmJpWVpWbXJBek5ER0luR01EOG02WERYT3QxOFFCRFF3SDNzTWxnM3Bud0tLczVIV2xWZ2FsRjhSTkRNeGtGX3FDSWRyNUVkeEg0QXRJbGJ2VlB5bW9LcDV6SDdIT2taaG1ZOFhFYmV4MU9KQkF4cEFoR2lwNnNGdnJaSjRma0lFRzUzY3Y0Nm1yRkZWWlNHN0doNEFIaGJCcW9TSnc?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-13",
+   "ai_summary": "Ads of the Week showcases 13 campaigns from Disney to Maybelline that captured attention in recent advertising releases.",
+   "excerpt": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Disney to Maybelline ADWEEK"
   },
   {
    "title": "L’Oréal’s Venture Fund Bold Appoints Jasjot Kaur As Investment Director For India - BW Disrupt",

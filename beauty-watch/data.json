@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-17T00:02:00Z",
+ "updated": "2026-11-17T10:21:00Z",
  "briefing": {
   "date": "2026-11-17",
-  "hook": "Market buzz, strategic moves, and innovation spotlight drive today's beauty scene.",
+  "hook": "TikTok Shop drives indie growth while brands pivot to niche luxury and AI‑powered fragrance innovation.",
   "categories": {
-   "📈 Market": "Menopause raises skin iron levels, underscoring a growing demand for detoxifying skincare solutions.",
-   "💄 Brands & Retail": "Boots is bolstering its beauty dominance by weaving social media shopping into its pharmacy stores.",
-   "🤝 Strategy & M&A": "Solabia’s acquisition of Ethical Naturals expands its cosmetics and nutraceutical focus while planning to divest its diagnostics division.",
-   "💡 Innovation & Regulation": "The 2026 in‑cosmetics Asia Awards winners were announced in Bangkok, highlighting cutting‑edge cosmetic science and formulation."
+   "📈 Market": "Euromonitor highlights trust, transparency, reliability and tangible benefits as key 2027 consumer trends.",
+   "💄 Brands & Retail": "Indie brands thrive on TikTok Shop paid ads, while luxury labels like Rigaud Paris and Alberta Ferretti launch niche lines and seasonal gift sets at Ulta and Sephora.",
+   "🤝 Strategy & M&A": "Inflexion’s sale of Medik8 to L’Oréal and its pivot to health‑focused nail care signals a strategic shift toward niche beauty opportunities.",
+   "💡 Innovation & Regulation": "AI is shaping perfume creation and new nail care formats, while events like Shanghai Autumn/Winter 2026 showcase emerging fragrance and nail trends."
   }
  },
  "articles": [
+  {
+   "title": "The 15 Indie Beauty Brands Leading Organic Sales Growth On TikTok Shop",
+   "url": "https://www.beautyindependent.com/indie-beauty-brands-leading-organic-sales-growth-tiktok-shop/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-17",
+   "ai_summary": "The 15 Indie Beauty Brands Leading Organic Sales Growth On TikTok Shop — Paid advertising has been a powerful engine of growth for top beauty brands on TikTok Shop, including Medicube, Dr. Melaxin and Tarte, but new data suggests that some of the platform’s fastest-growing indie brands are ge…",
+   "excerpt": "Paid advertising has been a powerful engine of growth for top beauty brands on TikTok Shop, including Medicube, Dr. Melaxin and Tarte, but new data suggests that some of the platform’s fastest-growing indie brands are ge…"
+  },
+  {
+   "title": "How 25 of Beauty’s Top Innovators Get Inspired and Keep Things Fresh",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/top-beauty-executives-peter-rahal-laura-geller-innovation-1239386587/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "How 25 of Beauty’s Top Innovators Get Inspired and Keep Things Fresh — As top beauty executives gather for the Catalysts conference, Beauty Inc asked speakers to share their inspiration and strategies for stoking their creativity.",
+   "excerpt": "As top beauty executives gather for the Catalysts conference, Beauty Inc asked speakers to share their inspiration and strategies for stoking their creativity."
+  },
+  {
+   "title": "EXCLUSIVE: Nicky Hilton Partners With Rigaud Paris on Limited-Edition Candle",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/nicky-hilton-rigaud-paris-papillon-bleu-candle-1239419525/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-17",
+   "ai_summary": "EXCLUSIVE: Nicky Hilton Partners With Rigaud Paris on Limited-Edition Candle — The designer revisits a fragrance house she grew up with as the nearly 175-year-old French brand enters a new chapter under New York-based ownership.",
+   "excerpt": "The designer revisits a fragrance house she grew up with as the nearly 175-year-old French brand enters a new chapter under New York-based ownership."
+  },
+  {
+   "title": "Beauty Briefing: ‘Dune: Part Three’ is poised to be a box office sensation. Can beauty brands cash in on the hype?",
+   "url": "https://www.glossy.co/beauty/beauty-briefing-dune-part-three-is-poised-to-be-a-box-office-sensation-can-beauty-brands-cash-in-on-the-hype/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-17",
+   "ai_summary": "Beauty Briefing: ‘Dune: Part Three’ is poised to be a box office sensation. Can beauty brands cash in on the hype? — This week, I checked in on the beauty brands making a stop at planet Arrakis with the third installment of the “Dune” franchise arriving in theaters. Additionally, TikTok Shop pilots a paid membership tier, and Amouage p…",
+   "excerpt": "This week, I checked in on the beauty brands making a stop at planet Arrakis with the third installment of the “Dune” franchise arriving in theaters. Additionally, TikTok Shop pilots a paid membership tier, and Amouage p…"
+  },
+  {
+   "title": "How beauty and wellness leaders are prioritizing GEO and TikTok Shop",
+   "url": "https://www.glossy.co/beauty/how-beauty-and-wellness-leaders-are-prioritizing-geo-and-tiktok-shop/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "How beauty and wellness leaders are prioritizing GEO and TikTok Shop — During the Town Hall discussion at Glossy's Beauty & Wellness Summit, leaders from a wide variety of beauty and wellness brands shared the challenges and questions they're facing, and offered suggestions on how to surm…",
+   "excerpt": "During the Town Hall discussion at Glossy's Beauty & Wellness Summit, leaders from a wide variety of beauty and wellness brands shared the challenges and questions they're facing, and offered suggestions on how to surmou…"
+  },
+  {
+   "title": "Top 10 Holiday Gift Sets by Prestige Beauty Sales at Ulta and Sephora",
+   "url": "https://wwd.com/beauty-industry-news/products/top-holiday-gift-sets-beauty-ulta-sephora-1239413014/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-17",
+   "ai_summary": "The article lists the top 10 holiday gift sets sold by Prestige Beauty brands at Ulta and Sephora. It highlights Rhode and Tarte as the bestsellers both online and in-store at Sephora over the past two months, based on Daash data.",
+   "excerpt": "Rhode and Tarte delivered bestsellers both online and in-store at Sephora over the past two months, according to new data from Daash."
+  },
+  {
+   "title": "From Medik8 To Manucurist: Why Inflexion Sees Nail Care As Its Next Big Beauty Opportunity",
+   "url": "https://www.beautyindependent.com/medik8-manucurist-why-inflexion-sees-nail-care-next-big-beauty-opportunity/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "From Medik8 To Manucurist: Why Inflexion Sees Nail Care As Its Next Big Beauty Opportunity — After selling a majority stake in Medik8 to L’Oréal for a reported $1.1 billion, Inflexion has made a surprising next bet: nails. And not the buzzy press-on nail category, but health-focused nail care. The London-based m…",
+   "excerpt": "After selling a majority stake in Medik8 to L’Oréal for a reported $1.1 billion, Inflexion has made a surprising next bet: nails. And not the buzzy press-on nail category, but health-focused nail care. The London-based m…"
+  },
   {
    "title": "Pure Trade brings disco-ball sparkle to Rabanne's Advent calendar",
    "url": "https://www.premiumbeautynews.com/en/pure-trade-brings-disco-ball,28549",
@@ -29,6 +92,51 @@
    "date": "2026-11-17",
    "ai_summary": "Solabia’s acquisition of Ethical Naturals supports its focus on cosmetics and nutraceuticals while it plans to divest its microbiological diagnostics division.",
    "excerpt": "The specialist in natural and biotechnological active ingredients is pursuing its strategic refocusing on cosmetics and nutraceuticals. Solabia plans to divest its microbiological diagnostics division while acquiring a m…"
+  },
+  {
+   "title": "Euromonitor identifies five consumer trends set to shape 2027",
+   "url": "https://www.premiumbeautynews.com/en/euromonitor-identifies-five,28554",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-17",
+   "ai_summary": "Euromonitor identifies five consumer trends set to shape 2027, emphasizing trust, transparency, reliability, and tangible benefits as consumers reassess brand relationships.",
+   "excerpt": "Trust, transparency, reliability and tangible benefits are becoming increasingly important as consumers reassess their relationships with brands. Euromonitor International's latest report highlights five behavioural shif…"
+  },
+  {
+   "title": "UV filters spotlight: Environmental impact and SPF testing methods",
+   "url": "https://www.premiumbeautynews.com/en/uv-filters-spotlight-environmental,28556",
+   "source": "Premium Beauty News",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "UV filters spotlight discusses the need for a multistakeholder approach to measuring environmental impact, investing in new SPF testing methods, and improving consumer education.",
+   "excerpt": "Industry needs to take a multistakeholder approach to measuring the environmental impact of UV filters and continue to invest in new SPF testing methods and better consumer education, say experts. Addressing attendees at…"
+  },
+  {
+   "title": "Fiabila explores new frontiers in nail color, care, and packaging",
+   "url": "https://www.premiumbeautynews.com/en/fiabila-explores-new-frontiers-in,28551",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "Fiabila explores new frontiers in nail color, care, and packaging, unveiling new shades, special effects, a patented nail care complex, new remover formats, and innovative bottle decorations.",
+   "excerpt": "New shades and special effects, a patented nail care complex, new nail polish remover formats, and innovative bottle decoration solutions: Fiabila recently unveiled a series of developments that showcase the growing dive…"
+  },
+  {
+   "title": "Notes Shanghai Autumn/Winter 2026 draws over 21,000 visitors",
+   "url": "https://www.premiumbeautynews.com/en/notes-shanghai-autumn-winter-2026,28553",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "Notes Shanghai Autumn/Winter 2026 drew over 21,000 visitors, featuring 224 fragrance brands and 10 fragrance-related exhibitors at the Shanghai West Bund International Convention and Exhibition Center.",
+   "excerpt": "The sixth edition of Notes Shanghai, held from October 14 to 17, 2026, at the Shanghai West Bund International Convention and Exhibition Center alongside Beauty Shanghai, brought together 224 fragrance brands and 10 frag…"
+  },
+  {
+   "title": "The naked nail trend: how skinification is reshaping nail care",
+   "url": "https://www.cosmeticsbusiness.com/the-naked-nail-trend-how-skinification-is-reshaping",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-16",
+   "ai_summary": "The naked nail trend is becoming a status symbol, with new formats and skin care ingredients highlighting nail health products.",
+   "excerpt": "As the naked nail trend becomes a status symbol, new formats and skin care ingredients are putting nail health products in the spotlight"
   },
   {
    "title": "AI visibility may not be a KPI yet, but creator content is already driving it",

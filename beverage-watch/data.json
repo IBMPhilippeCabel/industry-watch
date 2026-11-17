@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-17T00:02:00Z",
+ "updated": "2026-11-17T10:21:00Z",
  "briefing": {
-  "date": "2026-11-16",
-  "hook": "Today's focus spans tax policy shifts, advertising scrutiny, tech risk, and premium trends reshaping the global drinks landscape.",
+  "date": "2026-11-17",
+  "hook": "Day highlights Heineken’s F1 partnership, share buybacks, and a push for RTD tax reform amid global market shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken reports progress on its share buyback programme, signalling ongoing capital allocation.",
-   "📈 Market": "German spirits push back on rushed RTD tax, Australian regulators curb sports alcohol ads, Microsoft outage highlights digital ID risks, Asahi reports below‑plan sales, waste‑heat recovery offers cost cuts, and premiumisation drives U.S. tequila growth.",
-   "🍸 Spirits & Premium": "Premiumisation continues to lift U.S. tequila demand, with craft brands like Volcan de mi Tierra capitalising on consumer shifts.",
+   "🤝 Strategy & M&A": "Heineken continues its share buyback program while AdVini explores acquiring two wine brands, signaling ongoing consolidation activity.",
+   "📈 Market": "German spirits face backlash over a rushed RTD tax plan, Australian regulators push for reduced alcohol ads, and Asahi reports sales below plan in Europe and APAC.",
+   "🍸 Spirits & Premium": null,
    "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "Recovering waste heat with heat pumps and storage can cut costs and emissions while sustaining production."
+   "💡 Innovation & No-Low": "Heineken partners with Rocket Mortgage and Redfin for the 2026 Las Vegas Grand Prix and unveils an exclusive F1-inspired sculpture collection, blending sponsorship with artistic innovation."
   }
  },
  "articles": [
+  {
+   "title": "Rocket Mortgage and Redfin Become First Homeownership Partners of FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTElSWjBhWHdhcUJSb0Z5aUNJWGZrREN1YjNqVkZKV0d1UlA3alJQNlQ2ZUs2RDZINWhYY3VOWlRDRE5mTXdPQ3E0bUViMHV5Q29vZzc2cUU4YTVaMnFYX2UxR3p0cGcxQl8waTRpX1dBZ0RVaHowQkcyRDVMRV95TzdNRWdzQzBSS2JXVzR1S0EwU0dsZ1ZLbTlHSWFPdVByVm53MGpvNkNBUEwwWUU0OEo1YlFJN08ydF9GU3JQaFYxUVBoSmZGWF9YQnMtdXVKaENwN0cwc0ZtMmVOYjV3MTkyMnp3a0dEcElic253am5nQ09XY3ZTUndB?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-16",
+   "ai_summary": "Rocket Mortgage and Redfin Become First Homeownership Partners of FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 – PR Newswire announces the partnership between the two companies and the event.",
+   "excerpt": "Rocket Mortgage and Redfin Become First Homeownership Partners of FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 PR Newswire"
+  },
+  {
+   "title": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 TO DEBUT EXCLUSIVE F1®-INSPIRED SCULPTURE COLLECTION BY ARTIST ANTOINE DUFILHO, NOV. 19-21 - Formula 1 Las Vegas Grand Prix",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHNLT215c3NPaVZ0UjNkNlc2WlpaUTVsemxrWWpsVFJWOW9XdkxqLXFEWnRaa1VRZ2tkVG9aaGZkWFpNcm95WEIwNnZuVm9Wb2tRc09NaWlxSWM3M0duM3VqX0o4R1NPeDEtQUNUX1BnV0xFZnZtLXA3R2dXVXQ4aldqUFoxa0xNZEdyR2ZKSXlTb2FmNndzU0NoVFpKazFSUnI1UA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-16",
+   "ai_summary": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 TO DEBUT EXCLUSIVE F1®-INSPIRED SCULPTURE COLLECTION BY ARTIST ANTOINE DUFILHO, NOV. 19-21 – Formula 1 Las Vegas Grand Prix announces a new sculpture collection for the event.",
+   "excerpt": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 TO DEBUT EXCLUSIVE F1®-INSPIRED SCULPTURE COLLECTION BY ARTIST ANTOINE DUFILHO, NOV. 19-21 Formula 1 Las Vegas Grand Prix"
+  },
   {
    "title": "German spirits sector slams “rushed” plan to widen RTD tax",
    "url": "https://www.just-drinks.com/news/german-spirits-sector-slams-rushed-plan-to-widen-rtd-tax/",

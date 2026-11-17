@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-17T00:02:00Z",
+ "updated": "2026-11-17T10:21:00Z",
  "briefing": {
-  "date": "2026-11-16",
-  "hook": "Today’s highlights show pet food brands expanding retail reach, embracing sustainability, and investing in manufacturing while small‑dog demand rises.",
+  "date": "2026-11-17",
+  "hook": "Pet food trends focus on digestive health, new retail launches, and regulatory shifts toward cultivated proteins.",
   "categories": {
-   "📈 Market": "Pet Supplies Plus opens a Texas store, Citizens Pet expands its California facility, and small‑breed dogs are gaining popularity, signaling growth in niche segments.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": "Brands like Royal Canin, PetSmart, Redbarn, and PSC are launching new products, expanding sustainability research, and celebrating pet‑sustainability awards, underscoring a focus on functional and eco‑friendly offerings.",
-   "🤝 M&A": "Mars is investing in U.K. and U.S. manufacturing upgrades, Petz‑Cobasi reports profit gains, and alternative‑protein projects are expanding across Europe, reflecting a trend toward production expansion."
+   "📈 Market": "Pet Supplies Plus opens a new store in Texas, expanding its footprint.",
+   "⚖️ Regulation": "Cultivated meat pet food companies in the UK and Asia are progressing regulatory milestones to expand sustainable alternatives.",
+   "💡 Innovation": "Pet parents now demand digestive health support from pet food, leading to new product launches like Unconditional's full portfolio in PetSmart.",
+   "🤝 M&A": "Retailers face expansion pressure while Mars invests $1.4B in manufacturing and Petz-Cobasi boosts profits through integration, amid growing alternative protein production."
   }
  },
  "articles": [
+  {
+   "title": "New store equation: The changing economics of pet retail expansion",
+   "url": "https://globalpetindustry.com/news/new-store-equation-the-changing-economics-of-pet-retail-expansion/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-17",
+   "ai_summary": "Retailers in the pet industry face mounting pressure when expanding their store networks, as rising construction costs, expensive rents and limited availability of suitable locations make new openings more difficult.",
+   "excerpt": "Retailers in the pet industry are facing mounting pressure when expanding their store networks, as rising construction costs, expensive rents and limited availability of suitable locations make new openings more difficul…"
+  },
+  {
+   "title": "UK gives green light to cultivated Wagyu beef for pet food",
+   "url": "https://globalpetindustry.com/news/uk-gives-green-light-to-cultivated-wagyu-beef-for-pet-food/",
+   "source": "Global Pet Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-17",
+   "ai_summary": "Cultivated meat pet food companies in the UK and Asia are advancing to establish sustainable, innovative alternatives in pet nutrition, with regulatory milestones and international expansion underway.",
+   "excerpt": "From regulatory milestones to international expansion, cultivated meat pet food companies in the UK and Asia are advancing to establish sustainable, innovative alternatives in pet nutrition. Ivy Farm Technologies British…"
+  },
   {
    "title": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin - GlobeNewswire",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONEtYaGs3LXNtck5xLXZoUk1fclcyS0J3djdfajNIbGtWbVZEWVFBZTEzSDMtaUI4TjdUYkQycEFLR29TS3ZOTkFza0g3Zl9TaEtqY283dThDeXl2OWN0aElTZ012aGZ5RDhxMzFTU2FIbVgzMl9BSVlzV3dTY0gzakdjcUNoZTNrNXpTTDcwRHlfNEg5YzEyZXQtUHJYZFltbnpUUS1jOGdVNGVLMW84SWdSeE9jMkxHaEhCeG1UbTRYeU9tUTZDMWZPU3J2QV83ZkpoQVo4Zm5vODBIUnZBak5pMlZLRWhDNDlLUDBzcTQ2dXJoc04weHh4MFFnZEk?oc=5",
