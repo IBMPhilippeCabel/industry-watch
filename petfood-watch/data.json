@@ -1,17 +1,107 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-18T12:45:00Z",
+ "updated": "2026-11-18T21:45:00Z",
  "briefing": {
   "date": "2026-11-18",
-  "hook": "Pet food sector sees growth in private labels, new store openings, and a push toward alternative proteins and digestive health.",
+  "hook": "Sustainability and animal welfare dominate the day as pet‑food firms expand, innovate, and navigate new regulations.",
   "categories": {
-   "📈 Market": "Petstock’s private‑label expansion in Woolworths drove a 6.1% sales rise to AU$253 million in Q1 FY 2027, while Pet Supplies Plus opened new stores in Texas and San Antonio.",
-   "⚖️ Regulation": "Cultivated‑meat pet‑food firms in the UK and Asia are advancing regulatory milestones to support sustainable alternatives.",
-   "💡 Innovation": "Digestive health has become a priority for pet parents, prompting Purina Pro Plan Veterinary to launch a therapeutic cat diet and two supplements, while R&B Dog Bakery expands to Chewy.",
-   "🤝 M&A": "Retailers face higher costs for new openings, Mars is investing $1.4 billion in 2027, and Petz‑Cobasi’s integration boosts private‑label sales in Brazil."
+   "📈 Market": "Pet‑food retailers and manufacturers are expanding private labels and new stores while exploring minimally processed production and new feed training initiatives.",
+   "⚖️ Regulation": "Animal welfare remains the top priority for U.S. pet owners, while cultivated‑meat pet‑food companies in the UK and Asia advance regulatory milestones for sustainable alternatives.",
+   "💡 Innovation": "Consumers increasingly link premium quality with ethical sourcing, yet many still favor familiar, natural products over sustainability claims, prompting brands to highlight visible environmental responsibility.",
+   "🤝 M&A": "Industry stakeholders are collaborating on sustainability, while retailers face higher costs for expansion and companies like Mars invest heavily in new manufacturing capacity."
   }
  },
  "articles": [
+  {
+   "title": "Ambitious Go-Getters associate sustainable pet products with premium quality",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542052/ambitious-gogetters-associate-sustainable-pet-products-with-premium-quality",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "Ambitious Go-Getters associate sustainable pet products with premium quality — American Pet Products Association research suggests this consumer segment responds to ethical sourcing, craftsmanship and brand...",
+   "excerpt": "American Pet Products Association research suggests this consumer segment responds to ethical sourcing, craftsmanship and brand..."
+  },
+  {
+   "title": "Passionate Parents prioritize trust and affordability over pet food sustainability claims",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542050/passionate-parents-prioritize-trust-and-affordability-over-pet-food-sustainability-claims",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "Passionate Parents prioritize trust and affordability over pet food sustainability claims — Representing 16% of U.S. pet owners, this consumer segment favors familiar, natural products over environmental messaging or premium...",
+   "excerpt": "Representing 16% of U.S. pet owners, this consumer segment favors familiar, natural products over environmental messaging or premium..."
+  },
+  {
+   "title": "Wellbeing Warriors link pet health to environmental sustainability",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542048/wellbeing-warriors-link-pet-health-to-environmental-sustainability",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "Wellbeing Warriors link pet health to environmental sustainability — Representing 16% of U.S. pet owners, this consumer segment prioritizes nutrition, natural ingredients and environmental responsibility...",
+   "excerpt": "Representing 16% of U.S. pet owners, this consumer segment prioritizes nutrition, natural ingredients and environmental responsibility..."
+  },
+  {
+   "title": "Adventure Seeker pet owners value sustainability they can see in pet products",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542046/adventure-seeker-pet-owners-value-sustainability-they-can-see-in-pet-products",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "Adventure Seeker pet owners value sustainability they can see in pet products — Representing 17% of U.S. pet owners, this consumer segment connects environmental responsibility with outdoor recreation and product...",
+   "excerpt": "Representing 17% of U.S. pet owners, this consumer segment connects environmental responsibility with outdoor recreation and product..."
+  },
+  {
+   "title": "Comfort Companion pet owners prioritize animal welfare over sustainability",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542043/comfort-companion-pet-owners-prioritize-animal-welfare-over-sustainability",
+   "source": "Petfood Industry",
+   "category": "⚖️ Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Comfort Companion pet owners prioritize animal welfare over sustainability — The largest U.S. pet owner segment values kindness, pet safety and ethical sourcing but remains highly price-conscious.",
+   "excerpt": "The largest U.S. pet owner segment values kindness, pet safety and ethical sourcing but remains highly price-conscious."
+  },
+  {
+   "title": "8 takeaways on minimally processed pet food production",
+   "url": "https://www.petfoodindustry.com/production/pet-food-processing/article/16541977/8-takeaways-on-minimally-processed-pet-food-production",
+   "source": "Petfood Industry",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "8 takeaways on minimally processed pet food production — During the latest Ask the Petfood Pro, a JBT Marel Wenger process expert explained how manufacturers can define, process and validate...",
+   "excerpt": "During the latest Ask the Petfood Pro, a JBT Marel Wenger process expert explained how manufacturers can define, process and validate..."
+  },
+  {
+   "title": "USDA announces hiring plans for NWS sterile fly production facility",
+   "url": "https://www.petfoodprocessing.net/articles/21089-usda-announces-hiring-plans-for-nws-sterile-fly-production-facility",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "USDA announces hiring plans for NWS sterile fly production facility — The department plans to hire 228 people in a range of scientific and technical roles.",
+   "excerpt": "The department plans to hire 228 people in a range of scientific and technical roles."
+  },
+  {
+   "title": "CatCrazy launches on Chewy",
+   "url": "https://www.petfoodprocessing.net/articles/21088-catcrazy-launches-on-chewy",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "CatCrazy launches on Chewy — The company’s flagship product, Puckin’ Crazy Chicken Feast, is now available through the e-commerce retailer.",
+   "excerpt": "The company’s flagship product, Puckin’ Crazy Chicken Feast, is now available through the e-commerce retailer."
+  },
+  {
+   "title": "Women in the Pet Industry: Meet Shannon Landry of Packaged Facts",
+   "url": "https://www.petfoodprocessing.net/articles/21087-women-in-the-pet-industry-meet-shannon-landry-of-packaged-facts",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "Women in the Pet Industry: Meet Shannon Landry of Packaged Facts — The veteran pet market analyst shares insights on pet market trends, career growth and the future of the industry.",
+   "excerpt": "The veteran pet market analyst shares insights on pet market trends, career growth and the future of the industry."
+  },
+  {
+   "title": "Impact Unleashed highlights collaboration, innovation in pet industry sustainability",
+   "url": "https://www.petfoodprocessing.net/articles/21086-impact-unleashed-highlights-collaboration-innovation-in-pet-industry-sustainability",
+   "source": "Pet Food Processing",
+   "category": "🤝 M&A",
+   "date": "2026-11-18",
+   "ai_summary": "Impact Unleashed highlights collaboration, innovation in pet industry sustainability — Industry stakeholders gathered to exchange ideas, share best practices and explore how collective action can accelerate sustainability progress.",
+   "excerpt": "Industry stakeholders gathered to exchange ideas, share best practices and explore how collective action can accelerate sustainability progress."
+  },
   {
    "title": "Australia: Petstock expands private label ranges across Woolworths supermarkets",
    "url": "https://globalpetindustry.com/news/australia-petstock-expands-private-label-ranges-across-woolworths-supermarkets/",

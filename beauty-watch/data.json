@@ -1,17 +1,107 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-18T12:45:00Z",
+ "updated": "2026-11-18T21:45:00Z",
  "briefing": {
   "date": "2026-11-18",
-  "hook": "Holiday campaigns, Chinese market shifts, and a surge in UK store openings shape today’s beauty landscape.",
+  "hook": "Celebrity endorsements falter, while peptide innovation and strategic brand collaborations reshape the beauty landscape.",
   "categories": {
-   "📈 Market": "Kiehl’s NYC local‑business campaign, Shiseido’s sale of Aupres to IDG, L’Oreal’s lawsuit settlement, and Sephora’s planned UK store expansion illustrate a mix of marketing, regulatory, and expansion moves.",
-   "💄 Brands & Retail": "Express revives Y2K scents, Krave Beauty opens a holiday pop‑up, and Shiseido’s Liyuan line moves to an investor consortium, highlighting brand refreshes and retail experiments.",
-   "🤝 Strategy & M&A": "BeeCure raises $1 million, Inflexion sells a stake in Medik8 to L’Oréal, and a Spanish firm nears talks with Artessence, underscoring funding and partnership activity.",
-   "💡 Innovation & Regulation": "THG LABS adopts Centric PLM, Sally Kemkers highlights Estée Lauder’s Beauty Reimagined, Noble Panacea scales in China, and a legal dispute over Beckham’s fragrance underscores regulatory tensions."
+   "📈 Market": "Consumers grow wary of celebrity-backed products, sparking backlash that challenges brand authenticity, while legal disputes over Beckham fragrances highlight regulatory scrutiny.",
+   "💄 Brands & Retail": "Industry awards spotlight trailblazers like Pat McGrath and Hailey Bieber’s Rhode, while pop‑up initiatives and local‑commerce campaigns expand retail engagement.",
+   "🤝 Strategy & M&A": "Puig nears a deal for Parfums de Marly, while Shiseido divests Aupres, and brands secure funding to broaden market reach.",
+   "💡 Innovation & Regulation": "Peptide‑centric products and microcurrent tech gain traction, AI‑driven personalization partners like Credo Beauty launch, and calls for stricter UV filter testing grow louder."
   }
  },
  "articles": [
+  {
+   "title": "If You Buy One Beauty Tech Tool, Make It One of These Editor-Loved Microcurrent Devices - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wT1pzSVZyTTE5MGRJUERiV2NrZVRQZWk2QUxaRjNPSFQ3d3lSYXhWa1p4SmNQQVpVZnd0OGtNODlwQVI0aHJZaVdoRF9qSGJYcmdMdmZNMnZQTThyUU5OdERwT0pIMjN1SVpOTTIzaWtTSE5VY1Jn?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "If You Buy One Beauty Tech Tool, Make It One of These Editor-Loved Microcurrent Devices - AOL.com — If You Buy One Beauty Tech Tool, Make It One of These Editor-Loved Microcurrent Devices AOL.com",
+   "excerpt": "If You Buy One Beauty Tech Tool, Make It One of These Editor-Loved Microcurrent Devices AOL.com"
+  },
+  {
+   "title": "Dame Pat McGrath, Hailey Bieber’s Rhode, Cymbiotika and More Honored at 2026 Beauty Inc Awards",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/pat-mcgrath-hailey-bieber-rhode-beauty-awards-wwd-1239425127/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-18",
+   "ai_summary": "Dame Pat McGrath, Hailey Bieber’s Rhode, Cymbiotika and More Honored at 2026 Beauty Inc Awards — The ceremony, held Tuesday night in New York, honored the people, products and teams in the beauty industry whose accomplishments and originality defined the year.",
+   "excerpt": "The ceremony, held Tuesday night in New York, honored the people, products and teams in the beauty industry whose accomplishments and originality defined the year."
+  },
+  {
+   "title": "Berenberg Reports Thakral To Sell Up To 6.7 Mln Shares In The Beauty Tech Group - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS19GWlgwMG1uUldJVWYtSGUzQ2tOcUc1T19oWks2M0liUzNPLVg3ZHVoRkdfVVJQZ1lHT2U4TFlISmVwQmVLRUo4MXNKRk1ZdHZsQUl4N0VZcWxCVllGT24zZGhMS0wwVmhtUlM5Ykl0eFJRNHUyYzQ1SFVJczlCZTVNTzNHMlpRbkNEdE1WUVluZnFjdk90VDM0T19DMTB5bDI4a0NBTVNsLXRpdVdNTFBQTzdKNE42V3JjWkhocTF0bVktYTRtYmdQQW1keHhpLXJtMndGZmNhNVBmNW1LWVhuQQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Berenberg reports that Thakral will sell up to 6.7 million shares in the beauty tech group. The sale is noted on TradingView.",
+   "excerpt": "Berenberg Reports Thakral To Sell Up To 6.7 Mln Shares In The Beauty Tech Group TradingView"
+  },
+  {
+   "title": "Jeweler Solange Azagury-Partridge Gives Her Hotlips Design a Makeover for Beauty Inc",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/solange-azagury-partridge-hotlips-design-beauty-makeover-1239390928/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-18",
+   "ai_summary": "Jeweler Solange Azagury-Partridge Gives Her Hotlips Design a Makeover for Beauty Inc — Azagury-Partridge has fused her Hotlips and eye designs to create a colorful award for Beauty Inc.",
+   "excerpt": "Azagury-Partridge has fused her Hotlips and eye designs to create a colorful award for Beauty Inc."
+  },
+  {
+   "title": "The Natural List: Clean beauty is out, peptides are in - New Hope Network",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3dNUEdLN1ZPMmVyZGJwN1JTY2djT3ZrNXd5SlN2dXZpQkxBTDFqdzA3UFJlb25RYkQwcU5pMVdPTldzTU5iVl80VnZSVmRiUkNDTHUtTEo0ZEpxUzJmWFBDODB2VmpZNlVsNFpHM21LckZlZ19RNlJwTUloMHhiRWMxZ0xoalVTTHduZkJXbkl5dnhJUnJrMk1hazgxeUpZSzlRNlRzUUI?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "The Natural List: Clean beauty is out, peptides are in - New Hope Network — The Natural List: Clean beauty is out, peptides are in New Hope Network",
+   "excerpt": "The Natural List: Clean beauty is out, peptides are in New Hope Network"
+  },
+  {
+   "title": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands",
+   "url": "https://www.glossy.co/sponsored/unpacked-the-invisible-businesses-turning-ideas-into-scalable-global-beauty-brands/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands — This Unpacked guide, sponsored by Cosmoprof, explores the increasingly strategic role of the ecosystem behind a beauty brand, and how these relationships help brands innovate, scale and compete internationally. Global be…",
+   "excerpt": "This Unpacked guide, sponsored by Cosmoprof, explores the increasingly strategic role of the ecosystem behind a beauty brand, and how these relationships help brands innovate, scale and compete internationally. Global be…"
+  },
+  {
+   "title": "Wellness Briefing: Hers plans to lead injectable longevity with Peptides+ platform launch, plus news",
+   "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-hers-plans-to-lead-injectable-longevity-with-peptides-platform-launch-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Hers plans to lead injectable longevity with Peptides+ platform launch, plus news — For the Wellness Briefing, Glossy checked in with Dr. Jessica Shepherd, MD, an obstetrician, gynecologist and chief medical officer of Hers, to learn about Peptides+, a new longevity-focused offering from the 9-year-old …",
+   "excerpt": "For the Wellness Briefing, Glossy checked in with Dr. Jessica Shepherd, MD, an obstetrician, gynecologist and chief medical officer of Hers, to learn about Peptides+, a new longevity-focused offering from the 9-year-old …"
+  },
+  {
+   "title": "Credo Beauty and Revieve partner to make beauty discovery smarter, more personal, and more intuitive",
+   "url": "https://www.cosmeticsbusiness.com/credo-beauty-and-revieve-partner-to-make-beauty",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Credo Beauty and Revieve partner to make beauty discovery smarter, more personal, and more intuitive — New digital experiences combine Credo Beauty's commitment to efficacy, safety, and sustainability with Revieve's AI-powered personalisation technology, helping consumers discover skincare routines and foundation matches …",
+   "excerpt": "New digital experiences combine Credo Beauty's commitment to efficacy, safety, and sustainability with Revieve's AI-powered personalisation technology, helping consumers discover skincare routines and foundation matches …"
+  },
+  {
+   "title": "From Kendall Jenner to Tate McRae: are beauty consumers tired of celebrity product endorsements?",
+   "url": "https://www.cosmeticsbusiness.com/consumers-over-inauthentic-celebrity-product-pushings",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "From Kendall Jenner to Tate McRae: are beauty consumers tired of celebrity product endorsements? — Both celebrities and beauty brands are facing consumer backlash for inauthentic partnerships and questionable product demonstrations – but can the trust be rebuilt?",
+   "excerpt": "Both celebrities and beauty brands are facing consumer backlash for inauthentic partnerships and questionable product demonstrations – but can the trust be rebuilt?"
+  },
+  {
+   "title": "David Beckham’s company DB Ventures sues after fragrances allegedly found for sale in Poundland",
+   "url": "https://www.cosmeticsbusiness.com/david-beckham-s-company-db-ventures-sues",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "David Beckham’s company DB Ventures sues after fragrances allegedly found for sale in Poundland — Coty has produced Beckham’s fragrances since 2005, under a licence with the ex-footballer’s company DB Ventures and Authentic Brands",
+   "excerpt": "Coty has produced Beckham’s fragrances since 2005, under a licence with the ex-footballer’s company DB Ventures and Authentic Brands"
+  },
   {
    "title": "Kiehl’s and Lea Michele spotlight NYC’s local businesses in Christmas campaign",
    "url": "https://www.cosmeticsbusiness.com/kiehls-and-lea-michele-partner-christmas-campaign",
@@ -157,6 +247,15 @@
    "excerpt": "L'Oreal has reached a settlement with four women who sued the US branch of the French cosmetics giant claiming that a hair straightening product caused their cancer. Danielle Ward Mason, an attorney for the plaintiffs, a…"
   },
   {
+   "title": "Nuxe strengthens sales and marketing leadership to drive global growth",
+   "url": "https://www.premiumbeautynews.com:8443/en/nuxe-strengthens-sales-and,28561",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "Nuxe strengthens sales and marketing leadership to drive global growth — Following the appointment of Christine Delfaut Sara as CEO, Nuxe is continuing to strengthen its organization with three strategic appointments. Already present in more than 60 countries, the French pioneer of natural sk…",
+   "excerpt": "Following the appointment of Christine Delfaut Sara as CEO, Nuxe is continuing to strengthen its organization with three strategic appointments. Already present in more than 60 countries, the French pioneer of natural sk…"
+  },
+  {
    "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
    "url": "https://www.glossy.co/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
    "source": "Glossy",
@@ -164,6 +263,15 @@
    "date": "2026-11-17",
    "ai_summary": "The Work/Life Awards finalists, including KERV.ai, Macmillan Publishers and Chomps, showcase companies redefining workplace culture to boost performance, engagement and innovation.",
    "excerpt": "This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation. Across industries, organizations are gi…"
+  },
+  {
+   "title": "Is Puig Poised to Acquire Parfums de Marly? - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3d2YUw2VHZ6LXNIbFctcGdObzVjaXAtaHF5em1jUlJzUkNxbXpDLUJiUC1lOUtvd3hvN0lxcktUMFBtbnlDeXVSaGF4NnNUbFZyRVo3cC1keTNoM05GVnVYRlR3cGRPVHZFTXNxMDZKZDZpd0huVmFPUUlfQnM2SEJBTEFUa3JmSDQ3VmdGdnp5Y2Y1TnBvbHFJdTJYdy12NG9XUFdhRTFyUFBlblFheU5RN21aRkhE?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "Is Puig Poised to Acquire Parfums de Marly? - WWD — Is Puig Poised to Acquire Parfums de Marly? WWD",
+   "excerpt": "Is Puig Poised to Acquire Parfums de Marly? WWD"
   },
   {
    "title": "Is Puig Poised to Acquire Parfums de Marly?",
