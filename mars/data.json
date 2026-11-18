@@ -1,13 +1,13 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-17T20:36:00Z",
+ "updated": "2026-11-18T03:23:00Z",
  "briefing": {
-  "date": "2026-11-17",
-  "hook": "Mars expands its portfolio with a $36B Pringles and Cheez-It deal while also investing in pet hospitals, amid a Pringles theft incident and new index launch.",
+  "date": "2026-11-18",
+  "hook": "Mars moves on acquisitions and pet care while Pringles headlines surface.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars Snacking is building out leadership after the Kellanova acquisition.",
-   "🐾 Petcare & Royal Canin": "Royal Canin’s Cécile Coutens stresses that scaling requires standardisation for consistency and efficiency.",
-   "🍫 Snacking & FMCG Market": "Mars announced a $36B acquisition of Pringles and Cheez-It and plans to open four pet hospitals as part of a $1.4B U.S. investment.",
+   "🤝 Mars Corporate & M&A": "Mars continues to expand through acquisitions, recently adding Kellanova and building leadership post‑acquisition.",
+   "🐾 Petcare & Royal Canin": "Mars is investing $1.4B in U.S. pet hospitals and Royal Canin stresses standardisation to support its growth.",
+   "🍫 Snacking & FMCG Market": "Mars announced a $36B purchase of Pringles and Cheez‑It, while Pringles theft incidents and a new index draw headlines.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
@@ -30,6 +30,15 @@
    "date": "2026-11-17",
    "ai_summary": "A man stealing Pringles at a Myrtle Beach store pulled a gun on an employee, prompting police intervention, as reported by the Myrtle Beach Sun News.",
    "excerpt": "Man stealing Pringles at Myrtle Beach store pulls gun on employee, police say Myrtle Beach Sun News"
+  },
+  {
+   "title": "Can Kellanova (NYSE:K) Deliver A Strong Next Release? - Kalkine Media",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3VOSzlDZnRlQnFVMkoxQ2pQOTM4SWZuZzRCbUFKd1p5Nlc2d0d0RVJYSGhSczNlcGZKWm1oVEt4d0JIdU9idkt1NDRSUUF6UmJKai1VSjdERXNaakpkNG9UelFVcGpSa2MtRUxXZ2JPTm1Kb2owenI5Y0hCWVl6UkNJN08wRDdpMHR6ZTlWUHFUZWdTZXZwcg?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-11-17",
+   "ai_summary": "Can Kellanova (NYSE:K) Deliver A Strong Next Release? examines the company's upcoming release prospects. The article discusses potential factors influencing the release's success.",
+   "excerpt": "Can Kellanova (NYSE:K) Deliver A Strong Next Release? Kalkine Media"
   },
   {
    "title": "Man accused of pulling BB gun after trying to steal Pringles in Myrtle Beach - WMBF",
@@ -1722,24 +1731,6 @@
    "date": "2026-10-19",
    "ai_summary": "Exploitative Portfolio Effects In EU Merger Control: From Mars/Kellanova to the Draft Merger Guidelines discusses how merger control in the EU considers the impact of portfolio effects on competition. The article examines the case of Mars/Kellanova and the implications for future merger guidelines.",
    "excerpt": "Exploitative Portfolio Effects In EU Merger Control: From Mars/Kellanova to the Draft Merger Guidelines PYMNTS.com"
-  },
-  {
-   "title": "In 1932, Frank Mars Pushed His Son Out of the Family Candy Business; 9 Years Later, Forrest Mars Created M&M’s With the Son of Hershey’s President - Parade Magazine",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORkZSWmdFWURvWnRGV05DMG1pUWpKUVZENHZ2QU1Fdk5lanJqc1lMYkJhYzZKakJMdk9ja1VkZ2huTC1pbml1czdsSWwxeUdndXhOUnBfSDY2UEtHallSQ21FZUtOa1BxX0RfbzhESG1kQUlxektNU1RWT0VZcWdyaDUtM2JCeFRFb2YwN3Y3a2NlNXZhUUJhNXlIdFNOMzBjVGZTMEp5aDVRd3I0ZnlRVTY4QTlCdG4tdjRzanZUUVc5MG51S3FMbXpiQ0wxM3lKbG5TYXI4R2tmcGxDQnhmSTZvLTNYaE1VRWM3MFo5bkVxVUllZXNR?oc=5",
-   "source": "Mars Snacking & Brands (Google News)",
-   "category": "🍫 Snacking & FMCG Market",
-   "date": "2026-10-18",
-   "ai_summary": "",
-   "excerpt": "In 1932, Frank Mars Pushed His Son Out of the Family Candy Business; 9 Years Later, Forrest Mars Created M&M’s With the Son of Hershey’s President Parade Magazine"
-  },
-  {
-   "title": "Pringles offers fans the chance to be buried in one of its cans - Famous Campaigns",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnRaNEFySWVJeWRFUXY3ZVdQemJRMnJvR3ZId2ZNR1d5U0JvUzB0MW85LXhZMHpvVE9kakN1ejJMLVpXU1JPeVJGelNnOUVrMkxVNU5xQ1hDdHdHZmc4N19MYWlxMEJlaEFzdUpMQnZiTEZmRkJIaG0xNGVTU09Bd19ERHNQMG1MVURkOXlaOFBjOFZrZTdRM2RfQ2psSE9ubW5zQU8wdw?oc=5",
-   "source": "Mars Snacking & Brands (Google News)",
-   "category": "🍫 Snacking & FMCG Market",
-   "date": "2026-10-18",
-   "ai_summary": "",
-   "excerpt": "Pringles offers fans the chance to be buried in one of its cans Famous Campaigns"
   }
  ]
 }

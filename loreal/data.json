@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-17T20:36:00Z",
+ "updated": "2026-11-18T03:23:00Z",
  "briefing": {
-  "date": "2026-11-17",
-  "hook": "L’Oréal navigates legal, strategic hires, and new skincare launches amid market shifts.",
+  "date": "2026-11-18",
+  "hook": "L'Oréal headlines include a new Maybelline campaign, a CeraVe film partnership, a legal settlement, and a sunscreen innovation launch.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal settles its first US hair relaxer cancer trial while hiring a new investment director for India.",
-   "💄 Brands & Launches": "CeraVe partners with the ‘Dune’ franchise to launch a desert‑themed skincare campaign.",
+   "🤝 Strategy & M&A": "L'Oréal settled its first hair relaxer cancer trial in the U.S., addressing legal claims over hair straightening products.",
+   "💄 Brands & Launches": "Maybelline refreshed its iconic tagline in a Miley Cyrus campaign while CeraVe partnered with the film ‘Dune: Part Three’ for a creative skincare collaboration.",
    "💡 Beauty Tech & ESG": null,
-   "📈 Market": "La Roche‑Posay’s BEMT sunscreen launch opens a new conversation with consumers amid FDA changes."
+   "📈 Market": "La Roche-Posay launched BEMT, the first new sunscreen filter approved by the FDA in 25 years, opening a new conversation with consumers."
   }
  },
  "articles": [
+  {
+   "title": "Miley Cyrus is Starring in the New Maybelline Campaign – and Updating the Famous Tag Line - Mix 93.3",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRF92aXFlYzNHRnN5VWNWRjdfQ284bGVINVFfMkljZk81cERsa3R6WlhGdmZTNFVfMTZZb251eFprRVFEZnBFd012Ym0zN1g4bU9VODc3Y1U4eFJidl9La1V5TFFKRG9MLTZLTWhyNA?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-17",
+   "ai_summary": "Miley Cyrus stars in the new Maybelline campaign, updating the brand’s famous tag line.",
+   "excerpt": "Miley Cyrus is Starring in the New Maybelline Campaign – and Updating the Famous Tag Line Mix 93.3"
+  },
   {
    "title": "L’Oréal USA Settles First Hair Relaxer Cancer Trial - Consumer Notice",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlNySGZzY3g3NmpxMF9yLW5rb3Utb0RmWVd2N3RSZkE3eTJFYkpWNGdXQmdCSkhCZW96emJrMG5xVEwtcjlUTnhUQ195OXhjX2ZFZ2RWZzY4WkNnZHJfNU1vVGFtRFVqMnBBbkUzVFdYSGlyblpWLUtGUGN3czgxNlM2dTZQazdZVWxXUkdUUWU?oc=5",
@@ -29,6 +38,15 @@
    "date": "2026-11-17",
    "ai_summary": "Must Read: How Robert Pattinson’s Bond Casting Could Reshape Brand Deals, L’Oréal Settles Hair Relaxer Cancer Trial - Fashionista — Must Read: How Robert Pattinson’s Bond Casting Could Reshape Brand Deals, L’Oréal Settles Hair Relaxer Cancer Trial Fashionista",
    "excerpt": "Must Read: How Robert Pattinson’s Bond Casting Could Reshape Brand Deals, L’Oréal Settles Hair Relaxer Cancer Trial Fashionista"
+  },
+  {
+   "title": "CeraVe Secures First Film Partnership with ‘Dune: Part Three’ - Happi | Household And Personal Products Industry",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdU1PbExSanlXNENKT0xqWUk4Z3FHQkhvcXVCN2hxQ3NPWlJwUmpMOFhSVE0zZ3M4bUtNTThuLVFqUzFWMkwxbUcwYlpHcElZVUp6X2lnYlNUb3h4Q0ptNmY0QU8zYkJHUGRsc0lxcl9FMTA2bVBXUWUzUEJBaHdDdWNkX0kxTThoYWxxRndWbHk5Z2hXeTVvNTh3V24taFVnVzBtZ2JYRGVpM0R5YW9LSWJDS3hNVjNaUXhoNW1iaXgzM21zVGNjUk8zLXVCUEU?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-17",
+   "ai_summary": "CeraVe has secured its first film partnership with ‘Dune: Part Three’, marking a new collaboration in the household and personal products industry.",
+   "excerpt": "CeraVe Secures First Film Partnership with ‘Dune: Part Three’ Happi | Household And Personal Products Industry"
   },
   {
    "title": "L’Oréal’s Bold hires Kaur as investment director for India - Global Venturing",
@@ -2252,15 +2270,6 @@
    "date": "2026-10-19",
    "ai_summary": "",
    "excerpt": "L’Accelerator: Meet L’Oréal’s 13 sustainability ‘change makers’ Green Retail World"
-  },
-  {
-   "title": "L’Oréal Paris Names 2026 Women of Worth Honourees Driving Change Across US Communities - Fair Play Talks",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmVGa1F6TWRzMmVwSm5SY3VLU1hpM3cydnpnT2swR3docTZFQlNGR0J5ektHMllRMEhGYmxFOHVPcFZJeDFpb1c2WE9MOXluTFZtWGx6YndTbGl2akYybHBXQk9ObWlnQXZEMm1UeGhQRE5YZkE5aE1Hd2phel9wN29oM0tBUXl4UjV4NUIwSnhONVBUMzd1UVZRT0FLdWFZTG44WEdsQ0I0VTFVYVhGOTZaWmMtcDNucmpieE9vUHpwYy1VOGc?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-18",
-   "ai_summary": "",
-   "excerpt": "L’Oréal Paris Names 2026 Women of Worth Honourees Driving Change Across US Communities Fair Play Talks"
   }
  ]
 }
