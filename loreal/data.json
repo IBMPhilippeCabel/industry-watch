@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-18T03:23:00Z",
+ "updated": "2026-11-18T12:45:00Z",
  "briefing": {
   "date": "2026-11-18",
-  "hook": "L'Oréal headlines include a new Maybelline campaign, a CeraVe film partnership, a legal settlement, and a sunscreen innovation launch.",
+  "hook": "L'Oréal expands investment in India, launches BEMT sunscreen, and debuts a new Maybelline campaign starring Miley Cyrus.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal settled its first hair relaxer cancer trial in the U.S., addressing legal claims over hair straightening products.",
-   "💄 Brands & Launches": "Maybelline refreshed its iconic tagline in a Miley Cyrus campaign while CeraVe partnered with the film ‘Dune: Part Three’ for a creative skincare collaboration.",
+   "🤝 Strategy & M&A": "L'Oréal appoints Kaur as investment director for India, signalling a focus on expanding its venture footprint in the region.",
+   "💄 Brands & Launches": "Maybelline launches a new campaign featuring Miley Cyrus, refreshing its iconic tagline and engaging a younger audience.",
    "💡 Beauty Tech & ESG": null,
-   "📈 Market": "La Roche-Posay launched BEMT, the first new sunscreen filter approved by the FDA in 25 years, opening a new conversation with consumers."
+   "📈 Market": "La Roche‑Posay’s BEMT launch aligns with the FDA’s first new sunscreen filter approval in 25 years, opening a new conversation with consumers."
   }
  },
  "articles": [
+  {
+   "title": "Kiehl’s and Lea Michele spotlight NYC’s local businesses in Christmas campaign",
+   "url": "https://www.cosmeticsbusiness.com/kiehls-and-lea-michele-partner-christmas-campaign",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "Kiehl’s partners with Lea Michele to promote local New York businesses in a Christmas campaign encouraging consumers to ‘Gift Like a Local’.",
+   "excerpt": "The partnership sees skin care brand Kiehl’s partner with Glee star Lea Michele to encourage consumers to ‘Gift Like a Local’ as it celebrates local businesses across New York, US"
+  },
+  {
+   "title": "Analyst ratings: changes for L'Oréal, Legrand, Alstom... - Idéal Investisseur",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHhPNTA1QU5zSm5aVmNmVE1lRGZZUGRNSkNNb3k5WnlBX2RjcUtZaE95R200aldWUl9iV0JNdFA4ZnhzS2gtSVZYQVRleHN1dmFySzhFRFNNYnRfd09kTlhJM05vM1R1RWJvOURKbjJIN242WmwtZUZ1NVJvMHhaVVpfNW5oSk5EUHdNYklhbG1MbEViUWxZYy11S0NpNkp1QVZrM2VidjNtai1WZUE?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-18",
+   "ai_summary": "Analyst ratings for L'Oréal, Legrand, and Alstom are discussed in this article.",
+   "excerpt": "Analyst ratings: changes for L'Oréal, Legrand, Alstom... Idéal Investisseur"
+  },
+  {
+   "title": "L'Oreal USA settles suit with four plaintiffs over hair straightening products",
+   "url": "https://www.premiumbeautynews.com/en/l-oreal-usa-settles-suit-with-four,28559",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "L'Oréal USA has settled a lawsuit with four women who alleged a hair straightening product caused cancer.",
+   "excerpt": "L'Oreal has reached a settlement with four women who sued the US branch of the French cosmetics giant claiming that a hair straightening product caused their cancer. Danielle Ward Mason, an attorney for the plaintiffs, a…"
+  },
   {
    "title": "Miley Cyrus is Starring in the New Maybelline Campaign – and Updating the Famous Tag Line - Mix 93.3",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRF92aXFlYzNHRnN5VWNWRjdfQ284bGVINVFfMkljZk81cERsa3R6WlhGdmZTNFVfMTZZb251eFprRVFEZnBFd012Ym0zN1g4bU9VODc3Y1U4eFJidl9La1V5TFFKRG9MLTZLTWhyNA?oc=5",

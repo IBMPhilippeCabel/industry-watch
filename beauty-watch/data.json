@@ -1,17 +1,116 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-18T03:23:00Z",
+ "updated": "2026-11-18T12:45:00Z",
  "briefing": {
   "date": "2026-11-18",
-  "hook": "Today’s highlights span new clean‑beauty launches, award‑winning collaborations, strategic M&A moves, and market expansion plans across the beauty sector.",
+  "hook": "Holiday campaigns, Chinese market shifts, and a surge in UK store openings shape today’s beauty landscape.",
   "categories": {
-   "📈 Market": "Sephora plans to open ten more UK stores in 2027, while The Ordinary will close on Black Friday to host a blood drive.",
-   "💄 Brands & Retail": "Shiseido Liyuan Cosmetics is set to be sold to an investor consortium led by IDG Capital, while Nicky Hilton partners with Rigaud Paris on a limited‑edition candle.",
-   "🤝 Strategy & M&A": "Inflexion sold a majority stake in Medik8 to L’Oréal and is now betting on nail care, while Solabia’s purchase of Ethical Naturals expands its cosmetics focus.",
-   "💡 Innovation & Regulation": "Korean clean‑beauty brand PLAN de G debuts in Singapore with a skin‑minimalist line, and Fiabila launches new nail shades and a patented nail care complex."
+   "📈 Market": "Kiehl’s NYC local‑business campaign, Shiseido’s sale of Aupres to IDG, L’Oreal’s lawsuit settlement, and Sephora’s planned UK store expansion illustrate a mix of marketing, regulatory, and expansion moves.",
+   "💄 Brands & Retail": "Express revives Y2K scents, Krave Beauty opens a holiday pop‑up, and Shiseido’s Liyuan line moves to an investor consortium, highlighting brand refreshes and retail experiments.",
+   "🤝 Strategy & M&A": "BeeCure raises $1 million, Inflexion sells a stake in Medik8 to L’Oréal, and a Spanish firm nears talks with Artessence, underscoring funding and partnership activity.",
+   "💡 Innovation & Regulation": "THG LABS adopts Centric PLM, Sally Kemkers highlights Estée Lauder’s Beauty Reimagined, Noble Panacea scales in China, and a legal dispute over Beckham’s fragrance underscores regulatory tensions."
   }
  },
  "articles": [
+  {
+   "title": "Kiehl’s and Lea Michele spotlight NYC’s local businesses in Christmas campaign",
+   "url": "https://www.cosmeticsbusiness.com/kiehls-and-lea-michele-partner-christmas-campaign",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "Kiehl’s partners with Lea Michele to promote local NYC businesses in a Christmas campaign, encouraging consumers to ‘Gift Like a Local’. The initiative highlights the brand’s support for local commerce during the holiday season.",
+   "excerpt": "The partnership sees skin care brand Kiehl’s partner with Glee star Lea Michele to encourage consumers to ‘Gift Like a Local’ as it celebrates local businesses across New York, US"
+  },
+  {
+   "title": "How Noble Panacea CEO Audrey Bois Nicolaï is scaling the brand in China and travel retail",
+   "url": "https://www.cosmeticsbusiness.com/noble-panacea-ceo-audrey-bois-nicola%C3%AF-china",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Noble Panacea’s CEO Audrey Bois Nicolaï discusses scaling the brand in China and travel retail, following the passing of Nobel Laureate Sir Fraser Stoddart. The article outlines the company’s future direction without its founding scientist.",
+   "excerpt": "Noble Panacea, best known for its patented Organic Super Molecular Vessel (OSMV) delivery technology, is charting its future without Nobel Laureate Sir Fraser Stoddart, who passed away in 2024. Read how CEO Audrey Bois N…"
+  },
+  {
+   "title": "Shiseido sells off 30-year-old Chinese beauty brand Aupres",
+   "url": "https://www.cosmeticsbusiness.com/shiseido-sells-off-aupres-chinese-beauty-business",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "Shiseido is selling its 30-year-old Chinese beauty brand Aupres to a new consortium led by IDG Capital, transferring ownership of the Liyuan Cosmetics line. The move marks a strategic shift in the company’s Chinese market presence.",
+   "excerpt": "Ownership of Shiseido Liyuan Cosmetics, which makes the skin care, sun care and make-up brand Aupres exclusively for the Chinese market, will transfer to a new consortium led by IDG Capital"
+  },
+  {
+   "title": "What Estée Lauder Companies’ Beauty Reimagined strategy can teach businesses about agility and consumer centricity",
+   "url": "https://www.cosmeticsbusiness.com/estee-lauder-companies-beauty-reimagined-strategy-lessons",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Sally Kemkers explains how Estée Lauder Companies’ Beauty Reimagined strategy offers lessons on agility and consumer centricity for other brands. The article focuses on the strategic insights derived from the initiative.",
+   "excerpt": "Sally Kemkers, founding partner of global agency Untapped Innovation, explains what brands can learn from Estée Lauder Companies’ Beauty Reimagined strategy"
+  },
+  {
+   "title": "THG LABS selects Centric PLM to connect beauty innovation from formulation to commercialisation",
+   "url": "https://www.cosmeticsbusiness.com/thg-labs-selects-centric-plm-to-connect-beauty",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "THG LABS has chosen Centric PLM to streamline beauty innovation from formulation to commercialization, leveraging the platform’s 30+ years of expertise. The partnership aims to accelerate product development and transformation.",
+   "excerpt": "Leading UK beauty manufacturer to leverage 30+ years of expertise to accelerate innovation and transform new product development"
+  },
+  {
+   "title": "The $41M Fight Over the Future of Beckham’s Fragrance Business - The Fashion Law",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2hJUmFDZk44RmdXWGNnZ0JIcjQwbWF2Tlk4Y0pvcWM3RTk1bkozNmdmVXZCaFQ0dzJCQ0loeDItVzE4Z01YQlVLV0t4NzlIYU0wc2ZrV0dSa0tTeDAyNXZxSnlyNlJ6ZjZBaGdCS09MSWtRay1jNlliX1pTeDl5ZlBCS0ZRM2FDUndRX0dTOXNNV0JabFpLcEstOWZfMVhY?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "The article discusses a legal dispute over the future of Beckham’s fragrance business, involving a $41 million claim. It highlights the conflict between parties over ownership and control of the brand.",
+   "excerpt": "The $41M Fight Over the Future of Beckham’s Fragrance Business The Fashion Law"
+  },
+  {
+   "title": "BeeCure Raises $1M To Bring Buckwheat Honey-Based Post-Treatment Skincare To More Doctors’ Offices",
+   "url": "https://www.beautyindependent.com/beecure-raises-1m-buckwheat-honey-based-skincare-doctors-offices/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-18",
+   "ai_summary": "BeeCure raised $1 million to expand its buckwheat honey‑based post‑treatment skincare into dermatology and oncology offices.",
+   "excerpt": "Skincare brand BeeCure , whose buckwheat honey formula was first developed to treat diabetic foot ulcers, has raised $1 million to expand into dermatology and oncology offices as it seeks to carve out a place in the phys…"
+  },
+  {
+   "title": "Human, Pet Wellness Brands Win 2026 Edition of Makers Mindset x The Equity Studio Grant",
+   "url": "https://wwd.com/beauty-industry-news/wellness/wellness-brands-win-makers-mindset-equity-studio-grant-2026-1239420729/",
+   "source": "WWD Beauty",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-18",
+   "ai_summary": "Five health and wellness brands received $10,000 equity‑free funding each as part of the Makers Mindset x The Equity Studio Grant for emerging female founders.",
+   "excerpt": "The five health and wellness brands have each won $10,000 in equity-free funding as part of the grant for emerging female founders in beauty, health and wellness."
+  },
+  {
+   "title": "Selfridges wants K-beauty shoppers to buy beyond the viral bestseller",
+   "url": "https://www.glossy.co/beauty/selfridges-k-beauty-medicube-biodance-counters/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-18",
+   "ai_summary": "Selfridges is encouraging K‑beauty shoppers to purchase beyond viral bestsellers through permanent counters, consultations, device demos, and early launch access.",
+   "excerpt": "With permanent Medicube and Biodance counters, Selfridges is betting on consultations, device demonstrations and early access to launches to build bigger skin-care baskets."
+  },
+  {
+   "title": "Why Express is betting on Y2K fragrance nostalgia",
+   "url": "https://www.glossy.co/fashion/why-express-is-betting-on-y2k-fragrance-nostalgia/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-18",
+   "ai_summary": "Express is reviving Y2K scents Love and Loyalty, adding new affordable fragrances and body mists to attract consumers building fragrance wardrobes.",
+   "excerpt": "Express is reviving Y2K scents Love and Loyalty, along with new affordable fragrances and body mists, to capture consumers building fragrance wardrobes."
+  },
+  {
+   "title": "EXCLUSIVE: Krave Beauty Opens Holiday Pop-Up Market Inspired by ‘Waste Me Not’ Campaign",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/krave-beauty-holiday-pop-up-waste-me-not-campaign-1239419047/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-18",
+   "ai_summary": "Krave Beauty opened a holiday pop‑up market inspired by the ‘Waste Me Not’ campaign, featuring brands such as Amika, Aora, Iota and Vestiaire Collective.",
+   "excerpt": "Participating brands include Amika, Aora, Iota and Vestiaire Collective."
+  },
   {
    "title": "Korean Clean Beauty Brand PLAN de G Makes Singapore Debut with a Skin-Minimalist Approach - Alvinology",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa245eURFMDY3TU9xNVV3dnU3M21FT2ZpUkYweDVmNDVEYUc3LUxBSGFXTzBfSnFhbElrbVFTQzdqSXlSWmJTamFiVUR0NEw5MU1sNk8xRHZuTmIxYVQ0UGpwN05UaEUycGpPYndzR1IzVGZkZERzcTU2LW1mblFRLXp5ZmJycHcwMF9yM2xEWXRFdTVvVm9WV2hkbEt1ZzcyUGtlXzlrTURxZHhpMFZtMERKSnV6cWk3VGdSa1NqejdEZw?oc=5",
@@ -47,6 +146,15 @@
    "date": "2026-11-18",
    "ai_summary": "Opposites Attract: Jennifer Lawrence and Jasmina Aganovic Forge Unique Partnership to Revolutionize Hair Care With Mes° — Oscar-winning actress Jennifer Lawrence and biotech entrepreneur Jasmina Aganovic have been named Founders of the Year at the 2026 Beauty Inc Awards.",
    "excerpt": "Oscar-winning actress Jennifer Lawrence and biotech entrepreneur Jasmina Aganovic have been named Founders of the Year at the 2026 Beauty Inc Awards."
+  },
+  {
+   "title": "L'Oreal USA settles suit with four plaintiffs over hair straightening products",
+   "url": "https://www.premiumbeautynews.com/en/l-oreal-usa-settles-suit-with-four,28559",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-18",
+   "ai_summary": "L'Oreal USA has settled a lawsuit with four plaintiffs who alleged a hair straightening product caused cancer. The settlement resolves the claims against the U.S. branch of the French cosmetics giant.",
+   "excerpt": "L'Oreal has reached a settlement with four women who sued the US branch of the French cosmetics giant claiming that a hair straightening product caused their cancer. Danielle Ward Mason, an attorney for the plaintiffs, a…"
   },
   {
    "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
