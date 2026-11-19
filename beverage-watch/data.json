@@ -1,17 +1,116 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-19T12:37:00Z",
+ "updated": "2026-11-19T22:00:00Z",
  "briefing": {
   "date": "2026-11-19",
-  "hook": "Global beverage firms pivot toward growth, cost control and new initiatives amid market shifts.",
+  "hook": "Heineken’s F1 ticket saga and creative shifts dominate the day, while market moves spotlight moderation trends and regulatory shocks.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken’s six‑year creative transformation underscores its focus on brand innovation and global reach.",
-   "📈 Market": "Stoli’s US re‑entry, Kraft Heinz’s 2028 turnaround target, and a global regenerative agriculture pact signal a mix of expansion and sustainability efforts.",
-   "🍸 Spirits & Premium": "Great Northern’s whiskey pause due to gas hikes and Stoli’s renewed US ambitions highlight production and market challenges.",
-   "🍺 Beer & Brewing": "BellRing’s push into convenience stores marks a strategic move to capture the c‑store segment."
+   "🤝 Strategy & M&A": "Heineken’s new F1 season ticket holder deal and creative transformation highlight its strategic focus.",
+   "📈 Market": "Zebra striping repositions non‑alcoholic drinks as companions, while India’s steep duty on Scotch imports signals trade tensions.",
+   "🍸 Spirits & Premium": "None.",
+   "🍺 Beer & Brewing": "None."
   }
  },
  "articles": [
+  {
+   "title": "Heineken Passes the Torch to a New F1 Season Ticket Holder: Meet Lukáš Chalabala - Sports Illustrated",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTkxUlVHb1UyVElLd3hWOS16NXYtNkxJeENWcTZOcjRHRjBGdWs0bU1pcEJ1Q3dGVnQ2alBURlU3YkFXUGlmWndaZ21RQ3dLZU16bE5rUnhBOFVfTGxJdUJKQk5Udk9NT210VkNfYWRHdi1GT0huVGROa1dkZmREUHU0UjkyQ3Y3elpLZnVrZGZxX0laRzhScndtcWwyQy1TMzNJZHVnTFo?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Heineken passes the torch to a new F1 season ticket holder, meeting Lukáš Chalabala, as reported by Sports Illustrated.",
+   "excerpt": "Heineken Passes the Torch to a New F1 Season Ticket Holder: Meet Lukáš Chalabala Sports Illustrated"
+  },
+  {
+   "title": "22 creative campaigns to know about today - Ad Age",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWNlNEhKc0lyRVBWRDJkQXVWcklOa05oY0hZRTBqOTg1Wl8yLXBtWTFyTHVUaGF6MG1TNF9qRW9XMExIeFZvS2dLZGkzb05hTTkxazEtaHBHbS1VQy12NHo4dnF0T0d1MWEtdVhCVDF4QmU5bHZrSW1UeHlxYXNHVTlWM2pTcnBYeDcwZ003MHEwTHlXSlFzODBnLUpySklkU29wbExxdmFoeE10T0xWR1ZYMHRhMENKdzh4ay1sXzQzX0ZJdktGX3ZfVXk?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Ad Age highlights 22 creative campaigns to know about today.",
+   "excerpt": "22 creative campaigns to know about today Ad Age"
+  },
+  {
+   "title": "Heineken Turns Miami's Vice City Hype into Real-Life Bar Crawl — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSVRzVmtyQVY2RmdHNnRpSE5KQVRXcy05bHF0ME10V1dKUVBvZ19hMXBSa2s1SHJTRVZxTHFqN2dFa01BMWpocFB0dWktdkJNRHcxUlBoOFZMSGFJZDRfVVRhNWZFZFRsVEI0RnRR?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Heineken turns Miami's Vice City hype into a real-life bar crawl, according to LBB.",
+   "excerpt": "Heineken Turns Miami's Vice City Hype into Real-Life Bar Crawl — LBB LBB - Little Black Book"
+  },
+  {
+   "title": "Heineken - Not Available in Vice City — LBB - LBB - Little Black Book",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TYVlmbGZXc2JyRmZ2cjdfaEtQTzBqZ1Zzb0JFaElHaFhBV3E3UjlpTGJqcm1LZXNSODZYUjhGQVR5M2VUbEpZZQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Heineken is not available in Vice City, as noted by LBB.",
+   "excerpt": "Heineken - Not Available in Vice City — LBB LBB - Little Black Book"
+  },
+  {
+   "title": "Dream Ticket: Czech Fan Lands Coveted Heineken® X F1® 2027 Season Ticket After Global Search - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkp2cnBpWW5WN1R5MDREaVlNNVJXZkgwd1VYcW9IekNackdXTU5qSWJnMzl1MXhXTmtVYXU0VnVhdUp4UWJ2ZGxZVVpac0RITWpnZGNMc1kyMXVIU0NJdGxFSVNDT1Q3YjV3Z0N2ZTNpanlrQTFKeXhuVzQ5Y2VyNzl4Zw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "A Czech fan wins a coveted Heineken® X F1® 2027 season ticket after a global search, as Yahoo Finance UK reports.",
+   "excerpt": "Dream Ticket: Czech Fan Lands Coveted Heineken® X F1® 2027 Season Ticket After Global Search Yahoo Finance UK"
+  },
+  {
+   "title": "“That’s my obsession: to be sure we’re talking to our consumers” – Stock Spirits CEO on creating “the most vibrant house of brands”",
+   "url": "https://www.just-drinks.com/interviews/thats-my-obsession-to-be-sure-we-are-talking-to-our-consumers-stock-spirits-ceo-on-creating-the-most-vibrant-house-of-brands/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "Stock Spirits CEO Steven Libermann focuses on engaging consumers to build a vibrant house of brands and aims for organic growth across the pan-European distiller.",
+   "excerpt": "Stock Spirits CEO Steven Libermann discusses his priorities for the pan-European distiller as he looks to achieve organic growth."
+  },
+  {
+   "title": "Why zebra striping makes non-alcoholic drinks a companion, not a replacement",
+   "url": "https://www.just-drinks.com/analyst-comment/zebra-striping-non-alcoholic-drinks/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "Zebra striping is changing moderation by positioning non-alcoholic drinks as companions to alcohol rather than replacements for brands.",
+   "excerpt": "Discover how zebra striping is reshaping moderation—positioning non-alcoholic drinks as a companion to alcohol rather than a replacement for brands."
+  },
+  {
+   "title": "Global wine output seen below average again in 2026",
+   "url": "https://www.just-drinks.com/news/global-wine-output-average-2026/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "Global wine output is projected to remain below the five-year average in 2026 according to new OIV estimates.",
+   "excerpt": "Global wine output is estimated to stay below the five-year average in 2026, according to new estimates from the OIV."
+  },
+  {
+   "title": "Jameson Lopp: AI tooling may help reverse decline in maintained Bitcoin node implementations - Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPendXb3ROOFRaLTZpWWM1YTcwMS1pdnZiUElQczBiQ1dpNkxGNUp1b0IwVVU1ejFMYWoyT1NOZjk4b2R3NGNKZHQtMXBvZVotc1l3cnRsR0Vnc29wT0JHd09RN3UweXgyUjFsSE9Xb2NzeGZJZGoxa3M1ZU9INXY3eWFhUm1raHZrRjBvS19QMjNxMmM?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-19",
+   "ai_summary": "Jameson Lopp discusses how AI tooling may help reverse the decline in maintained Bitcoin node implementations, per Traders Union.",
+   "excerpt": "Jameson Lopp: AI tooling may help reverse decline in maintained Bitcoin node implementations Traders Union"
+  },
+  {
+   "title": "India ‘hits bulk Scotch imports with 165.2% duty’",
+   "url": "https://www.just-drinks.com/news/india-hits-bulk-scotch-imports-with-165-2-duty/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "India is imposing a 162.5% duty on bulk Scotch imports, creating a flashpoint in its trade agreement with the UK.",
+   "excerpt": "India is reportedly levying a 162.5% effective duty on bulk Scotch imports, sparking a key flashpoint in its trade pact with the UK."
+  },
+  {
+   "title": "GLP-1 drugs take £1bn bite from Britain grocery spending",
+   "url": "https://www.just-drinks.com/news/glp-1-drugs-take-1bn-bite-from-britain-grocery-spending/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "Households using GLP-1 drugs in Britain are spending £1bn less on groceries, according to recent data.",
+   "excerpt": "Households in Britain with a user of GLP-1 drugs are spending £1bn ($1.31bn) less on grocery products, data has suggested."
+  },
   {
    "title": "Inside Heineken and LePub’s six-year global creative transformation built on one simple idea - Ad Age",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjBPUGw4N2NrTDF3cGF0WkhMcTh4UzdLeUVrYmlwY2N5WEdBZjlnM0NPVElVZk9ITHFTS3hDYXlDWnhTb0Zka1BvUHBRU0NLZWhNYWVoajNWQTJtVVpqNGRYZFdONXEzSEtVVTUtS09GWkx3Y0dNMFZnY0hBSy1KSlFMWTYyTGlEWEFYNmpUaFV2aGNhZ2tDam9aYzhpd2Y5aWViQWJLOUdGYjQ?oc=5",

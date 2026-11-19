@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-19T12:37:00Z",
+ "updated": "2026-11-19T22:00:00Z",
  "briefing": {
   "date": "2026-11-19",
-  "hook": "Today's highlights span strategic stakes, AI-driven fragrance innovation, and shifting beauty trends.",
+  "hook": "Thakral exits Beauty Tech stake, while AI-driven fragrance innovation and brand restructuring shape the market.",
   "categories": {
-   "📈 Market": "Glass skin has expanded beyond the face, while consumers question authenticity of celebrity endorsements, signaling a shift toward more genuine brand narratives.",
-   "💄 Brands & Retail": "Sally Beauty’s CEO reflects on its legacy, JLo’s pricey lip balm sparks backlash, and Express reintroduces Y2K scents to attract fragrance collectors.",
-   "🤝 Strategy & M&A": "Church & Dwight takes a 45% stake in Bali Treatment, Beauty Tech Group shares fall after a stake sale, and Hyosung Ventures invests in healthcare and beauty tech startups.",
-   "💡 Innovation & Regulation": "AI and digital tech are reshaping fragrance creation, IFF opens a forest lab for new ingredients, Target launches Beauty Studios in 600 stores, and Hyosung backs healthcare and beauty tech through its deep‑tech fund."
+   "📈 Market": "Glass skin trend expands to body care, and Kiehl’s partners with Lea Michele for a local NYC holiday campaign.",
+   "💄 Brands & Retail": "Estée Lauder considers restructuring in France, and JLo Beauty’s lip balm and Skims’ advent calendar spark consumer debate.",
+   "🤝 Strategy & M&A": "Thakral sells its Beauty Tech stake for S$56.5M, and Church & Dwight acquires a 45% stake in Bali Treatment GmbH.",
+   "💡 Innovation & Regulation": "IFF opens a Brazil Forest Lab to discover new fragrance ingredients, and AI is transforming scent creation at the IFRA UK Forum."
   }
  },
  "articles": [
+  {
+   "title": "Thakral exits Beauty Tech stake with S$56.5M sale, 100% IRR - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDFtclJBcUFtai03bENHcElVaWJFakpqSjluZmpMOFRDTXowckQxcWN3Vm9xNGRPRDd0V29Vd29mbk8zVDJBV1FOeklCOWxDU0drMUZOcWlUeUUyMERPLXlldFhJQ0lnWkV5ZVJjRVU4bmxHSjZldGtkZkduRHNYblJwOVVuNGVmcUMtY1RnemE4NFhFcmc?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "",
+   "excerpt": "Thakral exits Beauty Tech stake with S$56.5M sale, 100% IRR Dealroom"
+  },
+  {
+   "title": "Bath & Body Works Beats Q3 Estimates, but CEO Daniel Heaf Says There’s More Work to Do",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/bath-body-works-beats-q3-estimates-raise-full-year-guidance-1239428045/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "",
+   "excerpt": "Bath & Body Works exceeded third-quarter sales and earnings expectations and showcased early progress from its Consumer First Formula strategy. But Heaf emphasized the need for further improvements to drive sustainable g…"
+  },
+  {
+   "title": "The Estée Lauder Cos. Considers Organizational Changes in France",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-cos-considers-organizational-changes-france-1239428203/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-19",
+   "ai_summary": "",
+   "excerpt": "The restructuring could lead to up to 67 voluntary departures in the country."
+  },
+  {
+   "title": "IN BRIEF: Thakral sells entire GBP34 million stake in Beauty Tech - London South East",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeElvU3F1UTRRczJ4Z2FpaWpWZXdES1EtYWlTR1NZbEV6XzlUdFU1WW52X0FmVDA2MWd0VjhLX1Y0enowYVFyVmFydWF2OVJpSWlqRmtIbDFjSVU0T1U5Rm1fY2UwcXB2ZG5zcTd0V3p5QTI4UHVVVkJXRFVhajZyV2JOa004ZzFZN3hJcWI3LUZqamltb3o3VUJKdWZqdncwS0hMMURCQ1JhYWJvcG8yWFFR?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "",
+   "excerpt": "IN BRIEF: Thakral sells entire GBP34 million stake in Beauty Tech London South East"
+  },
+  {
+   "title": "Sant Roch Readies Its First ‘Corner’ Café, With Wellness Positioning",
+   "url": "https://wwd.com/beauty-industry-news/wellness/sant-roch-readies-first-cafe-corner-wellness-positioning-1239427115/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-19",
+   "ai_summary": "",
+   "excerpt": "An aim is to extend the social experience beyond the contrast-therapy location next door."
+  },
   {
    "title": "Church & Dwight acquires minority stake in curl-focused hair care business",
    "url": "https://www.cosmeticsbusiness.com/church-dwight-acquires-minority-stake-bali-care",
@@ -227,6 +272,15 @@
    "date": "2026-11-19",
    "ai_summary": "IFF opens its first Forest Lab in Brazil’s largest private Atlantic Forest reserve, focusing on scientific research for fragrance and beauty.",
    "excerpt": "International Flavors & Fragrances (IFF) has inaugurated its first Forest Lab at Legado das Águas, Brazil's largest private Atlantic Forest reserve. The bioprospecting laboratory is dedicated to scientific research and i…"
+  },
+  {
+   "title": "Scientists warn of growing health threats of endocrine-disrupting chemicals",
+   "url": "https://www.premiumbeautynews.com/en/scientists-warn-of-growing-health,28566",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "",
+   "excerpt": "Chemicals found almost everywhere in modern life pose a \"global and growing threat\" to human health and the environment, a landmark report based on over a decade of research has warned. The report on \"endocrine-disruptin…"
   },
   {
    "title": "If You Buy One Beauty Tech Tool, Make It One of These Editor-Loved Microcurrent Devices - AOL.com",

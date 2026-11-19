@@ -1,17 +1,89 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-19T12:37:00Z",
+ "updated": "2026-11-19T22:00:00Z",
  "briefing": {
   "date": "2026-11-19",
-  "hook": "L'Oréal explores a fashion stake while boosting brand buzz and navigating regulatory shifts.",
+  "hook": "L’Oréal’s day blends high‑profile brand events, strategic stake talks, and tech‑driven ESG outreach amid legal settlements and market launches.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal-led group is considering a 15% stake in Armani to broaden its fashion portfolio.",
-   "💄 Brands & Launches": "Miley Cyrus headlines Maybelline’s new campaign, revamping the brand’s iconic tagline.",
-   "💡 Beauty Tech & ESG": null,
-   "📈 Market": "Kiehl’s partners with Lea Michele for a local‑NY Christmas campaign, while L'Oréal USA settles a cancer lawsuit and La Roche‑Posay launches BEMT sunscreen amid FDA changes."
+   "🤝 Strategy & M&A": "L’Oréal is exploring a stake in Armani, with talks underway to acquire 15% of Giorgio Armani and a 10% stake, positioning the group for a fashion‑beauty alliance.",
+   "💄 Brands & Launches": "Miley Cyrus headlines Maybelline’s new campaign, while CeraVe partners with ‘Dune: Part Three’ and L’Oréal Paris partners with the Royal Ballet and Opera for Christmas.",
+   "💡 Beauty Tech & ESG": "Artefact hosts a summit featuring L’Oréal CEOs alongside other industry leaders to discuss AI adoption and sustainability initiatives.",
+   "📈 Market": "L’Oréal USA settled a lawsuit over a hair straightening product, while La Roche‑Posay launched BEMT sunscreen amid FDA approval of a new filter."
   }
  },
  "articles": [
+  {
+   "title": "Eva Longoria and Andie MacDowell Twin in Skin-Forward Glam at L’Oréal Paris Celebration - WWD",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGJrbDZ6UnRWcmcxZEVqWVZvUmNVTDhFY3U4Y3hnaFRnbGdEbWRzZkoyTVhuX1E0OGRuMEh6MW5paUFldUtaWElfSmNFQW1qbUtodW5GaHF3NVZpZkJSNnBYUEZTeWE2RExmclQwbE00Z2o2MnJncEdGMFJJZnYxU2owcS15bnc2TlZxSHlES1p2dlpSNXFCdDRfWXhER2V0a2xKc2dIdEk2NXdf?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Eva Longoria and Andie MacDowell Twin in Skin-Forward Glam at L’Oréal Paris Celebration WWD",
+   "excerpt": "Eva Longoria and Andie MacDowell Twin in Skin-Forward Glam at L’Oréal Paris Celebration WWD"
+  },
+  {
+   "title": "L'Oréal group said to be considering buying a stake in Armani - FashionNetwork - The World's Fashion Business News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlFGelVmc0JUVlBIcTYwV2xJSTk3b3ZIVkRmdVVIU2Y0RmgxUzR3OXdVRDUwY01rVzFmYVlLTFByTVBaR05pRlJiQW1pWVdieTlqUkVXY2hQRlgyWXVTNU5oZXBDYXJmTHJ3Vm43em5jaE9ocTVGN1ZqejloVTFFWHlEaHJQX29NZ29xTXRNYTFPbGFGZlQ3RF9vOXJsYnlaTXBQdE1qdmFoQXZmdHc?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L'Oréal group said to be considering buying a stake in Armani FashionNetwork - The World's Fashion Business News",
+   "excerpt": "L'Oréal group said to be considering buying a stake in Armani FashionNetwork - The World's Fashion Business News"
+  },
+  {
+   "title": "L’Oréal Paris’ 2026 Women of Worth Celebration Red Carpet Doubles As a Luxe Beauty Lookbook - Sports Illustrated Lifestyle",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWRRVWg2alBKTUJ3NjQ2c1RqZDVFVFdkUGxDLUtrajlxbV9haVpBTWNXOVRnTndnVmNGUm0tMWxEc2h2UnRVdWNnSWF2dzVHNWM5WFRHR3RVQ0VYS2FqazRlbHdoNXRjTTNjTkU4TEx2eFFrdnB6QWdGYWFUNGhxbWNnREhXX2M4OU00M2dFQnNuMmoxMEhmZ1dfVmFOVnBTQ181UUNYTQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L’Oréal Paris’ 2026 Women of Worth Celebration Red Carpet Doubles As a Luxe Beauty Lookbook Sports Illustrated Lifestyle",
+   "excerpt": "L’Oréal Paris’ 2026 Women of Worth Celebration Red Carpet Doubles As a Luxe Beauty Lookbook Sports Illustrated Lifestyle"
+  },
+  {
+   "title": "Kristen Bell, Eva Longoria and Cara Delevingne Celebrate L’Oréal Paris Women of Worth - WWD",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdDJuaDB4NGVjUmNXMU10VjIwbWxwQ19GZmFZRGRDRF82T1kya05jZ1FVMFZ6N3ZiNkR1WXFpWWFtWkd5NkZyb3FVbExTa1VKdVZMTVVYRDVRcjI1TGx0ZzhLbFhmZ0t5bjhPdUJORFFLdjVaQWh2Y21CSTJrRkVJdjZSQWlZWkpqVlRGOWtnZGtDZEtRX2JmS2NEVm00YnM?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Kristen Bell, Eva Longoria and Cara Delevingne Celebrate L’Oréal Paris Women of Worth WWD",
+   "excerpt": "Kristen Bell, Eva Longoria and Cara Delevingne Celebrate L’Oréal Paris Women of Worth WWD"
+  },
+  {
+   "title": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A. (LRLCF:OTCMKTS) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3NNY2FJOVNsY3Vld3ZraWx5X0xrcEh5S2xpaXdfaG1FZjJYNnhHb2JEQ1VRRk9xcnFTVE5HRTl3OVc2NGlMV25YaEx1b3oxVEthWTZNQW9kVzFDYVlHdGNyS2NpT3BicDFjdTJRQTJRdEd3emhfcVB3MXhueUZpaWhQNndSZExvZFMtcHRuV0VoRkV1dzEwdDhqamZvSVFPSF9fNTBjWUpsM0lFUUF6UXRR?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A. (LRLCF:OTCMKTS) Seeking Alpha",
+   "excerpt": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A. (LRLCF:OTCMKTS) Seeking Alpha"
+  },
+  {
+   "title": "Artefact Convenes CEOs from L’Oréal, BBVA, Air Liquide, AXA, Orange, Renault Group, EDF and More, as Speakers for Adopt AI 2026 - The Manila Times",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcWNLeGVMWEI1cVdLUXFoRTZUZVdkZnhKNTZ1UElwVUNGS3pyTm9ZdmVRTjlyTHg2bl9LY1VZZWFZUlJ1VDhBVWNwZTJ0enRTVDVjaWwtamR2MWVqX2tiRWhyWVh3RTByYjZ5ZGp3NHJzS0J5U2FVNnJWSUlrT0NDd05WUWwzRWxrOG01UGFseWhDTDNEdy1vNkdVMDdSWXdPU2hNR3pKNllVRTdXSHhPZ2YwM1JCSEU2RkZzajllbUpkdktHZTJrM0NQWmZrX0FOTmhiRzlVV0VqTVRpT1RvcTl5SWJyY3pJbmQtb2duNkl0Tnk4ZWl0T1h2UUZSWTR2NE9WZl9OeDBQVlBhRWZnMlBDOEZVTVVSOGRRTXdR0gGjAkFVX3lxTE1CSFlyLXdKbFBkeEEwRDZUNnNpVUYzWXg2R0IwVG9CZ3RKQ19BQjk5eEFwMk0xdkQzeGpyX1JLZ3ZhNmNDd0h1UENDSjY4YUVtbzFXbzNpa0hXbTRyc1MxMmJLTHlINkw1MG41cFJ1SWd4cnE0VWRWUUJYZUFfMWtYTG5hYTdIZWFuWXZ1d2dLS2JDclB6TmVIZGNIaUFCQWwtV3VuRGhvck5oVXJXSzQ5UGlqVk5EUHJ6bWQ0aEdTcDhBQ2V2WVdDVzUzUy0wV09XaHRyOHpiQ3RmT3FhdnZ1SVVIOGkyVjNCanIxeGJMVjlLRk5CS2VjNjEzdFJ6ajNPNjBRM0w0b3ZCTGZjUXhoSTBNbElERmZGWkNpNXZsSGhfQQ?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-11-19",
+   "ai_summary": "Artefact convenes CEOs from L’Oréal, BBVA, Air Liquide, AXA, Orange, Renault Group, EDF and more as speakers for Adopt AI 2026.",
+   "excerpt": "Artefact Convenes CEOs from L’Oréal, BBVA, Air Liquide, AXA, Orange, Renault Group, EDF and More, as Speakers for Adopt AI 2026 The Manila Times"
+  },
+  {
+   "title": "Report: L’Oréal Looks to Buy 10% Armani Stake, LVMH Out of the Race - The Business of Fashion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbE1HaVNGdXFDOW1TRE5TQTBkRGk1MGcya1R5VHBtQUJmc2x5bUlHV3pDS0VVN2JSVFh6dWlVQ2UwT2pPV2tnYTZLTlh3WUNzUzVtbTloNmduU0ZkZllkczN3ZENYUFFmb0J1VWplOVFBbEplZjhXSnhrSkY4d0VDbVV1VGpKZFJ1bDR2VlZUUnlfVmlkeFRIVw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Report: L’Oréal Looks to Buy 10% Armani Stake, LVMH Out of the Race The Business of Fashion",
+   "excerpt": "Report: L’Oréal Looks to Buy 10% Armani Stake, LVMH Out of the Race The Business of Fashion"
+  },
+  {
+   "title": "Royal Ballet and Opera announce L’Oréal Paris as Official Christmas Partners - Retail Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnJreFRJc1FYX0M3MkFQcVA2UEZSNU9BbVdkTTVfckFGTnNObmZxWHhUNUVVbTJncjRyc3MzdWpxSk1DbmNQeVFDbExQZldHTHMxU2loN3RKMG84YzlMT3lNTlAyQ0hxYTQ0WmtSVG96ck15dkRETVc1VTR3SXZYZWlqLWZOeEZ1V0trRi12dnc4clM4MFFUa1B3REsxdVlfd1N3bg?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-19",
+   "ai_summary": "Royal Ballet and Opera announce L’Oréal Paris as official Christmas partners.",
+   "excerpt": "Royal Ballet and Opera announce L’Oréal Paris as Official Christmas Partners Retail Times"
+  },
   {
    "title": "L'Oréal And EssilorLuxottica Line Up For An Armani Stake - Finimize",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVR1Q0NPN3RDbElRZV9fWWM3b25zQXFSQV84NXNpSmZELS1wLVhuTXp5amo0SUNmSWxMdV9HMENLTFNQVlBySFE0bzZGU29pZVRuSmVQSnhMczBEMnQ5RV9fWnRKUXBtbklXa0ZROG9hRXRrc3hKUzRFX3dpRUxka3Q3THpXLXdieWU1QTZvU0xFZ3M?oc=5",
@@ -20,6 +92,15 @@
    "date": "2026-11-19",
    "ai_summary": "L'Oréal And EssilorLuxottica Line Up For An Armani Stake – Finimize",
    "excerpt": "L'Oréal And EssilorLuxottica Line Up For An Armani Stake Finimize"
+  },
+  {
+   "title": "L’Oréal Highlights Socio-Economic Contributions, Inclusive Development Efforts in Pakistan - Biz Today",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUpHcUY1ekpLSFoxTFpUX2F3dXJhVXRqc0ZURVZEZDlxNFUteG9xd0NjZ0c3dldhM2VKZDhwNERkX0g1ckhMaC1rUHdHd3I4eEJ1MDYyWFkyRVJzUEp2SS0wbm9Ib1FHbGYweVJucEw1UFlBMzdlbUlTalpVMEw4bWJLV1FWTE1oVUdtck5XbENsOWFJUkpNcnFkc05ZMVlRcU9CNmdWX0JlN3paYjhEMzFCcU1hamwwUm00aUhTanpOVmJP?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-19",
+   "ai_summary": "L’Oréal highlights socio-economic contributions and inclusive development efforts in Pakistan.",
+   "excerpt": "L’Oréal Highlights Socio-Economic Contributions, Inclusive Development Efforts in Pakistan Biz Today"
   },
   {
    "title": "L'Oréal-led group eyes up to 15% stake in Armani, report says - Mezha.net",
