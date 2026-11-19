@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-18T21:45:00Z",
+ "updated": "2026-11-19T02:58:00Z",
  "briefing": {
-  "date": "2026-11-18",
-  "hook": "Sustainability and animal welfare dominate the day as pet‑food firms expand, innovate, and navigate new regulations.",
+  "date": "2026-11-19",
+  "hook": "Pet food news today highlights sustainability focus, regulatory shifts, market growth, and strategic M&A moves.",
   "categories": {
-   "📈 Market": "Pet‑food retailers and manufacturers are expanding private labels and new stores while exploring minimally processed production and new feed training initiatives.",
-   "⚖️ Regulation": "Animal welfare remains the top priority for U.S. pet owners, while cultivated‑meat pet‑food companies in the UK and Asia advance regulatory milestones for sustainable alternatives.",
-   "💡 Innovation": "Consumers increasingly link premium quality with ethical sourcing, yet many still favor familiar, natural products over sustainability claims, prompting brands to highlight visible environmental responsibility.",
-   "🤝 M&A": "Industry stakeholders are collaborating on sustainability, while retailers face higher costs for expansion and companies like Mars invest heavily in new manufacturing capacity."
+   "📈 Market": "Pet industry sees private label expansion, new store openings, and a partnership to strengthen Ghana’s feed sector, indicating steady growth and diversification.",
+   "⚖️ Regulation": "Regulatory attention turns to animal welfare and sustainable pet nutrition, with cultivated meat companies advancing standards and the USDA hiring for a sterile fly production facility.",
+   "💡 Innovation": "Consumer segments increasingly link sustainability to affordability, quality, and health, driving demand for practical, ethically sourced pet products.",
+   "🤝 M&A": "Industry players pursue collaborations and investments, from Mars’ manufacturing expansion to Petz-Cobasi’s integration and alternative protein production projects, underscoring consolidation and innovation."
   }
  },
  "articles": [
+  {
+   "title": "Prudent Pragmatists prioritize savings over sustainability claims",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542059/prudent-pragmatists-prioritize-savings-over-sustainability-claims",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "Prudent Pragmatists prioritize savings over sustainability claims — Representing 9% of U.S. pet owners, this consumer segment responds to affordability, reduced waste and practical product benefits...",
+   "excerpt": "Representing 9% of U.S. pet owners, this consumer segment responds to affordability, reduced waste and practical product benefits..."
+  },
+  {
+   "title": "Security Seekers lead pet owners in sustainability demand, APPA finds",
+   "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542056/security-seekers-lead-pet-owners-in-sustainability-demand-appa-finds",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-18",
+   "ai_summary": "Security Seekers lead pet owners in sustainability demand, APPA finds — Representing 10% of U.S. pet owners, Security Seekers associate sustainable products with innovation, premium quality and social...",
+   "excerpt": "Representing 10% of U.S. pet owners, Security Seekers associate sustainable products with innovation, premium quality and social..."
+  },
   {
    "title": "Ambitious Go-Getters associate sustainable pet products with premium quality",
    "url": "https://www.petfoodindustry.com/sustainable-dog-and-cat-food/article/16542052/ambitious-gogetters-associate-sustainable-pet-products-with-premium-quality",
@@ -1694,69 +1712,6 @@
    "date": "2026-10-20",
    "ai_summary": "Mainstream pet brands are partnering with non‑pet companies to reach new audiences and strengthen connections with pet owners. This strategy allows labels like BARK to launch limited‑edition collaborations that broaden their appeal.",
    "excerpt": "For pet brands, working with companies outside the sector can open the door to new audiences, while giving mainstream labels a way to connect with pet owners. BARK and limited editions US-based dog brand BARK has taken t…"
-  },
-  {
-   "title": "Mars Petcare Picks Top Dog for Legal Department - Law.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3BwWHhEeUx5NTN5dmpfUGhReElRS1FNWE9MRkFPVnhxZHp4MHJXS3M0STRxbjJRN1NkOHBPWDlMN04zbHZkV1J2U2JGQ255YlRVSzVMcWJfYkZGTW5DYXdqZzFsVlE0emh4NHkybndvS3FJdlBHWWpZRTJRTUNwWmc0OF96bkUzZ04tVXIwTGpJQ0NsbVE?oc=5",
-   "source": "Mars Petcare (Google News)",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-19",
-   "ai_summary": "Mars Petcare selects a leading candidate for its legal department, highlighting the company's focus on legal excellence. The announcement underscores the importance of strong legal leadership in the pet food industry.",
-   "excerpt": "Mars Petcare Picks Top Dog for Legal Department Law.com"
-  },
-  {
-   "title": "Evanger's, Against the Grain partner with VSI",
-   "url": "https://www.petfoodprocessing.net/articles/20998-evangers-against-the-grain-partner-with-vsi",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-19",
-   "ai_summary": "Evanger's and Against the Grain partner with VSI to strengthen their retail presence west of the Rockies.",
-   "excerpt": "The collaboration will strengthen the brands’ retail presence west of the Rockies."
-  },
-  {
-   "title": "Nulo focuses on cat with limited ingredient portfolio",
-   "url": "https://www.petfoodprocessing.net/articles/20997-nulo-focuses-on-cat-with-limited-ingredient-portfolio",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-19",
-   "ai_summary": "Nulo focuses on cats with a limited ingredient portfolio, noting that 23% of pet parents shop for sensitivity-focused diets.",
-   "excerpt": "Innova Market Insights research shows 23% of pet parents are shopping for sensitivity-focused diets."
-  },
-  {
-   "title": "Mars Petcare appoints global general counsel",
-   "url": "https://www.petfoodprocessing.net/articles/20996-mars-petcare-appoints-global-general-counsel",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-19",
-   "ai_summary": "Mars Petcare appoints Mike Boffa as global general counsel to lead legal strategy and operations.",
-   "excerpt": "Mike Boffa will lead the legal strategy and operations for the company."
-  },
-  {
-   "title": "Moving beyond traditional extrusion",
-   "url": "https://www.petfoodprocessing.net/articles/20995-moving-beyond-traditional-extrusion",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-19",
-   "ai_summary": "Greg Aldrich, Ph.D., of Nulo Pet Food discusses how manufacturers can use new technologies to meet evolving consumer expectations beyond traditional extrusion.",
-   "excerpt": "Greg Aldrich, Ph.D., of Nulo Pet Food examined how pet food manufacturers can leverage new technologies to meet evolving consumer expectations."
-  },
-  {
-   "title": "HR alert (II): CEO changes and leadership reshuffles across the pet industry",
-   "url": "https://globalpetindustry.com/news/hr-alert-ii-ceo-changes-and-leadership-reshuffles-across-the-pet-industry/",
-   "source": "Global Pet Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-19",
-   "ai_summary": "Leadership changes across the pet sector and related businesses include planned CEO handovers, an interim global appointment and the introduction of a co-CEO structure.",
-   "excerpt": "Leadership changes across the pet sector and related businesses include planned CEO handovers, an interim global appointment and the introduction of a co-CEO structure. General Mills US-based food manufacturer General Mi…"
-  },
-  {
-   "title": "HR alert (I): Pet players appoint new executives across key business functions",
-   "url": "https://globalpetindustry.com/news/hr-alert-i-pet-players-appoint-new-executives-across-key-business-functions/",
-   "source": "Global Pet Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-19",
-   "ai_summary": "Recent appointments and promotions span pet food, nutrition and retail, covering global leadership, commercial operations and regional management.",
-   "excerpt": "Recent appointments and promotions span pet food, nutrition and retail, covering global leadership, commercial operations and regional management. zooplus Munich-based online pet retailer zooplus has appointed 4 new lead…"
   }
  ]
 }
