@@ -1,17 +1,197 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-19T02:58:00Z",
+ "updated": "2026-11-19T12:37:00Z",
  "briefing": {
   "date": "2026-11-19",
-  "hook": "Investments surge in beauty tech, celebrity backlash grows, and regulatory scrutiny tightens.",
+  "hook": "Today's highlights span strategic stakes, AI-driven fragrance innovation, and shifting beauty trends.",
   "categories": {
-   "📈 Market": "Celebrity endorsements face backlash and lawsuits over product claims, while brands shift focus to local partnerships and ownership changes.",
-   "💄 Brands & Retail": "Beauty awards honor innovators, pop‑up markets and fragrance revivals attract consumers, while celebrity‑led products spark debate.",
-   "🤝 Strategy & M&A": "Hyosung Ventures invests in beauty tech firms, Puig seeks to acquire Parfums de Marly, and startups receive equity‑free funding to expand.",
-   "💡 Innovation & Regulation": "Peptide‑centric products rise, microcurrent devices gain editor approval, and calls grow for better UV filter testing and environmental impact measurement."
+   "📈 Market": "Glass skin has expanded beyond the face, while consumers question authenticity of celebrity endorsements, signaling a shift toward more genuine brand narratives.",
+   "💄 Brands & Retail": "Sally Beauty’s CEO reflects on its legacy, JLo’s pricey lip balm sparks backlash, and Express reintroduces Y2K scents to attract fragrance collectors.",
+   "🤝 Strategy & M&A": "Church & Dwight takes a 45% stake in Bali Treatment, Beauty Tech Group shares fall after a stake sale, and Hyosung Ventures invests in healthcare and beauty tech startups.",
+   "💡 Innovation & Regulation": "AI and digital tech are reshaping fragrance creation, IFF opens a forest lab for new ingredients, Target launches Beauty Studios in 600 stores, and Hyosung backs healthcare and beauty tech through its deep‑tech fund."
   }
  },
  "articles": [
+  {
+   "title": "Church & Dwight acquires minority stake in curl-focused hair care business",
+   "url": "https://www.cosmeticsbusiness.com/church-dwight-acquires-minority-stake-bali-care",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Church & Dwight acquires minority stake in curl-focused hair care business — An agreement has been signed which will see consumer goods company Church & Dwight take a 45% stake in hair care and styling company Bali Treatment GmbH, owner of Bali Curls and Bali Gents",
+   "excerpt": "An agreement has been signed which will see consumer goods company Church & Dwight take a 45% stake in hair care and styling company Bali Treatment GmbH, owner of Bali Curls and Bali Gents"
+  },
+  {
+   "title": "How AI and digital technology is transforming fragrance creation and olfactory understanding",
+   "url": "https://www.cosmeticsbusiness.com/how-ai-and-digital-technology-is-transforming-fragrance",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "How AI and digital technology is transforming fragrance creation and olfactory understanding — At the 15th annual IFRA UK Fragrance Forum, experts discussed how olfaction is being digitalised, and pitted human against artificial intelligence in scent creation",
+   "excerpt": "At the 15th annual IFRA UK Fragrance Forum, experts discussed how olfaction is being digitalised, and pitted human against artificial intelligence in scent creation"
+  },
+  {
+   "title": "Kering Ventures investor Olivier Rivard Cohen named Perfumehead CEO",
+   "url": "https://www.cosmeticsbusiness.com/kering-ventures-investor-olivier-rivard-cohen-perfumehead-ceo",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "Kering Ventures investor Olivier Rivard Cohen named Perfumehead CEO — The brand is best known for its ultra-concentrated extraits de parfum, which include Cosmic Cowboy, and was founded by Daniel Patrick Giles in in 2022",
+   "excerpt": "The brand is best known for its ultra-concentrated extraits de parfum, which include Cosmic Cowboy, and was founded by Daniel Patrick Giles in in 2022"
+  },
+  {
+   "title": "Beauty Tech Group shares fall 9% after Thakral stake sale - Proactive financial news",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlpfTFBJQndlV01TOXhFMmxxaGk0S1kzYnpWbjhfa01sTU4wbEJsODVMSmNSY2lycVRvZWt3aWVncVFLODB5SW53V0EwRzZIbFRNZnNHWWtuNEZBMmdHSGtQQ2hwMUJ3X0F2R21TRWFCRVZfcV9EUU9mak14OWotUlV3SGdRQ0otV1g5ZDZwWDlWOG04U2pPbWg3ZG9uaXdXckVMOWNnUmV0YmxyNzlEYXVSOS1NSEtLclhLYkdqS04xTUFlTmc?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Beauty Tech Group shares fall 9% after Thakral stake sale - Proactive financial news — Beauty Tech Group shares fall 9% after Thakral stake sale Proactive financial news",
+   "excerpt": "Beauty Tech Group shares fall 9% after Thakral stake sale Proactive financial news"
+  },
+  {
+   "title": "Beauty Tech Group shares fall 9% after Thakral stake sale - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3IzeGlyNGdZNm13azE3TlhqVHZycUtZNEpzZEhfNzZQNnpOTjJHNG1fbHpEeUhuU0NvMTBGT21nUDdGTkUySDd4Mnc5cGNpM2JwMnBMYnJxejI3cWtMREN6MkI3Y3lZcVNRQlNnRmpiUnZEVUNRZVRvUG5ydkt6aW1KbTY?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Beauty Tech Group shares fall 9% after Thakral stake sale - Yahoo Finance UK",
+   "excerpt": "Beauty Tech Group shares fall 9% after Thakral stake sale Yahoo Finance UK"
+  },
+  {
+   "title": "Neutrogena Ambassador Tate McRae leads brand into ‘new era of hydration’",
+   "url": "https://www.cosmeticsbusiness.com/neutrogena-beta-glucan-ha-launch-campaign-tate-mcrae",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "Neutrogena Ambassador Tate McRae leads brand into ‘new era of hydration’ — The Kimberly-Clark-owned skin care brand is introducing a new iteration of its Hydro Boost franchise, now supported by proprietary ingredient Beta Glucan HA+, with singer Tate McRae fronting the campaign",
+   "excerpt": "The Kimberly-Clark-owned skin care brand is introducing a new iteration of its Hydro Boost franchise, now supported by proprietary ingredient Beta Glucan HA+, with singer Tate McRae fronting the campaign"
+  },
+  {
+   "title": "Is Puig set to acquire Parfums de Marly?",
+   "url": "https://www.cosmeticsbusiness.com/is-puig-set-to-acquire-parfums-de-marly",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Is Puig set to acquire Parfums de Marly? — Parfums de Marly is best known for fragrances Delina and Delina Exclusif, with rumours having swirled for months over owner Artessence Group’s potential sale of the business",
+   "excerpt": "Parfums de Marly is best known for fragrances Delina and Delina Exclusif, with rumours having swirled for months over owner Artessence Group’s potential sale of the business"
+  },
+  {
+   "title": "IFF opens Brazil Forest Lab to find new fragrance and beauty ingredients",
+   "url": "https://www.cosmeticsbusiness.com/iff-opens-brazil-forest-lab-to-find-new",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "IFF opens Brazil Forest Lab to find new fragrance and beauty ingredients — IFF Forest Lab in Legado das Águas, Brazil’s largest private Atlantic Forest reserve, will house scientists and perfumers as they study the ingredient opportunities across the 31,000 hectare region",
+   "excerpt": "IFF Forest Lab in Legado das Águas, Brazil’s largest private Atlantic Forest reserve, will house scientists and perfumers as they study the ingredient opportunities across the 31,000 hectare region"
+  },
+  {
+   "title": "Target’s beauty sales grow 9% with Target Beauty Studio debut",
+   "url": "https://www.cosmeticsbusiness.com/target-s-beauty-sales-grow-9-with-target-beauty",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "Target launches Beauty Studios in over 600 stores, adding 90 new skincare, fragrance, and hair care brands to strengthen its beauty destination position.",
+   "excerpt": "US retailer Target is strengthening its ‘position as a leading beauty destination’ with the launch of Target Beauty Studios at more than 600 stores, offering 90 new brands across skin care, fragrance and hair care"
+  },
+  {
+   "title": "SID MEDICOS hosts appreciation ceremony for LemonBottle partners from the Philippines",
+   "url": "https://www.cosmeticsbusiness.com/sid-medicos-hosts-appreciation-ceremony-for-lemonbottle-partners",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "SID MEDICOS hosts an appreciation ceremony for LemonBottle partners, featuring product briefings and cultural activities to deepen brand understanding and strengthen partnerships.",
+   "excerpt": "Approximately 10 distributor representatives and aesthetics professionals visited the company’s headquarters on November 17: new product briefing and cultural activities deepen brand understanding and strengthen partner …"
+  },
+  {
+   "title": "Hyosung backs healthcare, beauty tech from its deep-tech fund - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3NFXzdIdDBRajk4alpxNlR4ZHRnMVg1cmpURzhTcW41R0NDajNuQnFDWmpwSXgySm9tNmJCa21RTW56UVlKbVFOU0hKazVxVmNwaTd5ME9NUU5WSi0zWGxCbXZ3YkZlVWtqUVIxdWJ2SEFUTkxaTGFSOXRDbzVOczlrOHhjLVU2cE5od0M2T1ZYMmJWdmdrakF3?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "Hyosung backs healthcare, beauty tech from its deep-tech fund - Dealroom — Hyosung backs healthcare, beauty tech from its deep-tech fund Dealroom",
+   "excerpt": "Hyosung backs healthcare, beauty tech from its deep-tech fund Dealroom"
+  },
+  {
+   "title": "The rise of full-body glow: How glass skin is reshaping body care",
+   "url": "https://www.cosmeticsbusiness.com/the-rise-of-full-body-glow-glass-skin-bodycare",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-19",
+   "ai_summary": "Glass skin has expanded beyond the face to include the chin, evolving from a trend to a broader expectation in body care.",
+   "excerpt": "In 2026, glass skin has moved below the chin, as consumers’ desire for glow evolves from a fleeting beauty trend to a broader expectation within body care"
+  },
+  {
+   "title": "Hyosung Ventures Invests in Healthcare, Beauty Tech Startups - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNE9hUGhDNkh6dTYtS0tVNW15YkVoLTlMQ2gzNEhCc3RPRzBhZ0x6QUUydVo2NlhWLWJlOTk3aGhsZTZtT2NvTUdPY3NpeGd2ZHRmT2xkY3RFZnF1dzlCSVdTejRldHc?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Hyosung Ventures Invests in Healthcare, Beauty Tech Startups - THE ELEC, Korea Electronics Industry Media — Hyosung Ventures Invests in Healthcare, Beauty Tech Startups THE ELEC, Korea Electronics Industry Media",
+   "excerpt": "Hyosung Ventures Invests in Healthcare, Beauty Tech Startups THE ELEC, Korea Electronics Industry Media"
+  },
+  {
+   "title": "Beauty Tech Group seen as undervalued as Kernow backs at-home beauty devices - Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVk5MmtXbS0wYUNoMXRyZ3VqMm5wUnlVYVhIQXZBX2piNTc2V05iWVJpbVlFWW00Y1docEhnT0J6QzBJYTdvYzROMFFzeXcwa2tUQldzb2I1ZjZCelR6cEFMN1E4V3NoN3VaMWd3elItMnpQS21GNGtES0ZfUzAxMmZfbEhOd1ROU29YbExfcXpvUjlxekhOVg?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "Beauty Tech Group seen as undervalued as Kernow backs at-home beauty devices - Traders Union",
+   "excerpt": "Beauty Tech Group seen as undervalued as Kernow backs at-home beauty devices Traders Union"
+  },
+  {
+   "title": "Major shareholder sells Beauty Tech Group stake - Insider Media Ltd",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWV9DcGU4eUh1UHotMGpVRGN6MURnVFdPMlBfWm9saXBCYVh4Zm5IMlVMSzZHTzRVRlJVTUFCTHV2c2pLcy1GQnM5ZlNYSUJFRzF4LWpadHRRR2pteEx1aUdDV2JJcTZxaV9yd3VRbGtsTG95ckVnV3RMYlRUUDVRU1lBZ00tNmRITjdKa0ZYaUVEMVhNbFFJ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Major shareholder sells Beauty Tech Group stake - Insider Media Ltd",
+   "excerpt": "Major shareholder sells Beauty Tech Group stake Insider Media Ltd"
+  },
+  {
+   "title": "Berenberg Says Thakral Sells 6.7 Mln Shares In Beauty Tech Group At 505 Pence Per Share - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb01YZGtKNlo3dEQ1ZFhST21wTDVBbG1oUHE5VXNqZ1U5aEV5S3JOUTMzcldpekloM3ZTRmRPZlhiSU1WdVlOYWJTaW4wb09PQzZWdlBaTUlTUDN4WFJINnlBNUdkX0FNdXI2THZFQkozeTV0bC1pOWRxU1hzY0lTSEtLRHJYWGJDNzJ6NTU3UGxaOFRGX09tcm1kNWt3X2FNZmxxM2J0b0NMVVBzLXpxZnlHQzdRUlh3Yjl0ODJ4TGZaVk9LT1BJQ294RTFmVFVQTDBSbG5NbWJlOHRKb1dPdWx6SXRXY2V3Yk5lZGRn?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "Berenberg Says Thakral Sells 6.7 Mln Shares In Beauty Tech Group At 505 Pence Per Share - TradingView — Berenberg Says Thakral Sells 6.7 Mln Shares In Beauty Tech Group At 505 Pence Per Share TradingView",
+   "excerpt": "Berenberg Says Thakral Sells 6.7 Mln Shares In Beauty Tech Group At 505 Pence Per Share TradingView"
+  },
+  {
+   "title": "“Love Island USA” Star Iris Kendall Makes First Brand Investment In Dolce Glow",
+   "url": "https://www.beautyindependent.com/love-island-usa-star-iris-kendall-first-brand-investment-dolce-glow/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "“Love Island USA” Star Iris Kendall Makes First Brand Investment In Dolce Glow — “Love Island USA” fan favorite Iris Kendall is turning her background as a spray tan artist into an investment opportunity with a stake in Dolce Glow . Marking the reality star’s first brand investment, the deal adds ano…",
+   "excerpt": "“Love Island USA” fan favorite Iris Kendall is turning her background as a spray tan artist into an investment opportunity with a stake in Dolce Glow . Marking the reality star’s first brand investment, the deal adds ano…"
+  },
+  {
+   "title": "Inside Sally Beauty’s $4 billion beauty retail playbook",
+   "url": "https://www.glossy.co/beauty/inside-sally-beautys-4-billion-beauty-retail-playbook/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-19",
+   "ai_summary": "Sally Beauty’s CEO discusses the company’s 62-year history and retail strategy in a special live episode of the Glossy Beauty Podcast.",
+   "excerpt": "In this special live episode of the Glossy Beauty Podcast, editor-in-chief Jill Manoff sits down with Sally Beauty CEO Denise Paulonis at Glossy’s annual Beauty & Wellness Summit to discuss the 62-year-old American retai…"
+  },
+  {
+   "title": "Fashion Briefing: Humberto Leon is revitalizing St. John, but can St. John revitalize Lanvin Group?",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-humberto-leon-is-revitalizing-st-john-but-can-st-john-revitalize-lanvin-group/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-19",
+   "ai_summary": "Humberto Leon’s appointment at St. John aims to revitalize the brand without alienating loyal customers, raising questions about similar moves for Lanvin Group.",
+   "excerpt": "When St. John brought on Humberto Leon as its new creative director earlier this year, the goal wasn't to ease into a new look to avoid disrupting those longtime customers, CEO Mandy West told Glossy. Instead, the first …"
+  },
+  {
+   "title": "Stripes Beauty Raises $5M As It Looks To Become The Grüns Of Sexual Wellness",
+   "url": "https://www.beautyindependent.com/stripes-beauty-raises-5m-gruns-sexual-wellness/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Stripes Beauty Raises $5M As It Looks To Become The Grüns Of Sexual Wellness — Stripes Beauty , the menopause-focused beauty and wellness brand founded by actress Naomi Watts, has raised $5 million in equity financing as it sets out to become the Grüns of sexual wellness. The financing was disclose…",
+   "excerpt": "Stripes Beauty , the menopause-focused beauty and wellness brand founded by actress Naomi Watts, has raised $5 million in equity financing as it sets out to become the Grüns of sexual wellness. The financing was disclose…"
+  },
   {
    "title": "Hyosung Ventures invests in SolDoc and AtHome to expand into digital healthcare and beauty tech - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tLUJobXc1bGJhTC1lbmtxUVZkeVNKeEt4ckNsaEVxNldZeTE3Uk9EU2gxc2RTc0xHOGdhNXJ6SFZLUVczb0hQQThSSllMdEc5X2d2MlBSWUZ2bFpiNXZKQm1ZNjdIUGNfQm95UFNJWHU?oc=5",
@@ -38,6 +218,15 @@
    "date": "2026-11-19",
    "ai_summary": "JLo Beauty’s $150 Lip Balm And Skims’ $148 Advent Calendar Have Consumers Asking What They’re Paying For — “I’m sorry but these celebrities and their beauty brands have completely lost their minds,” declared TikTok creator George Mansour in a Nov. 13 video that’s garnered more than 5,000 comments and 1.7 million views. The ob…",
    "excerpt": "“I’m sorry but these celebrities and their beauty brands have completely lost their minds,” declared TikTok creator George Mansour in a Nov. 13 video that’s garnered more than 5,000 comments and 1.7 million views. The ob…"
+  },
+  {
+   "title": "IFF opens a bioprospecting lab for fragrance and beauty in Brazil",
+   "url": "https://www.premiumbeautynews.com:8443/en/iff-opens-a-bioprospecting-lab-for,28563",
+   "source": "Premium Beauty News",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "IFF opens its first Forest Lab in Brazil’s largest private Atlantic Forest reserve, focusing on scientific research for fragrance and beauty.",
+   "excerpt": "International Flavors & Fragrances (IFF) has inaugurated its first Forest Lab at Legado das Águas, Brazil's largest private Atlantic Forest reserve. The bioprospecting laboratory is dedicated to scientific research and i…"
   },
   {
    "title": "If You Buy One Beauty Tech Tool, Make It One of These Editor-Loved Microcurrent Devices - AOL.com",

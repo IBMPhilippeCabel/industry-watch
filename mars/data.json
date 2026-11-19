@@ -1,18 +1,36 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-19T02:58:00Z",
+ "updated": "2026-11-19T12:37:00Z",
  "briefing": {
   "date": "2026-11-19",
-  "hook": "Mars focuses on flagship store overhaul and M&A updates.",
+  "hook": "M&M’s flagship store in Las Vegas closes for a major renovation ahead of its 30th anniversary, while Mars expands leadership after the Kellanova acquisition.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars builds out leadership after Kellanova acquisition.",
-   "🐾 Petcare & Royal Canin": null,
-   "🍫 Snacking & FMCG Market": "M&M’s Las Vegas flagship store will close temporarily for a top‑to‑bottom modernization ahead of its 30th anniversary.",
+   "🤝 Mars Corporate & M&A": "Mars strengthens its snacking division by adding new leaders following the Kellanova acquisition.",
+   "🐾 Petcare & Royal Canin": "Royal Canin highlights the need for standardisation to scale its business efficiently.",
+   "🍫 Snacking & FMCG Market": "M&M’s Las Vegas store will close temporarily for a top‑to‑bottom renovation to celebrate its 30th anniversary.",
    "⚡ Tech & Operations": null,
    "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M’s World on The Strip to Close for Major Renovation - Casino.org",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTlqOUhrN2RHVEVBWmpUWUhKbkdMdk43REhVaDMyYXZZblpLa0JLU1dRSzV6bEhJbjRya3FlRlhhU2JoZjdoYWxqRm4wZ1l1OGZxZTlNWUwtX3JFWHdqMVRLT0VjbXhjUDFzN3NTN0FIU0poUWFvVUZncE5yRVpEczZvTWJ3S3BkSHdqcmRFazU?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-19",
+   "ai_summary": "M&M’s World on The Strip to Close for Major Renovation",
+   "excerpt": "M&M’s World on The Strip to Close for Major Renovation Casino.org"
+  },
+  {
+   "title": "Which Is Actually Healthier, Unreal Milk Chocolate Gems Or M&M's? - Tasting Table",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNE1sb0hKZnBKVzd5d3AzUHVENEhHYnRkN09sWjA3Y3E1ZVJxRDNhaUlMMUQ2V1lzbk1TUXBscXdwdWd3YXZJYWxPYmVzUUFjd3doeTJiU05JS1A3Nm95NnE0QV9MaWJ2ZU1QOFhhY19tekJLZ2VxRlNnWVZ6VW1qck1wSTdIMElJNzZMSFNKb2h4aTB6akY0Qg?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-19",
+   "ai_summary": "Which Is Actually Healthier, Unreal Milk Chocolate Gems Or M&M's?",
+   "excerpt": "Which Is Actually Healthier, Unreal Milk Chocolate Gems Or M&M's? Tasting Table"
+  },
   {
    "title": "M&M's store on Las Vegas Strip to temporarily close for 'major modernization project' - KTNV Las Vegas",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmdqM1BPLTIxcGdtVVB6bl9nV1V1MUpYa1lLNDRkRmNDM25PTEJud1F3c2hhYVplc3hKN3dBNzF1RTNYSnFxNjlNRE56bVZqZ2w0QlhoUXRRNU1aX2VVTGU2Z1pSZklmWmlDdDMtbkZZNENla3o3ZzVQNVIxVlJvQ3ZmNWZCdzJOWkQxaHk1c0tmWmRNVmNTMEY0UXE4MnBLay15X3F2dXBvSU9K?oc=5",
@@ -1245,6 +1263,15 @@
    "date": "2026-10-27",
    "ai_summary": "Reese's Peanut Butter Cups Vs Snickers: Which Classic Candy Is Actually Healthier? explores the nutritional differences between the two popular candy bars. The article compares ingredients, calorie content, and overall health impact to determine which option is the better choice.",
    "excerpt": "Reese's Peanut Butter Cups Vs Snickers: Which Classic Candy Is Actually Healthier? Tasting Table"
+  },
+  {
+   "title": "The PEDIGREE® brand and Walmart invite dogs to take the center stage this... - Mars, Incorporated",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmFTd0RDYnl1LVBZNGYwUkhIYmYtU0lyQ05MZVhnWGQzNHhmZjgzNklPcXlkSEhha2ZKYmM0NWZpSmNQRXAwZEp5S0lONkJONXRldzNhQkdkVk5GejF5TE4zTkM5NWJDVHFOUlloTmttdGFEUW9YVk1pdm0zUGhJTHlRSlgwUloxYjRKYUxCX0JvTEM2alJXbVRzVW9GQjZ0aUo1U3dBQ3NQOW5ZeEZXWg?oc=5",
+   "source": "Mars & Brands Watch (Google News)",
+   "category": "🤝 Mars Corporate & M&A",
+   "date": "2026-10-27",
+   "ai_summary": "The PEDIGREE® brand and Walmart invite dogs to take the center stage this...",
+   "excerpt": "The PEDIGREE® brand and Walmart invite dogs to take the center stage this... Mars, Incorporated"
   },
   {
    "title": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day - 파이낸셜뉴스",
