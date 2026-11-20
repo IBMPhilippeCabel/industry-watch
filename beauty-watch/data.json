@@ -1,12 +1,179 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-20T03:00:00Z",
+ "updated": "2026-11-20T12:37:00Z",
  "briefing": {
   "date": "2026-11-20",
-  "hook": "3 new articles today — 1 💄 Brands & Retail, 1 🤝 Strategy & M&A, 1 💡 Innovation & Regulation.",
-  "categories": {}
+  "hook": "Today’s highlights span new leadership, shifting consumer trust, and strategic moves reshaping the beauty landscape.",
+  "categories": {
+   "📈 Market": "Kering Ventures names a new Perfumehead CEO while glass skin expands beyond the face, celebrity endorsements face backlash, Beckham’s fragrance lawsuit surfaces, Kiehl’s local NYC campaign launches, and Shiseido sells its Aupres brand to IDG Capital.",
+   "💄 Brands & Retail": "Cavallier‑Belletrud reflects on oud’s journey from the Middle East to global markets, Beautyworld marks its 30th year with a $20.8 billion market, bakeries partner with beauty brands for Gen Z, Bond film brand deals threaten luxury ties, Gap pivots to entertainment, and Estée Lauder plans French restructuring.",
+   "🤝 Strategy & M&A": "Luxury brands emphasize after‑sales loyalty, IDG Capital takes over Shiseido’s China joint venture, Thakral exits Beauty Tech for a 100 % IRR sale, and Church & Dwight acquires a 45 % stake in Bali Treatment GmbH.",
+   "💡 Innovation & Regulation": "Space NK appoints Leanne Rouse as CMO, Kayali pledges $250,000 to Make‑A‑Wish, milk‑inspired scents trend, Gannon shares beauty tech gifts, and Jetty launch faces criticism from former Poppi founders."
+  }
  },
  "articles": [
+  {
+   "title": "Space NK names Leanne Rouse CMO",
+   "url": "https://www.cosmeticsbusiness.com/space-nk-names-leanne-rouse-cmo",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Space NK has appointed Leanne Rouse as CMO, expanding her role after her work on Beyoncé’s hair care brand and cult hand sanitiser brand at Space NK.",
+   "excerpt": "Leanne Rouse has worked on the launch of Beyoncé’s hair care brand Cécred and cult hand sanitiser brand Touchland at Space NK in her expanded role"
+  },
+  {
+   "title": "Mona Kattan's Kayali commits $250,000 to Make-A-Wish International",
+   "url": "https://www.cosmeticsbusiness.com/kayali-commits-250-000-to-make-a-wish-international",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Mona Kattan’s fragrance brand Kayali has pledged $250,000 to Make‑A‑Wish International through its philanthropic arm Kayali Cares, launched in 2025.",
+   "excerpt": "The commitment has been made through the Mona Kattan-founded fragrance brand’s philanthropic arm, Kayali Cares, which was launched in 2025"
+  },
+  {
+   "title": "Cosmetics Business picks: 8 lactic scents milky fragrance fans will love",
+   "url": "https://www.cosmeticsbusiness.com/cb-picks-8-lactic-scents-milky-fragrance",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Cosmetics Business highlights eight lactic and milky scents from brands such as Bella Hadid’s Orebella, The Nue Co., and Mona Kattan’s Kayai, celebrating milk-inspired fragrances.",
+   "excerpt": "From Bella Hadid’s Orebella to functional fragrance brand The Nue Co. and Mona Kattan’s Kayai, fragrance brands are launching a variety of lactic and milky scents. CB rounds up some of the best milk-inspired fragrance la…"
+  },
+  {
+   "title": "Simone Gannon’s favourite beauty tech gifts for Christmas - The Irish Times",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjNNNG81eEd4d1pfaWFQaUFuSGZ3dGlyNVUzaUZ0UXFRNndVd1FKYlQtRXo4Y0RYVGZZcDhYeGVxRGp2M0tnSllyVXhocVpJX0g5VllNZl9qcXhjLWpORUFNdTZLT0RhLTRSZENteFFwVGlqOWYxbVdXREsyaEo3TlktV1M3MXNoSGhDYmJVN0ZuVmE3NVdEOXkzZmFwZ3hzakhYUjVOc2hXcHBWM0o1NDF4RUg?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Simone Gannon shares her favorite beauty tech gifts for Christmas in The Irish Times.",
+   "excerpt": "Simone Gannon’s favourite beauty tech gifts for Christmas The Irish Times"
+  },
+  {
+   "title": "7 Second Acts That Aren’t Jetty: New Under-The-Radar Brands From Experienced Entrepreneurs",
+   "url": "https://www.beautyindependent.com/second-acts-under-the-radar-brands-experienced-entrepreneurs/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "New under-the-radar brands are emerging from experienced entrepreneurs, including Poppi founders launching Jetty, as they pursue second acts in the consumer goods space.",
+   "excerpt": "Poppi founders Allison and Stephen Ellsworth are among the highest-profile consumer entrepreneurs embarking on a second act with their new venture, Jetty , but they’re far from alone. Founders who have already launched b…"
+  },
+  {
+   "title": "Poppi’s Founders Followed Up With Jetty. Critics Aren’t Sure Why.",
+   "url": "https://www.beautyindependent.com/poppi-founders-jetty-critics/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Poppi founders' move to Jetty has sparked criticism, with some questioning their motivations after selling their previous brand to PepsiCo.",
+   "excerpt": "Under social media’s harsh glare, yesterday’s CPG darling can quickly become today’s punching bag. Less than two years after selling probiotic soda brand Poppi to PepsiCo for $1.95 billion, Allison and Stephen Ellsworth …"
+  },
+  {
+   "title": "The Crossroads of Beauty",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-world-dubai-at-30-the-crossroads-of-beauty-1239376205/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "The beauty industry is now focusing on Dubai for sourcing, investment, and learning opportunities, as highlighted at Beauty World Dubai’s 30th edition.",
+   "excerpt": "The beauty industry once came to Dubai to sell. At Beauty World Dubai’s 30th edition, it came to source, invest and learn."
+  },
+  {
+   "title": "Beautyworld Dubai at 30: Star Power on the Show Floor",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-world-dubai-star-power-show-floor-1239379321/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Beautyworld Dubai’s 30th edition showcased star power, luxury experiences, and reflections from major beauty brands on the event’s impact.",
+   "excerpt": "Gulf brides who want the Hailey Bieber look, malls that outdraw America’s and a service culture that treats guests like royalty. Four of beauty’s biggest names reflect on what they saw at Beautyworld Dubai."
+  },
+  {
+   "title": "How AI Could Spruce Up the Men’s Grooming Category",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/how-ai-could-spruce-up-mens-grooming-category-1239255701/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "AI technologies such as chatbots and makeover apps are expected to significantly expand the men's grooming category.",
+   "excerpt": "Thanks to chatbots, AI-backed makeover apps and campaigns designed for guys, many experts believe the category will finally expand exponentially."
+  },
+  {
+   "title": "Our Favorite Beauty Launches This Month",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/editor-top-winter-beauty-launches-makeup-skin-1239407128/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Beauty Inc editors are excited about several new beauty and wellness product launches this month.",
+   "excerpt": "The beauty and wellness products Beauty Inc editors can’t get enough of."
+  },
+  {
+   "title": "Jacques Cavallier-Belletrud on Dubai’s Influence on Fragrance",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/jacques-cavallier-belletrud-dubais-influence-on-fragrance-1239377380/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-20",
+   "ai_summary": "Jacques Cavallier-Belletrud reflects on his three decades in the Middle East and his lifelong attraction to oud, explaining how a fragrance rooted in the region now sells worldwide.",
+   "excerpt": "Louis Vuitton’s master perfumer looks back at three decades in the Middle East, his lifelong pull toward oud and why a fragrance rooted in the region now sells around the world."
+  },
+  {
+   "title": "Beautyworld at 30: The Market in Numbers",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/gulf-beauty-the-market-in-numbers-1239381616/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-20",
+   "ai_summary": "Beautyworld at 30 presents the figures behind a $20.8 billion market, covering fragrance, Saudi spending, and TikTok.",
+   "excerpt": "Fragrance, Saudi spending and TikTok: the figures behind a $20.8 billion market."
+  },
+  {
+   "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
+   "url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-20",
+   "ai_summary": "The article discusses how bakeries are partnering with beauty and fashion brands to offer products like coffee, smoothies, and frozen yogurt, targeting Gen Z consumers.",
+   "excerpt": "With so-called treat culture taking a significant share of Gen Zers’ wallets, beauty and fashion brands are putting their names on everything from coffee and smoothies to frozen yogurt in hopes of capturing consumer atte…"
+  },
+  {
+   "title": "Luxury Briefing: How do you measure loyalty when a customer buys once a decade?",
+   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-jewelry-customer-loyalty/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "It examines how luxury brands like Richemont, Hermès, and Cartier define loyalty and use after‑sales service to bring clients back despite infrequent purchases.",
+   "excerpt": "What counts as a returning customer in fine jewelry? Richemont’s earnings call offers a starting point, and Hermès and Cartier show how after-sales service can bring clients back."
+  },
+  {
+   "title": "Glossy Podcast: The new James Bond’s greatest threat may be conflicting brand deals",
+   "url": "https://www.glossy.co/podcasts/glossy-podcast-the-new-james-bonds-greatest-threat-may-be-conflicting-brand-deals/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-20",
+   "ai_summary": "The podcast explores how the new James Bond film’s brand deals could pose a threat to the franchise’s traditional luxury partnerships.",
+   "excerpt": "Over the years, the \"Bond\" franchise has had a number of longstanding partnerships with brands like Omega and Aston Martin. Bond, the character, is a man of high taste, and it's always been a coveted slot for luxury bran…"
+  },
+  {
+   "title": "The Next Note",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/notes-dubai-lauch-1239381001/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "In the world's most fragrance-obsessed region, niche perfume has outgrown its hall at Beautyworld Dubai, leading to the debut of Notes Dubai, the show's spin-off, in January.",
+   "excerpt": "In the world's most fragrance obsessed region, niche perfume as outgrown its hall at Beautyworld Dubai. Notes Dubai, the show's spin off, debuts in January"
+  },
+  {
+   "title": "IDG Capital takes over Shiseido’s China joint venture - Inside Retail Asia",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXotaFJicnhxbGRNUFlvTkc0Rjh4TDNGVWd4Q1BIUFVrZ2NZTm05X05vMFp6VlkteFFjNXI5VzZUNDVyZHlLTTlpcXFCMEJiTm9HQk5uRG5zWlpWdm5RWm5YMHplNzJReWxJWlhFTUtHY2pDUmdSblRxZjJoUkg0bkNFaUs0MHJNeDVmMDRNZjJIYWJ3?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "IDG Capital takes over Shiseido’s China joint venture Inside Retail Asia.",
+   "excerpt": "IDG Capital takes over Shiseido’s China joint venture Inside Retail Asia"
+  },
+  {
+   "title": "Hairstyling Products Market To 2035: Premiumization and Clean Beauty Reshape Growth - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3dqWXZiNjNmOVczdUJvZnFlYzBYVHZqQ3lRdHFRU1ZvaWU5SEZuRnN2bEd2WHZmbWg4LWo3REo1TVlXRlRJd2Z1RWVVemlQTUp1RTVkeHBmUExIdlNFQTk5ZXlXUU83LURYWUZfc2F4WXhhQ3dKU1Y0NzlYck0zWWZNRWV2R01VUElkekxBNVFITGhkZTlVYVJMNF84TGlPR2h3ZDhxVnQwQno3MlY0WDFXb0hJNVFsVHJBT2dhRQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "The Hairstyling Products Market to 2035 will be reshaped by premiumization and clean beauty, according to news and statistics from IndexBox.",
+   "excerpt": "Hairstyling Products Market To 2035: Premiumization and Clean Beauty Reshape Growth - News and Statistics IndexBox"
+  },
   {
    "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
    "url": "https://www.glossy.co/fashion/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",

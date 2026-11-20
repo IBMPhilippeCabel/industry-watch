@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-20T03:00:00Z",
+ "updated": "2026-11-20T12:37:00Z",
  "briefing": {
   "date": "2026-11-20",
-  "hook": "L’Oréal’s day highlighted brand collaborations, ESG outreach, and a potential stake in Armani, while legal settlement news surfaced in the U.S.",
+  "hook": "L'Oréal moves into Armani stake, backs Aussie beauty brands, partners with Royal Ballet, and settles a U.S. lawsuit, signaling aggressive growth and risk mitigation.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal group is reportedly considering a stake in Armani FashionNetwork, signalling a potential expansion into fashion.",
-   "💄 Brands & Launches": "Miley Cyrus headlines a new Maybelline campaign, and CeraVe partners with ‘Dune: Part Three’ for a film tie‑in.",
-   "💡 Beauty Tech & ESG": "L’Oréal supported Australian brands Psyke and Uluu in a beauty contest and joined a panel at Adopt AI 2026.",
-   "📈 Market": "L’Oréal USA settled a lawsuit with four women alleging a hair straightening product caused cancer."
+   "🤝 Strategy & M&A": "L'Oréal is negotiating a 15% stake in Armani, beating LVMH, and has appointed Jasjot Kaur as Strategic Investment Lead for BOLD in India.",
+   "💄 Brands & Launches": "L'Oréal Paris partners with the Royal Ballet and Opera for Christmas, Miley Cyrus headlines a new Maybelline campaign, and CeraVe inks a film partnership with 'Dune: Part Three'.",
+   "💡 Beauty Tech & ESG": "L'Oréal backs Australian brands Psyke and Uluu in a beauty contest and will speak at Adopt AI 2026 hosted by Artefact.",
+   "📈 Market": "Kiehl’s partners with Lea Michele for a local New York Christmas campaign while L'Oréal USA settles a lawsuit over a hair straightening product."
   }
  },
  "articles": [
+  {
+   "title": "Armani, L'Oréal and EssilorLuxottica: negotiations for a 15% stake - nss magazine",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGFZSFFISWVnVmFaSFRLSm9mTGlDMl9sYWlabk5wMFpvcC1CNlBzVUlfMlVHckY5dm1WWmpYaFcwZFd4Nk5lTnN5YmRPMUJfTjBCYkdtbWZiWWFVMnZpZ3htdDVNU3VMRnE5blJXUmE3MUgyRE92NHUtUURHb3FIQlBvV3dXZXFIWHBEZkxUeDNVcWcybC1JekM0Yw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "Armani, L'Oréal and EssilorLuxottica: negotiations for a 15% stake",
+   "excerpt": "Armani, L'Oréal and EssilorLuxottica: negotiations for a 15% stake nss magazine"
+  },
+  {
+   "title": "L’Oréal is set to acquire a stake in Armani and, in doing so, beats LVMH to the punch - Luxus Plus",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aWZ2VVRBdEQycDZucHZfUkVLWjhSVjRabWFrTmE3OEhwR1RMRXp4NU91eGV5LXNkNlB5RmkwYVBhcXdjNllSVlRzMm1SUXI1UGFSbzhKcFJERWVybk9sZHplVEFlQk52WVNkcUQxbnBxOFE3MDMxQg?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "L’Oréal is set to acquire a stake in Armani and, in doing so, beats LVMH to the punch",
+   "excerpt": "L’Oréal is set to acquire a stake in Armani and, in doing so, beats LVMH to the punch Luxus Plus"
+  },
+  {
+   "title": "L’Oréal Appoints Jasjot Kaur as Strategic Investment Lead for BOLD in India - Global Cosmetics News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNU5mQ0UzOTdGcFk2YlQxNEZGT0E0TWcxRnN5clE2RWtaMm1WMEhma1dnVXlQN2h6VG8xUFJOYkxURUNua0ItakNoTUhwdS1weENXQVpvUjU3VEdhSFYwbDJOajRMNVQ5LWZMT1BZOXEteXowaGtuWmpfT2NYeUxXdGEzYWF0MkF3b0tyaU5uMTdJaEd1OWYxb0pzbXlsOU9LVG02UlNVX0trRnNIUEh4Qw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "L’Oréal Appoints Jasjot Kaur as Strategic Investment Lead for BOLD in India",
+   "excerpt": "L’Oréal Appoints Jasjot Kaur as Strategic Investment Lead for BOLD in India Global Cosmetics News"
+  },
   {
    "title": "L'Oréal backs Australian Psyke & Uluu in beauty contest - ecommercenews.com.au",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlpDRGE5UHVVZ0ROZEdYV0FEajdUaFFYOXF3MGVUMHFKQk9TUDhFS2I4Z2ZNYzBxM0hrb2NSNjZ1S0IzZE5ISFF2VlNEbmxTVVhKNjRTZ3AwWmlxR0E1T2J0bFFXdV9LdVBhLVlhWHQ5RVUwTS1jbVhlMzA3ZTJ2d20xSUp1cDB1Wm12T2J5T2I3UQ?oc=5",
@@ -20,6 +47,15 @@
    "date": "2026-11-19",
    "ai_summary": "L’Oréal supported Australian brands Psyke and Uluu in a beauty contest as reported by ecommercenews.com.au.",
    "excerpt": "L'Oréal backs Australian Psyke & Uluu in beauty contest ecommercenews.com.au"
+  },
+  {
+   "title": "L'Oréal backs Australian Psyke & Uluu in beauty contest - ChannelLife Australia",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDdIMmRlWXR3Sk0wcGd1OG9KaFdSRVVXRzY1WlFpRmJ0SHJZalVuNjB1WjIxUjJnVXRhOXNOSWF0SUt1R3pfWG9kNXRDd3ZqWXV4bmhWd2ZDby1UbGpBSE9aZTNQQkZkWnhtaVZ0Z1hINDIyM1pCUXU5ckFCVjRqcUE2dUs1SWhtUVRBMFBJZw?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-11-19",
+   "ai_summary": "L'Oréal backs Australian Psyke & Uluu in beauty contest",
+   "excerpt": "L'Oréal backs Australian Psyke & Uluu in beauty contest ChannelLife Australia"
   },
   {
    "title": "Walmart just dropped a new beauty Advent calendar with L’Oréal, e.l.f. and more — and it’s under $50 - Yahoo",
@@ -40,6 +76,15 @@
    "excerpt": "L'oréal Paris Celebrates Female Changemakers at Their Annual Women of Worth Gala Times Argus"
   },
   {
+   "title": "L'Oréal Paris Celebrates Female Changemakers at their Annual Women of Worth Gala - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcF9CdXV5QUpRdmNjZjd4WEhHeWZYZlA3djNPVUd6LTF3bDhDYkF4bHdYdXpzVEZtUVY4QlBuUl9XQ2xlZElEcnRpQ1l2eUxmbFlxZ19GN3dhUlBaTWhlb2lVb3JiakhXeS1ycU5vTS0xNWx4ZEJhZWNXSkF2OG5XWm5fQ0w2NEVvd0NMLVdXTDk4amM3eHJMcGRvZmQ2dDgzcUpTNnV2cU1nNjZWcHJ4QXFVakEzMDFHSVFYbGRENUVZRlpBdGJ3SDBZZ0V5QUhfczBkVERn?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L'Oréal Paris Celebrates Female Changemakers at their Annual Women of Worth Gala",
+   "excerpt": "L'Oréal Paris Celebrates Female Changemakers at their Annual Women of Worth Gala StreetInsider"
+  },
+  {
    "title": "L'Oréal Paris Women of Worth - Times Argus",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFRSMzltdUlONk5sRG1tcF9TOGlYR1hOMHVlVjd6NzZ5M1BPVFRNczF5RWRwZXE5SDNJZHZIY2MydmhaeUFXY05hVm1ObU9RMXRTTU5xV011QVZ5LUJKZUJyamNSbm5RRFcxNC1zaEozTXp6dnhHQmFfamo0dngxSWhHUktFRFcwMTY4UlY3ZF81M3hXbkJsRkJVY1RHX2RnWHdBVXpjRURqai00YWJZS25MaFc3Y3c?oc=5",
    "source": "L'Oréal Corporate & M&A (Google News)",
@@ -47,6 +92,15 @@
    "date": "2026-11-19",
    "ai_summary": "L’Oréal Paris Women of Worth was highlighted by Times Argus.",
    "excerpt": "L'Oréal Paris Women of Worth Times Argus"
+  },
+  {
+   "title": "Caltech Postdoc Awarded L'Oréal USA For Women in Science Grant - Caltech",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1FlVEFfV0pJYnlrT1BPUVVjUmV0LXVPRkgxcEJXdFRuR2V5a1VRRVRiVzYwUm9US0RnV1J3OWh6VEk2WWR1b3RTY29sdnRzMnFRVzh4amN1eWlWVHRVYVFvd0ZzekpGOWw2LUJvUDVmdHd5aHNCLUtYaXExRDdVQ1ZzWWV3LVNnN1NuU09ydHdnV2ZBSlZKOUFCOHAwb2x0NGln?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Caltech Postdoc Awarded L'Oréal USA For Women in Science Grant",
+   "excerpt": "Caltech Postdoc Awarded L'Oréal USA For Women in Science Grant Caltech"
   },
   {
    "title": "Eva Longoria and Andie MacDowell Twin in Skin-Forward Glam at L’Oréal Paris Celebration - WWD",
@@ -74,6 +128,15 @@
    "date": "2026-11-19",
    "ai_summary": "L’Oréal Paris’ 2026 Women of Worth Celebration Red Carpet Doubles As a Luxe Beauty Lookbook Sports Illustrated Lifestyle",
    "excerpt": "L’Oréal Paris’ 2026 Women of Worth Celebration Red Carpet Doubles As a Luxe Beauty Lookbook Sports Illustrated Lifestyle"
+  },
+  {
+   "title": "L'Oréal and EssilorLuxottica in talks to buy a 15% stake in Giorgio Armani as LVMH drops out - MLQ.ai",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVIwM1VuWk5kNC1XbzU0MF9QY25PZjZycHhwTUVmVTRfUktEWldIOGM5UTEyS3VCcUxPMXRTNUdYcXJBM1pZRTBCeHdZaE4tN0J2a0Z2UjdEdzJ6ZVZacy0zTWZYVnpSZ091Nm1uUDBzTV9FMWx1WWh2QXBTdlUyOFloUDhVM3RSeVZxM05JcjRQWHlKaXc0enl3Y3VmbzZoOG9TWXdDcnFOa3pENHo0NQ?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L'Oréal and EssilorLuxottica are discussing acquiring a 15% stake in Giorgio Armani after LVMH withdrew from the deal. The move reflects a strategic partnership aimed at expanding their presence in the luxury fashion sector.",
+   "excerpt": "L'Oréal and EssilorLuxottica in talks to buy a 15% stake in Giorgio Armani as LVMH drops out MLQ.ai"
   },
   {
    "title": "Kristen Bell, Eva Longoria and Cara Delevingne Celebrate L’Oréal Paris Women of Worth - WWD",
