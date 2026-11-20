@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-20T12:37:00Z",
+ "updated": "2026-11-20T21:43:00Z",
  "briefing": {
   "date": "2026-11-20",
-  "hook": "Today’s highlights span new leadership, shifting consumer trust, and strategic moves reshaping the beauty landscape.",
+  "hook": "Today’s focus spans L’Oréal’s €300 M green push, Church & Dwight’s Bali acquisition, and a surge in sustainability‑driven pop‑ups.",
   "categories": {
-   "📈 Market": "Kering Ventures names a new Perfumehead CEO while glass skin expands beyond the face, celebrity endorsements face backlash, Beckham’s fragrance lawsuit surfaces, Kiehl’s local NYC campaign launches, and Shiseido sells its Aupres brand to IDG Capital.",
-   "💄 Brands & Retail": "Cavallier‑Belletrud reflects on oud’s journey from the Middle East to global markets, Beautyworld marks its 30th year with a $20.8 billion market, bakeries partner with beauty brands for Gen Z, Bond film brand deals threaten luxury ties, Gap pivots to entertainment, and Estée Lauder plans French restructuring.",
-   "🤝 Strategy & M&A": "Luxury brands emphasize after‑sales loyalty, IDG Capital takes over Shiseido’s China joint venture, Thakral exits Beauty Tech for a 100 % IRR sale, and Church & Dwight acquires a 45 % stake in Bali Treatment GmbH.",
-   "💡 Innovation & Regulation": "Space NK appoints Leanne Rouse as CMO, Kayali pledges $250,000 to Make‑A‑Wish, milk‑inspired scents trend, Gannon shares beauty tech gifts, and Jetty launch faces criticism from former Poppi founders."
+   "📈 Market": "KraveBeauty’s $1 M waste‑reduction pop‑up highlights a growing trend to give excess inventory a second life.",
+   "💄 Brands & Retail": "Gap’s ‘fashiontainment’ strategy signals a shift toward entertainment‑driven retail to attract Gen Z.",
+   "🤝 Strategy & M&A": "L’Oréal’s €300 M investment in France and Church & Dwight’s $225 M stake in Bali Treatment underscore a focus on sustainability and portfolio expansion.",
+   "💡 Innovation & Regulation": "L’Oréal US settles a cancer‑claims lawsuit over hair relaxers, marking a significant legal moment in product safety."
   }
  },
  "articles": [
+  {
+   "title": "L’Oréal to Invest Almost 300M Euros in France Through 2029",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/loreal-invest-almost-300m-euros-france-through-2029-1239460629/",
+   "source": "WWD Beauty",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "L’Oréal will invest almost 300M euros in France through 2029 to support the environmental transition of its sites, R&I capabilities and operations development.",
+   "excerpt": "The funding will support the environmental transition of the group’s sites, R&I capabilities and operations development."
+  },
+  {
+   "title": "Church & Dwight to Acquire 45 Percent of Bali Treatment for Close to $225M",
+   "url": "https://wwd.com/beauty-industry-news/hair/church-dwight-acquire-45-bali-treatment-close-to-225-million-1239429573/",
+   "source": "WWD Beauty",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "Church & Dwight plans to acquire 45 percent of Bali Treatment for close to $225M, adding the Bali Curls and Bali Gents brands to its portfolio.",
+   "excerpt": "The Austrian company’s portfolio includes the Bali Curls and Bali Gents brands."
+  },
+  {
+   "title": "KraveBeauty’s festive pop-up aims to sell $1 million of overstock to spotlight beauty industry waste",
+   "url": "https://www.cosmeticsbusiness.com/kravebeauty-festive-popup-tackle-beauty-waste-1million-sales-amika-aora",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-20",
+   "ai_summary": "KraveBeauty’s festive pop-up aims to sell $1 million of overstock to spotlight beauty industry waste — Along with beauty brands Amika, Aora and Iota, KraveBeauty’s ‘Waste Me Not's’ pop-up in New York City, US, will sell excess inventory and overlooked products to give them a second life",
+   "excerpt": "Along with beauty brands Amika, Aora and Iota, KraveBeauty’s ‘Waste Me Not's’ pop-up in New York City, US, will sell excess inventory and overlooked products to give them a second life"
+  },
+  {
+   "title": "L’Oréal US settles hair relaxer cancer claims lawsuit",
+   "url": "https://www.cosmeticsbusiness.com/loreal-us-settles-hair-relaxer-cancer-claims-lawsuit",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "L’Oréal US settles hair relaxer cancer claims lawsuit — In the first case of its kind to go to trial, L’Oréal’s US subsidiary reached a settlement with four women who claimed that the use of chemical hair relaxers contributed to their development of gynaecological cancers",
+   "excerpt": "In the first case of its kind to go to trial, L’Oréal’s US subsidiary reached a settlement with four women who claimed that the use of chemical hair relaxers contributed to their development of gynaecological cancers"
+  },
   {
    "title": "Space NK names Leanne Rouse CMO",
    "url": "https://www.cosmeticsbusiness.com/space-nk-names-leanne-rouse-cmo",
@@ -38,6 +74,15 @@
    "date": "2026-11-20",
    "ai_summary": "Cosmetics Business highlights eight lactic and milky scents from brands such as Bella Hadid’s Orebella, The Nue Co., and Mona Kattan’s Kayai, celebrating milk-inspired fragrances.",
    "excerpt": "From Bella Hadid’s Orebella to functional fragrance brand The Nue Co. and Mona Kattan’s Kayai, fragrance brands are launching a variety of lactic and milky scents. CB rounds up some of the best milk-inspired fragrance la…"
+  },
+  {
+   "title": "Thakral Sells Remaining Stake in The Beauty Tech Group for SG$57 Million - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdU43ZzhGY0p3SExDdW03bDJZT3FnRF9ZcVlNQWtLQkpzeDl6V0lwWi1aNzA5OXBPQjZnanVnNFF1ZzVTRTJxRE02eUxyT3RKWEltUkoweWFEd2kzei1xU0FQZVB1NXF5ZjNzcnIwQ05ZQVo2LXVWVEFDU2plbW82dndJdzVtZ3VSX00tLWRWS21KMlRQR1JsanZXNndpZVdjY2l5ZA?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "Thakral has sold the remaining stake in The Beauty Tech Group for SG$57 million, as reported by Moomoo.",
+   "excerpt": "Thakral Sells Remaining Stake in The Beauty Tech Group for SG$57 Million Moomoo"
   },
   {
    "title": "Simone Gannon’s favourite beauty tech gifts for Christmas - The Irish Times",
@@ -173,6 +218,24 @@
    "date": "2026-11-20",
    "ai_summary": "The Hairstyling Products Market to 2035 will be reshaped by premiumization and clean beauty, according to news and statistics from IndexBox.",
    "excerpt": "Hairstyling Products Market To 2035: Premiumization and Clean Beauty Reshape Growth - News and Statistics IndexBox"
+  },
+  {
+   "title": "Interparfums raises 2026 forecast and expects strong growth in 2027",
+   "url": "https://www.premiumbeautynews.com:8443/en/interparfums-raises-2026-forecast,28570",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-20",
+   "ai_summary": "Interparfums raises 2026 forecast and expects strong growth in 2027 — Interparfums SA, which manages global fragrance licenses for brands including Jimmy Choo, Montblanc, and Lacoste, as well as a portfolio of its own brands such as Rochas, Annick Goutal, and Solferino, announced on Thursd…",
+   "excerpt": "Interparfums SA, which manages global fragrance licenses for brands including Jimmy Choo, Montblanc, and Lacoste, as well as a portfolio of its own brands such as Rochas, Annick Goutal, and Solferino, announced on Thursd…"
+  },
+  {
+   "title": "Boots taps into 'K-Wellness' with a new line of beauty-from-within products",
+   "url": "https://www.premiumbeautynews.com:8443/en/boots-taps-into-k-wellness-with-a,28568",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Boots taps into 'K-Wellness' with a new line of beauty-from-within products — The UK health and beauty retailer is expanding its wellness offering with a new range of products inspired by the growing ‘K-Wellness' trend. Boots has partnered with South Korean ODM specialist Kolmar BNH to launch a 16…",
+   "excerpt": "The UK health and beauty retailer is expanding its wellness offering with a new range of products inspired by the growing ‘K-Wellness' trend. Boots has partnered with South Korean ODM specialist Kolmar BNH to launch a 16…"
   },
   {
    "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
