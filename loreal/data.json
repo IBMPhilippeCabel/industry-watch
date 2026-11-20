@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-19T22:00:00Z",
+ "updated": "2026-11-20T03:00:00Z",
  "briefing": {
-  "date": "2026-11-19",
-  "hook": "L’Oréal’s day blends high‑profile brand events, strategic stake talks, and tech‑driven ESG outreach amid legal settlements and market launches.",
+  "date": "2026-11-20",
+  "hook": "L’Oréal’s day highlighted brand collaborations, ESG outreach, and a potential stake in Armani, while legal settlement news surfaced in the U.S.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal is exploring a stake in Armani, with talks underway to acquire 15% of Giorgio Armani and a 10% stake, positioning the group for a fashion‑beauty alliance.",
-   "💄 Brands & Launches": "Miley Cyrus headlines Maybelline’s new campaign, while CeraVe partners with ‘Dune: Part Three’ and L’Oréal Paris partners with the Royal Ballet and Opera for Christmas.",
-   "💡 Beauty Tech & ESG": "Artefact hosts a summit featuring L’Oréal CEOs alongside other industry leaders to discuss AI adoption and sustainability initiatives.",
-   "📈 Market": "L’Oréal USA settled a lawsuit over a hair straightening product, while La Roche‑Posay launched BEMT sunscreen amid FDA approval of a new filter."
+   "🤝 Strategy & M&A": "L’Oréal group is reportedly considering a stake in Armani FashionNetwork, signalling a potential expansion into fashion.",
+   "💄 Brands & Launches": "Miley Cyrus headlines a new Maybelline campaign, and CeraVe partners with ‘Dune: Part Three’ for a film tie‑in.",
+   "💡 Beauty Tech & ESG": "L’Oréal supported Australian brands Psyke and Uluu in a beauty contest and joined a panel at Adopt AI 2026.",
+   "📈 Market": "L’Oréal USA settled a lawsuit with four women alleging a hair straightening product caused cancer."
   }
  },
  "articles": [
+  {
+   "title": "L'Oréal backs Australian Psyke & Uluu in beauty contest - ecommercenews.com.au",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlpDRGE5UHVVZ0ROZEdYV0FEajdUaFFYOXF3MGVUMHFKQk9TUDhFS2I4Z2ZNYzBxM0hrb2NSNjZ1S0IzZE5ISFF2VlNEbmxTVVhKNjRTZ3AwWmlxR0E1T2J0bFFXdV9LdVBhLVlhWHQ5RVUwTS1jbVhlMzA3ZTJ2d20xSUp1cDB1Wm12T2J5T2I3UQ?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-11-19",
+   "ai_summary": "L’Oréal supported Australian brands Psyke and Uluu in a beauty contest as reported by ecommercenews.com.au.",
+   "excerpt": "L'Oréal backs Australian Psyke & Uluu in beauty contest ecommercenews.com.au"
+  },
+  {
+   "title": "Walmart just dropped a new beauty Advent calendar with L’Oréal, e.l.f. and more — and it’s under $50 - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPckY3YlhJVFVOcWU5R1RvQ0IyQW1ITS02RGt3Y0NteGFWRVEydkc2V1k3U2FMcHRXM1lUVmpfRkRfaTFDdjFEWGhmT2JkMEI4XzFDN2kwZC14djkxaFM0NjVQb0RpdTV5TGkxUFBkbnd5YWozM2VLQWMtaERzWXExYlJRbXE4QVRIaHNYbVVkckFMamZnaW5MRlAwZ043VlFTdlV4QWx3SlhtRGJQdl8wRzdCcmxwY2JicVpSbU04ZUxySFBLV3ZTMnJaQW1BNmdSXzZFQXIwSE1OaUJCMlhlQy1uYTNFcjlS?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Walmart released a new beauty Advent calendar featuring L’Oréal, e.l.f., and other brands, priced under $50.",
+   "excerpt": "Walmart just dropped a new beauty Advent calendar with L’Oréal, e.l.f. and more — and it’s under $50 Yahoo"
+  },
+  {
+   "title": "L'oréal Paris Celebrates Female Changemakers at Their Annual Women of Worth Gala - Times Argus",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOE00ZlV4WU02VktTWUhuLVBENEdsTHNJRm4tdC1PQTB4N1k1QnV6NWxrUjNoNmpjRy1oX2U1RnFEUGNvTFpLRTdXOXFCaDJDMS1uaU0xRlFlNGlZRjhuTGFGZXpkZy13WUxheWM5b0NkZHpqNVQ3Y09heVVsYnlqcTlFdU5YY0Vib28tTnJ0RzhsVVVmVGhWYVlLbzIzcERIMUl1d1dOUmtJclVCdFBJS1l6UU4wdzVBUW15dVZJV0t5V1B0akRCekNqTWVHaGFzYWxZNmlFX0VUOHNCZHIxTTFvN2xlZWhKTDVrZXhJOXdqWHdjcmN0NFBDQlE?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L’Oréal Paris celebrated female changemakers at its annual Women of Worth Gala.",
+   "excerpt": "L'oréal Paris Celebrates Female Changemakers at Their Annual Women of Worth Gala Times Argus"
+  },
+  {
+   "title": "L'Oréal Paris Women of Worth - Times Argus",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFRSMzltdUlONk5sRG1tcF9TOGlYR1hOMHVlVjd6NzZ5M1BPVFRNczF5RWRwZXE5SDNJZHZIY2MydmhaeUFXY05hVm1ObU9RMXRTTU5xV011QVZ5LUJKZUJyamNSbm5RRFcxNC1zaEozTXp6dnhHQmFfamo0dngxSWhHUktFRFcwMTY4UlY3ZF81M3hXbkJsRkJVY1RHX2RnWHdBVXpjRURqai00YWJZS25MaFc3Y3c?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "L’Oréal Paris Women of Worth was highlighted by Times Argus.",
+   "excerpt": "L'Oréal Paris Women of Worth Times Argus"
+  },
   {
    "title": "Eva Longoria and Andie MacDowell Twin in Skin-Forward Glam at L’Oréal Paris Celebration - WWD",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGJrbDZ6UnRWcmcxZEVqWVZvUmNVTDhFY3U4Y3hnaFRnbGdEbWRzZkoyTVhuX1E0OGRuMEh6MW5paUFldUtaWElfSmNFQW1qbUtodW5GaHF3NVZpZkJSNnBYUEZTeWE2RExmclQwbE00Z2o2MnJncEdGMFJJZnYxU2owcS15bnc2TlZxSHlES1p2dlpSNXFCdDRfWXhER2V0a2xKc2dIdEk2NXdf?oc=5",
@@ -49,6 +85,15 @@
    "excerpt": "Kristen Bell, Eva Longoria and Cara Delevingne Celebrate L’Oréal Paris Women of Worth WWD"
   },
   {
+   "title": "Cara Delevingne Models Paris Texas Pumps at L’Oréal Paris Celebration - WWD",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNODQ4YjBybU9iSkdQWEVta0dzMVdzMTRoc2IxcEpjOTFsblp3OGgzQUZzSUxCelJnUjJVWXFmdldLZWpnSnNyTTZxa0dYNmYtN3BUZm9lOHRlQ0txTDg2b1BNZHdmTU1fb2I5Q0ZvUUE1RV9JT0hzVnh3NV9UUmM1eVc5el9wWUtsU1pXRW5rNnhteGxaOWQzR3pOLXJ2aHp3UV9nZno1c2NGVWk2bER6SA?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Cara Delevingne modeled Paris Texas Pumps at a L’Oréal Paris celebration.",
+   "excerpt": "Cara Delevingne Models Paris Texas Pumps at L’Oréal Paris Celebration WWD"
+  },
+  {
    "title": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A. (LRLCF:OTCMKTS) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3NNY2FJOVNsY3Vld3ZraWx5X0xrcEh5S2xpaXdfaG1FZjJYNnhHb2JEQ1VRRk9xcnFTVE5HRTl3OVc2NGlMV25YaEx1b3oxVEthWTZNQW9kVzFDYVlHdGNyS2NpT3BicDFjdTJRQTJRdEd3emhfcVB3MXhueUZpaWhQNndSZExvZFMtcHRuV0VoRkV1dzEwdDhqamZvSVFPSF9fNTBjWUpsM0lFUUF6UXRR?oc=5",
    "source": "L'Oréal Corporate & M&A (Google News)",
@@ -56,6 +101,15 @@
    "date": "2026-11-19",
    "ai_summary": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A. (LRLCF:OTCMKTS) Seeking Alpha",
    "excerpt": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A. (LRLCF:OTCMKTS) Seeking Alpha"
+  },
+  {
+   "title": "Eva Longoria, Kristen Bell and More at the 21st Anniversary of L’Oréal Paris Women of Worth Event - WWD",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVJiYThVbHNFY0xUV0dPWlFhX2g3aXBtV3dxVXYtYjNlcHBuVmF3LW9fM19qa1VHS2UwUlVadGNrQjVOMlZZQWhYSDVtNDQ2OTNfNk1vdXNIUWRzSXE2cnNmRTNfN1pCMVBLVFVpLU9IRXR0VW5oLUl6SlNmc1kzOHNxVGhuT0ZXY1ZrekVIS1dJTEdNRzZETFMxaDlqMFU?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Eva Longoria, Kristen Bell, and others attended the 21st anniversary of the L’Oréal Paris Women of Worth event.",
+   "excerpt": "Eva Longoria, Kristen Bell and More at the 21st Anniversary of L’Oréal Paris Women of Worth Event WWD"
   },
   {
    "title": "Artefact Convenes CEOs from L’Oréal, BBVA, Air Liquide, AXA, Orange, Renault Group, EDF and More, as Speakers for Adopt AI 2026 - The Manila Times",
@@ -2378,105 +2432,6 @@
    "date": "2026-10-21",
    "ai_summary": "",
    "excerpt": "Billboard & Maybelline Announce Partnership to Elevate Artists at Latin Music Week 2026 Billboard"
-  },
-  {
-   "title": "Kristen Bell Owns Her Worth as L’Oréal Paris’ Newest Global Ambassador - WWD",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTdHY3MxTV9MZDV1RUhQMUpfRHFvWlpxWjBTV2NrMngwcjZaUmtZOXFXTkxhOXlPWFpzbmVPLWdzSU0zd0hvYXBIdXBub0Iyb3B5Sno2aGpPWXhMM3NyYy1GNERoSXRFZkVTaTJ1R3JRd3VraFUwVUpPempLQkNjaFltQWc3cEh0enA3VWRFWkkyVkNRTlFHcVZsSDZTS2lvTkhtc3FYQWoxcXdLRXdZ?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "Kristen Bell Owns Her Worth as L’Oréal Paris’ Newest Global Ambassador WWD"
-  },
-  {
-   "title": "Why Beauty Editors Can’t Stop Using L'Oréal's Tinted Balm - Who What Wear",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhaMnN1ZEFXeEM5S0pJTkdOT3hMMS0yaHhldzhtdWdJa0NlM3RfQ2t3MDg0Q082TDRHazA1blVjY3hGUEVFSUh0MGVIdWlHQnJCOE41QzFyODQwM2lDSmM2RUV3cU5VS3REdE5QN1hXZDZ1UGJTRTF0SU4wQmh5Nk9hc0VYQTFKM19RdUR5Q1RGbHB1REZaUVZrV2JtTmw5eDNUcEdUZFdYUS1SbVJhTHpROHI3aUZMN19mb0t3?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "Why Beauty Editors Can’t Stop Using L'Oréal's Tinted Balm Who What Wear"
-  },
-  {
-   "title": "L'Oréal USA Names 2026 For Women in Science Awardees, Supporting the Future of Scientific Discovery - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcm5LYm54R1c5U0lnaTUzaFh6TTVHVTRlZTFDclhzUmVSTFFnSTFnUTR0V3ZvalRSTzNpTmliUlZ0UkFPZ1JINDJZQ0pNVFM1QmRjVGZpN2JaYnJwM0NiTUtUVHh2VDJkaVlJbVUtSUZZaHQxcHVVVE5yUm1vd0dwSTJfWEwyQUd1cWdKZEduZmRDbURia3p4dklLa1BSNXdpM3l4LWRtSW8tT1pTWjBwT0kzVjl0ME9jR3A2b2l4Y3FpNmxodVJ6WFhXdHlHbEszYlNmZmo1c1Y4ek55NDVKUHlDcElnYVFX?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "L'Oréal USA Names 2026 For Women in Science Awardees, Supporting the Future of Scientific Discovery PR Newswire"
-  },
-  {
-   "title": "La Roche-Posay Introduces Anthelios UV Defense SPF 50 Featuring BEMT, The First Sun Filter Approved by the FDA in Over 25 Years - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnJMNGNCdWswdm5uYzVHT0N6ZUt4aUJyR3JvRG1FZWZjOUsxR3RoY0lhaUFYUVp1eFpfN0NvT0tLSHVubFQ2YXFCU18xMHI5dDNKc0dBVDI3TXlmWWx0UFFFUFY0Sjc5cGlWNXFwTzdmS2otdGZfRGdjVHMwaXJtd3UwSWxCbTZ1djVsVElya045bkg4YU9VX2JvMUg?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "La Roche-Posay Introduces Anthelios UV Defense SPF 50 Featuring BEMT, The First Sun Filter Approved by the FDA in Over 25 Years Yahoo Finance"
-  },
-  {
-   "title": "Meet the Inria scientists honored at the 2026 L'Oréal-UNESCO For Women in Science France Awards - Inria",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmFaalplWm5fMDFYRXY3UDBTOFVlMldQdC10cE9LNVhWc1JRc2VnR0h3TGNfcDhHZnFTTERZN1VISEhmRGQtOWt1eWxJZG1lTXlrSS1tNTFFU0t6d2M5RXItbVJ2Z1FHODlQWTAxdFRMTDZJNDBLdjJqR3hRQks0WlZ5NlNnTVhPa2ZfSDM0UGVoTTE3VHRTYWRjUXNjbUdEbnc?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-20",
-   "ai_summary": "Meet the Inria scientists honored at the 2026 L'Oréal-UNESCO For Women in Science France Awards. Inria",
-   "excerpt": "Meet the Inria scientists honored at the 2026 L'Oréal-UNESCO For Women in Science France Awards Inria"
-  },
-  {
-   "title": "L’Oréal Paris Adds New Powder Format Companion to Magic Root Spray - Happi | Household And Personal Products Industry",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjdEY1ZNQnpyR2ktZnpuOFotd3pNMVRDZGFMOGpJbXp0Y0s0Mm96OFBheGtnSmZlT1Vfc0dacG8tOFhqclF2ZmVVZzJsaWdvQTd3VGZRRTBxN2QxZVYycnhrTUxsSVFXb2NfT3JwT3pmN3FEZ3F6U2lqNXd4SjJueGZSSm5hZXdMXzlEbVBiSWVXNm1vUEdpdEhMV3J3NXVLcXJLeA?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "L’Oréal Paris Adds New Powder Format Companion to Magic Root Spray Happi | Household And Personal Products Industry"
-  },
-  {
-   "title": "L’Oréal Paris USA announces the 2026 class of Women of Worth honourees - Cosmetics Business",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1NFQUR0bjNFVEVaejEzYzJHaGM5TVM4YWFCQ0JvRjlNamhqRkh4ZGo4dTk1OUo4bU1GM2toY0Y5UFlsdWFmOXNiOTJSRkpHQXRtZ3JQZG83bkEyREdsc08xRm9SZlNtRC0wQWQ3ZzV5Z0kyMmxhRzJMTnNHSXhlZ1p3?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "L’Oréal Paris USA announces the 2026 class of Women of Worth honourees Cosmetics Business"
-  },
-  {
-   "title": "L’Oréal Paris USA announces the 2026 class of Women of Worth honourees",
-   "url": "https://www.cosmeticsbusiness.com/loreal-paris-usa-announces-2026-women-of-worth",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "The philanthropic initiative, now in its third decade, sees L’Oréal Paris USA recognise ten female nonprofit leaders and fuel their ventures with grants, mentorships and national visibility"
-  },
-  {
-   "title": "Shoppers Are Ditching Lancôme for CeraVe’s $15 “Under-Eye Miracle Worker” That Delivers ‘Near-Instant’ Results - Real Simple",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFpFZ2M3cVdET01YbGNsZDJDeU0tRFlWTk52OUQ5dURHUWxqcU5hc2ppY19SNS15Y2NLUlRtaEw3OVV3enFjZTVLTUVUMFpCMGJ0MFhGVjEtSENSZkZ5alB4RVowMGNFUVd1XzJOaUxfTkpob1k1RWc0T3V4WnhFTmhxZndrcEREM2JEV2hORy0teUFP?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "Shoppers Are Ditching Lancôme for CeraVe’s $15 “Under-Eye Miracle Worker” That Delivers ‘Near-Instant’ Results Real Simple"
-  },
-  {
-   "title": "Ushering in a New Era for US Sunscreen: L’Oréal Readies for BEMT Sunscreen Launch - The Dermatology Digest",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEpPTHU0RmdOaldqTEFDN29hQ1Y5X0FYM1lqR0U3OTJOUHhHUUZSeDZzc3NGa2p4THJ4S0ZVektQLUNPQkU3RU1OTVVCY2d0UWZRb2ZMY05RX1c0bHhmcVVJbnZhZ1Bkd1JtMW5jM0NrTGFVMkdyQjlTSDlqM2JlUHpfbmVMUzhGMHlQVk9sR1dmWHJkLTVZTTBWek5QMmhyT09BclFibHJEZw?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-20",
-   "ai_summary": "L’Oréal is preparing to launch BEMT sunscreen in the U.S., signaling a new chapter in its sun protection line. The move is highlighted in The Dermatology Digest.",
-   "excerpt": "Ushering in a New Era for US Sunscreen: L’Oréal Readies for BEMT Sunscreen Launch The Dermatology Digest"
-  },
-  {
-   "title": "OFFICIAL LAUNCH AC75 LA ROCHE-POSAY RACING TEAM - America's Cup",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejNkaGVKclE3RVVaR0NmY28tRXNJc0dqMi1wV094emlXVkdEa0hJY05nM1p2OU1GQ1pfZ3A4YUZ0MWltZUVGT211UVdOZzdtclI2dHlKSDJIYnpYVm1qSk9KY3lUazFFVzRRUndvSGh2VC1KeEl4dnJrZFk3OEo2cnhMMHBLODVqR2RmeTJyYw?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-20",
-   "ai_summary": "",
-   "excerpt": "OFFICIAL LAUNCH AC75 LA ROCHE-POSAY RACING TEAM America's Cup"
   }
  ]
 }
