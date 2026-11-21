@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-21T12:15:00Z",
+ "updated": "2026-11-21T20:24:00Z",
  "briefing": {
   "date": "2026-11-21",
-  "hook": "Today’s focus spans regulatory settlements, wellness expansion, and strategic investments reshaping the beauty landscape.",
+  "hook": "Regulatory probes, market shifts and strategic investments shape today’s beauty landscape.",
   "categories": {
-   "📈 Market": "Interparfums lifts 2026 outlook, signalling robust fragrance growth into 2027.",
-   "💄 Brands & Retail": "Boots launches a K‑Wellness‑inspired beauty‑from‑within line, expanding its wellness portfolio.",
-   "🤝 Strategy & M&A": "L’Oréal commits nearly €300 million to French sites for environmental transition and R&I, underscoring its long‑term investment strategy.",
-   "💡 Innovation & Regulation": "L’Oréal US settles a hair‑relaxer cancer lawsuit, marking a significant legal milestone in product safety."
+   "📈 Market": "Interparfums lifts 2026 forecast, signalling robust fragrance growth ahead of 2027.",
+   "💄 Brands & Retail": "Gap Inc. pivots to ‘fashiontainment’ to boost cultural relevance and drive growth.",
+   "🤝 Strategy & M&A": "L’Oréal commits nearly €300 million to French sites for environmental transition and R&I.",
+   "💡 Innovation & Regulation": "China bans nano platinum, nano silver and toluene in cosmetics, while a Bondi clean‑beauty lip gloss faces investigation for cigarette imagery."
   }
  },
  "articles": [
+  {
+   "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFJuZ09hQ0ZTNUxEWWR4ODRIZUc5dHhGS3NybkZ4TDVNRDBjYjhBRnM0eUxhVTBJd0JPa1pQZTlQMkQyczgyNUg5X0ZGTWx3ZXhzMVlMSWVObXpKRS1jRnRmRDg4blJvT2s2eC1kSVNWOVpQdVlqTEdhNU1ubThOZ3E1cnpXVmFYTkVTSzh0VmNZRmR6LVlPVC0xMDJDZzl5UWVoYWg3VUIxQ3J0UXItYURR?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-21",
+   "ai_summary": "The Guardian reports that a lip gloss launch by a Bondi ‘clean’ beauty business featuring cigarettes on silver platters has been referred for investigation.",
+   "excerpt": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation The Guardian"
+  },
   {
    "title": "Beauty Tech Group And 2 Other British Founder Led Stocks - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDFjUkIzYTc0dTJLcWtoYzJBSE44d0ZTZnp1VUJwSlRpcmFrT1lSejE2bHRJYUJsOGdWVnkyUEh6b3pIdzJnMHN6NjFqN2ZnVm96NUVJa3NJLU0zSngtQmFpQ3BtUHBpZDc2Q0ZOQWZYM3k4OVczQzNFQzJ4US1QaU0xaFE0U2RYNGJrOHY2LXN6dEFV?oc=5",
@@ -20,6 +29,15 @@
    "date": "2026-11-21",
    "ai_summary": "Beauty Tech Group And 2 Other British Founder Led Stocks - Yahoo Finance — Beauty Tech Group And 2 Other British Founder Led Stocks Yahoo Finance",
    "excerpt": "Beauty Tech Group And 2 Other British Founder Led Stocks Yahoo Finance"
+  },
+  {
+   "title": "Procter & Gamble to cut staff at its factories and distribution centers",
+   "url": "https://www.premiumbeautynews.com:8443/en/procter-gamble-to-cut-staff-at-its,28572",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-21",
+   "ai_summary": "Procter & Gamble announced plans to reduce its manufacturing and logistics workforce by 2030, potentially affecting up to 30% of the positions concerned.",
+   "excerpt": "US consumer goods giant Procter & Gamble (P&G) announced on Thursday, November 19, plans to reduce its manufacturing and logistics workforce by 2030. The cuts could affect up to 30% of the positions concerned, as part of…"
   },
   {
    "title": "L’Oréal to Invest Almost 300M Euros in France Through 2029",
@@ -38,6 +56,15 @@
    "date": "2026-11-20",
    "ai_summary": "Church & Dwight plans to acquire 45 percent of Bali Treatment for close to $225M, adding the Bali Curls and Bali Gents brands to its portfolio.",
    "excerpt": "The Austrian company’s portfolio includes the Bali Curls and Bali Gents brands."
+  },
+  {
+   "title": "China moves to ban nano platinum, nano silver and toluene in cosmetics - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmgtOVFmc3h6UzE0LWVKQUdiNjZlYkZLcVNzbjFCQnpFMHY5ZU5CbTg3WEU5Zkhkb1ZibTJLMkJWX1FDLUxtMjZZU3NVVFpNcnYxcThvY3hFeWVrQTR2d2lrbUVZRVBZdldTM0xJUXNFcW5wSkpSaS1IS0Z4QlFnOVlQUQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-20",
+   "ai_summary": "Personal Care Insights reports that China is moving to ban nano platinum, nano silver, and toluene in cosmetics.",
+   "excerpt": "China moves to ban nano platinum, nano silver and toluene in cosmetics Personal Care Insights"
   },
   {
    "title": "KraveBeauty’s festive pop-up aims to sell $1 million of overstock to spotlight beauty industry waste",
@@ -434,6 +461,15 @@
    "date": "2026-11-19",
    "ai_summary": "Beauty Tech Group seen as undervalued as Kernow backs at-home beauty devices - Traders Union",
    "excerpt": "Beauty Tech Group seen as undervalued as Kernow backs at-home beauty devices Traders Union"
+  },
+  {
+   "title": "How this hedge fund is betting on people’s fears of getting old - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFR5aGRJcGRKSlkwRHFNaUR4OHdfLW1uYmZaaUhyWHJDNGx1YnRSR3ctZm9JTnVCb0JnMDFoSnlKZFlKOXdnS1ZLa015VHI2bTFZX0p2NGs2NjdXVjR2Umk0XzZ3anhuSW1QeVRVS0hldmNwa3pYeHFJNlB5Q3NBOTdn?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-19",
+   "ai_summary": "CNBC discusses how a hedge fund is betting on people’s fears of getting old.",
+   "excerpt": "How this hedge fund is betting on people’s fears of getting old CNBC"
   },
   {
    "title": "Major shareholder sells Beauty Tech Group stake - Insider Media Ltd",
