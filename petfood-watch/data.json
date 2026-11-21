@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-20T21:43:00Z",
+ "updated": "2026-11-21T03:00:00Z",
  "briefing": {
-  "date": "2026-11-20",
-  "hook": "Today’s pet‑food landscape highlights Mexico’s premium market expansion, Mars’ leadership moves, UK regulatory shifts, and new sustainability initiatives.",
+  "date": "2026-11-21",
+  "hook": "Today’s pet food news highlights expansion, sustainability focus, regulatory updates, and leadership changes.",
   "categories": {
-   "📈 Market": "Mexico’s premium pet‑food market is poised for growth as multinational brands set the stage, while a new $108 million California lab aims to speed disease detection.",
-   "⚖️ Regulation": "The UK government outlined its stance on future flea and tick treatment regulation after eight House of Lords recommendations, signalling a tightening of pet parasite controls.",
-   "💡 Innovation": "Sustainability drives new products, from Whole Foods’ shelf‑stable Pets Table line to regenerative‑agriculture financing talks, yet consumer messaging gaps remain.",
-   "🤝 M&A": "Mars’ appointment of Carlos Andrés‑Luna as global president of Science & Diagnostics and a minority investment in UK reptile wholesaler Monkfield signal strategic consolidation."
+   "📈 Market": "Mexico’s premium pet food market sees new growth opportunities as multinational brands set the stage for local manufacturers.",
+   "⚖️ Regulation": "The UK government outlined its stance on future flea and tick treatment regulation following the House of Lords recommendations.",
+   "💡 Innovation": "Sustainability messaging reaches some pet owners, yet more action is needed to drive purchase decisions, according to recent surveys.",
+   "🤝 M&A": "Mars appointed Carlos Andres‑Luna as president of its Science & Diagnostics division, marking a leadership shift within the company."
   }
  },
  "articles": [
@@ -119,6 +119,15 @@
    "date": "2026-11-19",
    "ai_summary": "Mars Names Carlos Andres-Luna President of Mars Petcare Science & Diagnostics Division - Pet Age — Mars Names Carlos Andres-Luna President of Mars Petcare Science & Diagnostics Division Pet Age",
    "excerpt": "Mars Names Carlos Andres-Luna President of Mars Petcare Science & Diagnostics Division Pet Age"
+  },
+  {
+   "title": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlNGUUt0RlBlM3Zzc1dwNUNXUGtWSGptSXlSU2NKT1JFU2Y0Wmd0RUkxYjMzbjhfT1ZaTHlFRk9zUk1EbzhIaS12QXFHNnZCQlVrSTRlUllGZDlzWFlEQ0Z0ZG1vcW9idUVKT1lNSHhycXRSSkRRc2VtejBtOU1kNWd4N3VIQTlsdTNvck5PNjBLTzRla1BRaFNyRXJPUGhzOEJLZGhTd19HRGZ6OWRUZnNyZWdzSDJBVGVBRHF5Z3kzQUplNUtISjVHcWluVS1JYmc?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics.",
+   "excerpt": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics StreetInsider"
   },
   {
    "title": "Woof Gang opens 350th location",
@@ -380,6 +389,15 @@
    "date": "2026-11-17",
    "ai_summary": "Cultivated meat pet food companies in the UK and Asia are advancing to establish sustainable, innovative alternatives in pet nutrition, with regulatory milestones and international expansion underway.",
    "excerpt": "From regulatory milestones to international expansion, cultivated meat pet food companies in the UK and Asia are advancing to establish sustainable, innovative alternatives in pet nutrition. Ivy Farm Technologies British…"
+  },
+  {
+   "title": "Mars, Inc. - Britannica",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NZ2RYcDkwUHBnM0tsVDBPV3ROXzJkU1pxYjhoSmJ0dEpmRldsTTlMa2g3QzdtOTBuLUdNdGZJaVdKQUhTZV9mV3Q0N21neXN4TlRB?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-17",
+   "ai_summary": "Mars, Inc. Britannica provides an overview of the company’s history and operations.",
+   "excerpt": "Mars, Inc. Britannica"
   },
   {
    "title": "More Than 5,500 Dogs Set to Compete at the 26th AKC National Championship Presented by Royal Canin - GlobeNewswire",
@@ -1075,6 +1093,15 @@
    "excerpt": "Veteran journalist turned pet industry communicator shares insights on consumer trust, crisis preparedness and the evolving media landscape shaping today’s pet food companies."
   },
   {
+   "title": "Bedford, HOOPP to exit Champion Petfoods with sale to Mars Petcare - PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN05aWENWSHY1WHZOUTBJQmdPQUxEQ1k0ZE01Y3FIOTBrRTFzaGVQc0JZdkViTHJUODR2UXVPQm9SXzJ3NF9QUzdBdG5ySjVXVDJhRUNsbmd3WUMtY1d6c0k0ME5zRDZPNUhsRTktZFFHaHZld1JaOEh2Y01EMDRQR1k3OHNyQXlLUi0tNS1XVi05RUxBWVZnMmg5ZmdWWFluRWJJVlpCZlNGLU1QLXc?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-03",
+   "ai_summary": "Bedford, HOOPP to exit Champion Petfoods with sale to Mars Petcare.",
+   "excerpt": "Bedford, HOOPP to exit Champion Petfoods with sale to Mars Petcare PEI Private Equity"
+  },
+  {
    "title": "AI machine learning tests personalized dog food formulation",
    "url": "https://www.petfoodindustry.com/nutrition/research-notes/article/16349391/ai-machine-learning-tests-personalized-dog-food-formulation",
    "source": "Petfood Industry",
@@ -1757,78 +1784,6 @@
    "date": "2026-10-22",
    "ai_summary": "The Royal Canin Vet Symposium focuses on the theme of ageing pets, as reported by Vet Times.",
    "excerpt": "Ageing pets theme at international Royal Canin Vet Symposium Vet Times"
-  },
-  {
-   "title": "Food futurist Jack Bobo keynotes Petfood Forum 2027",
-   "url": "https://www.petfoodindustry.com/news-newsletters/petfood-forum-news/article/15838077/food-futurist-jack-bobo-keynotes-petfood-forum-2027",
-   "source": "Petfood Industry",
-   "category": "📈 Market",
-   "date": "2026-10-21",
-   "ai_summary": "Jack Bobo will explain why pet food's demand curve is poised to break away.",
-   "excerpt": "Jack Bobo of the UCLA Rothman Family Institute for Food Studies will explain why pet food's demand curve is poised to break away..."
-  },
-  {
-   "title": "Fressnapf | Maxi Zoo reorganizes operations in the Benelux",
-   "url": "https://globalpetindustry.com/news/fressnapf-maxi-zoo-reorganizes-operations-in-the-benelux/",
-   "source": "Global Pet Industry",
-   "category": "📈 Market",
-   "date": "2026-10-21",
-   "ai_summary": "Fressnapf | Maxi Zoo reorganizes operations in the Benelux — Fressnapf | Maxi Zoo will bring operations in Belgium, the Netherlands and Luxembourg together under a new Benelux cluster from 1 January 2027. The new regional organisation will be led by Giane Van Landuyt, currently Co…",
-   "excerpt": "Fressnapf | Maxi Zoo will bring operations in Belgium, the Netherlands and Luxembourg together under a new Benelux cluster from 1 January 2027. The new regional organisation will be led by Giane Van Landuyt, currently Co…"
-  },
-  {
-   "title": "Four in five US rental operators report an increase in pet-owning tenants",
-   "url": "https://globalpetindustry.com/news/four-in-five-us-rental-operators-report-an-increase-in-pet-owning-tenants/",
-   "source": "Global Pet Industry",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-21",
-   "ai_summary": "Four in five US rental operators report an increase in pet-owning tenants — Pet ownership is rising across rental portfolios in the US, with 81% of operators nationwide reporting an increase. The State of Pets in Rental Housing, a report from pet policy and screening platform PetScreening, surve…",
-   "excerpt": "Pet ownership is rising across rental portfolios in the US, with 81% of operators nationwide reporting an increase. The State of Pets in Rental Housing, a report from pet policy and screening platform PetScreening, surve…"
-  },
-  {
-   "title": "Mars Impact Fund grant supports 4-H veterinary, food careers",
-   "url": "https://www.petfoodprocessing.net/articles/21006-mars-impact-fund-grant-supports-4-h-veterinary-food-careers",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-21",
-   "ai_summary": "Mars Impact Fund grant supports 4-H veterinary, food careers — The $3 million partnership with the National 4-H Council will support young people pursuing opportunities in science.",
-   "excerpt": "The $3 million partnership with the National 4-H Council will support young people pursuing opportunities in science."
-  },
-  {
-   "title": "HABRI survey highlights awareness of pet ownership health benefits",
-   "url": "https://www.petfoodprocessing.net/articles/21005-habri-survey-highlights-awareness-of-pet-ownership-health-benefits",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-21",
-   "ai_summary": "HABRI survey highlights awareness of pet ownership health benefits — Public awareness of the human-animal bond is fueling support for pet-inclusive housing, businesses and community spaces.",
-   "excerpt": "Public awareness of the human-animal bond is fueling support for pet-inclusive housing, businesses and community spaces."
-  },
-  {
-   "title": "HenArt launches dog food featuring Enifer mycoprotein",
-   "url": "https://www.petfoodprocessing.net/articles/21004-henart-launches-dog-food-featuring-enifer-mycoprotein",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-21",
-   "ai_summary": "HenArt launches dog food featuring Enifer mycoprotein — LEVENDO™ was formulated with PEKILO® mycoprotein to enhance digestibility and palatability.",
-   "excerpt": "LEVENDO™ was formulated with PEKILO® mycoprotein to enhance digestibility and palatability."
-  },
-  {
-   "title": "Women in the Pet Industry: Meet Jennifer Dyne of Natures Menu",
-   "url": "https://www.petfoodprocessing.net/articles/21003-women-in-the-pet-industry-meet-jennifer-dyne-of-natures-menu",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-21",
-   "ai_summary": "Women in the Pet Industry: Meet Jennifer Dyne of Natures Menu — From safeguarding Natures Menu’s 45-year legacy in natural pet nutrition to driving growth in a changing market, Dyne is leading the brand’s next chapter.",
-   "excerpt": "From safeguarding Natures Menu’s 45-year legacy in natural pet nutrition to driving growth in a changing market, Dyne is leading the brand’s next chapter."
-  },
-  {
-   "title": "HenArt launches Levendo dog food with Enifer mycoprotein",
-   "url": "https://www.petfoodindustry.com/pet-food-market/product-launches/article/15837512/henart-launches-levendo-dog-food-with-enifer-mycoprotein",
-   "source": "Petfood Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-21",
-   "ai_summary": "HenArt introduces Levendo dog food featuring Enifer mycoprotein, offering a baked, complete meal for adult and senior dogs. This marks Enifer’s first international consumer launch of its Pekilo fermented product.",
-   "excerpt": "The baked, complete food for adult and senior dogs marks the first international consumer launch for Enifer’s Pekilo fermented..."
   }
  ]
 }
