@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/",
- "updated": "2026-11-21T20:24:00Z",
+ "updated": "2026-11-22T01:57:00Z",
  "briefing": {
-  "date": "2026-11-21",
-  "hook": "Pernod Ricard focuses on shareholder meeting, dividend, and market duty concerns while exploring brand collaborations.",
+  "date": "2026-11-22",
+  "hook": "Pernod Ricard’s day focused on shareholder engagement and a dividend announcement amid a new high duty on Scotch imports.",
   "categories": {
-   "🤝 Strategy & M&A": "Shareholder call and upcoming meeting highlight dividend approval and strategic outlook.",
-   "🥃 Spirits & Brands": "Glenlivet partners with The Bear House on ‘Original Attire’ to celebrate individuality.",
-   "📈 Market": "India imposes 165.2% duty on bulk Scotch imports, sparking trade tensions with the UK.",
-   "💡 Innovation & RTD": "PRNDY ticker updates provide investors with recent Pernod Ricard market activity."
+   "🤝 Strategy & M&A": "Shareholder call and interim dividend approval highlight ongoing engagement and financial strategy.",
+   "🥃 Spirits & Brands": null,
+   "📈 Market": "India’s 165.2% duty on bulk Scotch imports creates a trade flashpoint with the UK.",
+   "💡 Innovation & RTD": null
   }
  },
  "articles": [
@@ -20,6 +20,15 @@
    "date": "2026-11-21",
    "ai_summary": "Jameson Williams Week 11 Outlook for Fantasy Football (2026) - RotoBaller offers a preview of Jameson Williams’ performance prospects for Week 11 in the 2026 fantasy football season. The article is published by RotoBaller, focusing on player analysis and projections.",
    "excerpt": "Jameson Williams Week 11 Outlook for Fantasy Football (2026) RotoBaller"
+  },
+  {
+   "title": "San Diego weather: Brooke Martell's weather forecast for November 21, 2026 - NBC 7 San Diego",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONFdmbzdiQmlyYmVNRWs4QVJsajFyV3hRTGY1Z1UzZlQxdFhIYXI0bFpaMzY5MjFDMEJFdll4N1VuZlBoWklPWkJBLUxMRkJqOEVqVEJTUHBETy00MkNRV1g3RUQ0SGFMM0U1eGotSTlNM1R6anp6dUlmRkJMMVFTaThqSVBCUXZieEtmVm5OWGZORUpPSEpCa1FfSWkzWkxLVWo1dlVvV1UtNGd5dFZSUnZmYWdwendlbWZ2VNIBxAFBVV95cUxQZE5VSko5S180b2JLX2EtNER3NDU2SzlEbGpScUprNFVPLUtSc1I4N1doTktCTWt1THBkT1FXMmt6bHJfSFltU3NDNWpydkRnaHRaRGx6cHFtQ2pDSTd3V3NzSEVhem41LUxkaTY2NmJqVU82SlNKWVJja1hkSlFhSnJqbC1XODRSUHlMeUhYQjJ1dzFwNS1JQTM0cEpHZmdudDY2R05TMVNJU2x1VWxMbVNndnctSmh0WnF1V0pCSW1TeFhu?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-21",
+   "ai_summary": "San Diego weather: Brooke Martell's weather forecast for November 21, 2026",
+   "excerpt": "San Diego weather: Brooke Martell's weather forecast for November 21, 2026 NBC 7 San Diego"
   },
   {
    "title": "Pernod Ricard SA (PRNDY) Shareholder/Analyst Call - Slideshow - Seeking Alpha",
@@ -2936,141 +2945,6 @@
    "date": "2026-10-23",
    "ai_summary": "Anthony Paul Martell Obituary (2026) - Nashua, NH - McDonough Funeral Home - Legacy | Obituary — Anthony Paul Martell Obituary (2026) - Nashua, NH - McDonough Funeral Home Legacy | Obituary",
    "excerpt": "Anthony Paul Martell Obituary (2026) - Nashua, NH - McDonough Funeral Home Legacy | Obituary"
-  },
-  {
-   "title": "Lions WR Jameson Williams: My underperformance isn't a mental issue - Detroit Free Press",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVh3M2lPSm50WkdNVGtzRlAyTTlYRGtucUpUYWJhTHdSQnctc01NQTR1bEZjQWhEZFFiX1dpbXFkdTVZUDVaZnZtdVNsak94UzZkYVZ6T09lZGFxVXgxN2NBSGtfSXZDR2NvSTA5dVhKSTFTUXhtZEtZNjJSaEVyclh4T09KZ3N5SzFuOHpjZy1US2dMdUNQUjBpWnJwdHM4eEpJaE9pS1N5Zw?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-22",
-   "ai_summary": "Lions WR Jameson Williams says his underperformance is not due to mental issues. He addresses concerns in Detroit Free Press.",
-   "excerpt": "Lions WR Jameson Williams: My underperformance isn't a mental issue Detroit Free Press"
-  },
-  {
-   "title": "Contemporary D.C. Home by Architect David Jameson Mixes Sapele Wood, Chiseled Stone and Sculptural Brick - Mansion Global",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWmQweFk1M3ZPdndWMUVqMVBoMlpxMUxONUFLaFgyMXNKSVc2UjJTcWhnMXBqbVJLQTJ5ZGJDS0FmR3lkU2habnI4TjdDRmpqcGlzdWhSeEZNdGUtTEliZnktdkRKTGVhOG1wS2Z3dU9yNEFpTTNnaFFVX0c2MFpDRGxUT0ZwSTEzX29hSU9sQ2U3cVljeW4xODRTeWRPUHlRb0JhODVCMzg5OS1fZDdwOTJqb2VfVzZHZlFmS3RmcHNIblY5eXdMVEkycVpRTjNJLVJGTjZSbk9aUDBxbV9rX09hMlTSAeoBQVVfeXFMT0g2S0pGbVJSQjV5ZVhDRG9IcHNkNUJaT2FoaHotdHNpSGhJM1FZSklBaUVLa21MdkVzY21TU1BDcl9TaExYV1J2MWNwSnVLMFpSeVVSWDI0VlNSMHltRXFSQUVtTWFGMlBDYS1WdVJqY2Y3Qkp0WVQwREx6TjlzQkR1OUVNeEk5Rm1rMERLdU1iRUxSMXU4Ym82SmdOYmE3Nk9xdEVwZHZmRVZ0TmMzOUt4T1dXd3h2TEhyOUlYdk16ZnROYmtpdExiTlJ5S29kcTQzV0gtSTlWUXdhWkcyeXBuVnhHV0VoRHhn?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-22",
-   "ai_summary": "Contemporary D.C. Home by Architect David Jameson Mixes Sapele Wood, Chiseled Stone and Sculptural Brick. Mansion Global.",
-   "excerpt": "Contemporary D.C. Home by Architect David Jameson Mixes Sapele Wood, Chiseled Stone and Sculptural Brick Mansion Global"
-  },
-  {
-   "title": "Pernod Ricard (ENXTPA:RI) Could Be 18% Undervalued On Its Debt Reset - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWW1kalkzRDlNOGtjNWJGelhXeDBvbGZ2Tkd1MDRZbDhHY1pOazh1LTFhaVlHay1xeUYwcUJNeVpVQVk3MjRlMlB6TmR4UGtpaFctUXpjOXBuR0NWYlRxTE5TUy1qZ0xTSG5QNEdvdjJ0U3FIWkdIZ2FwYXNpMmhxX0g3ZTFEVl9fa1h4S09JZ1pPa21LZVJEeDJ3?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard (ENXTPA:RI) Could Be 18% Undervalued On Its Debt Reset - Yahoo Finance — Pernod Ricard (ENXTPA:RI) Could Be 18% Undervalued On Its Debt Reset Yahoo Finance",
-   "excerpt": "Pernod Ricard (ENXTPA:RI) Could Be 18% Undervalued On Its Debt Reset Yahoo Finance"
-  },
-  {
-   "title": "Pets of the week: Jameson and Strawberry - Fort Bragg Advocate-News",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV01iSVU0VEtxbWkzUmRfcHJNeEEtSWZPVFZiZC1YbGFSWEpwWlhOeXlsZFdfb0Y4ckJmclVDNmcxOXdPSHpFR25SaVFzcWFVM1FkNjA0WFl5a0l5bFBpWndiVUNtbEU0VjBETGNyZEpEdTF6N3lobEMzV05TZE42MGhVTW5NaGEy?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-22",
-   "ai_summary": "Pets of the week feature Jameson and Strawberry as highlighted animals. The article showcases these pets in the Fort Bragg Advocate-News.",
-   "excerpt": "Pets of the week: Jameson and Strawberry Fort Bragg Advocate-News"
-  },
-  {
-   "title": "Charli XCX & Absolut Vodka Toast Partnership With Extra Dirty Martini Recipe - Maxim",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0xQVG9IS2xid0tDMUxWbGdXRkFQUDJNUTNaU0VmckdyNU9taHBYa1BKb2hQa3hOTWxxS3VvMnpTMTRMclUzaDRiT3pCQzdlVW1UWHZWMFVKdE9FYXk4dkZBbHA1QllBY3p6S09EYTFZc0JRUjhCZkNqT3g2Z3ZRMEFWU1BmTVVyODdtdDdzNjlWZjdaNUUzd1I0ZXJNRGRIQWhKd3hSeTdTN0Nk?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-22",
-   "ai_summary": "Charli XCX & Absolut Vodka Toast Partnership With Extra Dirty Martini Recipe",
-   "excerpt": "Charli XCX & Absolut Vodka Toast Partnership With Extra Dirty Martini Recipe Maxim"
-  },
-  {
-   "title": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds - www.marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VkRlh1TXRhMHpxY2VRS1BKSG9BRDBsS1hoRWxDdVVXSzNfZmVnOTRaOHhNaEZQMjFWcWdieVJCbTdpUG1CV21pZklmOHFMRFJiaHdkaWlTZXlfMVhwYVlXZHpJMmV2U3kzdHFVa2hQMmNSRV9UZ0pTaGFfajZWbWRNM0twWm5xc09VUldHdG9UeS12VV9VaTd5Z1RLLVNyTjZiYzdB?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds",
-   "excerpt": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds www.marketscreener.com"
-  },
-  {
-   "title": "Attorney Jameson Doub Appointed to Local Rules Committee for U.S. Bankruptcy Court for the Eastern District of North Carolina - Ward and Smith, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSmMwZXVvMlJnVlQ2UzNkSTFMTXVqNVJEcFRwODBOSzUtczlHRFc3ODRRWWpfMy1QRHZkTkc0MElOS3lWVTRGZ2U2QlBMREY4OTVWclA1ZndPX2pjemxWVzdMYlUzbkdCbGRYLTItQVV3QjI2Q2hULTA1akg2Um9LM3lUZ1RzYlpremNiUmhYN2tMNW02T3pHS3p3WGVKUUtud0RuX2drYmRyY1lIa0ZvTDhCbXA2RWdHektVUG9rSXZNRkgtS2hBY0F5MHBDY1ZEMURqNUZDZVYwY0RXUmFXVzFRNDFZano5ckF6bDNEZw?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-22",
-   "ai_summary": "Attorney Jameson Doub is appointed to the Local Rules Committee for the U.S. Bankruptcy Court for the Eastern District of North Carolina, as announced by Ward and Smith, P.A.",
-   "excerpt": "Attorney Jameson Doub Appointed to Local Rules Committee for U.S. Bankruptcy Court for the Eastern District of North Carolina Ward and Smith, P.A."
-  },
-  {
-   "title": "Pernod Ricard raises €1.5B in debut hybrid bonds to cut debt load - Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazNId3dRNEdoNllTd2hSVVdRVndpV2hlcUZIVWJfbzd2VE1DX01jZVhjTGJHV1ZCREd1R1BnM2QxUjNTOFVPdE1hWDB0dHVxR0xmdm5yM0MxdFF3UzRLMTV2UDR5WVNiRkZOdVlwNWZWZWpCRldlMHFpNVE2UWRKRDlwNmpiNXdmWkFoRFAyRXY2OTJtdDFteTFxVWRZMjQ?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard raises €1.5 billion in its debut hybrid bonds to reduce debt, according to Dealroom.",
-   "excerpt": "Pernod Ricard raises €1.5B in debut hybrid bonds to cut debt load Dealroom"
-  },
-  {
-   "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - www.marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejFqY2NyYm90eElLeWhydmtyQ1Y5ZWFSdkQ0Q284MlJZenhNUHg1d0dUdEI1VnBPNVNWSjNaS2pybE14QzloUmp1NERjMGxmX2s4ci1KaWFXY2VPNUZlbFQ3UWpnOThSWU9EZGp4SDB2QzVQLTRuV1ItaHVkS2x3N25ZVGV6ZHBmYUQzeWFEaHFKYWhlMFRtMzJVWTB5MFZMVm15MUxnUmt2QWtlNTVfRU1xcWRrNFAyNVFYU0Z1dWVqMkdQLVJv?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - www.marketscreener.com — Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion www.marketscreener.com",
-   "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion www.marketscreener.com"
-  },
-  {
-   "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUzZ1YmNvRkMwZ1Rkc2U2RE9aNzNYTk1sYzVsekROQXRsOVBlSXdRaTc2TXVQY3gtUXVjZm00MzM1Z2pLS3JNVlk4ZGhQUF9idnBtNlV1SkNGajNEeXl2NWw0VUx4MERHWHk0MXJaQnF4djE4c2tVM0hyc0pUenBJZE1wVVNoekhRdHhyMmZzaEZaZ1AzUTFKSEEzMmhaS0xRTEdKVmlfXzROUlV2d21QMjFpbjJLbzFMWjJmTVZ6TFpoMWRuMkJfXzRORDdzb1VERXlJQVln?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard has completed a €1.5 billion hybrid bonds issuance. The announcement was reported by Business Wire.",
-   "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion Business Wire"
-  },
-  {
-   "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjdkNjhLUkptOUtnWTJoRUtRV0R2c1Z5SHdtZUc5ckNvXzUwLUJlWkZlS1ZGNUt0WERHazhjUmJOaTNwZ0NRZVVwdjBRQjRkdndtYmFSWWJpWVlOX3BMeElFQ2RrbTM5eTRQTnNpTWs4Y3Vqa2JNaGp2WGJFUGo2NmJDNXBQUXZhT2dWUlBweFVMdmJuQXF3?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard completes a €1.5 billion hybrid bonds issuance, as reported by Yahoo Finance Singapore.",
-   "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion Yahoo Finance Singapore"
-  },
-  {
-   "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUxIMGEyOGluc1FrdE1FbXdaaHNUSDQ0MW1SYzFXc2JkWlR2MkJmSFhkMmdscjJ1clp6WXdxVTJMaFVSR3huenBLeDFhbVlhYXd0U2IxYzhaX1pRa1c2TmVzRkFod3N2dF9OZlQ3X3p6Nm5oVnZDWDNka2h3TVpYbl9BZWNsY3hPenlhak5fc0ZLS3F5ZmFrRHVvbkhJYVRITWZMZlNQcEZsWTNX?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard has finished issuing hybrid bonds worth €1.5 billion. The announcement was reported by Yahoo Finance.",
-   "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion Yahoo Finance"
-  },
-  {
-   "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance Of €1.5 Billion - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTVBJTGZJUk5NVXZHQmluYWw1T2hTSzNIZ1pfZDhlX3E1T2drNjU5b0F2NEFheUZqSU45ek43ejAyTTFJaFJhbmVJaTFObzRxcTNHZkxDc1g2SjBIbmxQMmxzRVA4Z19sRXROTHU1cTZCbjdFWldTNGtmeHRlNkF6dTBxT05pNXdKV0tQN2lSeG5Xc3lManBNWDJkVjYySlNSLUw4WlpRc3hfSWw2NlV3bEJEMFhOSjlZcml5VW5SVGpZbjdoTGxPc0ZqREdVNXJXZ3BWaWhwUkg4TEE?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard has completed a €1.5 billion hybrid bonds issuance. The announcement was reported by TradingView.",
-   "excerpt": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance Of €1.5 Billion TradingView"
-  },
-  {
-   "title": "Pernod Ricard stock launches seven-note offer, falls pre-market - AD HOC NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPendOamVHZlphR1B0SzI3aFNmME9LNFhSbWxkTnV5RUhXdTB1VmZKVUpyUHlLSlRlTGNwdDRkNktQaXJrdmtqQzZiNEVYMU9nN05pY2psZnBTTEtvMV9NbXNmd3RWYVV3ZGVBOHE5OVdQclkyYUg4S05Vd1d2cUNwWUs3U2xvbzNNa1pPY0VZQlhMWlNnUk5mMHA1Tzd3dkttZmUwdko4N0VFNjlocnhzU0VCaS1iY0trWW1VWg?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "💡 Innovation & RTD",
-   "date": "2026-10-22",
-   "ai_summary": "Pernod Ricard stock launches a seven-note offer and falls pre‑market.",
-   "excerpt": "Pernod Ricard stock launches seven-note offer, falls pre-market AD HOC NEWS"
-  },
-  {
-   "title": "Jameson Williams - Fantasy Football Risers, Breakouts for Week 7 (2026) - NFL News - RotoBaller",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa01mRXFJYXVZOG9KTGlTMW9SOHhZUnNqQ2IzSFVqaHBLM1dtZUc4LXVhVmlVX25PMnpzaGFTWHRCdFJCRVl6YU55R0c4ZGR5UGkwaGxSd25YTVd6cnRmU1ZXQjlzWFR5NGVOeTNULVFYdzc1cHBRaUZPNThNV0FXRThscWJNa1N5UjVzMg?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-22",
-   "ai_summary": "Jameson Williams is highlighted as a potential riser and breakout player for Week 7 in the 2026 NFL season. The article focuses on fantasy football projections and rankings for the upcoming week.",
-   "excerpt": "Jameson Williams - Fantasy Football Risers, Breakouts for Week 7 (2026) - NFL News RotoBaller"
   }
  ]
 }
