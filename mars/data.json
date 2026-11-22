@@ -1,18 +1,27 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/mars/",
- "updated": "2026-11-22T17:40:00Z",
+ "updated": "2026-11-22T23:23:00Z",
  "briefing": {
   "date": "2026-11-22",
-  "hook": "Mars Corp moves on M&A, ESG, and product tweaks amid a Las Vegas M&M’s store makeover.",
+  "hook": "Mars Corp sees M&M’s store overhaul and new candy, while corporate moves focus on finance and regenerative agriculture.",
   "categories": {
-   "🤝 Mars Corporate & M&A": "Mars announced cash tender prices for the 21 Mars and Kellanova note series.",
-   "🐾 Petcare & Royal Canin": "Royal Canin’s Rémi Rocca discusses financing the shift to regenerative agriculture.",
-   "🍫 Snacking & FMCG Market": "Las Vegas M&M’s store will close for a major renovation ahead of its 30th anniversary.",
+   "🤝 Mars Corporate & M&A": "Mars announced cash tender prices for the 21 Mars and Kellanova note series and named a new president for its Petcare Science & Diagnostics Division.",
+   "🐾 Petcare & Royal Canin": "Royal Canin’s Rémi Rocca talks financing a shift to regenerative agriculture, while the Sheba Hope Grows program partners with FUNDEMAR to restore coral reefs.",
+   "🍫 Snacking & FMCG Market": "M&M’s closed its Las Vegas flagship for a major overhaul and released a new version of a popular candy.",
    "⚡ Tech & Operations": null,
-   "🌱 Sustainability & Sourcing": "The Sheba Hope Grows™ program extends partnership with FUNDEMAR to support restoration of damaged coral reefs."
+   "🌱 Sustainability & Sourcing": null
   }
  },
  "articles": [
+  {
+   "title": "M&M’s Shuts Down 1997 Las Vegas Strip Flagship for Full Overhaul - https://travelhost.com/",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEZtRmNmelFwZXpJYm9xaU8xVmwyaE5zLW1RaFZmMjJSVmlEZmtIMzVtRTVrVDRINy01SlNEa3hmMldhRUx4Nmk1UTB1QndTMExMRWo0SnAwdjJYbExPalFhNC16clExNGh0eGFPRVFFY01oY09NYnNJRDEydHBRRzVnQU5zakRWWnVrYzFWVEU2eXI5R0JIR1JUaDZoQnFH?oc=5",
+   "source": "Mars Snacking & Brands (Google News)",
+   "category": "🍫 Snacking & FMCG Market",
+   "date": "2026-11-22",
+   "ai_summary": "M&M’s has closed its 1997 Las Vegas Strip flagship. The closure is for a full overhaul.",
+   "excerpt": "M&M’s Shuts Down 1997 Las Vegas Strip Flagship for Full Overhaul https://travelhost.com/"
+  },
   {
    "title": "Las Vegas prepares to close iconic M&M’s store for major renovation ahead of its 30th anniversary - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeEtnazVlZHZXclhXRkdkZFFRZHR2cFRKWnR6WXIyV2R3VVBHT1NCNzRPdko1VW1xUkVVMjZDSmczUzVVclFvSFVWTUJFdHQ0eUJRcE9fOW5HbGhQZFowbzg4d0lpbkpOUldZaldxVk01cnFwbng2WkdGSFUwOVV2cEdxNERpd2NLSTBhVFVR?oc=5",
