@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-22T23:23:00Z",
+ "updated": "2026-11-23T06:24:00Z",
  "briefing": {
-  "date": "2026-11-22",
-  "hook": "Regulatory scrutiny and investment moves dominate the beauty sector today.",
+  "date": "2026-11-23",
+  "hook": "Today’s focus is on wellness-driven innovation, expanding retail footprints, strategic investments, and market shifts in beauty and cosmetics.",
   "categories": {
-   "📈 Market": "Euromonitor highlights trust, transparency, reliability and tangible benefits as key 2027 consumer trends.",
-   "💄 Brands & Retail": "Gap Inc. pivots to 'fashiontainment' to drive growth.",
-   "🤝 Strategy & M&A": "L'Oréal plans nearly €300m investment in France for environmental transition and R&D.",
-   "💡 Innovation & Regulation": "China bans nano platinum and silver, while a Bondi clean beauty launch faces investigation."
+   "📈 Market": "Nuxe strengthens its organization with new appointments to drive global growth amid a market that values trust and transparency.",
+   "💄 Brands & Retail": "Maison Francis Kurkdjian opens its first West Coast boutique, expanding U.S. presence while fragrance collecting becomes a new sneaker culture.",
+   "🤝 Strategy & M&A": "L’Oréal plans nearly €300 million of investment in France to support environmental transition and R&D, while Church & Dwight acquires 45% of Bali Treatment for $225 million.",
+   "💡 Innovation & Regulation": "Retailers and investors seek brands with wellness potential, and AI skin analysis mirrors are introduced in parapharmacy settings to enhance shopper experience."
   }
  },
  "articles": [
+  {
+   "title": "With Wellness Everywhere, How Do Investors And Retailers Spot Brands That Will Last?",
+   "url": "https://www.beautyindependent.com/wellness-investors-retailers-spot-brands-last-dealmaker/",
+   "source": "Beauty Independent",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-23",
+   "ai_summary": "Retailers and investors face a challenge in identifying the few brands with the greatest potential as wellness permeates many areas of life.",
+   "excerpt": "As wellness goes practically everywhere and takes over practically everything, retailers and investors face a daunting needle-in-a-haystack challenge: identifying the few brands with the greatest potential. The sheer num…"
+  },
+  {
+   "title": "Savoir Faire’s Chris Classic On Why Fragrance Collecting Is The New Sneaker Culture",
+   "url": "https://www.beautyindependent.com/savoir-faire-chris-classic-fragrance-collecting-new-sneaker-culture/",
+   "source": "Beauty Independent",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-23",
+   "ai_summary": "Chris Classic explains that fragrance collecting has become the new sneaker culture, noting that even if his own scents didn’t win, he wanted customers to leave his showroom with a purchase.",
+   "excerpt": "Before he opened niche perfumery showroom The Blacknose Lab last year, Chris Classic didn’t want anyone leaving the Atlanta headquarters of his fragrance brand Savoir Faire empty-handed. Even if his own scents didn’t win…"
+  },
+  {
+   "title": "EXCLUSIVE: Maison Francis Kurkdjian Opens First West Coast Boutique at South Coast Plaza",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/maison-francis-kurkdjian-south-coast-plaza-boutique-1239440286/",
+   "source": "WWD Beauty",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-23",
+   "ai_summary": "Maison Francis Kurkdjian opens its first West Coast boutique at South Coast Plaza, expanding its U.S. retail presence and planning a fifth location in Dallas.",
+   "excerpt": "The luxury fragrance house is expanding its U.S. retail footprint with a new California location and plans for a fifth boutique in Dallas."
+  },
+  {
+   "title": "Why On gave running shops first dibs on the Cloudsurfer 3",
+   "url": "https://www.glossy.co/fashion/on-cloudsurfer-3-specialty-running-retail/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-23",
+   "ai_summary": "Naperville Running Company sold through a quarter of its Cloudsurfer 3 inventory in the first week, showing how On used fittings and staff recommendations to build demand before a wider rollout.",
+   "excerpt": "Naperville Running Company sold through a quarter of its Cloudsurfer 3 inventory in the first week. The launch shows how On used fittings and staff recommendations to build demand ahead of a wider rollout."
+  },
+  {
+   "title": "As gifting to creators gains traction, brands worry about ROI and expectations",
+   "url": "https://www.glossy.co/fashion/as-gifting-to-creators-gains-traction-brands-worry-about-roi-and-expectations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-23",
+   "ai_summary": "Sending gifts to influencers and content creators can build buzz and generate organic social media coverage, but creators have rising standards for what kinds of gifts will make an impact.",
+   "excerpt": "Sending gifts to influencers and content creators is a great way to build buzz around a brand and generate organic social media coverage. But content creators have ever-rising standards for what kinds of gifts will make …"
+  },
+  {
+   "title": "Weightless Conditioning from Scalp to Strand",
+   "url": "https://www.cosmeticsbusiness.com/weightless-conditioning-from-scalp-to-strand",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-22",
+   "ai_summary": "Inolex launches ProCondition™ Satin, a conditioning active that delivers a luxurious, silky feel, softer tresses, enhanced curl definition, and long‑lasting frizz control across hair textures.",
+   "excerpt": "Inolex launches ProCondition™ Satin, a conditioning active that delivers a luxurious, silky feel, softer tresses, enhanced curl definition, and long-lasting frizz control across hair textures"
+  },
+  {
+   "title": "Dermaself brings AI skin analysis into grocery retail: Italy’s biggest beauty counter now has its own AI Beauty Agent",
+   "url": "https://www.cosmeticsbusiness.com/dermaself-brings-ai-skin-analysis-into-grocery-retail",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-22",
+   "ai_summary": "Dermaself and Coop Alleanza 3.0 bring an AI skin analysis smart mirror to the parapharmacy area of Ipercoop Baragalla in Reggio Emilia, allowing shoppers to take a selfie and receive analysis.",
+   "excerpt": "Dermaself and Coop Alleanza 3.0, the Italian cooperative operating in large-scale retail, bring an AI skin analysis smart mirror to the parapharmacy area of Ipercoop Baragalla in Reggio Emilia. Shoppers take a selfie and…"
+  },
   {
    "title": "L'Oréal to invest nearly EUR 300 million to boost French operations by 2029",
    "url": "https://www.premiumbeautynews.com:8443/en/l-oreal-to-invest-nearly-eur-300,28574",
@@ -254,6 +317,15 @@
    "date": "2026-11-20",
    "ai_summary": "In the world's most fragrance-obsessed region, niche perfume has outgrown its hall at Beautyworld Dubai, leading to the debut of Notes Dubai, the show's spin-off, in January.",
    "excerpt": "In the world's most fragrance obsessed region, niche perfume as outgrown its hall at Beautyworld Dubai. Notes Dubai, the show's spin off, debuts in January"
+  },
+  {
+   "title": "Thakral exits The Beauty Tech Group in $56.5m stake sale - Singapore Business Review",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY253aU93MnRRSTRZZTNMWkt0ZHhhWktoVzYyQjY4d3JXaldhN2lTTEhuM1RlOFFEQzF1SGlKdDh6VEUyTzNFbm9kRmJXcV9sY1lwOEtsTHdMc05lalBUWU9lRW5CTkx1M3Q5ZFYyY0ZPa3BjZGluRGdwcm1McFlacmxQVHdEMWdCekE?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "Thakral sells its stake in The Beauty Tech Group for $56.5 million, as reported by Singapore Business Review.",
+   "excerpt": "Thakral exits The Beauty Tech Group in $56.5m stake sale Singapore Business Review"
   },
   {
    "title": "IDG Capital takes over Shiseido’s China joint venture - Inside Retail Asia",
@@ -5798,132 +5870,6 @@
    "date": "2026-10-24",
    "ai_summary": "YSL Beauty is increasing its investment in Brazil by opening its first physical store in São Paulo after launching an e‑commerce platform in 2024. The brand is also boosting its presence through targeted marketing campaigns and availability on TikTok.",
    "excerpt": "Following the launch of its e-commerce platform in 2024, the French brand is expanding its presence in Brazil through targeted marketing campaigns and its first physical store, complementing its availability on TikTok Sh…"
-  },
-  {
-   "title": "EXCLUSIVE: ‘Love Island USA’ Star Jana Craig Launches New Lash Line",
-   "url": "https://wwd.com/beauty-industry-news/beauty-features/love-island-jana-craig-beauty-launch-1239380824/",
-   "source": "WWD Beauty",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "EXCLUSIVE: ‘Love Island USA’ Star Jana Craig Launches New Lash Line — Debuting direct-to-consumer on Nov. 6, the collection opens with six lash packs and a cluster set.",
-   "excerpt": "Debuting direct-to-consumer on Nov. 6, the collection opens with six lash packs and a cluster set."
-  },
-  {
-   "title": "Procter & Gamble sales top $23.3 billion in strong Q1 2027",
-   "url": "https://www.cosmeticsbusiness.com/procter-gamble-sales-top-23-bn-q1-2027",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-23",
-   "ai_summary": "Procter & Gamble’s Q1 2027 sales rose 4% driven by its beauty division, especially hair care demand.",
-   "excerpt": "The Q1 2027 4% sales increase for Procter & Gamble (P&G), the owner of Olay and Herbal Essences, was driven by its beauty division, which benefited particularly from hair care demand"
-  },
-  {
-   "title": "Selfridges unveils Christmas campaign in London, Manchester, Birmingham and digital stores",
-   "url": "https://www.cosmeticsbusiness.com/selfridges-unveils-christmas-campaign-2026-london-manchester-birmingham",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "Selfridges launched a Christmas campaign featuring festive cityscapes and in-store experiences across its UK locations and digital stores.",
-   "excerpt": "Luxury British department store chain Selfridges has released its Christmas campaign, taking consumers around the world through festive cityscapes and in-store experiences"
-  },
-  {
-   "title": "Armani Beauty ambassador Jonathan Bailey fronts new ‘The Power of Will’ interview series",
-   "url": "https://www.cosmeticsbusiness.com/armani-beauty-ambassador-jonathan-bailey-fronts-new-the",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "Armani Beauty’s ambassador Jonathan Bailey leads a new interview series for the ‘The Power of Will’ fragrance, joined by other ambassadors.",
-   "excerpt": "British actor Jonathan Bailey, who is ambassador for Armani Beauty’s I Will men’s fragrance, stars in a new video series for the scent, alongside fellow ambassadors, musician J Balvin, Formula 1 driver Carlos Sainz and e…"
-  },
-  {
-   "title": "La Roche-Posay to Neutrogena: New BEMT sunscreens hitting shelves in the US",
-   "url": "https://www.cosmeticsbusiness.com/la-roche-posay-to-neutrogena-new-bemt-sunscreens",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "La Roche-Posay, Neutrogena and other brands introduce BEMT sunscreens in the US following FDA approval of the ingredient.",
-   "excerpt": "Bemotrizinol (BEMT) is the first new ingredient approved by the US Food and Drug Administration (FDA) for use in over-the-counter SPFs in the states since 1999. Now, brands such as La Roche-Posay, Neutrogena and Ultra Vi…"
-  },
-  {
-   "title": "L’Oréal hails ‘exceptional’ third quarter 2026 led by dermatological and professional beauty",
-   "url": "https://www.cosmeticsbusiness.com/l-or%C3%A9al-hails-exceptional-quarter-and-return-of-skin",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-23",
-   "ai_summary": "L’Oréal’s third quarter 2026 saw growth in all divisions, highlighted by strong performance in professional and dermatological beauty.",
-   "excerpt": "The CeraVe and Kérastase owner’s business grew across all divisions in the third quarter of 2026, with a ‘remarkable’ performances from professional products and dermatological beauty"
-  },
-  {
-   "title": "Dove launches first fragrance inspired by its Original Beauty Bar due to demand",
-   "url": "https://www.cosmeticsbusiness.com/dove-launches-fragrance-inspired-by-original-beauty-bar",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "Dove released a limited‑edition fragrance inspired by its Original Beauty Bar, responding to long‑standing customer demand.",
-   "excerpt": "The Unilever-owned beauty brand has broken into the perfume category with a limited edition fine fragrance that smells like its 69-year-old hero sku, Original Beauty Bar, stating its community has ‘been asking for years’…"
-  },
-  {
-   "title": "Halsey’s Mass-Market Makeup Brand Af94 Shuts Down",
-   "url": "https://www.beautyindependent.com/halsey-mass-market-makeup-brand-af94-shuts-down/",
-   "source": "Beauty Independent",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "Halsey's affordable makeup brand Af94 shut down quietly last year, adding to the growing list of celebrity beauty ventures that have closed.",
-   "excerpt": "Halsey’s affordable makeup brand Af94 quietly shut down last year, joining a growing list of celebrity beauty ventures that have closed their doors. Launched in 2022 as a lower-priced sister line to the singer’s original…"
-  },
-  {
-   "title": "9 Emerging Beauty Trends Spotted At BITE 2026, From Scent Formats To Next-Gen Sunscreens",
-   "url": "https://www.beautyindependent.com/emerging-beauty-trends-bite-2026-scent-formats-next-gen-sunscreens/",
-   "source": "Beauty Independent",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "BITE 2026 showcased emerging beauty trends that reimagine existing categories, including new scent formats and next‑gen sunscreens.",
-   "excerpt": "Some of the most notable trends spotted at last month’s Beauty Independent BITE show weren’t entirely new product categories, but thoughtful reinventions and extensions of existing ones. Brands reimagined aromatherapy wi…"
-  },
-  {
-   "title": "Glossy Pop Newsletter: SharkNinja is turning its fans into beauty sellers ahead of the holidays",
-   "url": "https://www.glossy.co/pop/sharkninja-fans-beauty-creators-holiday-shopping/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-23",
-   "ai_summary": "SharkNinja is turning fans into beauty sellers with commissions up to 15% and holiday gift-guide challenges, expanding its creator strategy to customers and employees.",
-   "excerpt": "With commissions reaching 15% and holiday gift-guide challenges ahead, SharkNinja is giving customers and employees a bigger role in its creator strategy."
-  },
-  {
-   "title": "After its pop-up controversy, does Good American owe anything to nano-creators?",
-   "url": "https://www.glossy.co/fashion/after-its-pop-up-controversy-does-good-american-owe-anything-to-nano-creators/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-23",
-   "ai_summary": "After a pop-up controversy, creators expressed disappointment, feeling the event was an exclusive VIP experience that caused them to travel from other cities.",
-   "excerpt": "In the days after the pop-up, social media was flooded with videos of disgruntled creators sharing their experience. Believing the event was an \"exclusive\" experience for VIPs, several flew from other cities only to be m…"
-  },
-  {
-   "title": "Luxury Briefing: Luxury brands are betting on fewer, bigger stores as unrest in France forces closures",
-   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-prada-kering-hermes-store-strategy/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-23",
-   "ai_summary": "Luxury brands are closing smaller stores and investing in larger locations amid French unrest, with a focus on earnings and standout performers this week.",
-   "excerpt": "This week, a look at why luxury brands are closing smaller stores and spending more on their biggest locations, just as unrest in France forces some doors shut. Plus, the standouts from this week’s earnings, exclusive Tr…"
-  },
-  {
-   "title": "Clean Beauty Tower 28 Founder Amy Liu (2022) - IMDb",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HdFJuazg5SnlfQ3JiOExPdDZ2VW4xREpxNVhvczZjRk1ZUnJNNy1NTVVkMGhXWWg0Y29PVWxBYUNfc1YyaTNjd1BZLUhDX1pmYzI5Qmhhd1hldkdDVmxVRmxHZDlocy1zRGtWRHdkWHctR0E?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-23",
-   "ai_summary": "Clean Beauty Tower 28 Founder Amy Liu (2022) - IMDb. Clean Beauty Tower 28 Founder Amy Liu (2022) IMDb.",
-   "excerpt": "Clean Beauty Tower 28 Founder Amy Liu (2022) IMDb"
-  },
-  {
-   "title": "L'Oréal accelerates in Q3, with growth across all divisions",
-   "url": "https://www.premiumbeautynews.com/en/l-oreal-accelerates-in-q3-with,28397",
-   "source": "Premium Beauty News",
-   "category": "📈 Market",
-   "date": "2026-10-23",
-   "ai_summary": "L'Oréal accelerates in Q3, with growth across all divisions — L'Oréal said Thursday, October 22, its third quarter sales rose by double digits. Sales growth was driven by strong demand across all divisions and regions, including China.",
-   "excerpt": "L'Oréal said Thursday, October 22, its third quarter sales rose by double digits. Sales growth was driven by strong demand across all divisions and regions, including China. The French cosmetics giant, whose brands inclu…"
   }
  ]
 }
