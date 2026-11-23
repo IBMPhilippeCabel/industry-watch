@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-23T06:24:00Z",
+ "updated": "2026-11-23T19:57:00Z",
  "briefing": {
-  "date": "2026-11-22",
-  "hook": "Today’s focus is on Mars’ leadership shift, UK regulatory updates, and the rise of marketplaces in pet accessory sales.",
+  "date": "2026-11-23",
+  "hook": "Today’s pet food news spans expansion, regulatory updates, and leadership changes, underscoring growth and evolving standards.",
   "categories": {
-   "📈 Market": "Mexico’s premium pet food market is poised for growth as multinational brands set the stage for local manufacturers.",
-   "⚖️ Regulation": "The UK government outlined its stance on future flea and tick treatment regulation following eight House of Lords recommendations.",
-   "💡 Innovation": "Marketplaces dominate pet accessory sales while sustainability messaging still struggles to reach all consumer segments.",
-   "🤝 M&A": "Mars appointed Carlos Andres‑Luna as global president of its Science & Diagnostics division, signaling a strategic leadership change."
+   "📈 Market": "USDA trade nominee advances, Pet Supplies Plus adds nine stores, REWE expands pet business, and Mexico’s premium market seeks new growth.",
+   "⚖️ Regulation": "UK government outlines its stance on future flea and tick treatment regulation following eight House of Lords recommendations.",
+   "💡 Innovation": "Polish producers expand, regenerative agriculture research highlights adoption barriers, and online channels grow, while sustainability messaging varies across segments.",
+   "🤝 M&A": "Mars names a new global president for its Science & Diagnostics division in pet food processing."
   }
  },
  "articles": [
+  {
+   "title": "Polish pet food producers announce expansion plans",
+   "url": "https://www.petfoodindustry.com/regions/europe/article/16542502/polish-pet-food-producers-announce-expansion-plans",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-23",
+   "ai_summary": "Polish pet food producers announce expansion plans — 3Coty, maker of cat food, is opening a new company in Dubai through local partnerships, while FeedPro is increasing its production...",
+   "excerpt": "3Coty, maker of cat food, is opening a new company in Dubai through local partnerships, while FeedPro is increasing its production..."
+  },
+  {
+   "title": "Committee backs USDA trade nominee Greg Ibach",
+   "url": "https://www.petfoodprocessing.net/articles/21101-committee-backs-usda-trade-nominee-greg-ibach",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "Committee backs USDA trade nominee Greg Ibach — The Senate Agriculture Committee advanced Greg Ibach’s nomination to lead USDA trade efforts and support growth in US agricultural exports.",
+   "excerpt": "The Senate Agriculture Committee advanced Greg Ibach’s nomination to lead USDA trade efforts and support growth in US agricultural exports."
+  },
+  {
+   "title": "TAMU announces 36th annual practical short course on extrusion",
+   "url": "https://www.petfoodprocessing.net/articles/21100-tamu-announces-36th-annual-practical-short-course-on-extrusion",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "TAMU announces 36th annual practical short course on extrusion — The 4 1/2-day course will be held in person and live online at the university.",
+   "excerpt": "The 4 1/2-day course will be held in person and live online at the university."
+  },
+  {
+   "title": "Purina research identifies adoption barriers of regenerative agriculture for young farmers",
+   "url": "https://www.petfoodprocessing.net/articles/21099-purina-research-identifies-adoption-barriers-of-regenerative-agriculture-for-young-farmers",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-23",
+   "ai_summary": "Purina research identifies adoption barriers of regenerative agriculture for young farmers — The research suggests younger farmers are looking for more proof that adoption will have a positive impact on their business.",
+   "excerpt": "The research suggests younger farmers are looking for more proof that adoption will have a positive impact on their business."
+  },
+  {
+   "title": "Pet Supplies Plus expands into new markets with conversion of Petsense stores",
+   "url": "https://www.petfoodprocessing.net/articles/21098-pet-supplies-plus-expands-into-new-markets-with-conversion-of-petsense-stores",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "Pet Supplies Plus expands into new markets with conversion of Petsense stores — The addition of nine new stores brings the retailer’s total to 730 stores nationwide.",
+   "excerpt": "The addition of nine new stores brings the retailer’s total to 730 stores nationwide."
+  },
+  {
+   "title": "Ukrainian pet retailer MasterZoo revamps e-commerce platform and launches first app",
+   "url": "https://globalpetindustry.com/news/ukrainian-pet-retailer-masterzoo-revamps-e-commerce-platform-and-launches-first-app/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-23",
+   "ai_summary": "Ukrainian pet retailer MasterZoo revamps e-commerce platform and launches first app — MasterZoo has revamped its e-commerce platform and launched its first mobile app as the online channel continues to grow its share of the company’s business. According to the Ukrainian pet retailer, online sales account…",
+   "excerpt": "MasterZoo has revamped its e-commerce platform and launched its first mobile app as the online channel continues to grow its share of the company’s business. According to the Ukrainian pet retailer, online sales accounte…"
+  },
+  {
+   "title": "Interview: German retail group REWE broadens its ambitions in the pet market",
+   "url": "https://globalpetindustry.com/news/interview-german-retail-group-rewe-broadens-its-ambitions-in-the-pet-market/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "REWE Group is expanding its pet business across multiple channels, including partnerships with DIY stores and drugstores, after announcing plans to launch ZooRoyal specialist pet stores nationwide.",
+   "excerpt": "More than a year after announcing plans to roll out ZooRoyal specialist pet stores nationwide, REWE Group continues to develop its pet business across multiple channels, expanding partnerships with DIY stores and drugsto…"
+  },
   {
    "title": "Mexico’s premium pet food market: Next growth opportunities",
    "url": "https://www.petfoodindustry.com/regions/latin-america-carribean/article/16542338/mexicos-premium-pet-food-market-next-growth-opportunities",

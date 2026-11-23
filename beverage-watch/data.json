@@ -1,18 +1,153 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-23T06:24:00Z",
+ "updated": "2026-11-23T19:57:00Z",
  "briefing": {
   "date": "2026-11-23",
-  "hook": "No significant developments today.",
+  "hook": "Heineken expands pub portfolio while Pernod Ricard tackles slow gin growth, and the market sees new moves in spirits and beer.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": null,
-   "🍸 Spirits & Premium": null,
-   "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": null
+   "🤝 Strategy & M&A": "Heineken has acquired over 300 pubs from Stonegate, confirming its expansion strategy.",
+   "📈 Market": "Pernod Ricard is addressing slower gin growth by scaling its aperitif portfolio.",
+   "🍸 Spirits & Premium": "Distil's CEO resignation signals turmoil as the company prepares to place its main operating subsidiary into administration.",
+   "🍺 Beer & Brewing": "Super Bock Group plans to expand its Pedras sparkling water brand in Spain through a partnership with Calidad Pascual.",
+   "💡 Innovation & No-Low": "Walmart's Sparky AI shopping agent has increased basket sizes by 40%, showing AI's impact on online shopping."
   }
  },
  "articles": [
+  {
+   "title": "Who Should I Start? Jameson Williams or Malachi Fields - Fantasy Football Calculator",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemtlNXdNM3NFeGZEU1czVlNLTWd4OXFSYzlBWWRRVDhNaVFieGpFcXR2aXRvbVIyV19rWktVanpONVNiT3BzYVc3NEM5bDRWdlhYVzczcGp6SDBLWUJGWkNBLXFMM0ZBWjFZMWhvd3ZyVmVmbzdMRGlMMkp2TjUzV3dJbXc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Who Should I Start? Jameson Williams or Malachi Fields",
+   "excerpt": "Who Should I Start? Jameson Williams or Malachi Fields Fantasy Football Calculator"
+  },
+  {
+   "title": "Jameson Williams Front-Flips Into the End Zone! + Lions Win 6th Straight | Costa & Jansen - Audacy",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVVYbTdLQjNtYmJSMnU5RDdSOENxM29vc1pjMEdJandfOGl4OVlNQ0xtN1dFX1lkZXZOR3BldmN0NVZ6Nk51aWs3QndLUXYwbHNEckl3WC03eDJqaDVNcDNJeE9RTXQ4RlBmVnBBb20xeHZZY1I4em1ibnhMS1g1YXczdC16eEN4LWdvY3diaHFnbjI3Wm5hVWFEQm11ckZ4V1kxRVZvTF8yN3BIY3hTVDg4dk1iYWlCb01PVU1yWUFFek9hNU1scmtjWmE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Jameson Williams front-flips into the end zone as the Lions win their sixth straight game.",
+   "excerpt": "Jameson Williams Front-Flips Into the End Zone! + Lions Win 6th Straight | Costa & Jansen Audacy"
+  },
+  {
+   "title": "Lions HC Campbell Reacts to Jameson Williams' Front Flip Celebration After Aidan Hutchinson's Injury - Bleacher Report",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUzJCSXByOFBKQ05Dcmg3Vmo3UjM3TTFienA5a05SWTRrWVV6eHlmemRhNFRmWENZdG13aUh0VWRuQ1FwLVBiR2FqeXV2NUdBRGYtRksyY1c5LTlybE9RbTNKbzRpOWdCV1gyVjF5MlJ0bVVhLTBXbTJPSF9yQlJoXzRNZmJjSlBfa1M0VU5EN2s2UFFsbFZWWklScHJ3a3hfQUdpQjFMZ3gtUk8zd3RtUlVkbmVfRWtUa0dOR1dxdDgzZWZrZ3pnSzVUYi0tZVBPWHdFWGJFNA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Lions HC Campbell reacts to Jameson Williams' front flip celebration after Aidan Hutchinson's injury.",
+   "excerpt": "Lions HC Campbell Reacts to Jameson Williams' Front Flip Celebration After Aidan Hutchinson's Injury Bleacher Report"
+  },
+  {
+   "title": "Pernod Ricard talks tackling slower gin growth and scaling aperitifs",
+   "url": "https://www.just-drinks.com/interviews/pernod-ricard-talks-tackling-slower-gin-growth-and-scaling-aperitifs/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "Pernod Ricard talks tackling slower gin growth and scaling aperitifs",
+   "excerpt": "Pernod Ricard’s Francesco Ottaviano discusses mixed global gin demand, winning over younger adult drinkers and the boom in aperitifs."
+  },
+  {
+   "title": "Heineken strikes pubs deal with Stonegate",
+   "url": "https://www.just-drinks.com/news/heineken-strikes-pubs-deal-with-stonegate/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Heineken has acquired over 300 pubs from Stonegate for an undisclosed sum, confirming previous reports they were in talks.",
+   "excerpt": "Heineken has acquired over 300 pubs from the UK group Stonegate for an undisclosed sum, confirming previous reports they were in talks."
+  },
+  {
+   "title": "EU Commission opens anti-trust probe into CCEP",
+   "url": "https://www.just-drinks.com/news/eu-commission-opens-anti-trust-probe-into-ccep/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "The European Commission is investigating Coca-Cola Europacific Partners over its possible anticompetitive conduct in non-alcoholic drinks.",
+   "excerpt": "The European Commission is investigating Coca-Cola Europacific Partners over its \"possible anticompetitive conduct\" in non-alcoholic drinks."
+  },
+  {
+   "title": "Rev. Steven Jameson Obituary (1949 - 2026) - Sardis, MS - WMC - Legacy obituary",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlgwUXhLRWpETWF4M2FUQ0ZKdlRUV0cwY3A3UFJ2ZVZERk85SnFZS2xiWFhBemlpU0Nab3g4MmdhX245akNRTFVseTNoaFM2RXM1clpTVWt3djJES3p3RHQ2bTRoS3Q3c1pyOE4zbFkyYWNvMEhWYUUtQ3hEdERNR1FUUXVjWE1xQnVfRl9zbEwtcEZTbXRrRQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Rev. Steven Jameson obituary (1949 - 2026) in Sardis, MS.",
+   "excerpt": "Rev. Steven Jameson Obituary (1949 - 2026) - Sardis, MS - WMC Legacy obituary"
+  },
+  {
+   "title": "Distil CEO quits as operating arm heads for administration",
+   "url": "https://www.just-drinks.com/news/distil-ceo-quits/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "Distil CEO David Smith has resigned after just three months into the role, as the UK spirits maker prepares to place its main operating subsidiary into administration.",
+   "excerpt": "Distil CEO David Smith has resigned after just three months into the role, as the UK spirits maker prepares to place its main operating subsidiary into administration."
+  },
+  {
+   "title": "India regulator ‘to widen water safety checks following Bisleri probe’",
+   "url": "https://www.just-drinks.com/news/bisleri-unsafe-water-legal-action/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-23",
+   "ai_summary": "India's FFSAI is reportedly widening its water safety checks to other brands after it deemed a sample from Bisleri to be unsafe.",
+   "excerpt": "India's FFSAI is reportedly widening its water safety checks to other brands after it deemed a sample from Bisleri to be \"unsafe\"."
+  },
+  {
+   "title": "Verlinvest ups stake in Oatly through China Resources buy-out",
+   "url": "https://www.just-drinks.com/news/verlinvest-ups-stake-in-oatly/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Verlinvest is set to increase its shareholding in Oatly after agreeing to buy China Resources’ interest in the Swedish oat-drinks maker.",
+   "excerpt": "Verlinvest is set to increase its shareholding in Oatly after agreeing to buy China Resources’ interest in the Swedish oat-drinks maker."
+  },
+  {
+   "title": "Diageo overtakes Pernod Ricard as India’s biggest spirits seller - The Drinks Business",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVFOQm8yZGZEclFNeUk3ZmZsbTI5cnV5am8zZ1JEQjdZQUFjRHhNMW9GdVNWMXJQaWlwWEUtRnJQeERCMjBuY01DNnY4Z2lIQ1FlN1dPUERpY2k4dUZQVmZhb1ZFVzdZbFRFeU9RNDBHYVRSVkd6R2wxcE85TzFCd2JqU3pIMnZZdHZFczJMME03SkNKZVk0SExSbTZQZ3BPcWdidDdTY25Rdw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Diageo overtakes Pernod Ricard as India’s biggest spirits seller",
+   "excerpt": "Diageo overtakes Pernod Ricard as India’s biggest spirits seller The Drinks Business"
+  },
+  {
+   "title": "Saputo seeks profit boost with bet on cultured dairy, drinks",
+   "url": "https://www.just-drinks.com/news/saputo-cultured-dairy-functional-drinks-investment/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "Saputo is investing C$600m to expand capacity in cultured dairy and functional drinks, targeting an earnings boost from high-growth categories.",
+   "excerpt": "Saputo is investing C$600m to expand capacity in cultured dairy and functional drinks, targeting an earnings boost from high-growth categories."
+  },
+  {
+   "title": "Bryce Young, Jameson Williams come up big in Week 11 action - AL.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFZHZndnU0xxS2Z5Z2RISG1QUHV0U1prZU5zSzhpNktTdVBKU0tSZXZma3AtTzg0NVB5NFdqREkxbXI0NmVSVS0tT19tUW52RmM3LWpkVUdUeGtsczUxYXVXTDN0WFpoNENBaUhEdGRHQWVBb29uRnRrYWE5ZEhoZW1XLUNlTUl1aTZOYlVEOHJDMjdDWlg1dWx3?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Bryce Young, Jameson Williams come up big in Week 11 action",
+   "excerpt": "Bryce Young, Jameson Williams come up big in Week 11 action AL.com"
+  },
+  {
+   "title": "Competition Damages Awards To Be Followed With Interest - Wolters Kluwer",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3Y3Mzc2dGNvZTFJVHhBRmhvX0ZQQkdLaVMzVUVnVHI1RF9BS3BRanJ4RjlOVDdGUEZzWVVXUjRMVmt5bUtOZGFPaU5sVWhoY1dlUFpZenhrbWtjM1RBTXFYSE80NGs5UE5Kd1dibVRuQVZPQ1pfUlhUOGhoYmN2Q1RCRzc5dENac05IYWR0dGF6c01rcXhWNUc5dnR2cDNZRXEzRWRBZEJsYUZRdlRr?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Competition Damages Awards To Be Followed With Interest",
+   "excerpt": "Competition Damages Awards To Be Followed With Interest Wolters Kluwer"
+  },
+  {
+   "title": "Lions' Jameson Williams does front flip touchdown celebration one week after Aidan Hutchinson's injury - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORFZVakJ2UVJMZDJjLUJMVXd6cGlOVnRsQjlXNDlBT2xmWHA1VmwzaU9pUzBtVGY4bm1xSzM5QUJKbV9wcXZUaGhMdmpQOW1lNGJCNVJXYms2cWtwdTFTa1l6SXRmYmxQb1d2T2pETC1fdHY3b2NLQkg1VXFyRUdibERrZzBYLWw3STRDWG13cUVqTGEyVkZMTW90bWdzNW5LeHh4eGR5VkhIRUFMOVVMSENkMkxaVTZCWUZQN19ublBiRVp6NXpYWg?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Lions' Jameson Williams performs a front flip touchdown celebration one week after Aidan Hutchinson's injury.",
+   "excerpt": "Lions' Jameson Williams does front flip touchdown celebration one week after Aidan Hutchinson's injury Fox News"
+  },
   {
    "title": "Lions’ Jameson Williams Makes Promise After TD Flip Celebration - Yahoo Sports",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXZPRTdlOE1BV19HaEc0UkNaWGJVYUxQbzkyVGxTanl3aF9SNHNPaHdJSEFzUHRsSVdFV19MZVJSWWNjNFFjd2ktcGZSRTBqb0diNERYb2JFaFhvdld6WnJHQVRCdWRSNHFPN2tQVi14Z0dpU1ZRV2xQckFUeXk3eXg5dWZxLUZqM3JuLWNR?oc=5",
@@ -39,6 +174,15 @@
    "date": "2026-11-23",
    "ai_summary": "Jameson Williams' flip celebration had Lions fans terrified - Detroit Free Press — Jameson Williams' flip celebration had Lions fans terrified Detroit Free Press",
    "excerpt": "Jameson Williams' flip celebration had Lions fans terrified Detroit Free Press"
+  },
+  {
+   "title": "Lions' Jameson Williams explains flip into end zone vs. Bucs - The Detroit News",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT283YlJGdlB5aG93MFdPS29TR3FyTFRDWjNPOUN1T2pOaExpejNFWmJuUFlFZzVra3VoWGVUQ200cjFGTXlGcWlKblI0amhJblpsQ2JnM1RTSXVpNk9oeWZrNWl4MGxrUUlsSmwxamNzQlNQZWI2c3VJSnpwRlloWGp3aUo0Y0NYcEk2ZTFCSF9xOGFpd0JUR0Jjby1pb2ZwVGY1Wm1VdTdSUlpDT3FmYkJBYkQ5R2d1VmZEZ1U3T3FhUE5BM3U1ZjFOMVppdnl6UDduUnNxcWdtQ0Q0TjJNRg?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Jameson Williams explains his flip into the end zone against the Bucs.",
+   "excerpt": "Lions' Jameson Williams explains flip into end zone vs. Bucs The Detroit News"
   },
   {
    "title": "Jameson Williams Long TD grab in win - Fantasy Footballers Podcast",
@@ -255,6 +399,15 @@
    "date": "2026-11-21",
    "ai_summary": "10 Powerless Marvel Characters Who Show Strong Superhero Potential - Comic Book Resources — 10 Powerless Marvel Characters Who Show Strong Superhero Potential Comic Book Resources",
    "excerpt": "10 Powerless Marvel Characters Who Show Strong Superhero Potential Comic Book Resources"
+  },
+  {
+   "title": "The Hunt for the Jameson Buck, a 250-Inch Kansas Legend That Lived in an Old Strip Mine - Outdoor Life",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY05FdU5hekFHUWhiLU9LUzBpU0hVMmJBUkduWFF0UDJBUzBaSTJ4d000LVIwOW8yU1ZTT2JxZE0zcjNSVGdJMnVoaWpGVnNSbG1ZTFdKd2xaNzk4YlpQaGVTazRfM1laOFk1cGJUTkNBMlYwWlE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-21",
+   "ai_summary": "The hunt for the Jameson Buck, a 250-inch Kansas legend that lived in an old strip mine.",
+   "excerpt": "The Hunt for the Jameson Buck, a 250-Inch Kansas Legend That Lived in an Old Strip Mine Outdoor Life"
   },
   {
    "title": "Jameson Williams Week 11 Outlook for Fantasy Football (2026) - RotoBaller",
