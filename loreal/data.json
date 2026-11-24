@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-23T19:57:00Z",
+ "updated": "2026-11-24T04:41:00Z",
  "briefing": {
-  "date": "2026-11-23",
-  "hook": "L’Oréal focuses on women empowerment, tech innovation, market investment and brand accolades amid legal settlement.",
+  "date": "2026-11-24",
+  "hook": "Today L'Oréal highlighted leadership changes, celebrated changemakers, secured a tech award, announced a €300m French investment, and faced a lawsuit settlement.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal celebrates women leaders at its Women of Worth Gala while Indian startup Intrinsic Foundries wins its Big Bang Beauty Tech Programme.",
-   "💄 Brands & Launches": "Michael CeraVe campaign wins five Grand awards at the Clio Health Awards.",
-   "💡 Beauty Tech & ESG": "L’Oréal backs Indian startup Intrinsic Foundries in its Big Bang Beauty Tech Programme and plans €300 million investment in France to boost eco‑transition and R&D.",
-   "📈 Market": "L’Oréal invests €300 million in France to strengthen its presence and supports the country’s economy through environmental transition of its manufacturing sites and R&D, while settling a hair‑relaxer lawsuit."
+   "🤝 Strategy & M&A": "L'Oréal Italy named Marco Giolla CFO, while the Women of Worth Gala celebrated changemakers and Indian startup Intrinsic Foundries won the 2026 Big Bang Beauty Tech Programme.",
+   "💄 Brands & Launches": "CeraVe launched a social-first partnership with the NBA to engage audiences through marketing initiatives.",
+   "💡 Beauty Tech & ESG": null,
+   "📈 Market": "L'Oréal will invest €300m in France by 2029, joins dermocosmetics rivals in science-backed skincare, and settles a lawsuit over a hair straightening product."
   }
  },
  "articles": [
+  {
+   "title": "L'Oréal Italy: Marco Giolla appointed CFO, Diego Salvo named director of Settimo Torinese production site - FashionNetwork - The World's Fashion Business News",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLURaNGZTU3puak1VX2R0Y1U0S0JSenBFLTVmWEdNQWg3QzNrYXpJOHJuVzdZYkhEZkp5ZDR2SEJ0Sm9JZzI5UVpOMHlUNGVPc05IUjQxTmFjdGNXdzVHMmQ0X0xXeGlVemI5a1A5T2dwblFkSEVSTFNRYjI3V0RoWHp6Ym1rSG5vQVp6eFlYZEJNVVpPeWE1dHZUYnhjalo3RXBMSGFEVnNhTFFFQmpFbDIyYU1STEViQm96MXJjM29YVDBZM0VWaV9YNmwzWENDaUFUdkpmMlhWU0U0eDZET29EQVBvQQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "L'Oréal Italy announced Marco Giolla as CFO and appointed Diego Salvo as director of the Settimo Torinese production site.",
+   "excerpt": "L'Oréal Italy: Marco Giolla appointed CFO, Diego Salvo named director of Settimo Torinese production site FashionNetwork - The World's Fashion Business News"
+  },
+  {
+   "title": "Pure Trade manufactures a metal case for the new Diesel women's fragrance",
+   "url": "https://www.premiumbeautynews.com:8443/en/pure-trade-manufactures-a-metal,28590",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Pure Trade has produced a metal case for Diesel's new women's fragrance, designed by Bureau Tonalli, to house the bottle and a scented body product.",
+   "excerpt": "Designed by Bureau Tonalli for L'Oréal, this oval tinplate case holds the bottle of Only Desire, the new diesel women's fragrance together with a scented body product. According to Pure Trade, from an industrial point of…"
+  },
+  {
+   "title": "Medicos Beauty puts its colour expertise on display in a 200 ml Carita jar",
+   "url": "https://www.premiumbeautynews.com:8443/en/medicos-beauty-puts-its-colour,28584",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Medicos Beauty created a 200 ml jar for Maison Carita's hair mask, addressing the challenge of achieving a consistent deep-black shade across all components.",
+   "excerpt": "Medicos Beauty designed and manufactured the 200 ml jar for Maison Carita's restructuring hair mask, meeting the technical challenge of harmonising a deep-black shade, mass-tinted across all three components, though made…"
+  },
   {
    "title": "L’Oréal Paris Celebrates 10 Changemakers at Women of Worth Gala - Happi | Household And Personal Products Industry",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjdURk45REpIOHl4aXNmT1NJV0pScXh2T0t1Wnp2aUNYYmh2aVVtZ0hUQk5qTVkxZVNQZVlCa0liTy1KbFFsWkJCR3NmR1dRQjQ1T0h2djIxX3M3NGdYaWFGMmFBYm5lZzctSXlHdGRTbzJKa2Qwa1lwejBPNGpLNTlSdGFpZFlDbV9VWTFuZjFpX0hiSktIWHRNR3pfWnhYRG5GWmRrcWVjdw?oc=5",
@@ -209,6 +236,15 @@
    "date": "2026-11-20",
    "ai_summary": "Armani, L'Oréal and EssilorLuxottica: negotiations for a 15% stake",
    "excerpt": "Armani, L'Oréal and EssilorLuxottica: negotiations for a 15% stake nss magazine"
+  },
+  {
+   "title": "L’Oréal Explores Carbon-Derived Plastic for Packaging - Environment+Energy Leader",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVdyODR0MENqVkxpUTE0ejB1RDFkWEtaWlFGR1lTUl9OeDRLOGlFbW5xTGp0UWlYZmoxY0NTR0xJeVdEVGhvZHI1dENvMUFmZS1FU0lTeTZ6a0pqcHdPRGJUOVVRSjZaekJSRDRHQ0tlbWlXRDFMT1BrYk1lS1pNdjFxdklycUc2UERSMS1PNU0xVjBna21hSTUwel9Xc3l6cjlOMEVydlRtQQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "L'Oréal is investigating the use of carbon-derived plastic for its packaging solutions.",
+   "excerpt": "L’Oréal Explores Carbon-Derived Plastic for Packaging Environment+Energy Leader"
   },
   {
    "title": "L’Oréal is set to acquire a stake in Armani and, in doing so, beats LVMH to the punch - Luxus Plus",
@@ -2189,24 +2225,6 @@
    "date": "2026-10-25",
    "ai_summary": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report – Yahoo Finance",
    "excerpt": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report Yahoo Finance"
-  },
-  {
-   "title": "Marianela Nuñez is the face of L'Oréal Paris, the Royal Ballet and Opera's first beauty partnership - Gramilano",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZWnNzOXBDUFZKNGRNT2pPR0JYclNRaUhUaEpQN3NCN3J4MF9vaWhmZUxUb0V3R3RxM29YcWFVeVdEQ3BRWEZ1OHA5S19XSVFsVUdFWGNMOUtkUW9oMEtZUFNILXZnZGpXcTRKeWsyUEw?oc=5",
-   "source": "L'Oréal Brands (Google News)",
-   "category": "💄 Brands & Launches",
-   "date": "2026-10-24",
-   "ai_summary": "Marianela Nuñez serves as the face of L'Oréal Paris. She is also the face of the Royal Ballet and Opera's first beauty partnership, Gramilano.",
-   "excerpt": "Marianela Nuñez is the face of L'Oréal Paris, the Royal Ballet and Opera's first beauty partnership Gramilano"
-  },
-  {
-   "title": "L'Oreal Likely to Benefit From AI Capabilities -- Market Talk - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanJEZVl3OUltZnVDM1UtckJ5Vm9lazQxM0lLVnJLMnlocGJ1emFwYTlzb0ltWkJlTmNZSWlGZ2w1X3RfbnVMSEhubE9rOEFsekUwTmJZcmpwRGF2TjZUR2VDR1JNOUliVk5aU3hzblpLUkthLVd6WlVHaFBGWm1HNEQ0ZHM3SkpMSVhuTTl1Zk4tUk8zeWlZeHFWSTZ4bEZWa2Z4Sg?oc=5",
-   "source": "L'Oréal Beauty Tech & ESG (Google News)",
-   "category": "💡 Beauty Tech & ESG",
-   "date": "2026-10-24",
-   "ai_summary": "L'Oréal is expected to benefit from AI capabilities, according to Market Talk on Moomoo.",
-   "excerpt": "L'Oreal Likely to Benefit From AI Capabilities -- Market Talk Moomoo"
   }
  ]
 }

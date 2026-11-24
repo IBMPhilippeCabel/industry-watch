@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-23T19:57:00Z",
+ "updated": "2026-11-24T04:41:00Z",
  "briefing": {
-  "date": "2026-11-23",
-  "hook": "Amazon’s shift to a discovery platform and L’Oréal’s €300m French investment highlight the day’s focus on retail innovation and sustainability.",
+  "date": "2026-11-24",
+  "hook": "Today’s highlights span pet‑care innovation, fragrance tech, and strategic moves by beauty giants.",
   "categories": {
-   "📈 Market": "Beauty giants are investing heavily in dermocosmetics to meet consumer demand for science-backed skin care that addresses specific concerns and delivers results.",
-   "💄 Brands & Retail": "Amazon is evolving into a discovery platform for beauty and wellness brands, shifting how these brands control the shopping experience and consumer engagement.",
-   "🤝 Strategy & M&A": "L’Oréal will invest almost 300M euros in France through 2029 to support the environmental transition of its sites, R&I capabilities and operations development.",
-   "💡 Innovation & Regulation": "California’s Assembly Bill 496 will ban certain cosmetic ingredients in five weeks, urging beauty brands to act now to avoid being caught out by the deadline."
+   "📈 Market": "Body milks are resurging as consumers chase sensorial pleasure, while beauty giants deepen dermocosmetic investments to meet demand for science‑backed skin care.",
+   "💄 Brands & Retail": "Amazon is reshaping the beauty shopping experience into a discovery platform, altering how brands engage consumers.",
+   "🤝 Strategy & M&A": "L’Oréal is earmarking nearly EUR 300 million for France’s environmental and R&D initiatives between 2027 and 2029.",
+   "💡 Innovation & Regulation": "Pet‑care products now include skincare, supplements, fragrances, and spa‑style treatments, reflecting pets’ growing importance in consumers’ lives."
   }
  },
  "articles": [
+  {
+   "title": "Petcare: A new frontier for the beauty industry?",
+   "url": "https://www.premiumbeautynews.com:8443/en/petcare-a-new-frontier-for-the,28592",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-24",
+   "ai_summary": "The petcare market is transforming with skincare, supplements, fragrances, and spa-inspired treatments as pets gain importance in people's lives.",
+   "excerpt": "Skincare, dietary supplements, fragrances, spa-inspired treatments — the petcare market is undergoing a transformation as pets take on an increasingly important role in people's lives. While brands are rolling out a grow…"
+  },
+  {
+   "title": "Pure Trade manufactures a metal case for the new Diesel women's fragrance",
+   "url": "https://www.premiumbeautynews.com:8443/en/pure-trade-manufactures-a-metal,28590",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Pure Trade has created a metal case for Diesel's new women's fragrance, designed by Bureau Tonalli for L'Oréal, that also holds a scented body product.",
+   "excerpt": "Designed by Bureau Tonalli for L'Oréal, this oval tinplate case holds the bottle of Only Desire, the new diesel women's fragrance together with a scented body product. According to Pure Trade, from an industrial point of…"
+  },
+  {
+   "title": "Smelody brings music into the perfume bottle with a patented sound device",
+   "url": "https://www.premiumbeautynews.com:8443/en/smelody-brings-music-into-the,28588",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-24",
+   "ai_summary": "Smelody integrates music into perfume bottles with a patented sound device that plays classical pieces when the bottle is opened.",
+   "excerpt": "The Grasse-based start-up combines eight fragrances with classical music pieces, played automatically when the bottle is opened through a patented sound device built into the cap. This packaging innovation puts the multi…"
+  },
+  {
+   "title": "Flosty launches IRIS, a French-made thick-wall Surlyn fragrance cap",
+   "url": "https://www.premiumbeautynews.com:8443/en/flosty-launches-iris-a-french-made,28585",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-24",
+   "ai_summary": "Flosty has launched IRIS, a French-made thick-wall Surlyn fragrance cap, to help niche brands differentiate their products on shelves.",
+   "excerpt": "As niche fragrance brands continue to expand their portfolios, demand for distinctive packaging components that help products stand out on the shelf is growing. To address this need, prestige standard packaging supplier …"
+  },
+  {
+   "title": "Medicos Beauty puts its colour expertise on display in a 200 ml Carita jar",
+   "url": "https://www.premiumbeautynews.com:8443/en/medicos-beauty-puts-its-colour,28584",
+   "source": "Premium Beauty News",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Medicos Beauty produced a 200 ml jar for Maison Carita's hair mask, addressing the challenge of a consistent deep-black shade across all components.",
+   "excerpt": "Medicos Beauty designed and manufactured the 200 ml jar for Maison Carita's restructuring hair mask, meeting the technical challenge of harmonising a deep-black shade, mass-tinted across all three components, though made…"
+  },
+  {
+   "title": "Beautyworld Dubai moves to Expo City Dubai for its 2027 edition",
+   "url": "https://www.premiumbeautynews.com:8443/en/beautyworld-dubai-moves-to-expo,28581",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-24",
+   "ai_summary": "Beautyworld Dubai moves to Expo City Dubai for its 2027 edition — The next edition of Beautyworld Dubai will take place at the Dubai Exhibition Centre (DEC), at Expo City Dubai, from October 19 to 21, 2027. The move will provide the show with expanded exhibition space, said the organiz…",
+   "excerpt": "The next edition of Beautyworld Dubai will take place at the Dubai Exhibition Centre (DEC), at Expo City Dubai, from October 19 to 21, 2027. The move will provide the show with expanded exhibition space, said the organiz…"
+  },
+  {
+   "title": "The milky movement is now taking over body care",
+   "url": "https://www.cosmeticsbusiness.com/the-milky-movement-is-now-taking-over-body",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-23",
+   "ai_summary": "Body milks are experiencing a resurgence as consumers seek sensorial pleasure in body care.",
+   "excerpt": "Body milks are seeing a major resurgence as consumer demand for sensorial pleasure rises. Megan Fahy reports"
+  },
   {
    "title": "How Amazon is becoming a discovery platform for beauty and wellness brands",
    "url": "https://www.glossy.co/sponsored/how-amazon-is-becoming-a-discovery-platform-for-beauty-and-wellness-brands/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -38,6 +101,24 @@
    "date": "2026-11-23",
    "ai_summary": "Vancouver Beauty-Tech Platform converts salon memberships into monthly revenue through its platform.",
    "excerpt": "Vancouver Beauty-Tech Platform Turns Salon Memberships Into Monthly Revenue Quantisnow"
+  },
+  {
+   "title": "Vancouver Beauty-Tech Platform Turns Salon Memberships Into Monthly Revenue - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWERtclppbHUza2dtMEZiTFJqTnYyY181aUZTVGRYUTFQZ3JMOS0xcVFVUExrODJ3ZFppMmdKRVRPbkhnOERUdHVxWGhTM3JPMUJmVklISHRVSUxVWGl4VjVIa3VlN203TlE5czdlTjZUaHJSbENQd0ppUWdnaE5BZWRVaEIzOGY2eldpRDQ1djVENy0wVGRKUTZHbTZVeF9BQnBLelpVYTVJLWZTWnFPTmJLelFqRGZVZ2VaSmc5SGllVG9xRDBRWjJJbw?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-23",
+   "ai_summary": "Vancouver Beauty-Tech Platform Turns Salon Memberships Into Monthly Revenue - PR Newswire — Vancouver Beauty-Tech Platform Turns Salon Memberships Into Monthly Revenue PR Newswire",
+   "excerpt": "Vancouver Beauty-Tech Platform Turns Salon Memberships Into Monthly Revenue PR Newswire"
+  },
+  {
+   "title": "Coty Tweedy - FloWrestling",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XMmdPZlJMaHdWTDFaalN1OTJLeFBFSjAtbi1HSmRPYWc3TjA4dVg3Vjg1Zk03Vy1rOWdHenQzVXl3UnZQaHpPMHMzRUxGVmUzRWVtbUh6LWloN1daT1lzdFhGdUw4NzhCZkRnRW52YVdpOFU?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "Coty Tweedy - FloWrestling — Coty Tweedy FloWrestling",
+   "excerpt": "Coty Tweedy FloWrestling"
   },
   {
    "title": "L’Oréal to invest €300 million in France by 2029 to ‘strengthen’ presence there",
@@ -857,6 +938,15 @@
    "date": "2026-11-18",
    "ai_summary": "The Natural List: Clean beauty is out, peptides are in - New Hope Network — The Natural List: Clean beauty is out, peptides are in New Hope Network",
    "excerpt": "The Natural List: Clean beauty is out, peptides are in New Hope Network"
+  },
+  {
+   "title": "Shiseido sells China business in profitability push - Personal Care Insights",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3VNUHptby1tTWZfejhCb041TVE5b0JuZnNabzVwR2pWVWFpamVYV2hEUXhwd0ZHYV9wcno3dWVDbnJLTmY0N0RadjVnSzZTRWh3RnJPX04tRERGOWcyNE5OVEVrRF9SSmxPMG9UcThUSEE2SmhiR2NDV0NfZS0yR0pVd0taME5tYjh0NG1MQjhUMGNvZl94b3gyVHNIdw?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-18",
+   "ai_summary": "Shiseido sells China business in profitability push - Personal Care Insights — Shiseido sells China business in profitability push Personal Care Insights",
+   "excerpt": "Shiseido sells China business in profitability push Personal Care Insights"
   },
   {
    "title": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands",
@@ -3424,6 +3514,15 @@
    "excerpt": "The growth of clean beauty: Market data breakdown SCNow"
   },
   {
+   "title": "The growth of clean beauty: Market data breakdown - The Daily Progress",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3dDS0h2anJUUjZzZW1yTjNLdENDT3FMR1cwMUwta3VhYWtVMl82MktMSlFVYWhWaDdxVVJDYkdSbnpPbWJtUTlydmpwMUl5MUdVUktBUEtjVTd4cUdVN3V3TVN5ZjRpMHgxMy1GY0wxWXNOVWlWdXVpbWRwLWtMbGpjcHNMZmNfQUJuMGNPaU8zdF83U2Jzb1JReXdfVWVjZmViRnFJSjZOV0J6ckNz?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-05",
+   "ai_summary": "The article discusses the expansion of clean beauty in the market. It provides a breakdown of relevant data.",
+   "excerpt": "The growth of clean beauty: Market data breakdown The Daily Progress"
+  },
+  {
    "title": "The growth of clean beauty: Market data breakdown - The Garden Island",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzBma1pHR2hLM0NaWGZmMlhDQlA3YkVYQ0JwZnRMNkpQVGVWMFZQSmFnZmFzbHk1MloyNGZLZGVPUTZycUFEMGNVRzloczQ3VFdYNEY5Y2FwYzQ3NUI0U2RjSVJUckZLYzlEMTUzdE5NMzFSTDRJRDkwbjlUZDk5RFEya0RpYWFFMW9ZNW1qcUFrSEh0YUE?oc=5",
    "source": "Beauty Innovation & Tech (Google News)",
@@ -5969,60 +6068,6 @@
    "date": "2026-10-25",
    "ai_summary": "The fragrance maker has opened its “flagship for Fine Fragrance” at 641 Avenue of the Americas in Chelsea, New York City. The new 44,000‑square‑foot space brings together perfumers, fragrance development teams, and other key stakeholders in a single location.",
    "excerpt": "The fragrance maker has opened what it calls its “flagship for Fine Fragrance” at 641 Avenue of the Americas in Chelsea, New York City. The new 44,000-square-foot space brings together perfumers, fragrance development te…"
-  },
-  {
-   "title": "Beyond Beauty, Beyond Borders: Misti Herbal Remedies Expands Ayurveda-Inspired Clean Beauty Worldwide - EIN News",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV3BmM05saVV5TmZmRktmWFJIckI3eW9RUC1jMWV6VktKRnNhN0JTUXVWZFBQSlNPM0Y1cjI5enpXQVNtLVJXZzFOOU90QnlJbVRRZUtxejdadnpHaC13OFA3NEF1TjFGdW1fWjhpRkNTQ0FzTFdfZk5qbjVOUWFRSS1fSzlJT2pwZHd4by1ZaTV1MkNBaGN1YS05bU02NExaM2dRYXNQVzlqNVZzOWtIRWtIel9TWmY3M1BjT281blVHcURLZWJEakNqSy1kNkExUHk1Wk9vS00?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-24",
-   "ai_summary": "Misti Herbal Remedies expands its Ayurveda-inspired clean beauty products worldwide, as reported by EIN News.",
-   "excerpt": "Beyond Beauty, Beyond Borders: Misti Herbal Remedies Expands Ayurveda-Inspired Clean Beauty Worldwide EIN News"
-  },
-  {
-   "title": "Beyond Beauty, Beyond Borders: Misti Herbal Remedies Expands Ayurveda-Inspired Clean Beauty Worldwide - EIN Presswire",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWJzSXFSSG44NTc1a3lOTlNjNERuZlJLTmJqQW1qeFBOd3BsVDY1S2prMmJlOWFjNGJyZ1VRMDc3X3pUV005bEhmZDFGbVVBOWFlQTcyMU1aVFl1NkpWcUZaR0RWMHRvZUVsMTl3S0d2S2h2QTIwRWtseHo3X2dZOVB1V0R0TTJrZEFJSlYzLUxQQUlKcXh6UXNVVU1BRXV1ZnBrbjlxaWNCY1hZR1hMbFcwQVpyVTRmV3BwX3NkZHdWM3NiN015WnZQYmg2ZDdwcGtVM0hhZExDaVN1Y25Z?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-24",
-   "ai_summary": "Beyond Beauty, Beyond Borders: Misti Herbal Remedies Expands Ayurveda-Inspired Clean Beauty Worldwide",
-   "excerpt": "Beyond Beauty, Beyond Borders: Misti Herbal Remedies Expands Ayurveda-Inspired Clean Beauty Worldwide EIN Presswire"
-  },
-  {
-   "title": "Augustinus Bader Spa Opens at The Mark Hotel",
-   "url": "https://wwd.com/beauty-industry-news/beauty-features/augustinus-bader-spa-the-mark-1239343921/",
-   "source": "WWD Beauty",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-24",
-   "ai_summary": "Augustinus Bader Spa opens at The Mark Hotel, described as a \"cocoon\" by Charles Rosier, featuring three focus rooms including one with a hyperbaric chamber.",
-   "excerpt": "Described as a \"cocoon\" by Charles Rosier, cofounder and chief executive officer of the luxury skin care brand, the new space will feature three focus rooms, one with a hyperbaric chamber."
-  },
-  {
-   "title": "EU: Parliament approves simpler rules on CMR substances in cosmetics",
-   "url": "https://www.premiumbeautynews.com/en/eu-parliament-approves-simpler,28399",
-   "source": "Premium Beauty News",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-24",
-   "ai_summary": "EU: Parliament approves simpler rules on CMR substances in cosmetics — From lipsticks to sunscreens, the European Parliament definitively adopted legislation on Thursday, October 22, giving manufacturers more time to withdraw cosmetics containing certain hazardous substances from the market…",
-   "excerpt": "From lipsticks to sunscreens, the European Parliament definitively adopted legislation on Thursday, October 22, giving manufacturers more time to withdraw cosmetics containing certain hazardous substances from the market…"
-  },
-  {
-   "title": "Proya Cosmetics adds an R&D lab to its European Innovation Centre",
-   "url": "https://www.premiumbeautynews.com/en/proya-cosmetics-adds-an-r-d-lab-to,28401",
-   "source": "Premium Beauty News",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-24",
-   "ai_summary": "Proya Cosmetics opens a new R&D laboratory in Suresnes, near Paris, as part of its European Innovation Center established in France in 2024.",
-   "excerpt": "Following the establishment of its European Innovation Center in France in 2024, Chinese cosmetics giant Proya inaugurated a new R&D laboratory in Suresnes, near Paris, on October 13, 2026. According to Proya Cosmetics, …"
-  },
-  {
-   "title": "YSL Beauty steps up its investment in Brazil with first store in São Paulo",
-   "url": "https://www.premiumbeautynews.com/en/ysl-beauty-steps-up-its-investment,28403",
-   "source": "Premium Beauty News",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-24",
-   "ai_summary": "YSL Beauty is increasing its investment in Brazil by opening its first physical store in São Paulo after launching an e‑commerce platform in 2024. The brand is also boosting its presence through targeted marketing campaigns and availability on TikTok.",
-   "excerpt": "Following the launch of its e-commerce platform in 2024, the French brand is expanding its presence in Brazil through targeted marketing campaigns and its first physical store, complementing its availability on TikTok Sh…"
   }
  ]
 }
