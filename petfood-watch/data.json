@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-24T04:41:00Z",
+ "updated": "2026-11-24T17:10:00Z",
  "briefing": {
-  "date": "2026-11-23",
-  "hook": "Today’s pet food news spans expansion, regulatory updates, and leadership changes, underscoring growth and evolving standards.",
+  "date": "2026-11-24",
+  "hook": "Pet food industry sees expansion moves, sustainability focus, and leadership changes.",
   "categories": {
-   "📈 Market": "USDA trade nominee advances, Pet Supplies Plus adds nine stores, REWE expands pet business, and Mexico’s premium market seeks new growth.",
-   "⚖️ Regulation": "UK government outlines its stance on future flea and tick treatment regulation following eight House of Lords recommendations.",
-   "💡 Innovation": "Polish producers expand, regenerative agriculture research highlights adoption barriers, and online channels grow, while sustainability messaging varies across segments.",
-   "🤝 M&A": "Mars names a new global president for its Science & Diagnostics division in pet food processing."
+   "📈 Market": "Pet Supplies Plus now has 730 stores after adding nine Petsense locations, and REWE is expanding its pet business nationwide through DIY and drugstore partnerships.",
+   "⚖️ Regulation": null,
+   "💡 Innovation": "Cargill’s Impact Report underscores climate, land, water, and people sustainability, while Polish producers expand into Dubai and Ukraine’s MasterZoo launches an app.",
+   "🤝 M&A": "Mars names Carlos Andres‑Luna president of its Science & Diagnostics division."
   }
  },
  "articles": [
+  {
+   "title": "Fresh, dry and wet cat foods produce distinct microbiomes",
+   "url": "https://www.petfoodindustry.com/home/featured/article/16542645/fresh-dry-and-wet-cat-foods-produce-distinct-microbiomes",
+   "source": "Petfood Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-24",
+   "ai_summary": "Fresh, dry and wet cat foods produce distinct microbiomes — Study finds differences in microbial diversity, bacterial species and predicted nutrient metabolism, while health implications...",
+   "excerpt": "Study finds differences in microbial diversity, bacterial species and predicted nutrient metabolism, while health implications..."
+  },
+  {
+   "title": "Handtmann receives innovation award",
+   "url": "https://www.petfoodprocessing.net/articles/21105-handtmann-receives-innovation-award",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-24",
+   "ai_summary": "Handtmann receives innovation award — The award reflects an ongoing collaboration built around solving specific processing challenges and improving production.",
+   "excerpt": "The award reflects an ongoing collaboration built around solving specific processing challenges and improving production."
+  },
+  {
+   "title": "Cargill highlights sustainability efforts in new Impact Report",
+   "url": "https://www.petfoodprocessing.net/articles/21104-cargill-highlights-sustainability-efforts-in-new-impact-report",
+   "source": "Pet Food Processing",
+   "category": "💡 Innovation",
+   "date": "2026-11-24",
+   "ai_summary": "Cargill highlights sustainability efforts in new Impact Report — The report details sustainability efforts across three focus areas: climate, land and water, and people.",
+   "excerpt": "The report details sustainability efforts across three focus areas: climate, land and water, and people."
+  },
+  {
+   "title": "Fristam Pumps breaks ground on new facility",
+   "url": "https://www.petfoodprocessing.net/articles/21103-fristam-pumps-breaks-ground-on-new-facility",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Fristam Pumps breaks ground on new facility — The new site will be ready for occupancy by the end of 2027.",
+   "excerpt": "The new site will be ready for occupancy by the end of 2027."
+  },
+  {
+   "title": "Nutrish, 9Lives continue to pressure Post in Q4",
+   "url": "https://www.petfoodprocessing.net/articles/21102-nutrish-9lives-continue-to-pressure-post-in-q4",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Nutrish, 9Lives continue to pressure Post in Q4 — Pet food weakness weighed on Post Holdings’ fourth-quarter sales, though profitability improved and full-year adjusted EBITDA increased.",
+   "excerpt": "Pet food weakness weighed on Post Holdings’ fourth-quarter sales, though profitability improved and full-year adjusted EBITDA increased."
+  },
+  {
+   "title": "Mars Appoints Carlos Andres-Luna President Of Mars Science & Diagnostics - ESM Magazine",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGxxdXFVZG05TmdReGZtbzRtTEdfZk41OUFoTlJFRGhHb1JjbkhmUDVhdTFlTzR5X0RmVjNhNlQyYVpHZy1fRXdGa3g5akdMY1hUUHd3el9kajNDQzJhSWJ1bmo5eXVFQkJ1dzJza1hURlh0NVVtcFp0TEZjUHRVbHVyd0hEUW9BRkJaWld3SDlXRkhrcmtvR29BcUVyaWttaXFTcmgxQXdEV2ZOTjBxR0d2RFA?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Mars Appoints Carlos Andres-Luna President Of Mars Science & Diagnostics - ESM Magazine — Mars Appoints Carlos Andres-Luna President Of Mars Science & Diagnostics ESM Magazine",
+   "excerpt": "Mars Appoints Carlos Andres-Luna President Of Mars Science & Diagnostics ESM Magazine"
+  },
   {
    "title": "Polish pet food producers announce expansion plans",
    "url": "https://www.petfoodindustry.com/regions/europe/article/16542502/polish-pet-food-producers-announce-expansion-plans",
