@@ -1,17 +1,71 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-25T11:09:00Z",
+ "updated": "2026-11-25T21:17:00Z",
  "briefing": {
   "date": "2026-11-25",
-  "hook": "L’Oréal’s day highlighted influencer deals, tech adoption, brand partnerships and a €300m French investment to boost sustainability and science-backed skincare.",
+  "hook": "Today L’Oréal highlighted AI-driven opportunities, expanded influencer partnerships, and reinforced its ESG commitments while navigating legal challenges.",
   "categories": {
-   "🤝 Strategy & M&A": "L’Oréal India awarded its influencer marketing mandate to Omnicom Media, expanding its digital outreach.",
-   "💄 Brands & Launches": "CeraVe’s NBA partnership is delivering consistent brand visibility and engagement across the league’s fan base.",
-   "💡 Beauty Tech & ESG": "L’Oréal Vietnam is unlocking new opportunities with AI, signalling a push toward smarter, data‑driven beauty solutions.",
-   "📈 Market": "L’Oréal will invest €300 million in France by 2029 to strengthen its presence, while the industry sees a surge in dermocosmetics driven by consumer demand for science‑backed results."
+   "🤝 Strategy & M&A": "L’Oréal deepens digital influence through an influencer mandate with Omnicom Media India and a partnership with Ariana Greenblatt, while still confronting over 12,700 lawsuits from a hair relaxer trial and receiving a neutral analyst view.",
+   "💄 Brands & Launches": "CeraVe has launched several high‑profile collaborations, becoming the official moisturizer for the Dune film franchise and partnering with NBA star Carmelo Anthony’s alter ego Hoodie Melo for an anti‑dandruff campaign.",
+   "💡 Beauty Tech & ESG": "L’Oréal Vietnam is unlocking new opportunities through AI, signaling a focus on technology‑driven innovation within the group.",
+   "📈 Market": "L’Oréal plans a €300 million investment in France by 2029 to boost manufacturing and R&D, while the beauty sector sees major dermocosmetics spending from L’Oréal, Unilever, Puig and Beiersdorf."
   }
  },
  "articles": [
+  {
+   "title": "L'Oréal-UNESCO For Women in Science Canada Program Celebrates Five Exceptional Canadian Scientists with Prestigious Awards - PR Newswire Canada",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzY2RklaYWlnYVhDSjFqX1FrVVJLWFBLaFJsRWxMRE16aFllNXAyTG82d2xObllST1FDdlRyQXFyV0dEZmVlYkdNdHZHeldCQmdYNER5U21Tamc0ZjZwX0NibUt4QVBhbjN0V2xKaGE4Y2tCYldQV1RHb2ZRVk9SYldPaFUzMndXQlVWT0J0cEJjeU1jV0dtQmZFQUxhWEpxaFhzN0JLUUNoSll1eUtxMWIxUlJyVmJUdE1pMDJmU0g1bmNFU2FDQ201QVg1SFlGdXBUNEJGSnVtSHYxRTlNMUlLWkZXZ2NBYlRMdjRPWFVzVUUtYUJCX2NpeW90WWg3SHFVdE9R?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "L’Oréal-UNESCO For Women in Science Canada Program honors five Canadian scientists with prestigious awards, celebrating scientific excellence.",
+   "excerpt": "L'Oréal-UNESCO For Women in Science Canada Program Celebrates Five Exceptional Canadian Scientists with Prestigious Awards PR Newswire Canada"
+  },
+  {
+   "title": "L’Oréal Settles First Hair Relaxer Cancer Trial — But More Than 12,700 Lawsuits Remain - Complex",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEtrLWhHYXFUTmRwV1lUWWVVdUJZVVVrOXBxTzlhanNWU1UtSFlPSUZTdzVHZmI5d0JLc0VHQXltenYxcmpETjE1cXcwbm9IT1EzbHItM210V0xUMHp1N3hOeFExdnVTRU44X2lDWEk4U1JGZGFjWFBRTkMxdlMtWWhkZ0pSSHNTcXp4cmhtSUx1aHc?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "L’Oréal settles the first hair relaxer cancer trial but still faces over 12,700 remaining lawsuits, highlighting ongoing legal challenges.",
+   "excerpt": "L’Oréal Settles First Hair Relaxer Cancer Trial — But More Than 12,700 Lawsuits Remain Complex"
+  },
+  {
+   "title": "L’Oréal India awards influencer marketing mandate to Omnicom Media India - marketech apac",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjdXTlR5b0c0amg1WWpOZmdSUVVRSnc1VHR2ZlphUEczMnFrWUFKVlN6VXpqNWhqOHdJZ3h4YjZxbE9aRFB1R19BRmR2Z0dCX0x5cGQ2UzFBUFJFdlhIbTdkTV9PTzZoZE9vTVEzRXZvT1RvMU0yNlFoNXpGZ3BKMHRHSnFKN0luSVB5UUFLNGRRWGJVSUZGd0JHTjN0bEJN?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "L’Oréal India grants an influencer marketing mandate to Omnicom Media India, expanding its digital marketing partnerships.",
+   "excerpt": "L’Oréal India awards influencer marketing mandate to Omnicom Media India marketech apac"
+  },
+  {
+   "title": "L'Oréal Paris and Ariana Greenblatt team with Stand Up Against Street Harassment program - Chain Drug Review",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFdkaS1WSkhZeEJOSG96T0hFd2FBa3Y2NUFHcVZHNmRvMXF5MldMRWk4Mjh3ZnhCVEhVMHBiMGJWRHdvWjNobG84UUFscjVMQVNhOE9aamhiSVRYc3ZyMnliUnZ1UU5Na1pzSHpvVDJPcm9lWE1lR2U2eVdsNGhiU19vcWY4cGxTNGhTTkdXcHZwdkN1OVY1UnIxcmp0dW5PQ0I0cTloNTlYZnBjYU0zZ2V5WmkxVmM?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "L’Oréal Paris partners with Ariana Greenblatt to support the Stand Up Against Street Harassment program, showcasing a commitment to social advocacy.",
+   "excerpt": "L'Oréal Paris and Ariana Greenblatt team with Stand Up Against Street Harassment program Chain Drug Review"
+  },
+  {
+   "title": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQb0xRc2h5eUdaVTJaSTA0RndCZzl3bjhDSjlKOHgxUzkzaHZsWHljZmpTR0JhYVh0cC1JQjl3MmZrM2ZqazZfZTlQZHNmRkItYUJBSjFyczk3YUdOSXZuNzg2NE5tdXF6N1U2RDhzSW1KYUtiM0xfOXg3OUpDZGt5ZWtrbE9WNmhmbm9oUlFPV0xZUUpUa1lpbUlUYy1WNS1kaGQ4UkhWZkN2R3N4M3VQN2M1ekhKZ1otejhHWk1zWWNCbEFqMkkxMUNFSGc1ck5YTVp3ZFJUbGNWUFZodkxwY0YzQm1oYkhRam03Vl9zUEJMTElKbzg1WjZfcW5aX3JSalR2WWdpTkR1M3NZT1k4Z3BPOWN6bWpaNV9UMzdR?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Indian startup Intrinsic Foundries wins L’Oréal's 2026 Big Bang Beauty Tech Innovation Program, while Hector receives a special mention for its contributions.",
+   "excerpt": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention PR Newswire"
+  },
+  {
+   "title": "L'Oréal : Bernstein is Neutral - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcktSYmpSYzZ1V0REcU9sNy1zUzYtdUgyV3RWR3VUbkhSU3Z6NTNYR0d1ZGlkUjhkendZUmZKTU13cG52eXVvN09TWUJyS3lLcThlSU1jRnllZzJaYVBhRFhmdDFaSXVtREc4QWpNOGxyeVJXdk5lUjVjdWNwT1NKYTgzTUdJQWh6?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Bernstein maintains a neutral stance on L’Oréal, indicating a balanced view in market analysis.",
+   "excerpt": "L'Oréal : Bernstein is Neutral marketscreener.com"
+  },
   {
    "title": "Omnicom Media wins L’Oréal India’s influencer marketing mandate - Campaign Asia",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWldpT0k1eU5oSk94cTdWaTFQREJhR0lLODl5eUdKb0RHbFJtQjk2VkZtd3JxVXZMOFlsclVSaU9XY1dGUDVwbEVFQkQ0Y19hQXQyd0RqY0FMc3JiODZENEljbzUxNHBVbG90ZjRlNWx1d2MwWTlFUjJValozQmpPOGxlOC1jUDlCY25rcUVXSXdGMjI1TkFDVHkxUlQtZEUtV2V4SEk4ZHliWUZrUzhuY3UtaTQxSWxCOHdkNzJuLUUwN0d5YkE?oc=5",
@@ -913,6 +967,15 @@
    "excerpt": "The Ripple Effect of L’Oréal Paris’ Women of Worth Vanity Fair"
   },
   {
+   "title": "CeraVe becomes \"The Official Moisturizer of Arrakis\" in first-ever film partnership with Dune: Part Three - Chain Drug Review",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT25KNnFPMmpqX3FUaEsydWJPbE1nUm1SOG0wNlNvM2JuaG44VmZsSlg5bkhrdy1TQ01tX2tJYXNjdktPSXNuVExfLV9rdlBKaUNEdXRtaE5LanlUX3lJMnpvdDVGZFRhUHRSNWxMVTZiN2dJNHgwOUN3REhuU0gwTmxPdkJvbEJhMUoxSksyUDNpUkF3U2tidzItdW1xc2ZyZEpPcGQ1VV91REJlQ1hPY18wWjM5aksxOU1xa3lfWTZ5V01OTUZDdkpIUQ?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe becomes \"The Official Moisturizer of Arrakis\" in first-ever film partnership with Dune: Part Three - Chain Drug Review. The article discusses the collaboration between CeraVe and the film franchise.",
+   "excerpt": "CeraVe becomes \"The Official Moisturizer of Arrakis\" in first-ever film partnership with Dune: Part Three Chain Drug Review"
+  },
+  {
    "title": "CeraVe announces ‘Dune: Part Three’ partnership - Drug Store News",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mLXN4emlkY1pDT0NXNXNpRFZkUHR1THJ4alhVa0RZY1FnTG55cElNcTdkamstQ1pjUVMzYk8zQmhMMlNyZlhCTWs3T0hWaTE1eW1JMVhIQTlyNTg3aWt1Z0VEQ1c1aFhDemUyQTF1UnpDZDlBUVFJUUVR?oc=5",
    "source": "L'Oréal Brands (Google News)",
@@ -1010,6 +1073,15 @@
    "date": "2026-11-13",
    "ai_summary": "Share price - L'Oréal Finance — Share price L'Oréal Finance.",
    "excerpt": "Share price L'Oréal Finance"
+  },
+  {
+   "title": "CeraVe Becomes \"The Official Moisturizer of Arrakis\" in First-Ever Film Partnership with DUNE: PART THREE - 巴士的報",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa2s1VlltSy1LbTdVUktuWXpsWlBwRTlCbjlYQTV5bm9vNFhfRllJLUp0bVRZSFpxRmRuNXl1YV9tMUExZDluU0w1ekJJd1NpMW1abUFLS2NNbFRKX05OVzl3MEtlTHRUYWZRS2NsdkplM0l6UFhwNEREVzJzUnBqSXU0NVdLcG0xQ2ppZXNEb1k4MVdZMWFDcDduaU1sOVhISGlvaG9XQndRMHZRN3JpV1JnSm13eVJ1X3FRb3VQV3lES0w3Q0pxTXRZcXVXYmxadkF0VHA0VGRtbERIelJfWTVFWGFyd1dLMEE?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-13",
+   "ai_summary": "CeraVe Becomes \"The Official Moisturizer of Arrakis\" in First-Ever Film Partnership with DUNE: PART THREE - 巴士的報. The piece covers the partnership announcement and its significance.",
+   "excerpt": "CeraVe Becomes \"The Official Moisturizer of Arrakis\" in First-Ever Film Partnership with DUNE: PART THREE 巴士的報"
   },
   {
    "title": "L’Oréal’s Bettencourt Family Expands Investment Team - Global Cosmetics News",

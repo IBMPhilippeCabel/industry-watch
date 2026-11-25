@@ -1,17 +1,53 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-25T11:09:00Z",
+ "updated": "2026-11-25T21:17:00Z",
  "briefing": {
   "date": "2026-11-25",
-  "hook": "Retail consolidation and sales decline dominate the pet food market today.",
+  "hook": "Norwegian retailers unite under Dyrego while Central Garden & Pet sees sales decline, hinting at consolidation and growth pressure.",
   "categories": {
-   "📈 Market": "Norwegian retailers unify under Dyrego, while Central Garden & Pet reports a 1.6 billion dollar net sales decline despite organic growth.",
+   "📈 Market": "Norwegian retailers unified under Dyrego while Central Garden & Pet saw a sales dip, indicating consolidation and pressure on growth.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Consumers now expect daily diets to improve skin and coat health, and new studies show cat food types shape distinct microbiomes.",
-   "🤝 M&A": "Industry stakeholders weigh FDA’s proposed GRAS rule for pet food ingredients, with comments due by December 9."
+   "💡 Innovation": "Consumers now expect daily diets to address skin and coat health, as a glossy coat signals pet wellness.",
+   "🤝 M&A": "Industry stakeholders are assessing the impact of the FDA’s proposed GRAS rule on pet food ingredients."
   }
  },
  "articles": [
+  {
+   "title": "Purina Dog Chow joins 100th Macy’s Thanksgiving Day Parade",
+   "url": "https://www.petfoodprocessing.net/articles/21106-purina-dog-chow-joins-100th-macys-thanksgiving-day-parade",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Purina Dog Chow joins 100th Macy’s Thanksgiving Day Parade — The brand is celebrating its 100th anniversary with a new float honoring service dogs for veterans.",
+   "excerpt": "The brand is celebrating its 100th anniversary with a new float honoring service dogs for veterans."
+  },
+  {
+   "title": "Blue Buffalo celebrates Thanksgiving with new dinnerware collection, celebrity collab",
+   "url": "https://www.petfoodprocessing.net/articles/21109-blue-buffalo-celebrates-thanksgiving-with-new-dinnerware-collection-celebrity-collab",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Blue Buffalo celebrates Thanksgiving with new dinnerware collection, celebrity collab — The Blue Buffalo Dinnerware Collection is a nine-piece set featuring designs by artist Kenzie Elston.",
+   "excerpt": "The Blue Buffalo Dinnerware Collection is a nine-piece set featuring designs by artist Kenzie Elston."
+  },
+  {
+   "title": "AFIA leader receives FSPCA recognition",
+   "url": "https://www.petfoodprocessing.net/articles/21108-afia-leader-receives-fspca-recognition",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "AFIA leader receives FSPCA recognition — Gary Huddleston was named a 2026 top 10 Preventive Controls for Animal Food lead instructor.",
+   "excerpt": "Gary Huddleston was named a 2026 top 10 Preventive Controls for Animal Food lead instructor."
+  },
+  {
+   "title": "Mars continues SHEBA Hope Grows program in Dominican Republic",
+   "url": "https://www.petfoodprocessing.net/articles/21107-mars-continues-sheba-hope-grows-program-in-dominican-republic",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Mars continues SHEBA Hope Grows program in Dominican Republic — Mars partnered with FUNDEMAR in 2025 to work on long-term reef recovery in the area.",
+   "excerpt": "Mars partnered with FUNDEMAR in 2025 to work on long-term reef recovery in the area."
+  },
   {
    "title": "Norwegian pet retailers Buddy, Pets and Dyrego unite under one banner",
    "url": "https://globalpetindustry.com/news/norwegian-pet-retailers-buddy-pets-and-dyrego-unite-under-one-banner/",

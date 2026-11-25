@@ -1,18 +1,99 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-25T11:09:00Z",
+ "updated": "2026-11-25T21:17:00Z",
  "briefing": {
   "date": "2026-11-25",
-  "hook": "UK trade delays and new UK distribution deals highlight shifting drink market dynamics.",
+  "hook": "Heineken pivots between cost cuts and new launches while Pernod Ricard sees a cautious price lift, and innovation pushes zero‑additive spirits and F1‑centric brews.",
   "categories": {
-   "🤝 Strategy & M&A": null,
-   "📈 Market": "UK trade deal delays and new UK distribution tie‑ups signal shifting market dynamics for drinks.",
-   "🍸 Spirits & Premium": "Pernod Ricard is addressing slow gin growth by scaling aperitif offerings.",
-   "🍺 Beer & Brewing": "Heineken launches a Formula One‑exclusive beer to target racing fans.",
-   "💡 Innovation & No-Low": "Heineken introduces a Formula One‑exclusive beer as part of its innovation push."
+   "🤝 Strategy & M&A": "Heineken trims jobs in Poland and plans to restart its Haiti brewery for Christmas, while Deutsche Bank raises its target for Pernod Ricard but remains cautious.",
+   "📈 Market": "Whitebox Cocktails highlights RTD growth and native brand advantage, and El Jefe secures a UK distribution tie‑up for its energy drinks.",
+   "🍸 Spirits & Premium": "Rémy Cointreau introduces a zero‑additive Cognac, Rémy 2.0, to revive US demand.",
+   "🍺 Beer & Brewing": "Heineken unveils a Formula One‑exclusive beer, NPD, targeting F1 fans.",
+   "💡 Innovation & No-Low": "Heineken launches an F1‑centric beer, and India’s FFSAI expands water safety checks to other brands."
   }
  },
  "articles": [
+  {
+   "title": "Heineken cuts jobs in Poland - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWZMY3JpX0d1QktFbG54bzFvVW5qX1UwU2ViZDVIN3lSZ2Zyd2k0RzY2UEJBZHVQSVc4M1drMFhXN3lmdkVzS0xpZzBzZVA1QjVxUmZQVUhweC13dzQzcXpFQXlWQVJzVHF4dzE2U0EtWUxyWnVCQXV3UWVFLVdTbmlOd28xbkkxU0RFcm1iLWdRaUVX?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Heineken is cutting jobs in Poland.",
+   "excerpt": "Heineken cuts jobs in Poland Yahoo Finance"
+  },
+  {
+   "title": "Heineken aims to restart Haiti brewery to meet Christmas demand - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3QxSFFaUnF5OENaVHVFVUhYY29CbG1yR0FkYV9fRmFXaTRMZnV1NHpUSzFRUUxuNDFZdktXZ0twbWs2akZrbDctRHRRbktEMlhNZ3NLbXAxNkxyaDJDR3RlMUZpcWpkQlNlYVRMQnZHYk1ZNExIekJqbThtdDlWUFg1a1lhVWJ6aXVSVEVLdlVmVDlNU25SZmU2THRWRDc0Y05NZFhhcHV0WGp4TktFR094NUYtLURHb3c?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Heineken plans to restart its Haiti brewery to meet Christmas demand.",
+   "excerpt": "Heineken aims to restart Haiti brewery to meet Christmas demand Reuters"
+  },
+  {
+   "title": "Heineken says its aims to restart Haiti brewery 'as soon as possible' to meet Christmas demand - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkVUckF4YlBIZ25zVUVCWWlnZzlKeGtXdE40Ym51bnE5US1ON3k0V2RNV3BXcW5EdEVwQlZSWV8tbGFoQ3NmNG1qM2t2dlRud1UxcGRabE5QVGhQaC1sZUNtM1ZjdjdKYTlPa0l2TnQ2ZkhKYkN1ak0xd0pWUnpaSFBKUTBvOHNOZGtrd0ZPZnM4Q3cyNzBwdWhibmFqeXlDQmE0aTF6N0llVjRtclhmVmlFX1kyeHBvWVZZRHJnUHQ4MkFUdFFVemlvcW4wSlZ4UjJuR3VYc0JFd0h3YlE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Heineken says it aims to restart the Haiti brewery as soon as possible to meet Christmas demand.",
+   "excerpt": "Heineken says its aims to restart Haiti brewery 'as soon as possible' to meet Christmas demand marketscreener.com"
+  },
+  {
+   "title": "Deutsche Bank raises TP for Pernod Ricard, but remains cautious - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYmxXMVF0V2xMNk50em8zc3ZpYnhwRm5EY3hIal9ncm1VbXktMDVXenRLT0N4MnFfVGJsaUVmeFd3dW5yZ3Q5QjhlbmtQcGVVWXgxczROMlpJOFBqSTNGelJTRDRXMUZUVS1QTFdvOGktTm8yNnpma2xQbkp5NkpUVGxDSVcxSUVnN01SZ1dkY2ttU3dGTTNsZWxLeDF0cWw3bGNNLTQ2ejMzMzBPTVN2ZGI2OTdBQQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Deutsche Bank raises its target price for Pernod Ricard but remains cautious.",
+   "excerpt": "Deutsche Bank raises TP for Pernod Ricard, but remains cautious www.marketscreener.com"
+  },
+  {
+   "title": "Whitebox co-founder Josh Rennie on RTD growth and the challenge for big spirits brands",
+   "url": "https://www.just-drinks.com/interviews/whitebox-cocktails-rtd-interview/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Whitebox Cocktails co-founder Josh Rennie discusses RTD growth and the advantage of native brands over major distillers during a US roll-out.",
+   "excerpt": "With a US roll-out underway, UK RTD specialist Whitebox Cocktails believes “native brands” can have the edge on major distillers."
+  },
+  {
+   "title": "Strauss to trim management layers in savings drive",
+   "url": "https://www.just-drinks.com/news/strauss-to-trim-management-layers-in-savings-drive/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Strauss Group plans to reduce management layers as part of a new strategy to streamline operations.",
+   "excerpt": "Strauss Group has outlined plans to streamline its management as part of the Israeli food-and-drinks firm’s new strategy."
+  },
+  {
+   "title": "JM Smucker eyes “significant runway” to growth in coffee",
+   "url": "https://www.just-drinks.com/news/jm-smucker-eyes-significant-runway-to-growth-in-coffee/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "JM Smucker aims to increase household penetration of its coffee brands, noting a significant runway for growth as bean prices decline.",
+   "excerpt": "JM Smucker sees “significant runway” to increase household penetration of its key coffee brands as bean prices continue to come off highs."
+  },
+  {
+   "title": "Deutsche Bank raises target on Pernod Ricard, but remains cautious - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmZGYjlUc2RfSFFnbFJybllaYjlJa0VJWHdLYnNZT3Z5VThiN0gtbGlPemI5bjdCZWxaZkNVTnFaejREeHFzOG9aTjhveDlPWFU0dGc4b0Q3Ml9ZRDVoOF8yTjBSaU1iQ2lQNGRnUDJ3YWJCdEFSZzd5T0R4cmJITDhZVHpYMUlncmZtcW5mX202dWVTSTlrX1VYSmRzM0FuTTJMbmdXMEtFbTUzTTdHT3ZmZmVVVnM4U3c?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Deutsche Bank raises its target on Pernod Ricard while staying cautious.",
+   "excerpt": "Deutsche Bank raises target on Pernod Ricard, but remains cautious www.marketscreener.com"
+  },
+  {
+   "title": "Rémy looks “to make Cognac relevant again” in US with new product",
+   "url": "https://www.just-drinks.com/news/remy-looks-to-make-cognac-relevant-again-in-us-with-new-product/",
+   "source": "Just Drinks",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-25",
+   "ai_summary": "Rémy Cointreau seeks to revive US Cognac demand with a new zero-additives product called Rémy 2.0.",
+   "excerpt": "Rémy Cointreau is hoping to reignite US consumer demand for Cognac with a new \"zero additives\" product called Rémy 2.0."
+  },
   {
    "title": "U of A Sigma Phi Epsilon member killed in Oklahoma crash - 5newsonline.com",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1J5cEZQTm9fbkV4bHZWcVA2akllMmo2NWRPbzJxakZvRXh0RUpKdjJzdi01Z2JfcWNsZUUyVFRoR3oxdVljOEE2QjhmX0JYOXpKcnRGM2RLRXNtQzMtSDBhV0wycGd6R2hHMUVzX2tja1dOa2lLck9nODRIVmV1MDY1bno5d0RaZlMyd251X2ZjVWFTOW9aSS1JdGhvbGFGT0prZ3lwMVZ6enFXUXYtWnpwdmJaQXpPa1d6aXRvMUVBNnRDZFVMZ0hrNWdFb3ozbTJMYzEtMlI?oc=5",
@@ -84,6 +165,15 @@
    "date": "2026-11-24",
    "ai_summary": "Is Stefon Diggs or Jameson Williams a better fantasy play in Week 12? - ESPN discusses which player may offer more value for fantasy teams during Week 12.",
    "excerpt": "Is Stefon Diggs or Jameson Williams a better fantasy play in Week 12? ESPN"
+  },
+  {
+   "title": "Olvi closes microbrewery in Denmark",
+   "url": "https://www.just-drinks.com/news/olvi-closes-microbrewery-in-denmark/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-24",
+   "ai_summary": "Olvi’s Danish subsidiary Bryggeriet Vestfyen has decided to cease operations at its Indslev site in Funen.",
+   "excerpt": "The Finnish drinks group said its Danish subsidiary Bryggeriet Vestfyen had decided to cease operations at the Indslev site in Funen."
   },
   {
    "title": "Dan Campbell wasn't upset by Jameson Williams' flip in Lions win - The Detroit News",
@@ -417,6 +507,15 @@
    "date": "2026-11-23",
    "ai_summary": "Jameson Williams' flip celebration had Lions fans terrified - Detroit Free Press — Jameson Williams' flip celebration had Lions fans terrified Detroit Free Press",
    "excerpt": "Jameson Williams' flip celebration had Lions fans terrified Detroit Free Press"
+  },
+  {
+   "title": "Lions Announce Jameson Williams News During Win Over Buccaneers - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODZxa25aS0lRc2VjTVVoLWtta1VKTHE0b1cxNmF1MFhGUi1kYy14Rl96QldUM3F1OEhLWElTbGg0S1FwT2VFSVp2UjY5RnNMYkNvWWZqUjY2MjVESHJ3MzBNZmVBam5DZWlmMWU3b3dhTHNlbHluc0lINXVucF94S1hzWTExdUtLTkU2V21B?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-23",
+   "ai_summary": "The Lions announced Jameson Williams news during their win over the Buccaneers.",
+   "excerpt": "Lions Announce Jameson Williams News During Win Over Buccaneers Yahoo Sports"
   },
   {
    "title": "Lions' Jameson Williams explains flip into end zone vs. Bucs - The Detroit News",

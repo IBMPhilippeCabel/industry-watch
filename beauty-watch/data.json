@@ -1,17 +1,116 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-25T11:09:00Z",
+ "updated": "2026-11-25T21:17:00Z",
  "briefing": {
   "date": "2026-11-25",
-  "hook": "Today’s buzz shows student gifting driving beauty spend, brands pivoting to accessibility and digital channels, while L’Oréal ramps up R&D investment in France.",
+  "hook": "Innovation, market shifts, and strategic moves shape the beauty landscape today.",
   "categories": {
-   "📈 Market": "Estée Lauder is cutting jobs in France under its ‘Beauty Reimagined’ plan, reflecting broader market pressure as consumers reassess beauty spending.",
-   "💄 Brands & Retail": "College students are allocating a third of holiday gifting to beauty, while brands like Tilt Beauty emphasize accessibility and Sephora expands online and in‑store to match cultural shifts.",
-   "🤝 Strategy & M&A": "L’Oréal is committing nearly €300 million to French R&D and environmental projects, while Thakral exits its stake in a beauty tech group.",
-   "💡 Innovation & Regulation": "JOVS recruits an advisory board for tech initiatives, MAC launches a China‑specific powder, and SharkNinja faces NAD scrutiny over its hair‑care claims."
+   "📈 Market": "Retailers emphasize pre‑shelf conversations while brands focus on human experiences, leadership changes, and cost‑cutting plans shape the market.",
+   "💄 Brands & Retail": "Brands pivot to intentional buying, inclusive beauty, and digital engagement, with Ring Concierge, Aerin Glazer, Sephora, and TikTok driving new retail experiences.",
+   "🤝 Strategy & M&A": "Strategic shifts include leadership changes, wellness investments, new tech acquisitions, and a €300 million French R&D push.",
+   "💡 Innovation & Regulation": "Bio‑based ingredients, regulatory fines, coffee‑inspired scents, and new pore‑targeting tech highlight innovation and compliance challenges."
   }
  },
  "articles": [
+  {
+   "title": "Viablife BioNia: 100% bio-based niacinamide for safer, high-performance sustainable beauty",
+   "url": "https://www.cosmeticsbusiness.com/viablife-bionia-100-bio-based-niacinamide-for-safer",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Viablife BioNia showcased its 100% bio-based niacinamide at In-Cosmetics Asia 2026 and was shortlisted for the IN-COSMETICS ASIA AWARDS, a leading recognition in the Asia-Pacific region’s premier personal care ingredients event.",
+   "excerpt": "At in-cosmetics Asia 2026 (3–5 November), Viablife BioNia was shortlisted for the IN-COSMETICS ASIA AWARDS, one of the leading recognitions at the Asia-Pacific region’s premier personal care ingredients event. As the onl…"
+  },
+  {
+   "title": "Fragrance Giants Fined Over $600M in EU and U.K. for Antitrust Violations",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/fragrance-giants-fined-over-600m-eu-uk-for-antitrust-1239465988/",
+   "source": "WWD Beauty",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Fragrance Giants Fined Over $600M in EU and U.K. for Antitrust Violations — Firmenich, Givaudan and IFF face major penalties for exchanging sensitive information and breaching competition laws.",
+   "excerpt": "Firmenich, Givaudan and IFF face major penalties for exchanging sensitive information and breaching competition laws."
+  },
+  {
+   "title": "You've secured the retail deal. Now what?",
+   "url": "https://www.cosmeticsbusiness.com/you-ve-secured-the-retail-deal-now-what",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Lemonpath discusses the expectations retailers have for beauty brands and the key conversations that should occur before products reach the shelves.",
+   "excerpt": "Lemonpath explores what retailers could expect from your beauty brand and the conversations worth having before your products hit the shelves"
+  },
+  {
+   "title": "Coffee fragrances have grown in popularity, becoming the new cool coffee order",
+   "url": "https://www.cosmeticsbusiness.com/coffee-fragrances-have-grown-in-popularity",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Coffee fragrances have become a new trend as perfumers incorporate toasted scents into their launches, reflecting the growing popularity of café culture.",
+   "excerpt": "As café culture becomes more mainstream, perfumers are once again turning to coffee scents in their new fragrance launches. Cosmetics Business investigates why toasted scents are back on consumers’ radar"
+  },
+  {
+   "title": "Formulation science continues to shape the future of product innovation",
+   "url": "https://www.cosmeticsbusiness.com/food-formulator-a-newly-launched-platform-for-the-1",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Advancements in ingredients, research, and manufacturing are driving new approaches to product development across food, beverage, and cosmetics sectors.",
+   "excerpt": "Developments in ingredients, research and manufacturing are driving new approaches to product development across the food, beverage and cosmetics sectors"
+  },
+  {
+   "title": "The risks and rewards of Coty and Marc Jacob Beauty’s 40-year licensing deal",
+   "url": "https://www.cosmeticsbusiness.com/risks-rewards-coty-marc-jacobs-40-year-licensing-deal",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Coty and Marc Jacobs Beauty’s extended 40-year licensing deal has implications for both the brand and the beauty company, highlighting the risks and rewards of the agreement.",
+   "excerpt": "With Marc Jacobs Beauty extending its licensing deal with beauty giant Coty for a further four decades, Cosmetics Business uncovers what the agreement means for both the brand and the beauty company behind it"
+  },
+  {
+   "title": "Are magazines the next big status symbol for beauty brands?",
+   "url": "https://www.cosmeticsbusiness.com/are-magazines-the-next-big-status-symbol-for",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Beauty brands are creating tangible human experiences with cultural cachet as a response to AI backlash and consumer fatigue with digital overload.",
+   "excerpt": "As the backlash against artificial intelligence grows and consumers step back from digital overload, beauty brands such as Chanel, MAC Cosmetics and Eborian are creating tangible human experiences with cultural cachet th…"
+  },
+  {
+   "title": "Unilever names Wern-Yuen Tan as President, North America",
+   "url": "https://www.cosmeticsbusiness.com/unilever-names-wern-yuen-tan-as-president-north-america",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Unilever names Wern-Yuen Tan as President, North America — Tan will join the Unilever Leadership Executive team and will be accountable for activity across all of Unilever's categories in North America",
+   "excerpt": "Tan will join the Unilever Leadership Executive team and will be accountable for activity across all of Unilever's categories in North America"
+  },
+  {
+   "title": "Rare Beauty Brands reveals three winners of 2026 LIFT Beauty Accelerator",
+   "url": "https://www.cosmeticsbusiness.com/rare-beauty-brands-reveals-three-winners-of-2026",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Rare Beauty Brands reveals three winners of 2026 LIFT Beauty Accelerator — Beauty brand Ashunta Sheriff Beauty, Beame and GNTL will receive $10,000 each as well as mentorship and in‑kind services through the programme, plus the opportunity to pitch US retailer and partner of the initiative, JCP…",
+   "excerpt": "Beauty brand Ashunta Sheriff Beauty, Beame and GNTL will receive $10,000 each as well as mentorship and in-kind services through the programme, plus the opportunity to pitch US retailer and partner of the initiative, JCP…"
+  },
+  {
+   "title": "Shiseido research uncovers deep-pore structure linked to ageing",
+   "url": "https://www.cosmeticsbusiness.com/shiseido-uncovers-deep-pore-structure-ageing-link",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Shiseido research uncovers deep‑pore structure linked to ageing — Shiseido has identified a deep‑pore structure linked to age‑related pore enlargement and sagging, developing a proprietary targeted delivery technology to improve pore appearance with niacinamide and glycylglycine",
+   "excerpt": "Shiseido has identified a deep-pore structure linked to age-related pore enlargement and sagging, developing a proprietary targeted delivery technology to improve pore appearance with niacinamide and glycylglycine"
+  },
+  {
+   "title": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQb0xRc2h5eUdaVTJaSTA0RndCZzl3bjhDSjlKOHgxUzkzaHZsWHljZmpTR0JhYVh0cC1JQjl3MmZrM2ZqazZfZTlQZHNmRkItYUJBSjFyczk3YUdOSXZuNzg2NE5tdXF6N1U2RDhzSW1KYUtiM0xfOXg3OUpDZGt5ZWtrbE9WNmhmbm9oUlFPV0xZUUpUa1lpbUlUYy1WNS1kaGQ4UkhWZkN2R3N4M3VQN2M1ekhKZ1otejhHWk1zWWNCbEFqMkkxMUNFSGc1ck5YTVp3ZFJUbGNWUFZodkxwY0YzQm1oYkhRam03Vl9zUEJMTElKbzg1WjZfcW5aX3JSalR2WWdpTkR1M3NZT1k4Z3BPOWN6bWpaNV9UMzdR?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention - PR Newswire — Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention PR Newswire",
+   "excerpt": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention PR Newswire"
+  },
   {
    "title": "Violet Grey Undergoes Executive Shakeup As Retailer Ramps Up Expansion",
    "url": "https://www.beautyindependent.com/violet-grey-undergoes-executive-shakeup-retailer-ramps-up-expansion/",
@@ -373,6 +472,15 @@
    "excerpt": "The Chinese packaging manufacturer combines advanced moulding and decoration capabilities with an expanding portfolio of alternative materials, including PHA, to help beauty brands create distinctive packaging while expl…"
   },
   {
+   "title": "JOVS Establishes Scientific Advisory Board, Advancing Its Mission to Bring Professional-grade Beauty Tech to Daily Life - ACROFAN USA",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zZG00OUxkZmwtaG51UWx5VGlzVW1ocEVVbm1XNlQ3Z0pzTjZRT19tb3ZFQ3lBdDQxQmlHRlJBeXdwTDU2UmNVZnZHanpXYWhsMldoRms0VnNjMktX?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-23",
+   "ai_summary": "JOVS has formed a Scientific Advisory Board to support its goal of integrating professional-grade beauty technology into everyday use. The move underscores the company's commitment to advancing its mission in the beauty tech space.",
+   "excerpt": "JOVS Establishes Scientific Advisory Board, Advancing Its Mission to Bring Professional-grade Beauty Tech to Daily Life ACROFAN USA"
+  },
+  {
    "title": "The milky movement is now taking over body care",
    "url": "https://www.cosmeticsbusiness.com/the-milky-movement-is-now-taking-over-body",
    "source": "Cosmetics Business",
@@ -650,6 +758,15 @@
    "date": "2026-11-21",
    "ai_summary": "Procter & Gamble announced plans to reduce its manufacturing and logistics workforce by 2030, potentially affecting up to 30% of the positions concerned.",
    "excerpt": "US consumer goods giant Procter & Gamble (P&G) announced on Thursday, November 19, plans to reduce its manufacturing and logistics workforce by 2030. The cuts could affect up to 30% of the positions concerned, as part of…"
+  },
+  {
+   "title": "Declaration of Voting Results by The Estée Lauder Companies - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWFxVHljcGNSTjFTUlVYOWtVQm5aSU9vTGI5UnVfZFVsWEpxb0FBWGlMRlF1TmxrZnlZYVpNUENMQUdXYWR0dUFFNmR1NU5ReXowRHBZRHZPOUQxMF91d2Q2VzlFV1hhTDJrU1VQMTRhVmVyM0txTHhuaEY5WEEwVENkQ2ZrYVczYW1pcTlsdGs0V09zcU9FMk1waFdveHNKdGF4VTMxX3RTREQtQXBBQVB3?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "Declaration of Voting Results by The Estée Lauder Companies - www.marketscreener.com — Declaration of Voting Results by The Estée Lauder Companies www.marketscreener.com",
+   "excerpt": "Declaration of Voting Results by The Estée Lauder Companies www.marketscreener.com"
   },
   {
    "title": "L’Oréal to Invest Almost 300M Euros in France Through 2029",
