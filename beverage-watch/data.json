@@ -1,18 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-24T17:10:00Z",
+ "updated": "2026-11-25T02:00:00Z",
  "briefing": {
-  "date": "2026-11-24",
-  "hook": "Heineken gears up for 2027 F1, Pernod Ricard tackles gin slowdown, UK trade talks, and leadership shifts in spirits.",
+  "date": "2026-11-25",
+  "hook": "Heineken launches Formula One‑exclusive beer while Pernod Ricard tackles slow gin growth, and UK‑EU trade talks loom over the drinks market.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard plans to scale aperitifs amid slower gin growth while Lofted Spirits shifts its CEO to chairman and El Jefe secures a UK distribution partnership.",
-   "📈 Market": "UK exporters welcome the SPS agreement with the EU, while Nongfu Spring leases a former AB InBev plant in the US and JM Smucker raises its earnings outlook.",
-   "🍸 Spirits & Premium": "Lofted Spirits appoints its former CEO as non‑executive chairman as the company navigates a shift in leadership, while Pernod Ricard addresses slower gin growth.",
-   "🍺 Beer & Brewing": null,
-   "💡 Innovation & No-Low": "India’s FFSAI expands water safety checks to other brands after a Bisleri sample was unsafe, while Heineken prepares a 2027 F1 Las Vegas Grand Prix event."
+   "🤝 Strategy & M&A": "Lofted Spirits CEO Mark Erwin will step down and become non‑executive chairman, signalling a leadership shift in the US whiskey business.",
+   "📈 Market": "UK‑EU trade talks continue to delay implementation of the SPS agreement until March 2028, affecting food and drink exporters.",
+   "🍸 Spirits & Premium": "Pernod Ricard is addressing slower gin growth and scaling aperitifs to boost its premium portfolio.",
+   "🍺 Beer & Brewing": "Heineken unveils a Formula One‑exclusive beer, targeting fans of the racing series."
   }
  },
  "articles": [
+  {
+   "title": "Is it time to get off the Jameson Williams fantasy rollercoaster? - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUhVQk8tQ05NUWNaZTJPUE0xUWNMLUtvUFNWX0lhRnRHTm9CNWhPd3o5YlBvaUplc1JiYVpTUGtvU28ydlUtcU1oNUEyNG5WT3hza0JJaGdHRENHSHBNTXBCSlUwZ2twM3NXalRhYW5mN0hGcnU4S3lYcnNoNnQ3TVVJaVdqRFNfVXd2cWwxeTlFV1piZHhRRnZmTWdEVVBHQ3FiMDRTbkk3UDdoM3hV?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Is it time to get off the Jameson Williams fantasy rollercoaster? - Yahoo Sports questions whether fantasy managers should consider stepping away from Jameson Williams’ unpredictable performance.",
+   "excerpt": "Is it time to get off the Jameson Williams fantasy rollercoaster? Yahoo Sports"
+  },
+  {
+   "title": "Lions HC Dan Campbell Makes Honest Admission About Jameson Williams’ Flip - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnZNTmN0REswUE9maGlMeDB0bzB4dFFQSGZkeUFsQjg2MTFqcXNiOVVIVEViZG9XSVdOYWZNb1dyM0pKWlNMdl8wT0JJVFhTSU1UbGhUdmlGUzBOSVVGMHBYNmJCOUFwOG5NWmlGcTdrdkJtVGw3YlA3NFZpaEJUajBxdjJ6WFU?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Lions HC Dan Campbell Makes Honest Admission About Jameson Williams’ Flip – Yahoo Sports",
+   "excerpt": "Lions HC Dan Campbell Makes Honest Admission About Jameson Williams’ Flip Yahoo Sports"
+  },
+  {
+   "title": "Dan Campbell on Jameson Williams’ front-flip celebration: ‘I said no backflips’ - MLive.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE1YVmx4TTNKdG1XNE9Ya3B5cm1WWE1ZaFRzeVFhR0xNVmtVOFgxc0dINWIyaHl6ajBybmZmd2JJNVlVWXZMM0NUZmJJYlZrZWJrYUtEeTkteFltdm9QRXptWF9mY2VDMHBMaENRTkJPbVUzWUdjZ2M2ek85WGlRQ096NXZTeWxhajIwNTJocjJyNEFSOWszU1pycGtjVWU2RXFTeWtSUGFFRkoyMk1QX3B2elRLT2s?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Dan Campbell on Jameson Williams’ front-flip celebration: ‘I said no backflips’ - MLive.com features Dan Campbell’s comments on Jameson Williams’ celebratory flip.",
+   "excerpt": "Dan Campbell on Jameson Williams’ front-flip celebration: ‘I said no backflips’ MLive.com"
+  },
+  {
+   "title": "Heineken unveils Formula One-exclusive beer NPD - Global Drinks Intel",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWZnLTVXQTJ6YUNqbFBjLXY3X21MYTYxRVNuSWJ3UTUzWjRWeFdtczAtaEVUNURSSk1uc1lfS0ZkSHdPRWxrNmstS3d0b3FLYm9UbmM1SGNsWk1VUUpwQmMwSVpIZm1TRHhSaGZ4ZlRQcjVzVzJMaWN0SjlBVm1FcENhTjU?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "💡 Innovation & No-Low",
+   "date": "2026-11-24",
+   "ai_summary": "Heineken unveils Formula One-exclusive beer NPD - Global Drinks Intel announces Heineken’s new beer designed specifically for Formula One fans.",
+   "excerpt": "Heineken unveils Formula One-exclusive beer NPD Global Drinks Intel"
+  },
+  {
+   "title": "Is Stefon Diggs or Jameson Williams a better fantasy play in Week 12? - ESPN",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEpzTWRla0hUeEhQb3ZETVdZcG9QajNCTVZUTkMzUjJlS3RMc2FnYzFUb2ltZmlaZjkxREs0cVFwMER2TkhEckYtQURkOHNqQVB5Z0hhTHBMU19iY2F0djNUOVVrTzVLQzl1UjV2LWlPS09leVVEdGtJN3VCMXdPT3E4dk5ZcHdONGUyRjQ0UGFkRm93X3JUVy1wWDMyeUJCTHVDTlJRWW9FQQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Is Stefon Diggs or Jameson Williams a better fantasy play in Week 12? - ESPN discusses which player may offer more value for fantasy teams during Week 12.",
+   "excerpt": "Is Stefon Diggs or Jameson Williams a better fantasy play in Week 12? ESPN"
+  },
   {
    "title": "Dan Campbell wasn't upset by Jameson Williams' flip in Lions win - The Detroit News",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWUVWU2JYaDBoZXduYm9jM05Obng3aHo2TUFQdExmSlNpVm9TLUtaem0wLVhuYTlVaVdtNGRYM0VLY05CMmstUG5yVm1Gc1g5eUNTRXpJN1R2cm83d1hnTnlHOGVGRTBJVnNPMXEzSExKSHk0RkUzUldyVW5teW56WEZjM2xBRzJ6Wlg5eVoxQTl3RTc4LXRWUC0tMXB1bExfcGtIeUt4OE5aTTNPZFZScHgxQ1lDeERmSkRYNjE3YzRqTkw3VWVxejdtRlc0cVZ0SDNv?oc=5",
@@ -86,6 +130,15 @@
    "excerpt": "Jameson Williams put on quite a show in the third quarter of the Detroit Lions 31-21 win over the Tampa Bay Buccaneers game on Sunday, Nov. 22, at Ford Field in Detroit. But that flip still has us talking. 📷 by Kimberly …"
   },
   {
+   "title": "Jameson Williams put on quite a show in the third quarter of the Detroit Lions 31-21 win over the Tampa Bay Buccaneers game on Sunday, Nov. 22, at Ford Field in Detroit. But that flip still has us talking. Check the link in our bio for more. 📷 by Kimberly P. Mitch - Instagram",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42NTVNMUFoVXFldFo3UjlrUFFOVEU4Z2RxTXpjSXZMdndLQXIyNGw4cVcxWVhsT3dDUjZoeHctVmlrWG9ONXlEN3kyajZpbW1lSmc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Jameson Williams put on quite a show in the third quarter of the Detroit Lions 31-21 win over the Tampa Bay Buccaneers game on Sunday, Nov. 22, at Ford Field in Detroit. But that flip still has us talking. Check the link in our bio for more. 📷 by Kimberly P. Mitch - Instagram highlights Jameson Williams’ performance and a notable flip during the Lions’ victory.",
+   "excerpt": "Jameson Williams put on quite a show in the third quarter of the Detroit Lions 31-21 win over the Tampa Bay Buccaneers game on Sunday, Nov. 22, at Ford Field in Detroit. But that flip still has us talking. Check the link…"
+  },
+  {
    "title": "Lofted Spirits CEO to move to chairman role",
    "url": "https://www.just-drinks.com/news/lofted-spirits-ceo-chairman-role/",
    "source": "Just Drinks",
@@ -102,6 +155,15 @@
    "date": "2026-11-24",
    "ai_summary": "Max Verstappen-Inspired Heineken Lager Tonic To Be Available at F1 Events In 2027 Sportscape Magazine",
    "excerpt": "Max Verstappen-Inspired Heineken Lager Tonic To Be Available at F1 Events In 2027 Sportscape Magazine"
+  },
+  {
+   "title": "Inside Heineken’s Las Vegas Grand Prix: Fan Pairings, Padel and Tonic Foam - Cool Hunting",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWZEV1NfVWxzQ2dEZ0tKRVZZY25xS3RYZ2hSaW5IeGxDQnlZYUJyWkprY1VkcDVrU2JXZlZNUnpfOGJtRkN1UUIxNVBJT05UQmIyZEw3M01nLWhmVkdMZmMtN2pIdUpwNC00b01QUDdiczFOVUZDT3pHbFpLUlBVWVJQYXRjR1YwOUNNYkREakRFOG5kQVJPZjUxWXhfT0gyY2I0ZUM5cw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-24",
+   "ai_summary": "Inside Heineken’s Las Vegas Grand Prix: Fan Pairings, Padel and Tonic Foam – Cool Hunting",
+   "excerpt": "Inside Heineken’s Las Vegas Grand Prix: Fan Pairings, Padel and Tonic Foam Cool Hunting"
   },
   {
    "title": "NFL schedules games on five of the next six days as Jameson Williams celebrates with a flip - Mezha.net",
@@ -4278,150 +4340,6 @@
    "date": "2026-10-26",
    "ai_summary": "How long can Jameson Williams stay at boom status in fantasy? - Yahoo Sports — This article questions the duration of Jameson Williams' high performance in fantasy football. It explores factors that might affect his continued success.",
    "excerpt": "How long can Jameson Williams stay at boom status in fantasy? Yahoo Sports"
-  },
-  {
-   "title": "Jameson Williams' 2nd TD puts Lions back in front - ESPN",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUZNRVkwTEdSSG5XOVc0SUZRZDRwLTg2ZlBrczc5cm5jUUxPcWN1NkdFaHlLczVjVW9CN0hwc0FSdjE2WTBiWkhFWnRFY1dMSWVTTlJDV0pSR3RZcFF2ZEJmQnVDejBGYU5IUUJ4VWVNZU5JdjRnS2ZmUEJzQ1hrZ2ZGV1Z3V09kUnZ4Z3l0OFZDYlBRNGc?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Jameson Williams' 2nd TD puts Lions back in front - ESPN — The article describes how Jameson Williams' second touchdown restored the Lions' lead in the game. It underscores the importance of his scoring in shifting the game's momentum.",
-   "excerpt": "Jameson Williams' 2nd TD puts Lions back in front ESPN"
-  },
-  {
-   "title": "Second Goff-to-Jamo TD connection of the day gives Lions a 16-14 lead over Packers - NFL.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU01nUXloU1BUeGlmTXBkQ1VtaGZndXBqbzFqT1J1XzhONlprd1lIMUVubFdkaGZ6NzdIaWgzOVpFa1ZsN0FfT1NSQlcyQmIxNkd4YmJjdGpyTjlVOTRqVEIzSDhmbTM5ckl5ckFNT2k5Q24xbmN6clg3MnZaN1JVVmdIcUlJdzJLdDV4Mnp2dUV5cnJBZjJSN3NONVJNNm9RYV9kQ3laMFlLYTl6dXc?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Second Goff-to-Jamo TD connection of the day gives Lions a 16-14 lead over Packers - NFL.com — The piece details a touchdown pass from Goff to Jamo, giving the Lions a 16-14 lead over the Packers. It highlights the play as a key moment in the game.",
-   "excerpt": "Second Goff-to-Jamo TD connection of the day gives Lions a 16-14 lead over Packers NFL.com"
-  },
-  {
-   "title": "Drink Vergina Beer: The Green Case Against Heineken - The National Herald",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1NuWmVTWGFjN2cyREdMNGgzb0NJTUZRNVdlX2hMYkljaFhBV3oyUjVBN0lqclRURmtvRnM3d2hUT3RmVkdZaWRTZDVQUFZHdy1mc2tjNkU5aXdmMm9wQ2N5ckVvaExVWEVXX09HdzlDb0F2Vm90ckN0SlY2Mjc4YkpwSl9USVRWLVhzMTZn?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Drink Vergina Beer: The Green Case Against Heineken – The National Herald",
-   "excerpt": "Drink Vergina Beer: The Green Case Against Heineken The National Herald"
-  },
-  {
-   "title": "Jared Goff's 30-yard connection with Jameson Williams gets Lions into Packers' territory - NFL.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1draXVKUzFLOENBQkpFeklOQjlKckdsQmF5eDlaWjBwcGxBU2lpLVY1V1VJOUlSMVQtRWs3dEt4QnVUemtqTXZvUHNSZWVNVU1UVmxKLUQzem56OTZpRG9TdEE5MHNDbVRzaFhlcl9EVUNmYUhKM2VDZWlpVVNlbDlHX3RpVVFwUHdoMk1DeWVaRWNkOTJqUkIwb2x3cnZocEtDWkhLUVljQ195UUZ6LS0xdzA?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Jared Goff's 30-yard connection with Jameson Williams gets Lions into Packers' territory.",
-   "excerpt": "Jared Goff's 30-yard connection with Jameson Williams gets Lions into Packers' territory NFL.com"
-  },
-  {
-   "title": "Jameson Williams scores second TD, Lions lead 17-14 - NBC Sports",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhuYXAyWklfeGYzbU84UGFjWC1NMjl3b0d1RGItdS1tWXkxS1BoV0NsUXpuQXBoU0dUZ29BODBHUElQY09XZGpyN0J2XzZhT3VhMk5nWWFGUjJRd1k1UnVUdjhvMzJMQWU2dGh5d2R1Zjh3NmFPX0JDN0ZKczVMeUR1WnNUdTFVVHNPZkttNnlSbURoS25SYVFEWTVfSnJnN0RRbTlfQi1vU0doZHFuU0hR?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Jameson Williams scores second TD, Lions lead 17-14 - NBC Sports — This piece reports that Jameson Williams scored his second touchdown, giving the Lions a 17-14 lead. It emphasizes the significance of his contribution to the team's advantage.",
-   "excerpt": "Jameson Williams scores second TD, Lions lead 17-14 NBC Sports"
-  },
-  {
-   "title": "Jameson Williams leaping pylon-reach TD opens scoring in Packers-Lions game - NFL.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR01fT0dBd3lwMHlILXdVWGd1c0IzMWZwdlZLT0cwZk5nM01tdDJXRFZfdzVOTGxtWW9zZHh4R0hBWmotRHhvRWdRcldFelB0U3dWZnZ1NWROZEZfNzNwNEt0Z3hXUVdvWHJaMmozSFhYckxFWjkxQzVmN1pfZnJaR05aajFLYllWbklMTGUycy12QWdMUjRFN0NKTEJWQ3Y2NkVvUw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Jameson Williams leaping pylon-reach TD opens scoring in Packers-Lions game",
-   "excerpt": "Jameson Williams leaping pylon-reach TD opens scoring in Packers-Lions game NFL.com"
-  },
-  {
-   "title": "Detroit Lions wide receiver Jameson Williams finds space on 24-yard gain from quarterback Jared Goff - NFL.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1llVGMxU1BZVS1BRC0xS05rNzRtMmdaTWJLT0E0ZHhNZzNrZkttcHlrLWJvM2JybHRfX2tVeC1OVGhpWTlQdVNpMnNiUnJ0TENqR0s5YlFFUTVWLV9sUllmaVNmbFc0Y0VoOTlaQmVuUTcxY1g2NldfWHJ3UVRVN3ZLY1NReERO?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Detroit Lions wide receiver Jameson Williams finds space on 24-yard gain from quarterback Jared Goff",
-   "excerpt": "Detroit Lions wide receiver Jameson Williams finds space on 24-yard gain from quarterback Jared Goff NFL.com"
-  },
-  {
-   "title": "Lions strike first on Jared Goff's TD pass to Jameson Williams - ESPN",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMk5RS3R3dGx2NkJPTGhXZG5xTkxIZjNGVk9HTjZ0X0FhbWZ4MlJVNUNGX1pVb2hYY09YbGZTSlZKU1FhdzJfZE41QWdKYVNzdzNqbi1VcFdMMnRQY243dXY0NnpVbzJEeXJ2SjJDU3NGanJvLVUxeXU3cmhfYmtMT2xmc09ZcmF0N2pqdmduUHhES3lsWWgxcWQ0VXd1bndLLXc?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Lions strike first on Jared Goff's TD pass to Jameson Williams – ESPN",
-   "excerpt": "Lions strike first on Jared Goff's TD pass to Jameson Williams ESPN"
-  },
-  {
-   "title": "Jared Goff finds Jameson Williams for 16-yard TD, giving Lions lead over Packers | NFL Highlights - FOX Sports",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GZFpia2JzSThGeDlZWE1HUTJTcXRNNHVvN0hIT1FJbWpYdkpHZFJSdXV3WmEtcnhQbWs3amltcjhXRTVqNEV2bVpBMjRWdC00bE5uTjFESHFtRkJ5XzVaTTlR?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Jared Goff finds Jameson Williams for 16-yard TD, giving Lions lead over Packers",
-   "excerpt": "Jared Goff finds Jameson Williams for 16-yard TD, giving Lions lead over Packers | NFL Highlights FOX Sports"
-  },
-  {
-   "title": "Lions lead 7-0 as Jameson Williams scores TD, Trey Smack misses 26-yard field goal - NBC Sports",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMWNENl9oZmpvdGdIMTN5QzRVM2M1R042YW5ubEEzVlBidEtJYjktRnZrUWduVkdwZ3BvUHNaWFV1ZVJYMjRCZ3V1aml5M1Z6cEh5Q2RpdHgtVm1lUjl2MTBxS2VIcEFFbUxJUkJoVGxjZ29sRFNVZnk0NTBraTBWdWtMSHhLbllSQ3N2eXpLSWI5d0ltUVZPTVhEM1NQZGpUY2VOVnZrdEVDR2ZUVXhWTTNSSVljSHFoXzF3NnhuemFkbUpIcVRBd3psbHhWVEQ3VTVJNGI1cWVYTEE?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Lions lead 7-0 as Jameson Williams scores TD, Trey Smack misses 26-yard field goal",
-   "excerpt": "Lions lead 7-0 as Jameson Williams scores TD, Trey Smack misses 26-yard field goal NBC Sports"
-  },
-  {
-   "title": "Heineken Built A Streaming Service For Pubs - WeRSM",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxZDhSZ1lrcDF1VDlpM1JSeFBwemJoWEF4OHFUWjJJeEdHZ0VlQ2R6ZUxwbzBjaDFvcGxMYjRKd0liTEx5anRBMHNZaWpFTW5ablc5djd6MG9pRjZsZ1l5TmV3Q3VKSlM1Z0oteXJXTQ?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Heineken has developed a streaming service tailored for pubs. The platform aims to enhance the in‑pub experience by offering curated content to patrons.",
-   "excerpt": "Heineken Built A Streaming Service For Pubs WeRSM"
-  },
-  {
-   "title": "Heineken (ENXTAM:HEIA), What Is Drawing Fresh Attention Now? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXRNbGNlaWJnbFdIMWNhOTBPdzFZckcwS1N4N2FpbENpOHRlYXc3c2hZcDhJT3I4Qk51T1RuTHNBR1Y0VW5jVjk5UEFwMF9zTlFxeWpHdTBvNml2dWRhR1JDZ2t1Qk05dkJOam85N1oxUWdzZm5BZnVLQ3ZkVXR4bmx2U3FEd0ZCMEMtdWJWaDZvY0YzblczbFhGR0tMSEV4?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Heineken is currently attracting renewed interest, prompting analysis of its recent developments.",
-   "excerpt": "Heineken (ENXTAM:HEIA), What Is Drawing Fresh Attention Now? Yahoo Finance"
-  },
-  {
-   "title": "Heineken: Still A Cash Flow Monster, But Only A Very 'Light' Buy (OTCMKTS:HEINY) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ184U254akN4R1UtS3M3dzJxWFU0ZnA3cGlZUWRWcnh0STI0ZVNHTm9UUWFRdFdZaElXdV9qeFIzUkRKVFJQNlJ5RWtOS0pGekhmcGlZSGVfTmdtX2RXSTVyYWtaYUdUX0otWGpwdzJWdllpMzFhY0p1eTh0Um00d2VOd2pmN0d0Y1F3OWNudnpyamhNeTdZNHY1bVlka25CMF9z?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Heineken remains a strong cash flow generator, yet the investment is considered a modest buy.",
-   "excerpt": "Heineken: Still A Cash Flow Monster, But Only A Very 'Light' Buy (OTCMKTS:HEINY) Seeking Alpha"
-  },
-  {
-   "title": "Heineken (ENXTAM:HEIA) Stock May Be A Bargain On Greece Damages Ruling - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3hrbHF3UTFOd1Y2dy1rbUVkUzc2M0lGVmlvd3JzTWtHX2thalk1MDRMQXRJa1YtOFRWS1AtVmV2R2ROZmowRE5ZZThBeUl2RzBRbFdDRThjSllHVnFRMXdiS3BQR3F2dEFsYkdTNG5WYUFrbmNMcXctZjZRSFBabURoLXZaaVdyclFUaEI5aDVjNVNmRjQwdGlxTQ?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Heineken stock may be undervalued following a Greek damages ruling. The article discusses potential investment upside for the company.",
-   "excerpt": "Heineken (ENXTAM:HEIA) Stock May Be A Bargain On Greece Damages Ruling Yahoo Finance"
-  },
-  {
-   "title": "Who Should I Start for Fantasy Football Week 7? Tre Tucker, Josh Jacobs, RJ Harvey, Blake Corum, Jaylen Waddle, Jameson Williams, Bam Knight, J.K. Dobbins, Michael Wilson, Tyler Allgeier - RotoBaller",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRUZzRjc4RDYxS1BoSjc5dXZiRURPRnJ0Mm9qZmpOTEhiV1lXQ1hrZzZDdTI1aDloWWpKaXFWLVpCM2s4cmU4WjdrVnV0T0YxdjBHOFhqU2VucUlaRHhkZVJmVjE4OVdxLUw0SEN1ekI4ZzZib2xVS3VFQ1JXRDd2QkhUSU9WYVpOUjFsNXJtYmR2Q2NjVUVFb1o2dW9RMXJFRXh6WGxSOHhzWkVUeVNxVElNRVdSOFhuZ3BCVm1teDdMaU40RzZqN2N5MEdsVnJkRmNuazhYNDlrdkNXOHpTbVlnMjdaSFMtOVJMdUlCUUNRZjhVWF9DaThHSUlMUUZWVzhsV01YRVpZd0h3SHNCYnUwLUtIb0VFT09aTHdR?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "",
-   "excerpt": "Who Should I Start for Fantasy Football Week 7? Tre Tucker, Josh Jacobs, RJ Harvey, Blake Corum, Jaylen Waddle, Jameson Williams, Bam Knight, J.K. Dobbins, Michael Wilson, Tyler Allgeier RotoBaller"
-  },
-  {
-   "title": "Heineken (ENXTAM:HEIA) Ordered To Pay €111 Million In Dutch Court Loss - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzJJV0RSLU02MllBS21jbURVaGpMRHBUZHAxTTFRMWtHeERJTGJ6TUwwcHIzOW11WG9PMXFGSUxOQVVPaTc3NFZGRTNtN1Qyem14Nms1UGFoazZBVHZQTGM1dnNpVnBUeGk2dFhUZ2lEcDVMM0NBbkpULTdYQ29aSU9MSGg5TktXUUVoT3dfeU5SaGRsbGZkR0JvMXdjdw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "Heineken was ordered by a Dutch court to pay €111 million in a loss case. The decision was reported by Yahoo Finance.",
-   "excerpt": "Heineken (ENXTAM:HEIA) Ordered To Pay €111 Million In Dutch Court Loss Yahoo Finance"
   }
  ]
 }

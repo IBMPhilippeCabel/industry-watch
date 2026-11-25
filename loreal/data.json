@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-24T17:10:00Z",
+ "updated": "2026-11-25T02:00:00Z",
  "briefing": {
-  "date": "2026-11-24",
-  "hook": "L'Oréal focuses on investment, packaging innovation, and brand relaunch amid market shifts.",
+  "date": "2026-11-25",
+  "hook": "L’Oréal pushes growth with new investments, brand relaunches, AI adoption, and a focus on science-backed dermocosmetics.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal announced nearly €300 million in investments in France by 2029, relaunches YUESAI as a modern Chinese luxury brand, and partners with Pure Trade for a metal‑based Diesel fragrance packaging.",
-   "💄 Brands & Launches": null,
-   "💡 Beauty Tech & ESG": "L'Oréal plans to invest almost €300 million in France through 2029 to support environmental transition and innovation.",
-   "📈 Market": "Market activity includes L'Oréal's €300 million French investment, Pure Trade’s metal case for Diesel fragrance, and a trend toward dermocosmetics by major beauty giants."
+   "🤝 Strategy & M&A": "L’Oréal announced nearly €300 million in investments in France by 2029, relaunches YUESAI as a modern Chinese luxury brand, and leverages micro‑influencers for content volume.",
+   "💄 Brands & Launches": "CeraVe’s NBA partnership is delivering continuous engagement and brand visibility for the skincare line.",
+   "💡 Beauty Tech & ESG": "L’Oréal Vietnam unlocks new opportunities with AI to enhance product development and market reach.",
+   "📈 Market": "Dermocosmetics giants, including L’Oréal, are investing heavily in science‑backed skincare to meet consumer demand for specific results and longevity science."
   }
  },
  "articles": [
@@ -29,6 +29,15 @@
    "date": "2026-11-24",
    "ai_summary": "Caltech Postdoc Awarded L’Oréal USA For Women in Science Grant - Pasadena Now",
    "excerpt": "Caltech Postdoc Awarded L’Oréal USA For Women in Science Grant Pasadena Now"
+  },
+  {
+   "title": "Why CeraVe’s NBA partnership is delivering layup after layup - Fast Company",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ2JXQ0tpTnNPNVczQlhNclV0NmFxdzNkVVVMdzNGVGxqRUNNSUdkNmFoRXJ6anFId1hPbm5objJkQl80M0d0WE9ObExpcS1hN3N0Q3NSazFPTkNjZ2lOT0VhUWZPRHdISFFWWlNET0VOTVUzV1NaalZQX1NTTF9HUjFUbmFZSEQ2THBqSWlxVWphVWo5RmdRUFBRXzZxNnhhN0M0NVIwTlRKNU9Qc1YzQ2MtcjRSbkIyNE55MzBTTEhfZlRKa1F1R2t5N09jVDltay1VeXVad3NKMEdEMzdLVldB?oc=5",
+   "source": "L'Oréal Brands (Google News)",
+   "category": "💄 Brands & Launches",
+   "date": "2026-11-24",
+   "ai_summary": "Why CeraVe’s NBA partnership is delivering layup after layup - Fast Company — Why CeraVe’s NBA partnership is delivering layup after layup Fast Company",
+   "excerpt": "Why CeraVe’s NBA partnership is delivering layup after layup Fast Company"
   },
   {
    "title": "Pure Trade combines metal and bio-based fiber for L’Oréal’s Diesel fragrance packaging - Packaging Insights",
@@ -65,6 +74,15 @@
    "date": "2026-11-24",
    "ai_summary": "L’Oréal leans on micro-influencers for content volume, while Minimalist and Lakmé dominate creator reach - Storyboard18",
    "excerpt": "L’Oréal leans on micro-influencers for content volume, while Minimalist and Lakmé dominate creator reach Storyboard18"
+  },
+  {
+   "title": "L'Oréal Vietnam unlocks new opportunities with AI. - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRnhMMEpJOWplVTRnWHpiVmcwNTF3WmdHUXVvUGd5b0E2YlQtb3dQdDNVZlg4eXBUVm9BTGdZdk4zWmhFMW1leWQ3TXpOdE91N3pPenpmVzI2YVI1c3RDSmxqYzBEd1BHLV9zU1E3Tlc1d2RMS2dJ?oc=5",
+   "source": "L'Oréal Beauty Tech & ESG (Google News)",
+   "category": "💡 Beauty Tech & ESG",
+   "date": "2026-11-24",
+   "ai_summary": "L'Oréal Vietnam unlocks new opportunities with AI. - Vietnam.vn — L'Oréal Vietnam unlocks new opportunities with AI. Vietnam.vn",
+   "excerpt": "L'Oréal Vietnam unlocks new opportunities with AI. Vietnam.vn"
   },
   {
    "title": "L'Oréal Italy: Marco Giolla appointed CFO, Diego Salvo named director of Settimo Torinese production site - FashionNetwork - The World's Fashion Business News",
@@ -236,6 +254,15 @@
    "date": "2026-11-20",
    "ai_summary": "L’Oréal plans to invest almost €300 million in France through 2029.",
    "excerpt": "L’Oréal to Invest Almost 300M Euros in France Through 2029 Yahoo Finance"
+  },
+  {
+   "title": "L’Oréal Reportedly in Talks To Buy 10% Armani Stake - Dealbreaker",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEVhNGp5eS1ZUEE0VHp1Ti0yR3I5bGRzTExLTmJGMlZNVGdkeHlGQnQ1eUVXSGRLall1ZWFubDYtV0RvLUN4elBucGJJbGt5LVEzUjVQcHhsZW5KNFcwbG5YT0VpZGxJaTIxdG9RZ0tEQ0lqdWw0X1JwUlFMc1hSV3psZW9oSERBclRpUkE5VQ?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-20",
+   "ai_summary": "L’Oréal Reportedly in Talks To Buy 10% Armani Stake - Dealbreaker — L’Oréal Reportedly in Talks To Buy 10% Armani Stake Dealbreaker",
+   "excerpt": "L’Oréal Reportedly in Talks To Buy 10% Armani Stake Dealbreaker"
   },
   {
    "title": "LVMH exits Armani stake talks as L’Oréal emerges as frontrunner. - Personal Care Insights",
@@ -2270,33 +2297,6 @@
    "date": "2026-10-26",
    "ai_summary": "Ozempic’s Face: L’Oréal and the Luxury Beauty Sector Sense a New Market",
    "excerpt": "Ozempic’s Face: L’Oréal and the Luxury Beauty Sector Sense a New Market Luxus Plus"
-  },
-  {
-   "title": "2 x L'Oréal Paris Infallible Paints Eyeshadow Metallics 400 Rose Chrome - khorasantimes.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zNUswbXFMcTRTUzNVQmQzUV9NMUFuMTFHLXlVOGkzdkl5V0g5ako1RjFBWUgwOS1LVlNLTFVVaDdGR2hwZ1ZhQ1RYRTZtRkE?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "2 x L'Oréal Paris Infallible Paints Eyeshadow Metallics 400 Rose Chrome – a product listing for two shades of eyeshadow from L'Oréal Paris.",
-   "excerpt": "2 x L'Oréal Paris Infallible Paints Eyeshadow Metallics 400 Rose Chrome khorasantimes.com"
-  },
-  {
-   "title": "Attention Aspiring Entrepreneurs: The L’Oreal Big Bang Beauty Tech Innovation Program is Back! - Women Love Tech",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnMwNnBibjMxcmwzUUtVaHJNQmpjc2ljZGh6YlMtUUZPNWJxTDJCSmVxMEtsLVhIaWU3Mk1kS1BIYmQ0Z2hUWnp0bkhpRUh6cklIXzBiQV9VYTI0ai0yeWpNSzdFTVZieGpNS0lqX080UmVFQURvZWpYMG4zZTd3aUNDTGotbHpBb1c5cm9n?oc=5",
-   "source": "L'Oréal Beauty Tech & ESG (Google News)",
-   "category": "💡 Beauty Tech & ESG",
-   "date": "2026-10-25",
-   "ai_summary": "Attention Aspiring Entrepreneurs: The L’Oreal Big Bang Beauty Tech Innovation Program is Back! Women Love Tech",
-   "excerpt": "Attention Aspiring Entrepreneurs: The L’Oreal Big Bang Beauty Tech Innovation Program is Back! Women Love Tech"
-  },
-  {
-   "title": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlBXQ1BEOXB2VGtUdWZ1TTJ5ZnlUeGtlaVRvRkNWOWs4WnlJaDRpYUNlaUo5MTNLYnZpcDN4N1h6aVNHMkF3bVZwQjVid2d2YXBYYUEydDA2dnVYMnRLR3dXMHUya3ZMajBNSlEwbG5va3hEY0ZnalRZbzNXeVVGOUNNdVZacnJ6U0diMENaZDA?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-25",
-   "ai_summary": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report – Yahoo Finance",
-   "excerpt": "L'Oréal Stock Has The Bull Case Changed After Hair Relaxer Lawsuit And Sales Report Yahoo Finance"
   }
  ]
 }

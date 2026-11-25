@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-24T17:10:00Z",
+ "updated": "2026-11-25T02:00:00Z",
  "briefing": {
-  "date": "2026-11-24",
-  "hook": "Pet food industry sees expansion moves, sustainability focus, and leadership changes.",
+  "date": "2026-11-25",
+  "hook": "Today’s highlights show a push toward sustainability, new research, and regulatory scrutiny in the pet food sector.",
   "categories": {
-   "📈 Market": "Pet Supplies Plus now has 730 stores after adding nine Petsense locations, and REWE is expanding its pet business nationwide through DIY and drugstore partnerships.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": "Cargill’s Impact Report underscores climate, land, water, and people sustainability, while Polish producers expand into Dubai and Ukraine’s MasterZoo launches an app.",
-   "🤝 M&A": "Mars names Carlos Andres‑Luna president of its Science & Diagnostics division."
+   "📈 Market": "New facilities, expanded retail footprints, and a university course signal continued growth and investment in the pet food market.",
+   "⚖️ Regulation": "The FDA’s proposed GRAS rule for pet food ingredients is approaching its comment deadline, prompting industry assessment of potential impacts.",
+   "💡 Innovation": "Sustainability efforts, microbiome research, and award-winning processing solutions underscore a focus on innovation in pet nutrition.",
+   "🤝 M&A": null
   }
  },
  "articles": [
+  {
+   "title": "Amazon vendors face tougher negotiations despite better margin outcomes",
+   "url": "https://globalpetindustry.com/news/amazon-vendors-face-tougher-negotiations-despite-better-margin-outcomes/",
+   "source": "Global Pet Industry",
+   "category": "💡 Innovation",
+   "date": "2026-11-24",
+   "ai_summary": "Amazon vendors face tougher negotiations despite better margin outcomes — Amazon continues to hold its position as the world’s largest e-commerce platform. According to strategy consulting firm Consulterce, two in three vendors said Amazon’s sales were growing faster compared with those of any…",
+   "excerpt": "Amazon continues to hold its position as the world’s largest e-commerce platform. According to strategy consulting firm Consulterce, two in three vendors said Amazon’s sales were growing faster compared with those of any…"
+  },
+  {
+   "title": "US: Manufacturers face proposed FDA notification rules for pet food ingredients",
+   "url": "https://globalpetindustry.com/news/us-manufacturers-face-proposed-fda-notification-rules-for-pet-food-ingredients/",
+   "source": "Global Pet Industry",
+   "category": "🤝 M&A",
+   "date": "2026-11-24",
+   "ai_summary": "US: Manufacturers face proposed FDA notification rules for pet food ingredients — With the December 9 deadline for submitting comments on the US Food and Drug Administration’s (FDA) proposed GRAS rule approaching, industry stakeholders are assessing how the planned changes could affect animal food ing…",
+   "excerpt": "With the December 9 deadline for submitting comments on the US Food and Drug Administration’s (FDA) proposed GRAS rule approaching, industry stakeholders are assessing how the planned changes could affect animal food ing…"
+  },
   {
    "title": "Fresh, dry and wet cat foods produce distinct microbiomes",
    "url": "https://www.petfoodindustry.com/home/featured/article/16542645/fresh-dry-and-wet-cat-foods-produce-distinct-microbiomes",
@@ -218,6 +236,15 @@
    "date": "2026-11-19",
    "ai_summary": "Mars taps Andres-Luna to lead Science & Diagnostics - PetfoodIndustry — Mars taps Andres-Luna to lead Science & Diagnostics PetfoodIndustry",
    "excerpt": "Mars taps Andres-Luna to lead Science & Diagnostics PetfoodIndustry"
+  },
+  {
+   "title": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics - TMCnet",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDJrNXFHaGJOSU1yLUNmNk9pZjBHYmFQT1gxdHVyWFFrNUtDVUFKQVNmclNrTUx1N1liaHp2OXBCR3JCOF9ROHQyUExuT2QtRGdhbnltbUdxYlU2cmR3amU1enh5Z2pyQnh4MGZ1Mzl5Qk5jRmJCYzQtbUlsdy1nOUZYdk9kLVFiYUtpUDBJWUl5ZGJrSS1lNXpPVDVLdnBQcDZMUnlqSW13M2tubFE?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-19",
+   "ai_summary": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics - TMCnet — Mars names Carlos Andres-Luna President of Mars Science & Diagnostics TMCnet",
+   "excerpt": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics TMCnet"
   },
   {
    "title": "Mars names Carlos Andres-Luna President of Mars Science & Diagnostics - Macau Business",
@@ -1784,15 +1811,6 @@
    "date": "2026-10-26",
    "ai_summary": "Zooplus expands marketplace offer in Spain, with more markets planned for 2027 — Online pet retailer zooplus has launched a marketplace in Spain, adding 10,000 products to its local offering. The company now operates marketplaces in three European countries, following launches in Germany and France a…",
    "excerpt": "Online pet retailer zooplus has launched a marketplace in Spain, adding 10,000 products to its local offering. The company now operates marketplaces in three European countries, following launches in Germany and France a…"
-  },
-  {
-   "title": "These taste testers have four legs and picky palates - The Straits Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEpmbEdhbHpDSkcwWk1iRDBvWE5VRjVZSjJ5VGk3b0RNU3NMdnBBbmtvR0xmMWh4ejAyMWp1Q0VWMVN4eVItNTg2ZGd4RVk0cnoyMlZIZHh0MC1iWjllUEQ4SVd5UHJTTTliQ1lXclZjdGlaU1dpS3VuLU94SkFhWDV2YTRwaGpQakFLNHVWUQ?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-10-25",
-   "ai_summary": "These taste testers have four legs and picky palates. The Straits Times.",
-   "excerpt": "These taste testers have four legs and picky palates The Straits Times"
   }
  ]
 }
