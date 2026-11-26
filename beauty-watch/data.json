@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-25T21:17:00Z",
+ "updated": "2026-11-26T03:59:00Z",
  "briefing": {
-  "date": "2026-11-25",
-  "hook": "Innovation, market shifts, and strategic moves shape the beauty landscape today.",
+  "date": "2026-11-26",
+  "hook": "Innovation drives brightening, while brands pivot to experiential retail and strategic shifts.",
   "categories": {
-   "📈 Market": "Retailers emphasize pre‑shelf conversations while brands focus on human experiences, leadership changes, and cost‑cutting plans shape the market.",
-   "💄 Brands & Retail": "Brands pivot to intentional buying, inclusive beauty, and digital engagement, with Ring Concierge, Aerin Glazer, Sephora, and TikTok driving new retail experiences.",
-   "🤝 Strategy & M&A": "Strategic shifts include leadership changes, wellness investments, new tech acquisitions, and a €300 million French R&D push.",
-   "💡 Innovation & Regulation": "Bio‑based ingredients, regulatory fines, coffee‑inspired scents, and new pore‑targeting tech highlight innovation and compliance challenges."
+   "📈 Market": "Retailers expect brands to engage in pre‑shelf conversations and create human experiences to counter digital fatigue.",
+   "💄 Brands & Retail": "Brands are leveraging experiential retail and social platforms like TikTok to shape consumer reach and meet holiday gifting trends.",
+   "🤝 Strategy & M&A": "L'Oréal plans a €300 million investment in France, while Estée Lauder announces voluntary redundancies in France as part of a turnaround.",
+   "💡 Innovation & Regulation": "Vitamin C moves into body care for brightening, bio‑based niacinamide gains awards, and fragrance giants face antitrust fines while coffee scents trend."
   }
  },
  "articles": [
+  {
+   "title": "Vitamin C body care: the brightening skin care active is moving below the face",
+   "url": "https://www.cosmeticsbusiness.com/vitamin-c-body-care-the-brightening-skin-care",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Vitamin C body care: the brightening skin care active is moving below the face — As body care becomes results-led, vitamin C is the trusted ingredient leading launch innovation, with brands bringing proven brightening benefits below the chin",
+   "excerpt": "As body care becomes results-led, vitamin C is the trusted ingredient leading launch innovation, with brands bringing proven brightening benefits below the chin"
+  },
+  {
+   "title": "Matt Lascari Appointed Vice President, Americas People Experience at The Estée Lauder Companies - https://hrtoday.in/",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnFTT3pwNnlPbVNoWktqLXFTNGZJQW1ZUUp6WUQyS2hqa0I3STFkeFotelppZVN2RHFXRllnUGh5cVVjbHlHT0NxUnRlWG1rM2xKYUtmbjh0NkZTWWhzcm55Ymo3Z1hjMlRPNUt3ZXB2d1l6c1hfeGpUMnJFZkhyZHVxa3otN0l2TTM2bTBJdFdqNE50UFJBb1lsQjlJczhiMEZoQzl1TGtsS29JNXJPZkgyVHo?oc=5",
+   "source": "Beauty M&A & Corporate (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Matt Lascari Appointed Vice President, Americas People Experience at The Estée Lauder Companies - https://hrtoday.in/ — Matt Lascari Appointed Vice President, Americas People Experience at The Estée Lauder Companies https://hrtoday.in/",
+   "excerpt": "Matt Lascari Appointed Vice President, Americas People Experience at The Estée Lauder Companies https://hrtoday.in/"
+  },
   {
    "title": "Viablife BioNia: 100% bio-based niacinamide for safer, high-performance sustainable beauty",
    "url": "https://www.cosmeticsbusiness.com/viablife-bionia-100-bio-based-niacinamide-for-safer",
@@ -148,6 +166,15 @@
    "excerpt": "Online diamond and jewelry brand Ring Concierge saw the appeal of the loose diamond trend for its customers, but wanted to offer something that was more intentional, more trustworthy and not tied to another platform like…"
   },
   {
+   "title": "Lifestyle Journalist Anna De Souza's holiday picks for beauty, tech, and more - WMAR 2 News Baltimore",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEpJWVRvOTktTnBxaWRRZFdnV1pybEctdW4tNnVBdXB5RkxDNkNBWHp3Sld2UV9iWElqN3ZWZV9CX0o0TEl1SGN1eDZzVHJGR3cwU2oxY1RkTTRDaUw0Ty1uSmJpdkE4aEdoWElFTzFzSUZpQmc4bzM1Znh5ZlUzb3AyYVBtNkFqRTFsR2VaaWREbDF2Qm9jTWRIZDVNRXdIUmxPcWlMMUlkenRfZFZrLWNrNEpPQQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-25",
+   "ai_summary": "Lifestyle Journalist Anna De Souza's holiday picks for beauty, tech, and more - WMAR 2 News Baltimore — Lifestyle Journalist Anna De Souza's holiday picks for beauty, tech, and more WMAR 2 News Baltimore",
+   "excerpt": "Lifestyle Journalist Anna De Souza's holiday picks for beauty, tech, and more WMAR 2 News Baltimore"
+  },
+  {
    "title": "Beauty Claims Nearly A Third Of Gen Z College Students’ Holiday Gift Budgets",
    "url": "https://www.beautyindependent.com/beauty-claims-nearly-third-of-gen-z-college-students-holiday-gift-budgets/",
    "source": "Beauty Independent",
@@ -272,6 +299,15 @@
    "date": "2026-11-24",
    "ai_summary": "Uniproma expands its vitamin A portfolio, offering bio-based retinol, antioxidant-supported retinol, retinal, and vitamin A esters for flexible age-care formulations.",
    "excerpt": "The portfolio combines bio-based retinol, antioxidant-supported retinol, retinal and vitamin A esters, giving formulators greater flexibility across different age-care concepts"
+  },
+  {
+   "title": "Amorepacific Presents Its Future Vision for Beauty Tech at the Asia Beautytech Awards in Japan - Amorepacific Group",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lV3VFU00wbXByYVYwR1RiRllGaENDUVJVcG5NLUtMRTFydDBmSjFJZE5oQVZzTVlYSE9WZUJUX3pTMXcwbXk3bzhEaFJJUW95VmFVNk9meU5rZGxZTThNTlVkOA?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-24",
+   "ai_summary": "Amorepacific Presents Its Future Vision for Beauty Tech at the Asia Beautytech Awards in Japan - Amorepacific Group — Amorepacific Presents Its Future Vision for Beauty Tech at the Asia Beautytech Awards in Japan Amorepacific Group",
+   "excerpt": "Amorepacific Presents Its Future Vision for Beauty Tech at the Asia Beautytech Awards in Japan Amorepacific Group"
   },
   {
    "title": "With Mayura, Former Tech Reporter Priya Anand Wants To Change The Conversation Around Curly Hair",
@@ -6194,267 +6230,6 @@
    "date": "2026-10-27",
    "ai_summary": "European Business Development Manager (AE979802) — Arthur Edward Salary: £70-80,000 + Bonus Have you successfully sold testing services to cosmetic and personal care brands across Europe? Can you build new business relationships and drive the European expansion of a spec…",
    "excerpt": "Arthur Edward Salary: £70-80,000 + Bonus Have you successfully sold testing services to cosmetic and personal care brands across Europe? Can you build new business relationships and drive the European expansion of a spec…"
-  },
-  {
-   "title": "The best vitamin a products Contain stabilised retinaldehyde using IconicA",
-   "url": "https://www.cosmeticsbusiness.com/the-best-vitamin-a-products-contain-stabilised-retinaldehyde",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "The best vitamin a products contain stabilised retinaldehyde using IconicA, with retinol as the industry benchmark for improving aging skin but facing formulation challenges and irritation issues.",
-   "excerpt": "Retinol is currently used as the industry benchmark, by virtue of its own capability to improve the appearance of aging skin. However, formulation challenges and irritation phenomena reduce retinol’s broad acceptance amo…"
-  },
-  {
-   "title": "Skin Longevity: Taking Cosmetic Testing Beyond Anti-Aging",
-   "url": "https://www.cosmeticsbusiness.com/skin-longevity-taking-cosmetic-testing-beyond-anti-aging",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "The article discusses the shift from anti-aging to skin longevity in cosmetic testing, highlighting how this change is influencing efficacy evaluation. It explains that new testing approaches look beyond visible aging signs to explore biological mechanisms linked to healthier skin.",
-   "excerpt": "he shift from anti-aging to skin longevity is changing how cosmetic efficacy is evaluated. New testing approaches can look beyond visible signs of aging to explore the biological mechanisms associated with healthier skin…"
-  },
-  {
-   "title": "Stop the shedding: Hair care is entering its GLP-1 era",
-   "url": "https://www.cosmeticsbusiness.com/stop-the-shedding-hair-care-is-entering-its",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Hair care is moving into a new era focused on GLP-1. Demand for products and supplements that address hair loss is growing as consumer appetites shrink.",
-   "excerpt": "As consumer appetites quite literally shrink, demand for products and supplements that promise to help with the undesired side effect of hair loss is expanding"
-  },
-  {
-   "title": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards - Her Campus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHBocUUyaXNCamJwaVJKNG90Y2xzYlhLR0NmcXI4OWlCQ0FVRm1RV3FZX2lnRXN3ckR4anMtUnY3Vnc4djZOQWl1VU93aWFlVEJjTnc3bDBfaU1IUklONG9tR3dsN2RCVnRpT0N1c3JOY2JfQXBoX2c3c3dSNF9DeVdST1BHNVN5RTBxRWFaUGl6NWpPay1EQXdXZlczd0xKWlRJcVpBUVFFS3lWZzJZ?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards - Her Campus explores the ingredient standards that define Beecee's clean beauty approach.",
-   "excerpt": "What Makes Beecee Clean Beauty? A Look at Its Ingredient Standards Her Campus"
-  },
-  {
-   "title": "5 of Your Favorite Makeup Artists on Their Favorite Lip Combos",
-   "url": "https://wwd.com/beauty-industry-news/color-cosmetics/best-lip-combos-celebrity-makeup-artist-tips-1239343025/",
-   "source": "WWD Beauty",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-26",
-   "ai_summary": "Five makeup artists discuss their favorite recent lip looks and how to achieve them.",
-   "excerpt": "From breakout artist @paintedbyesther to the legendary Sam Fine, five makeup artists share their favorite lip looks of late, and how to achieve them."
-  },
-  {
-   "title": "Amazon is dropping early Black Friday beauty tech deals way ahead of schedule - Mashable",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mN2JVUmRwVHBnMWNTb2h1UlZzejRJM3ZKSkF5aU5LM0hjcUtmcnBDOHJXLXd6UDRjSWd4WWQtMUZ2SllVbVZKUkZPVXNhOFRGTDh1WnhPNUhnTjc3VWQ5Y3g5WVlzUUJlZzJ4Tmpnc1J3eGFWUGFvMWs4UWw?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Amazon is releasing early Black Friday beauty tech deals ahead of schedule. The announcement comes from Mashable.",
-   "excerpt": "Amazon is dropping early Black Friday beauty tech deals way ahead of schedule Mashable"
-  },
-  {
-   "title": "Amazon is dropping early Black Friday beauty tech deals way ahead of schedule - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREFtVU1hdGNQYUJ3eWROYmxYdE1rN1pwUHBoUl9kTXEydTFXQTFyejRKb0FxaHo3RFNFdnVyYXdtRnItbTViajdJTDd0QzF6Mm5kWTJBVnBZMTFGa2p0SnVPUXV1djhNRVZaWWs0ME9PbjBtdEJOVkN5RjNBcVp6YU5DRXpKeU0yeXFxS1d2X2RVcEF5TkRBX2pfOGFmdw?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Amazon is dropping early Black Friday beauty tech deals way ahead of schedule - Yahoo — Amazon is dropping early Black Friday beauty tech deals way ahead of schedule Yahoo",
-   "excerpt": "Amazon is dropping early Black Friday beauty tech deals way ahead of schedule Yahoo"
-  },
-  {
-   "title": "Kayali Launches in China Exclusively With Sephora",
-   "url": "https://wwd.com/beauty-industry-news/fragrance/kayali-launches-china-exclusively-with-sephora-1239385248/",
-   "source": "WWD Beauty",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Kayali Launches in China Exclusively With Sephora — The Dubai-based fragrance brand has launched exclusively with the LVMH-owned beauty retailer, pairing a 300-plus-store rollout with a founder-led push.",
-   "excerpt": "The Dubai-based fragrance brand has launched exclusively with the LVMH-owned beauty retailer, pairing a 300-plus-store rollout with a founder-led push."
-  },
-  {
-   "title": "Analysis: Is oral care’s category glow-up working?",
-   "url": "https://www.cosmeticsbusiness.com/oral-care-category-glow-up-working-analysis",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Oral care is adopting skin‑care‑style ingredients, design, and sensorial experiences to elevate the category, aiming to shift from a fleeting trend to a lasting evolution.",
-   "excerpt": "Oral care is following in the footsteps of skin care, with ingredients, design and sensorial experience now elevating the category. But the glow-up is aiming to transform from a buzzy moment into a sustainable evolution,…"
-  },
-  {
-   "title": "Mona Kattan's Kayali eyes China top three fragrance spot in exclusive Sephora launch",
-   "url": "https://www.cosmeticsbusiness.com/mona-kattan-kayali-eyes-china-top-three-fragrance-spot-sephora",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Kayali, founded by Mona Kattan, launched an exclusive omnichannel debut in China across over 300 stores and Sephora’s digital platforms, targeting a top-three spot in Sephora China’s fragrance lineup.",
-   "excerpt": "Fragrance brand Kayali, founded by Mona Kattan, made its exclusive omnichannel debut in China on 15 October across more than 300 stores and Sephora’s digital platforms, aiming to become one of Sephora China’s top three f…"
-  },
-  {
-   "title": "Patrick Ta Beauty shakes up leadership team with CMO and Creative VP appointments",
-   "url": "https://www.cosmeticsbusiness.com/patrick-ta-beauty-shakes-up-leadership-team",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "Patrick Ta’s cosmetics brand announced new leadership with Angela Simpson as Chief Marketing Officer and Carolyne Rapp as VP of Creative, reinforcing its current momentum and positioning.",
-   "excerpt": "The cosmetics brand, founded by make-up artist Patrick Ta, said the new appointments of Angela Simpson as Chief Marketing Officer and Carolyne Rapp as VP of Creative build on its current momentum and positioning"
-  },
-  {
-   "title": "L’Oréal CEO Nicolas Hieronimus on GLP-1’s ‘impact’ on skin care sales - Cosmetics Business",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXFXN2hOSTBjdnM2OGxGeVB0ZU9SWEk1M3hoYXpJbkk2YmQwanlhNjFHTFk5RzZpaVNvYjFRak5vNmtVNWVwVG9XdlhwR3IzNm1GZzhQeFFiNGhCdkVBR090dlpWZzFISE1LVTNtbkpvaFQxc3g1NVRPVzBRbjlzaGlVZlpLenZX?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "",
-   "excerpt": "L’Oréal CEO Nicolas Hieronimus on GLP-1’s ‘impact’ on skin care sales Cosmetics Business"
-  },
-  {
-   "title": "L’Oréal CEO Nicolas Hieronimus on GLP-1’s ‘impact’ on skin care sales",
-   "url": "https://www.cosmeticsbusiness.com/loreal-ceo-on-glp-1-impact-on-skin-care-consumption",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "L’Oréal’s CEO highlighted the significant impact of GLP‑1 weight‑loss drugs on skin‑care consumption, noting its importance for the cosmetics industry.",
-   "excerpt": "Nicolas Hieronimus, CEO of French beauty giant L’Oréal, says the rise in GLP-1 weight loss drugs is ‘a very important phenomenon’ for the cosmetics industry, affecting skin care consumption, following the company’s Q3 20…"
-  },
-  {
-   "title": "All eyes on Paris as registration opens for Paris Packaging Week’s biggest edition yet",
-   "url": "https://www.cosmeticsbusiness.com/all-eyes-on-paris-as-registration-opens-for",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Paris Packaging Week will host 950 exhibitors and over 80 conference sessions, showcasing packaging innovation and future industry perspectives.",
-   "excerpt": "Paris Packaging Week will see 950 exhibitors put packaging innovation centre stage in Paris on 3 & 4 February 2027, with more than 80 conference sessions offering fresh perspectives on the industry’s future"
-  },
-  {
-   "title": "Pantene reunites with ‘Ultimate Ambassador’ John Stamos after more than three decades",
-   "url": "https://www.cosmeticsbusiness.com/pantene-reunites-with-john-stamos",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "Pantene has re‑partnered with actor John Stamos as its ‘Ultimate Ambassador’, launching a new video series that revisits his iconic hair‑care partnership from more than thirty years ago.",
-   "excerpt": "Pantene has tapped actor John Stamos as its ‘Ultimate Ambassador’ 30-plus years after his original partnership with the Procter & Gamble-owned hair care brand, fronting a new video series in which he proves his famous ha…"
-  },
-  {
-   "title": "Ouai partners with You actor Victoria Pedretti on horror-inspired content series",
-   "url": "https://www.cosmeticsbusiness.com/ouai-partners-with-victoria-pedretti-horror-content-series",
-   "source": "Cosmetics Business",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Ouai partners with You actor Victoria Pedretti on horror-inspired content series — Ouai has teamed up with American actress Victoria Pedretti, who starred in Netflix thriller You, for a new content series tapping into the world of horror films as a mysterious ‘Hairtrosity’ sweeps the hair care brand’s …",
-   "excerpt": "Ouai has teamed up with American actress Victoria Pedretti, who starred in Netflix thriller You, for a new content series tapping into the world of horror films as a mysterious ‘Hairtrosity’ sweeps the hair care brand’s …"
-  },
-  {
-   "title": "Aaron Terence Hughes’ ‘Hombre’ claims Pure Beauty Awards 2026: The fragrance win driving a new era of organic and natural materials",
-   "url": "https://www.cosmeticsbusiness.com/aaron-terence-hughes-hombre-claims-pure-beauty-awards",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "Aaron Terence Hughes’ ‘Hombre’ claims Pure Beauty Awards 2026: The fragrance win driving a new era of organic and natural materials — The Readers’ Vote at the Pure Beauty Awards 2026 has crowned Aaron Terence Hughes’ Hombre Eau de Parfum as Best Fragrance. This consumer-driven victory serves as a definitive proof of concept for the brand's expanding hi…",
-   "excerpt": "The Readers’ Vote at the Pure Beauty Awards 2026 has crowned Aaron Terence Hughes’ Hombre Eau de Parfum as Best Fragrance. This consumer-driven victory serves as a definitive proof of concept for the brand's expanding hi…"
-  },
-  {
-   "title": "The untold story of Garnier’s Micellar Cleansing Water",
-   "url": "https://www.cosmeticsbusiness.com/the-untold-story-of-garnier-micellar-cleansing-water",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "The untold story of Garnier’s Micellar Cleansing Water — The L’Oréal-owned legacy beauty brand lifts the lid on how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item in Cosmetics Business’ ‘Untold Story’ series",
-   "excerpt": "The L’Oréal-owned legacy beauty brand lifts the lid on how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item in Cosmetics Business’ ‘Untold Story’ series"
-  },
-  {
-   "title": "L’Oréal sharpens India strategy with quick commerce and local content - Indian Television Dot Com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUNpdG9LbUItRVdXSzJCRnlYSE5mME5valpRam1hWHkyNnRiS3lNOXlUb1JvZ3FVSjZwZ0xRVjB3cnJGWkN4UXhBNFg3OHUxMzZQRmRFU2xMWG5td2pYX3piYUVTWTY0V3FPbmIxWWNZcEh0YXRmU05zMWRjNFFHWFRDWURYZjktenA2ZzdCYXUtX0FOTVlsaTJZMjd4amhpOHpRQTFrX0k?oc=5",
-   "source": "Beauty M&A & Corporate (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "L’Oréal sharpens India strategy with quick commerce and local content - Indian Television Dot Com — L’Oréal sharpens India strategy with quick commerce and local content Indian Television Dot Com",
-   "excerpt": "L’Oréal sharpens India strategy with quick commerce and local content Indian Television Dot Com"
-  },
-  {
-   "title": "EXCLUSIVE: The Center and Dr. Mamina Turegano Acquire Boscia Skin Care Brand",
-   "url": "https://wwd.com/beauty-industry-news/beauty-features/the-center-dr-mamina-turegano-aqcuire-boscia-skin-care-1239352147/",
-   "source": "WWD Beauty",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "The Center and Dr. Mamina Turegano have acquired and relaunch Boscia Skin Care Brand, blending Asian traditions with modern formulations.",
-   "excerpt": "Ben Bennett’s The Center has partnered with board-certified dermatologist Dr. Mamina Turegano to acquire and relaunch Boscia, blending Asian skin care traditions with modern formulations."
-  },
-  {
-   "title": "Glossy+ Research: Brands’ focus on owned channels wavers for the 2026 holiday season",
-   "url": "https://www.glossy.co/research/glossy-research-brands-focus-on-owned-channels-wavers-for-the-2026-holiday-season/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Brands and retailers are less focused on using their owned channels for the 2026 holiday season, according to the Glossy+ Research report.",
-   "excerpt": "This is an excerpt from our Glossy+ Research report The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual, which found that brands and retailers are less focused on using their o…"
-  },
-  {
-   "title": "Bath & Body Works has a successful holiday season on its wishlist. Can Zooey Deschanel help it deliver?",
-   "url": "https://www.glossy.co/beauty/bath-body-works-has-a-successful-holiday-season-on-its-wishlist-can-zooey-deschanel-help-it-deliver/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Bath & Body Works faces a critical holiday gifting period amid increased competition and a still evolving turnaround plan.",
-   "excerpt": "Like with many retailers, the holiday gifting period can be a make-or-break period for the fragrance and body-care company. And with increased competition in the mass market, a still evolving turnaround plan and macro ec…"
-  },
-  {
-   "title": "3 months after the World Cup, fashion brands are tapping soccer stars like Bellingham and Yamal for partnerships",
-   "url": "https://www.glossy.co/fashion/3-months-after-the-world-cup-fashion-brands-are-tapping-soccer-stars-like-bellingham-and-yamal-for-partnerships/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "source": "Glossy",
-   "category": "💄 Brands & Retail",
-   "date": "2026-10-26",
-   "ai_summary": "Fashion brands are partnering with soccer stars like Bellingham and Yamal to capitalize on the residual energy from the World Cup.",
-   "excerpt": "Residual energy from the World Cup is inspiring fashion brands to keep minting new partnerships with star players and teams. For U.S. brands, in particular, many of those players are now household names, adding even more…"
-  },
-  {
-   "title": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young - 매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzM0JMZlUzRzhOUW5LWmRpVmhlR2ZIZDhrcVVXSHlwbUpGWWFDenRxcW9LMUMteVBneWw3WXkyRWktTjJGbl9VaU5xSXNoTU1OQXhZ?oc=5",
-   "source": "Beauty Innovation & Tech (Google News)",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young",
-   "excerpt": "Clean beauty brand Ethnic launched two new skin barrier care lines (serum and toner) at Olive Young 매일경제"
-  },
-  {
-   "title": "Albéa unveils new packaging concepts for makeup, skincare and fragrance",
-   "url": "https://www.premiumbeautynews.com/en/albea-unveils-new-packaging,28408",
-   "source": "Premium Beauty News",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Albéa showcased new packaging collections, applicator technologies and tube decoration solutions at Luxe Pack Monaco 2026. The event highlighted the integration of its Cosmetics & Fragrance and Tubes businesses.",
-   "excerpt": "Albéa brought together its Cosmetics & Fragrance and Tubes businesses at Luxe Pack Monaco 2026, held September 28–30, to showcase new packaging collections, applicator technologies and tube decoration solutions. The even…"
-  },
-  {
-   "title": "From field to fragrance: Givaudan's House of Naturals is taking shape in Grasse",
-   "url": "https://www.premiumbeautynews.com/en/from-field-to-fragrance-givaudan-s,28413",
-   "source": "Premium Beauty News",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Givaudan will open a Center of Excellence in Grasse dedicated to innovation and natural raw material production, covering 2.7 hectares at Campus 52 in early 2028.",
-   "excerpt": "In early 2028, at Grasse Campus 52, Givaudan will inaugurate a Center of Excellence dedicated to innovation and to the production of natural raw materials. Spreading across 2.7 hectares, the new site will represent the c…"
-  },
-  {
-   "title": "Esxence brings 30 Italian niche fragrance brands to New York's AURA",
-   "url": "https://www.premiumbeautynews.com/en/esxence-brings-30-italian-niche,28411",
-   "source": "Premium Beauty News",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "Esxence hosted its second AURA event in New York, bringing 30 Italian niche fragrance brands to the Aspire venue on October 22, 2026.",
-   "excerpt": "Following its inaugural edition in 2025, the second edition of AURA took place at Aspire at One World Observatory in New York on October 22, 2026. Organized by Esxence - The Art Perfumery Event in partnership with the It…"
-  },
-  {
-   "title": "With growth exceeding 50% in 2026, The Gift Lab scales up",
-   "url": "https://www.premiumbeautynews.com/en/with-growth-exceeding-50-in-2026,28417",
-   "source": "Premium Beauty News",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "With growth exceeding 50% in 2026, The Gift Lab scales up, having designed, sourced, produced, and shipped gift sets, advent calendars, pouches, and promotional accessories for beauty, luxury, and lifestyle brands since 2010.",
-   "excerpt": "Since 2010, The Gift Lab has been designing, sourcing, producing, and shipping gift sets, advent calendars, pouches, and promotional accessories (GWP) for beauty, luxury, and lifestyle brands. Founded by Alexandre Escarr…"
-  },
-  {
-   "title": "Ingredients: Seppic's Montanov emulsifiers also help repair hair",
-   "url": "https://www.premiumbeautynews.com/en/ingredients-seppic-s-montanov,28415",
-   "source": "Premium Beauty News",
-   "category": "💡 Innovation & Regulation",
-   "date": "2026-10-26",
-   "ai_summary": "Ingredients: Seppic's Montanov emulsifiers also help repair hair, demonstrating effectiveness in hydrating skin across all phototypes and highlighting benefits for hair repair.",
-   "excerpt": "After demonstrating the effectiveness of its Montanov emulsifier range in hydrating skin across all phototypes, Seppic presents new data highlighting the benefits of these ingredients for hair repair. According to Seppic…"
   }
  ]
 }

@@ -1,18 +1,63 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-25T21:17:00Z",
+ "updated": "2026-11-26T03:59:00Z",
  "briefing": {
-  "date": "2026-11-25",
-  "hook": "Heineken pivots between cost cuts and new launches while Pernod Ricard sees a cautious price lift, and innovation pushes zero‑additive spirits and F1‑centric brews.",
+  "date": "2026-11-26",
+  "hook": "Pernod Ricard battles luxury, Heineken cuts jobs, and new zero‑additive cognac hits the market.",
   "categories": {
-   "🤝 Strategy & M&A": "Heineken trims jobs in Poland and plans to restart its Haiti brewery for Christmas, while Deutsche Bank raises its target for Pernod Ricard but remains cautious.",
-   "📈 Market": "Whitebox Cocktails highlights RTD growth and native brand advantage, and El Jefe secures a UK distribution tie‑up for its energy drinks.",
-   "🍸 Spirits & Premium": "Rémy Cointreau introduces a zero‑additive Cognac, Rémy 2.0, to revive US demand.",
-   "🍺 Beer & Brewing": "Heineken unveils a Formula One‑exclusive beer, NPD, targeting F1 fans.",
-   "💡 Innovation & No-Low": "Heineken launches an F1‑centric beer, and India’s FFSAI expands water safety checks to other brands."
+   "🤝 Strategy & M&A": "Pernod Ricard is repositioning its luxury brands while Heineken trims its workforce in Poland.",
+   "📈 Market": "Whitebox cocktails highlight RTD growth, while Olvi closes a Danish site and El Jefe expands UK distribution amid changing trade ties.",
+   "🍸 Spirits & Premium": "Rémy Cointreau launches a zero‑additive cognac to revive US demand.",
+   "🍺 Beer & Brewing": "Heineken cuts jobs in Poland and introduces a Formula One‑exclusive beer.",
+   "💡 Innovation & No-Low": "Rémy 2.0 zero‑additive cognac and Heineken’s Formula One‑exclusive beer showcase innovation."
   }
  },
  "articles": [
+  {
+   "title": "Jameson Williams Week 12 Outlook for Fantasy Football (2026) - RotoBaller",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEtWVDJ0ajI1eTkwTlgxaHFtUkhfeTROekpoTVNnalJmU0RCcWp6WDB0NHZUYjJKSkRvV2RCOFVseWxobHNDSFRmX24weHYtWFpzX1FzT0hKYVAwZ3FoYWh1bjZhaGM5LUptNW9XZDNRbjdOUnVWeFAwSWwtSWdoQzM3YUoxbUlFcUZaajdQMjZ0d2ZySXZPWEtBOGc4WG5XQW1kRlc3cGlYb0J4dVJyLXBEbw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Jameson Williams Week 12 Outlook for Fantasy Football (2026) - RotoBaller",
+   "excerpt": "Jameson Williams Week 12 Outlook for Fantasy Football (2026) RotoBaller"
+  },
+  {
+   "title": "Can Jameson Williams put up a top-10 fantasy WR performance in Week 12? - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGRFdzJtQnM5OGhIR2xodjZHaEdNdzB0MU5ydEJDUG5GUXJvVkVYalRmWmZyNzhKSTdndE9Db1JraDhidm5hWExQaktuenFqdmRkSjNEX2F4SXY0Si0zVUcta19ibUNMZWpqb1NvSGM0aHZ4aHJMN3FTSEJEanYzcGZ1clNZM3JiZmplaXBTS2wtM1BiR0g1alVvcmJPcFpEbmJsR3BlaFdheVo0akR4WUE5Ti1qOG8?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Can Jameson Williams put up a top-10 fantasy WR performance in Week 12? - Yahoo Sports",
+   "excerpt": "Can Jameson Williams put up a top-10 fantasy WR performance in Week 12? Yahoo Sports"
+  },
+  {
+   "title": "The Most Important Quotes That Catch Your Eye From What Jameson Riggs Said On Wednesday - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZG9JSU8taFB6Ti05WV9vTG83U1VmdENXSGxYMnFFM3d3UTNYaVNjUjh4YXVTaXdDNVhta21RcU9RYkZzbDFTMWM5YWU1WGtmT3dzZ1VEMDZjMjJSX3dMcVJkZE9VT1FGUnRPQzZzSVFWOFFBV2xsSXo2bDZSOU54dE9HUmpHMFRmdHVqOHBhdW91dnVueGUtMWZ5aUcwQQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "The Most Important Quotes That Catch Your Eye From What Jameson Riggs Said On Wednesday - Yahoo Sports",
+   "excerpt": "The Most Important Quotes That Catch Your Eye From What Jameson Riggs Said On Wednesday Yahoo Sports"
+  },
+  {
+   "title": "Pernod Ricard plays Battleship with its luxury brands - Valor International",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXlMakpFblhIM192WEcyeG1vQ3dvbU5YRmFRdlRCR0NyU3NJakllQVZ1RjVPNWt1YklIY3FvWWdzVUM0UF9HRzNaVWZTSjlwbWRfVnpNWVUtbWN5S0pzSmRaVTd6VE9aOUJOU1RVakxIdjFZNl9uY2o3MTF4alBJYnNVQU42TFhYTC1EcnV5U0duNTRNdlJvWFhITFVoR3ctVjZxRWtXcVY4eTVwenIxR0JGTkxoTFdhRmRpbXF30gHMAUFVX3lxTFBNdHo2YUNrdlMyZl9nY25uTmRuMkJYRWtkVTgtMU9feWdVMUVTMkN5QXVXVXVWYVg2NHJfUFNSY2VvS2NXOWNvRUh1TXgyeVlmQU00bFpKQU1wWldycmFPOVdCMW9LVW53cFIyN1VydXdHUUV4c09jNlg2TlBMRVpDbGo5azJ3S3BlRmZ6SjJuTmhLb1BfRkUwMFplQWhyMzhjUzZLSnMxNnN4cEJNS0FzbkVjd2FMa1ktbWo2aE1VVWcta1RxaURlN1ZYcA?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Pernod Ricard plays Battleship with its luxury brands - Valor International",
+   "excerpt": "Pernod Ricard plays Battleship with its luxury brands Valor International"
+  },
+  {
+   "title": "Fantasy football Start 'Em, Sit 'Em WR in Week 12: Devonta Smith, Jameson Williams lead Thanksgiving slate - CBS Sports",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcjR2aV9wMXo4S3BKUUNiLXBva3FHWWRfWEVfcks3UXU1d3NiWVg2R29hNTBMdlYwYVA0bUhXX2RxSWtaSzRxV1FGc3VYYXMxUWZudTF5Z3h2RktHSHNBZ2xWRXhVZnZBYnN4ZTA5Sk43amVVM1M0TzVlWWVEUlNFUnRfU016Q0d5TWdBeUxTcVdfdEhKMzJNZVl6MlVyaG1UZHRZM0lXc1Y3VEppaGVmdllXNTlESUdFc1NWZGFTa05YR0JSNHlFVjlpVXNTamdOR3hCcmxIaEZHWmJKVVRlbkRKQnc?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Fantasy football Start 'Em, Sit 'Em WR in Week 12: Devonta Smith, Jameson Williams lead Thanksgiving slate - CBS Sports",
+   "excerpt": "Fantasy football Start 'Em, Sit 'Em WR in Week 12: Devonta Smith, Jameson Williams lead Thanksgiving slate CBS Sports"
+  },
   {
    "title": "Heineken cuts jobs in Poland - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWZMY3JpX0d1QktFbG54bzFvVW5qX1UwU2ViZDVIN3lSZ2Zyd2k0RzY2UEJBZHVQSVc4M1drMFhXN3lmdkVzS0xpZzBzZVA1QjVxUmZQVUhweC13dzQzcXpFQXlWQVJzVHF4dzE2U0EtWUxyWnVCQXV3UWVFLVdTbmlOd28xbkkxU0RFcm1iLWdRaUVX?oc=5",
@@ -4332,141 +4377,6 @@
    "date": "2026-10-27",
    "ai_summary": "",
    "excerpt": "Heineken Partners With Amazon For 'Pubscription' Streaming Service 10/26/2026 MediaPost"
-  },
-  {
-   "title": "Gen Z ‘not abandoning bars, but have substantial expectations’, says Heineken – data - Global Drinks Intel",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTdsSWY1bk4zMlZWYmtTbXRSeWVUQlpHYUJPazU3Q1pma3JZaHZOV0kzSmdBSnhBWFd6bnZaUFotV2hiYTZuSnpfYm9sZ1FXSWV0YzZKZF95TlhxVVpldFFvcUVHcVJKVVFVbjlVWFNZYl9yZ1BLWGxxN2FYaGU0ZHV0QUlrd21QeFNLSWRON3JqejRwU3FRVUVVV1BWY3RrTk1wUDVhUkVlV195QnBpN2tLOEVQdGpwbXc4?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Heineken reports that Gen Z is not leaving bars but has high expectations.",
-   "excerpt": "Gen Z ‘not abandoning bars, but have substantial expectations’, says Heineken – data Global Drinks Intel"
-  },
-  {
-   "title": "Heineken Warns Bars of GLP-1 Drugs’ Negative Impact on Beer Sales - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EMExiX0Ywems3ZHQyNFFCajAyQkRtUmx4c3BfbDJId2tFU3pjaTlSNnNnXzF5cVJJLTdsMzNyNkRoYUp2NjhKWE14X3ktdm8wcThWalB3Zi1YUE5jMmE1QzBsUzk4anlNdHdUM2xvQWUwQzZrbE5ncw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Heineken cautions that GLP-1 drugs may reduce beer sales in bars.",
-   "excerpt": "Heineken Warns Bars of GLP-1 Drugs’ Negative Impact on Beer Sales AOL.com"
-  },
-  {
-   "title": "Heineken pushes Amsterdam links in Amstel revamp – video - Global Drinks Intel",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkhUY2F4dVRkOVNxdEJqZHB4WjBQOTRPY2xzMjV2UmlXc1ZBeHJXOVUzNkFCNzV4QmRReGRJcG9LQ1BZMW13ekVOQjA1WTVIRzE4NFlVUXVOTWY3MTF2a1h2S212UFotelk2NUFEUVlXN2dGOGVvT3FScEZGNGk2SU8wR0lDV1FZRXM2MUdR?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Heineken is linking Amsterdam in the Amstel revamp, as shown in a video. The content is part of Global Drinks Intel.",
-   "excerpt": "Heineken pushes Amsterdam links in Amstel revamp – video Global Drinks Intel"
-  },
-  {
-   "title": "India bulk Scotch probe ‘undermining UK agreement, trade group says’",
-   "url": "https://www.just-drinks.com/news/india-scotch-probe-against-uk/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "India bulk Scotch probe ‘undermining UK agreement, trade group says’.",
-   "excerpt": "An industry body representing Diageo and Pernod Ricard said India’s exclusion of bulk Scotch imports from reduced tariffs violates the terms of its trade accord with the UK."
-  },
-  {
-   "title": "We graded every Lions player from the Packers win; Jameson Williams was perfect, but one defender hit a brutal low - A to Z Sports",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjNyR0ZJN25fVTk5NmhfbjV6LWdqNmRMMDZjVmNrYm96SjhrTnVEMUVWLWdULXpjcDJDdVBMSVJ6UV9RWnpBUGdjWTJ0b1FnMm96TzY2UTVvSWcxZDhibWNIUkJtUWFzclhqWnJ4REh1dUtmclkxT0hON011bDZVcmlsNTRaVi1EeGNkMU1ON1ItU09WUTNCdkdfallCQ1pON0tqaV85U1VsZUNMVUNQUktISHIxdGZaTzE5NlY4WHZmeXQ4Y3ZHT0IwWnRQNTR1MnpzemZzZkNRY3lfWHd3NEg3MjBqRkRCTEtOWGNlaEo?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "We graded every Lions player from the Packers win; Jameson Williams was perfect, but one defender hit a brutal low.",
-   "excerpt": "We graded every Lions player from the Packers win; Jameson Williams was perfect, but one defender hit a brutal low A to Z Sports"
-  },
-  {
-   "title": "Spirits “ade” segment “where a lot of action is” – Boston Beer CEO Jim Koch",
-   "url": "https://www.just-drinks.com/news/spirits-ade-segment-where-lot-of-action-is-boston-beer-ceo/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "Spirits “ade” segment “where a lot of action is” – Boston Beer CEO Jim Koch.",
-   "excerpt": "The emerging \"ade\" segment in spirits will be \"where a lot of the action is\" over the next year, according to The Boston Beer Co.'s CEO."
-  },
-  {
-   "title": "Celsius CEO outlines “bullish” energy outlook in US and “big opportunity” in retail",
-   "url": "https://www.just-drinks.com/interviews/celsius-ceo-outlines-bullish-energy-outlook/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-26",
-   "ai_summary": "Celsius CEO outlines “bullish” energy outlook in US and “big opportunity” in retail.",
-   "excerpt": "Just Drinks speaks to CEO John Fieldly on the company’s outlook for next year and the energy category in the US."
-  },
-  {
-   "title": "Jameson Williams scores two touchdowns in win Sunday - FantasyPros",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdk92ek81Y1R5VWNmd2lXZjB0X19jMTZvY1YxcjMyMThkNVBGT2JmaHlkWHEzQzRwaF9XeWFzZkQ3Y2lZcmU1Y19UZVM4VFRvSUw2QXQwY0x1WHZLUERKMGg5eDBSbWg0Mk5fam5kMmItd2NTWVgxTGM5R0MwaG5BaFk0bW51d1o0RC1obHllWkd2eEQ2ZHVGLU80bDVyZ9IBowFBVV95cUxQc005MzcwdGpCN0xvdFFPaXVWWTNiamt4LWEzbDhsRG9rZ0VaMFRwZ1h3a3EtSnY0dHFJQjhMMHhHUjhzaUFwWmFMUjRtaWYxT0M3czNodi1OY0VMU0NQWDNTRXF6TDdISDdyelY5b1ZjZnNSV24zM1Ffdl9yVXdfT1pSS0I2djJXZFVqcktOWkhuNzh5WXJZbzBMRnBCaUliWXlr?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Jameson Williams scores two touchdowns in win Sunday.",
-   "excerpt": "Jameson Williams scores two touchdowns in win Sunday FantasyPros"
-  },
-  {
-   "title": "Heineken N.V. reports the progress of transactions under its current share buyback programme - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzFTcDVYX3ROdEEyMzlINkc3LUt0QWFFeUtBXzZPNC1CdDdrR0JfNGFBdVc5Vmp6YkNjYXI4MU9RVXlIMzNSQWZFS2Z5czk3bEllOXBTTk54bEFEbm1vd1VlSVVwNk44QlJHS0Zsc2VzUmdJa2VrakFWcjFHRXlBUzA4NjBuR0FLT2hza1lZZ2t1alFJZUZhVGtn?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Heineken N.V. reports the progress of transactions under its current share buyback programme.",
-   "excerpt": "Heineken N.V. reports the progress of transactions under its current share buyback programme Yahoo Finance"
-  },
-  {
-   "title": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjhmRF84RUVsM3JSbHd3Y1JqankzV2JqZWFZcnEwaU52YXdaRXEzUU0wZVJoa0tCQkk0WnlnUGJ6cEVmMHJBUldRVUhnbGZTMFV0aUx5Q1NOWjZiWm1Sdzh0LTd0dVJQVlR2YWY0djdoWU5iWTlVNXVwMFhLYWVDSVZQOC0yejVKejVvVTdsOGRkaUxpWGQ1TURWYThKUDlaUGxLZDZCZ3RhVUdIVkNxRWl3eFUyY1JnMzE2WVpsUktqUEdjOG5RMlhn?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order.",
-   "excerpt": "Weekly Recap: Heineken NV €1.5B buyback under way and €111M court order TradingView"
-  },
-  {
-   "title": "Jameson Williams Finds end zone twice in win over Pack - Fantasy Footballers Podcast",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnYxeXRyWVFXbFdaSGVQUUI3REV0WGdtRnFtNlQ5Ti0xa0gtZzY1Q1FpXzFCOE9mdzRxNmlCYUpFTVBiaEtHek9xNmluNUtaWVNiaGpCNi16THZ4b08tQVRJTjBUUHJ1UmZwZVBWNUkwd3VaOG1LdTFEbExfVHNLZFRZaDdrOHU5QlVBNVZQLUtEaXpONU8xd3I4dmZobEFwdWs4MDJteFk?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Jameson Williams Finds end zone twice in win over Pack - Fantasy Footballers Podcast — The podcast episode discusses Jameson Williams scoring twice in a victory over the Packers. It examines how his performance contributed to the team's win.",
-   "excerpt": "Jameson Williams Finds end zone twice in win over Pack Fantasy Footballers Podcast"
-  },
-  {
-   "title": "Jameson Williams totals 91 yards, scores twice - NBC Sports",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkpWTVZvNXNrNEQ1aW54RWlDV2pHQkxWOXlZblBXMlIySmh4YTRVN0VMZjlEdkxIeTFWcUkyMVhiUUk4Vkp1Q0Z6U1Q3cThZekxmRm42NUplTW5ZbUhNbHZsYkFjeDlUeFN0elllZnJKUEdBbmlHVGdEekh5ZlhaM19HTC1uSU1hSFNhRkdRN2VEaHBTZGJ0NTZBSFVXcnhkcUEtbVB3YWNrUFpXbFVNSw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Jameson Williams totals 91 yards, scores twice.",
-   "excerpt": "Jameson Williams totals 91 yards, scores twice NBC Sports"
-  },
-  {
-   "title": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 - Detroit Lions",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0VWVkxac1R3SDNxM2FYN28yQTVhTldxOXhGTEhjZWtLVEhTa3lEdnR3d2NGdEQzYzBfMGR5bVRLRUZqOWEyYndUdHM2anZEbWswd2xBb3kySEZTdXdldERSUDFoNTljLTVweFp3V0VfdUxxaXZkUG9xLVRVWTZ1aWZXMVotQ01ZUFhBSVU0cEMxMUtIWUZHX0cxQkY?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 - Detroit Lions — The article highlights Jameson Williams' performance in a Week 7 game against the Packers, noting his two touchdown catches for the Detroit Lions. It focuses on the impact of his catches on the game's outcome.",
-   "excerpt": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 Detroit Lions"
-  },
-  {
-   "title": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 - Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHUtTjFWSXp4eDc0VGFKTTJkM2gwMkFRUk90Z0xaV2YyRVlfLW1pSFpNWUw2bEhSaGVqdlFDa256bTlBd3l6UGIteE1HUFVnVVpvRTU2Y2oxeHlEVVlFZzkwQzhsNlUxdEhVMjZsMktMRWZqY1hKTTVDX0VFWnlrd2lZNA?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 – Yahoo Sports",
-   "excerpt": "Every Jameson Williams catch from 2-TD game vs. Packers Week 7 Yahoo Sports"
-  },
-  {
-   "title": "How long can Jameson Williams stay at boom status in fantasy? - Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzdoWlhBX0M3c3U5SHRKa0tJOEhKcWNCa0dIWWdlRXpna09TRVpqTXI0NGcyQ2NzVU5TWTNlNVNqODVRMUhsTDdLRWNmVl8xYTAtVWhhMVNPazZJM2s2R3lWRUJCQmRITmRBT1dtcE9ncWRTa3o1a3lUSEprYXFqYTg1bnluZkhyS0tnMzk1cHAxVUNJeGZHVnpnUF9DYVdMMHMtTkxIV28tUQ?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-26",
-   "ai_summary": "How long can Jameson Williams stay at boom status in fantasy? - Yahoo Sports — This article questions the duration of Jameson Williams' high performance in fantasy football. It explores factors that might affect his continued success.",
-   "excerpt": "How long can Jameson Williams stay at boom status in fantasy? Yahoo Sports"
   }
  ]
 }
