@@ -1,17 +1,44 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-26T03:59:00Z",
+ "updated": "2026-11-26T13:46:00Z",
  "briefing": {
-  "date": "2026-11-25",
-  "hook": "Norwegian retailers unite under Dyrego while Central Garden & Pet sees sales decline, hinting at consolidation and growth pressure.",
+  "date": "2026-11-26",
+  "hook": "Pet food market buzzes with awards, profit growth, and rising inflation pressures, while innovation centers on health and sustainability, and regulatory shifts loom.",
   "categories": {
-   "📈 Market": "Norwegian retailers unified under Dyrego while Central Garden & Pet saw a sales dip, indicating consolidation and pressure on growth.",
+   "📈 Market": "Awards for storytelling and a 44% profit jump lift market sentiment, yet inflation data signals rising price pressure for pet owners.",
    "⚖️ Regulation": null,
-   "💡 Innovation": "Consumers now expect daily diets to address skin and coat health, as a glossy coat signals pet wellness.",
-   "🤝 M&A": "Industry stakeholders are assessing the impact of the FDA’s proposed GRAS rule on pet food ingredients."
+   "💡 Innovation": "Health-focused diets and sustainability initiatives drive innovation, highlighted by microbiome research and new production expansions.",
+   "🤝 M&A": "Regulatory changes with FDA rule proposals and a leadership appointment at Mars signal strategic shifts in the industry."
   }
  },
  "articles": [
+  {
+   "title": "Purina docuseries earns three Daytime Emmy Awards",
+   "url": "https://www.petfoodprocessing.net/articles/21115-purina-docuseries-earns-three-daytime-emmy-awards",
+   "source": "Pet Food Processing",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Purina docuseries earns three Daytime Emmy Awards — The recognition celebrates the power of storytelling that puts people and pets at the center, according to Purina.",
+   "excerpt": "The recognition celebrates the power of storytelling that puts people and pets at the center, according to Purina."
+  },
+  {
+   "title": "Pets at Home sees brighter prospects after profit jumps 44% in H1",
+   "url": "https://globalpetindustry.com/news/pets-at-home-sees-brighter-prospects-after-profit-jumps-44-in-h1/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Pets at Home sees brighter prospects after profit jumps 44% in H1 — Pets at Home’s consumer revenue for the first half (H1) of fiscal year (FY) 2027, ended 8 October 2026, rose 3.7% year-over-year (YoY) to £1.09 billion ($1.44B/€1.24B). Gross profit reached £366 million ($483M/€417M), up…",
+   "excerpt": "Pets at Home’s consumer revenue for the first half (H1) of fiscal year (FY) 2027, ended 8 October 2026, rose 3.7% year-over-year (YoY) to £1.09 billion ($1.44B/€1.24B). Gross profit reached £366 million ($483M/€417M), up…"
+  },
+  {
+   "title": "Inflation snapshot: US and UK pet owners face renewed price pressure in October",
+   "url": "https://globalpetindustry.com/news/inflation-snapshot-us-and-uk-pet-owners-face-renewed-price-pressure-in-october/",
+   "source": "Global Pet Industry",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Inflation snapshot: US and UK pet owners face renewed price pressure in October — Consumer Price Index (CPI) data for October 2026 showed renewed price pressure on pet owners in the United States and the United Kingdom, where prices for pet supplies and accessories increased sharply following a month …",
+   "excerpt": "Consumer Price Index (CPI) data for October 2026 showed renewed price pressure on pet owners in the United States and the United Kingdom, where prices for pet supplies and accessories increased sharply following a month …"
+  },
   {
    "title": "Purina Dog Chow joins 100th Macy’s Thanksgiving Day Parade",
    "url": "https://www.petfoodprocessing.net/articles/21106-purina-dog-chow-joins-100th-macys-thanksgiving-day-parade",

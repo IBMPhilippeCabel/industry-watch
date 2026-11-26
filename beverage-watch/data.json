@@ -1,18 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-26T03:59:00Z",
+ "updated": "2026-11-26T13:47:00Z",
  "briefing": {
   "date": "2026-11-26",
-  "hook": "Pernod Ricard battles luxury, Heineken cuts jobs, and new zero‑additive cognac hits the market.",
+  "hook": "M&A moves, workforce cuts and new zero‑additive cognac signal a tightening market and fresh product pushes.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard is repositioning its luxury brands while Heineken trims its workforce in Poland.",
-   "📈 Market": "Whitebox cocktails highlight RTD growth, while Olvi closes a Danish site and El Jefe expands UK distribution amid changing trade ties.",
-   "🍸 Spirits & Premium": "Rémy Cointreau launches a zero‑additive cognac to revive US demand.",
-   "🍺 Beer & Brewing": "Heineken cuts jobs in Poland and introduces a Formula One‑exclusive beer.",
-   "💡 Innovation & No-Low": "Rémy 2.0 zero‑additive cognac and Heineken’s Formula One‑exclusive beer showcase innovation."
+   "🤝 Strategy & M&A": "Sunrise’s purchase of Northern Monk and Pan Jamaica’s Nordic expansion highlight a focus on growth amid financial strain, while Pernod Ricard warns pubs of potential price shocks.",
+   "📈 Market": "Heineken and Rémy Cointreau are trimming jobs, and Orior is cutting sales and earnings outlook, reflecting broader cost‑cutting trends in the beverage sector.",
+   "🍸 Spirits & Premium": "Rémy Cointreau’s new zero‑additive Rémy 2.0 aims to revive U.S. cognac demand, signalling a push for premium, cleaner products.",
+   "🍺 Beer & Brewing": "Heineken’s new Formula One‑exclusive beer NPD targets niche fan markets, while the company also reduces staff in Poland, showing a mix of product innovation and cost control."
   }
  },
  "articles": [
+  {
+   "title": "Sunrise buys Northern Monk as growth strains finances",
+   "url": "https://www.just-drinks.com/news/sunrise-buys-northern-monk-as-growth-strains-finances/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Sunrise buys Northern Monk as growth strains finances",
+   "excerpt": "Sunrise Beverages has agreed to acquire Northern Monk, stepping in with fresh capital after rapid growth strained the company’s finances."
+  },
+  {
+   "title": "Rémy Cointreau to cut up to 15% of workforce",
+   "url": "https://www.just-drinks.com/news/remy-cointreau-to-cut-up-to-15-of-workforce/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Rémy Cointreau to cut up to 15% of workforce",
+   "excerpt": "Rémy Cointreau has revealed plans to cut up to 15% of its total staff count as it looks to bolster its profitability."
+  },
+  {
+   "title": "Orior cuts sales, earnings outlook",
+   "url": "https://www.just-drinks.com/news/orior-annual-sales-earnings-outlook/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Orior cuts sales, earnings outlook",
+   "excerpt": "Switzerland’s Orior has cut its sales and earnings outlook further, citing higher meat prices and other “challenging” market conditions."
+  },
+  {
+   "title": "Pernod Ricard warns pubs over spirits pricing ‘bill shock’ - The Drinks Business",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXgySG4zUFJYMy1EYTVhdFVpT0xqZHlnZTVpV2FvZHV6Zmk0QWwtNC10Rkg4dW0zankwR2tGbkhCQ1dhb1ljVnM2UDlqTDItYUJXbWZjVjZIVGx4RXhaeTNLRUZ1RWdkTHJ0ZjFuYmcwOXdrN1dHY2p3UkxCOHhQeDlYWEYzeURrV3Vrc0w3MnduODhvQVZkYWZydVJJcTlw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Pernod Ricard warns pubs over spirits pricing ‘bill shock’ - The Drinks Business",
+   "excerpt": "Pernod Ricard warns pubs over spirits pricing ‘bill shock’ The Drinks Business"
+  },
+  {
+   "title": "Pan Jamaica expands Nordic presence with Better Jusage deal",
+   "url": "https://www.just-drinks.com/news/pan-jamaica-buys-better-jusage/",
+   "source": "Just Drinks",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Pan Jamaica expands Nordic presence with Better Jusage deal",
+   "excerpt": "Pan Jamaica Group has expanded its business in the Nordic markets with the acquisition of Swedish manufacturer Better Jusage."
+  },
   {
    "title": "Jameson Williams Week 12 Outlook for Fantasy Football (2026) - RotoBaller",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEtWVDJ0ajI1eTkwTlgxaHFtUkhfeTROekpoTVNnalJmU0RCcWp6WDB0NHZUYjJKSkRvV2RCOFVseWxobHNDSFRmX24weHYtWFpzX1FzT0hKYVAwZ3FoYWh1bjZhaGM5LUptNW9XZDNRbjdOUnVWeFAwSWwtSWdoQzM3YUoxbUlFcUZaajdQMjZ0d2ZySXZPWEtBOGc4WG5XQW1kRlc3cGlYb0J4dVJyLXBEbw?oc=5",
@@ -66,6 +110,15 @@
    "date": "2026-11-25",
    "ai_summary": "Heineken is cutting jobs in Poland.",
    "excerpt": "Heineken cuts jobs in Poland Yahoo Finance"
+  },
+  {
+   "title": "Heineken cuts jobs in Poland",
+   "url": "https://www.just-drinks.com/news/heineken-cuts-jobs-in-poland/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-25",
+   "ai_summary": "Heineken cuts jobs in Poland",
+   "excerpt": "Heineken said the Grupa Żywiec business \"is reorganising its sales department in response to market changes affecting the entire brewing industry\"."
   },
   {
    "title": "Heineken aims to restart Haiti brewery to meet Christmas demand - Reuters",

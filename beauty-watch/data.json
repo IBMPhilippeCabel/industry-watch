@@ -1,17 +1,152 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-26T03:59:00Z",
+ "updated": "2026-11-26T13:47:00Z",
  "briefing": {
   "date": "2026-11-26",
-  "hook": "Innovation drives brightening, while brands pivot to experiential retail and strategic shifts.",
+  "hook": "Today’s buzz spans pop‑ups, regulatory fines, and new AI fragrance tools, underscoring a market that blends culture, compliance, and tech.",
   "categories": {
-   "📈 Market": "Retailers expect brands to engage in pre‑shelf conversations and create human experiences to counter digital fatigue.",
-   "💄 Brands & Retail": "Brands are leveraging experiential retail and social platforms like TikTok to shape consumer reach and meet holiday gifting trends.",
-   "🤝 Strategy & M&A": "L'Oréal plans a €300 million investment in France, while Estée Lauder announces voluntary redundancies in France as part of a turnaround.",
-   "💡 Innovation & Regulation": "Vitamin C moves into body care for brightening, bio‑based niacinamide gains awards, and fragrance giants face antitrust fines while coffee scents trend."
+   "📈 Market": "Pop‑ups at Art Basel and Bristol, alongside a €500 million fine for trade‑secret sharing, highlight a market balancing experiential retail with tightening competition enforcement.",
+   "💄 Brands & Retail": "Luxury brands are reimagining founders through cartoons, comics, and video games, while Ring Concierge taps the loose diamond trend to steer buyers toward its own channels.",
+   "🤝 Strategy & M&A": "Luckyscent names a new CEO to grow its fragrance bar, while Wonderscent raises AI‑powered tools to sift through the booming fragrance launch landscape.",
+   "💡 Innovation & Regulation": "Vitamin C is moving into body care, Viablife BioNia showcases 100 % bio‑based niacinamide, and Biodance targets global expansion with hydrogel formulas."
   }
  },
  "articles": [
+  {
+   "title": "E.l.f. Brands to open Hote.l.f. pop-up with Palm Tree Club & Hotel for Art Basel Miami",
+   "url": "https://www.cosmeticsbusiness.com/e-l-f-brands-to-open-hote-l-f-pop-up-with",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "E.l.f. Brands will open a pop‑up called Hote.l.f. at Art Basel Miami, showcasing its cosmetics, skin, and hair products to position the brand within a major cultural moment.",
+   "excerpt": "E.l.f. Cosmetics, e.l.f. SKIN and e.l.f. Hair products will be showcased at the five-day event, which aims to position the brand within a ‘major cultural moment’"
+  },
+  {
+   "title": "Givaudan, Firmenich and IFF fined more than €500 million over fragrance cartel",
+   "url": "https://www.cosmeticsbusiness.com/givaudan-firmenich-iff-fined-more-500million-fragrance-cartel",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "The European Commission and UK Competition and Markets Authority fined Givaudan, Firmenich, and IFF over €500 million for sharing commercially sensitive information, violating competition rules.",
+   "excerpt": "Investigations by the European Commission (EC) and UK Competition and Markets Authority (CMA) found that the world’s three largest fragrance producers shared commercially sensitive information, breaking competition rules"
+  },
+  {
+   "title": "Sephora issues last application call for second edition of the Sephora Prize",
+   "url": "https://www.cosmeticsbusiness.com/sephora-issues-last-application-call-for-second-edition-prize",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Sephora will accept applications for the second edition of the Sephora Prize until 30 November, offering winners mentoring and retail acceleration opportunities.",
+   "excerpt": "Applications will remain open until 30 November, with winners able to benefit from mentoring and retail acceleration opportunities with the LVMH-owned beauty retailer"
+  },
+  {
+   "title": "Biodance founder Mihwa Kim on the viral brand’s social media success and global expansion plans",
+   "url": "https://www.cosmeticsbusiness.com/biodance-founder-mihwa-kim-on-the-viral-brand",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-26",
+   "ai_summary": "Mihwa Kim founded Biodance after a car crash, and the Korean skincare brand is now aiming for global expansion with its hydrogel formulas and strong social media following.",
+   "excerpt": "Mihwa Kim created Biodance following a car crash – now the Korean skin care brand is the latest to look at global domination thanks to its satisfying hydrogel formulas and cult social media following"
+  },
+  {
+   "title": "Joonbyrd conquered advanced body care, but can it crack the hair care market?",
+   "url": "https://www.cosmeticsbusiness.com/joonbyrd-conquered-advanced-body-care-can-it-crack-hair-care",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Joonbyrd, known for its advanced body care and 100% year‑on‑year ecommerce growth, is preparing to enter the hair care market with clinically proven actives and mood‑supportive scents.",
+   "excerpt": "After reporting a ‘stellar’ 100% year-on-year ecommerce growth, Joonbyrd – the body care brand founded by dermatologist Dr Alexis Granite, powered by clinically proven actives and mood-supportive scents – will enter the …"
+  },
+  {
+   "title": "Exclusive: How Undead Beauty is bringing discarded cosmetics back from the brink",
+   "url": "https://www.cosmeticsbusiness.com/exclusive-how-undead-beauty-is-bringing-back-discarded-cosmetics",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Undead Beauty addresses beauty overconsumption by giving discarded cosmetics a second life, reviving forgotten products from the afterlife.",
+   "excerpt": "As beauty’s overconsumption problem grows, one new brand is giving forgotten products a second life. Here is how Undead Beauty is bringing unloved and unused make-up products back from the afterlife"
+  },
+  {
+   "title": "Missha opens first UK pop-up in Bristol via Boots",
+   "url": "https://www.cosmeticsbusiness.com/missha-opens-first-uk-pop-up-in-bristol",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "Missha opens a three-day pop-up in Bristol’s Boots store, inviting consumers to explore its K-beauty range including skincare and BB cream.",
+   "excerpt": "The Korean skin care and make-up brand is taking over Boots’ Bristol Cabot Circus Store for a three-day event, inviting consumers to discover the brand’s range of K-beauty products, including skin care and its hero BB Cr…"
+  },
+  {
+   "title": "SID MEDICOS moves to expand LemonBottle distribution and strengthen supply in Japan",
+   "url": "https://www.cosmeticsbusiness.com/sid-medicos-moves-to-expand-lemonbottle-distribution-and",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "SID MEDICOS expands LemonBottle distribution in Japan, adding new channels and strengthening product information.",
+   "excerpt": "New distribution channels will build on the brand’s existing network in Japan, with a phased expansion planned according to regional demand and distribution conditions; plans also include stronger product information and…"
+  },
+  {
+   "title": "Luckyscent Hires First CEO As It Takes Scent Bar Into New Markets",
+   "url": "https://www.beautyindependent.com/luckyscent-ceo-scent-bar/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Luckyscent appoints Bernard Zion as CEO to grow the fragrance bar while preserving its core appeal.",
+   "excerpt": "Luckyscent has hired its first CEO, Bernard Zion, to turn the niche fragrance institution into a larger national retailer without losing what made fragrance enthusiasts fall in love with it over nearly 25 years in busine…"
+  },
+  {
+   "title": "Pinterest Alums Behind AI-Powered Wonderscent Raise $2.25M To Help Shoppers Find Their Next Fragrance",
+   "url": "https://www.beautyindependent.com/pinterest-alums-behind-ai-powered-wonderscent-raise-2-25m-to-help-shoppers-find-their-next-fragrance/",
+   "source": "Beauty Independent",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Pinterest Alums Behind AI-Powered Wonderscent Raise $2.25M To Help Shoppers Find Their Next Fragrance — With as many as 10,000 fragrance launches annually amid the category’s ongoing boom, sorting through the options can be difficult even for the most dedicated fragheads. Wonderscent , a new artificial intelligence-powered…",
+   "excerpt": "With as many as 10,000 fragrance launches annually amid the category’s ongoing boom, sorting through the options can be difficult even for the most dedicated fragheads. Wonderscent , a new artificial intelligence-powered…"
+  },
+  {
+   "title": "London market offers growth platform for Beauty Tech Group - Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEljM2kwOVBHZ2hTbm9BVk5zRWxHYUYtcU8taFZ2cDNoUkx5NDVpeGprN3V5eHRkVDlZdFRNeFp5cDI1UFdHNERMWEZHMlc1WHlyYWtZTnhETlU0Z2pTLWUyeDZlNll6azRqNzQwQ0phRUxMZkMzVS1oTzRNRHdHRjFoWDJZWElPMzV1czdHYlJiUQ?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-26",
+   "ai_summary": "London market offers growth platform for Beauty Tech Group - Traders Union — London market offers growth platform for Beauty Tech Group Traders Union",
+   "excerpt": "London market offers growth platform for Beauty Tech Group Traders Union"
+  },
+  {
+   "title": "The Beauty Tech Group is a reminder of London’s natural assets - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHNXc1htUmNRMDRsVVp0MlBPR1hYTE1JUkhrVlZUOE81WDFXU256cm5ic2JoVzhOcUZ1MURCbkktYU5vVV9xQWlYb0k5NFNIMjE0bF9BZFNpdWMwak9uTFJNQlZOR2RSZUFoMEswei1ac1RiZGZHQnhYUjJfbWxHb1h6SmM?oc=5",
+   "source": "Beauty Innovation & Tech (Google News)",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-26",
+   "ai_summary": "The Beauty Tech Group is a reminder of London’s natural assets - Financial Times — The Beauty Tech Group is a reminder of London’s natural assets Financial Times",
+   "excerpt": "The Beauty Tech Group is a reminder of London’s natural assets Financial Times"
+  },
+  {
+   "title": "Unpacking the trends driving holiday marketing and discovery with Glossy & Modern Retail reporters",
+   "url": "https://www.glossy.co/podcasts/unpacking-the-trends-driving-holiday-marketing-and-discovery-with-glossy-modern-retail-reporters/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-26",
+   "ai_summary": "Glossy and Modern Retail discuss holiday marketing strategies, focusing on TikTok Shop and celebrity partnerships.",
+   "excerpt": "What does it take to win holiday marketing? In this special Black Friday collab episode, Glossy and Modern Retail reporters Lexy Lebsack, Danny Parisi and Gabi Barkho discuss the impact of TikTok Shop, celebrity partners…"
+  },
+  {
+   "title": "Fashion Briefing: Luxury brands are mythologizing their founders in cartoons, comics and video games",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-luxury-brands-are-mythologizing-their-founders-in-cartoons-comics-and-video-games/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "source": "Glossy",
+   "category": "💄 Brands & Retail",
+   "date": "2026-11-26",
+   "ai_summary": "Luxury brands are reimagining their founders through cartoons, comics, and video games in recent campaigns.",
+   "excerpt": "Over the last year, a surprising number of luxury brands have rolled out campaigns featuring their original founders, often reinterpreted through mediums like animation, video games, comics or even being portrayed by mod…"
+  },
+  {
+   "title": "Mielle expands into body care with Daily Glow collection for melanin-rich skin",
+   "url": "https://www.premiumbeautynews.com/en/mielle-expands-into-body-care-with,28598",
+   "source": "Premium Beauty News",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Mielle launches its first body care line, Daily Glow, tailored for melanin-rich skin.",
+   "excerpt": "Mielle, the Black-founded beauty textured hair care brand acquired by Procter & Gamble in 2023, is entering the body care market with Daily Glow, its first-ever collection developed with the needs of melanin-rich skin in…"
+  },
   {
    "title": "Vitamin C body care: the brightening skin care active is moving below the face",
    "url": "https://www.cosmeticsbusiness.com/vitamin-c-body-care-the-brightening-skin-care",
