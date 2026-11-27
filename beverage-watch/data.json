@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beverage-watch/",
- "updated": "2026-11-26T22:52:00Z",
+ "updated": "2026-11-27T07:18:00Z",
  "briefing": {
-  "date": "2026-11-26",
-  "hook": "Heineken launches F1 beer while Rémy Cointreau pivots to zero‑additive cognac amid workforce cuts.",
+  "date": "2026-11-27",
+  "hook": "Today’s focus is on new product launches and market shifts, with Rémy Cointreau and Heineken pushing innovation while global supply and labor cuts loom.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard warns pubs of pricing shock and Sunrise acquires Northern Monk to counter growth strain.",
-   "📈 Market": "US distillers fear trade retaliation after proposed EU tariffs, while Heineken and Orior cut jobs.",
-   "🍸 Spirits & Premium": "Rémy Cointreau introduces Rémy 2.0 zero‑additive cognac to revive US demand.",
-   "🍺 Beer & Brewing": "Heineken plans to restart Prestige beer production in Haiti and launches a Formula One‑exclusive beer."
+   "🤝 Strategy & M&A": null,
+   "📈 Market": "The market sees a push against uniform RTD strategies, El Niño reshaping coffee supply, and US distillers warning of tariff retaliation, while Rémy Cointreau and Heineken announce workforce cuts.",
+   "🍸 Spirits & Premium": "Rémy Cointreau introduces a zero‑additives product, Rémy 2.0, to revive US cognac demand.",
+   "🍺 Beer & Brewing": "Heineken launches a Formula One‑exclusive beer, NPD, targeting racing fans."
   }
  },
  "articles": [
+  {
+   "title": "From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving - WXYZ Channel 7",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGJJZTgzOXc0ZE9mVHBYVGVCd2JYbWJXOVJSeGw5MmF2Z2tsbzhlSHZuQjlILXJ0cElfdmxTWFdONzJXWUJUNVU3Z2lSUnk3bDJJWGxYTEM5ZEZQeUZUaU1lakJQT1hwdlRsaHBtRDlMaXlnQlppMUUzSjB4WGxQNEFiNFhGQVVsWHlUZ1hSWW1ISWZvcjMzeXNET1dzSlFjOXd3SEZ6eFhjZUxjSHFDMjd2Z1l0eF9tVFE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving - WXYZ Channel 7 — From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving WXYZ Channel 7",
+   "excerpt": "From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving WXYZ Channel 7"
+  },
+  {
+   "title": "Jameson Williams spreads Thanksgiving joy to families in need - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXN4VEJwZFc4U3dnV1paNmwzRGFwTzFaM2F0cWIwM3JEV0lXUnhoUjE1ZjF4elc0V0tRYjRweE5Md0RHMU9DcDJCbmFGZzI1Q3JhZ3dobF94VzVzYzRtVFRxMXhySk9FaWRHejNxdlh6U1dCbDVSbFJla3hYcHF5YVQ2cEhuazU3Ukg3dFJSc183Q193S3FIdnlQbjVsMk4zMEE?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams spreads Thanksgiving joy to families in need - CBS News — Jameson Williams spreads Thanksgiving joy to families in need CBS News",
+   "excerpt": "Jameson Williams spreads Thanksgiving joy to families in need CBS News"
+  },
+  {
+   "title": "Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ - ClickOnDetroit | WDIV Local 4",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTZFdjhRRWZZR3lCTHNSTkJ6cFh2LWUzSGRwQzY4OGc3alFrajBrU2NRM0VuNjJGQ3NkUGx1eE9mYlNEdmhpckFzaUtHV01sNkE2dkd5Wk02UzVkSWxBYVNTTTV3UUJzU1JXOTJQZlBWRHoyQ1lrMEI5alFxWWVJeHBHMm1iTmxIZTR3ZGVYLWtFMUE0NGktSW5TX3hFR0V5VEZYTEJ4TDZ0NkRyVEZteUVqeEt6MVJaSFZPRjlGWXJCLWRjdURVWVBtYnBlcmJHcE9Qa1FmOUZQZw?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ - ClickOnDetroit | WDIV Local 4 — Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ ClickOnDetroit | WDIV Local 4",
+   "excerpt": "Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ ClickOnDetroit | WDIV Local 4"
+  },
+  {
+   "title": "Jameson Williams has up-and-down day in loss - NBC Sports",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREZwWmttWl9pQkZ1aWhOSjRycmNNNTlnQ2lia1hZdTEyN3Izd0JNLTNWMUozLXJwNHVnempkbUNXcDNOdmZBSnRabi1sejBvV1VBdnltTnJULUtxdG02VWF6YlhMdTBLNGo5dUJudWtHVUVoZHZvSnFnanFwbDhfQjE4RFNPaTBWaENkQ1hfdnVYamtOclBQc3lBSlNIVlZGb1QwODVnWG1XX3hzcF9Z?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams has up-and-down day in loss - NBC Sports — Jameson Williams has up-and-down day in loss NBC Sports",
+   "excerpt": "Jameson Williams has up-and-down day in loss NBC Sports"
+  },
+  {
+   "title": "Jameson Williams hauls in six passes in Week 12 loss to Bears - FantasyPros",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGF6QU5zRTE3QWZDV0h5SXFmRjZWN2FDYTJQb29lM1FaSExlSWg1QjctbDFmbWp4YTlUcElRdzBKcmJ5dWhsMDY4N3prU25sZDR2Q0VVM21FcllPR1lrT0NlOExzbjBjZUtvZm1ucnlNYlljb3ZiTXdrdGQ1a1prMWEzVGM1Ymh3X1h4ejZkZTRrQjQtNXlORWczb2VWSnpGcmNraGdn0gGrAUFVX3lxTE5uck1Vd25KWnBHRktfdXE2QXJtOFN0MVBiSDdXODhMZ1VMbXpZa3l1NndQRjNVeWNhc1Y2MklTcUtKU1NGdVVEVm5XaUF5bEdLNlBPbVljdEQxR3Z0RVcxdmZOdDZBTmw3Vk5CNXpPRTllZUhjMm94RWR4cU81YnZMLXY3am03ejl0aWU4NjJxZjV1NEVub3RIbE1XbnN1ZXRSLXFqZUxFY2NKUQ?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams hauls in six passes in Week 12 loss to Bears - FantasyPros — Jameson Williams hauls in six passes in Week 12 loss to Bears FantasyPros",
+   "excerpt": "Jameson Williams hauls in six passes in Week 12 loss to Bears FantasyPros"
+  },
+  {
+   "title": "Jameson Williams Six grabs on Thanksgiving - Fantasy Footballers Podcast",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkV5Zkhsa1RGOUVNSlh4RzNGR05oLS1sYTFmcWIyVFBGU2xlV2pueTM5LV9Yc0ZkdGZXcWdvSHZWWk9KUzBNVjJIT0pXNXA1RExwc0dIakhDN1pKZ3dwVW01d3VhODQ0bzVIRHkxekdZdzJ5MDE2LW8zeG9uOVBPQzhmV25MbEl4d2QxVkRTS3NVNkc1bzJSbg?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams Six grabs on Thanksgiving - Fantasy Footballers Podcast — Jameson Williams Six grabs on Thanksgiving Fantasy Footballers Podcast",
+   "excerpt": "Jameson Williams Six grabs on Thanksgiving Fantasy Footballers Podcast"
+  },
+  {
+   "title": "Six receptions for Jameson Williams in Week 12 - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEh6VHRSU3FRSU5laWk1SC13S0dqNnBla3EyemtiTlhteXlHeHA3TjloZXVZcnMyUVl1clE5c0h1aF9vZTBIS3hpVmpWY3pOM3NHRnV2NlJIZlZGMW9YSThCNXFQS1pWeDZIYmlFdlhIR1ZZb2hQZ2lpLXRTNHBqNTkyTkhNWk0?oc=5",
+   "source": "Pernod Ricard & Heineken Watch (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-26",
+   "ai_summary": "Six receptions for Jameson Williams in Week 12 - AOL.com — Six receptions for Jameson Williams in Week 12 AOL.com",
+   "excerpt": "Six receptions for Jameson Williams in Week 12 AOL.com"
+  },
   {
    "title": "Goff dials launch codes to Jameson Williams for 39-yard gain and near-red-zone access - NFL.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW9qNW94X1BlOHpIeVA3ZjkxWUNRNnJzdS1zd0JSZ0psWngxYzFEXzdoTlZuTVZqX09GUm51VGN0aHNwRHU5VmtZck1iREZaWmZZb1hRRmhlNW4tZXhSdmk4NnY3LXVjV3VFT0ZBaWRhRENoWGZQbmFyZlp5QkY4SzRFd0JyMUY4aXp0QlRVTTFUb01uRUJNc01FVVJPQzVONkp5MGxwRXRBNDhIQWNvRDJR?oc=5",
@@ -47,6 +110,15 @@
    "date": "2026-11-26",
    "ai_summary": "Why brands – and retailers – must avoid a one-size-fits-all RTD approach – The article explains why a uniform ready-to-drink strategy is unsuitable for diverse brands and retailers.",
    "excerpt": "From hard seltzers to premium pre-mixed cocktails, why brand owners and retailers must avoid a one-size-fits-all RTD strategy."
+  },
+  {
+   "title": "How El Niño is reshaping global coffee supply risks",
+   "url": "https://www.just-drinks.com/analyst-comment/how-el-nino-is-reshaping-global-coffee-supply-risks/",
+   "source": "Just Drinks",
+   "category": "📈 Market",
+   "date": "2026-11-26",
+   "ai_summary": "How El Niño is reshaping global coffee supply risks — Strong El Niño conditions are bringing uneven weather across key coffee regions, creating localised risks rather than a uniform drop in production.",
+   "excerpt": "Strong El Niño conditions are bringing uneven weather across key coffee regions, creating localised risks rather than a uniform drop in production."
   },
   {
    "title": "Jameson marks the continuation of its Other Voices festival partnership with an Irish-language poem - media-marketing.com",
@@ -4331,168 +4403,6 @@
    "date": "2026-10-28",
    "ai_summary": "Jameson Geers: Gets cut from Cards' IR",
    "excerpt": "Jameson Geers: Gets cut from Cards' IR CBS Sports"
-  },
-  {
-   "title": "Heineken partners with Amazon for on-premise ‘streaming service’ - Global Drinks Intel",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEZqRFRvekw5YS1BMlNfWXRabzNpcndFa0pJR3JISkxZTVF5OU9BcmVicTRSU2xkVzRtbHM1SWsyTkdEZU5QWkhoUUVacE1ySXlPb0VSeHlJSjJGaXNLQy1wbXlHU1JEZEhHMEs4YTlqRnV5eVlWWGR1Z0RJU0dZSUhMMVB4dDgwRzF4cVVoeXFPWHB6b2pTdQ?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Heineken partners with Amazon for on-premise ‘streaming service’",
-   "excerpt": "Heineken partners with Amazon for on-premise ‘streaming service’ Global Drinks Intel"
-  },
-  {
-   "title": "Why Whiskey Tourism Is Booming at Irish Distilleries - Robb Report",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGtmc2YwaTFBRURycUY1Rng1clBQSFdsWWYtNVRtZEcyQkR3XzdQLXVvbGZPYjFiYmhvZnFpdGVhVVNIeHhKa3A3akh3NlVGRWFUVW9McFl0YjFOZllHRzZJNnlQLUo3ZnZtUGwzTjRJbU5EcnI5ZjdKT0lJSlVpN0VBRHN0RHJVVkRuUXJaZWlKcWxWUHNrUC1sNm0xV2RqUUREa2RoNjA?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Why Whiskey Tourism Is Booming at Irish Distilleries",
-   "excerpt": "Why Whiskey Tourism Is Booming at Irish Distilleries Robb Report"
-  },
-  {
-   "title": "CPI | Heineken Ordered to Pay $124 Million in Greek Antitrust Case - PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0RrRjFfVHhiZ1RXdS1FNHNNM0piZDBlNDJOVjY2aC1hQ1JNSmdxdjM2TC1WakRlbkdKdlE1bGNGVG94LWRlTFhyQ0xCUnVZRkNUYXZsamhhQ2ZhOV9KTGM0ZFJpWXRzRW10UTFUc1NIQnZSLUVvRU13bGctSWtiTHJQLTBaTWM5cnNGNllyQVgwazJjRW90Uw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Heineken has been ordered to pay $124 million in a Greek antitrust case, as reported by PYMNTS.com.",
-   "excerpt": "CPI | Heineken Ordered to Pay $124 Million in Greek Antitrust Case PYMNTS.com"
-  },
-  {
-   "title": "Heineken serves warning to British pubs over weight loss drugs - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHh6a3dpSXJmZWg2RGFYVDFvblFUV2dZV1N6emxIVFRlU2x3bXVUOE1zWGl0UW5DM2ZPYkZZeUJBWjA5TXk5RElnNUVQQzhyUWlXakxEd2JlNkFwQThET3B0a0FWWlNpTm9qTUpldGExazBYaVllNVJJM080MVhQSlZTLXd1XzA1U3NIRHNR?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Heineken serves warning to British pubs over weight loss drugs.",
-   "excerpt": "Heineken serves warning to British pubs over weight loss drugs Yahoo"
-  },
-  {
-   "title": "Heineken invests in Monterrey to preserve water basins - MEXICONOW",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZpcERWSVdLbGdUd0VIeGgyckItNFQ0SkdOdnZ1dXVxWGl2ZHlVczdDNDN5ejQ3SFdTem9adHZUQjhNbmgtM1pTVUFuaEZVY2ZaVTNDZG9aczhNcmdKeE1DNXR3eDdBS1JJNlExUVlkZi0wdHY5YjRvNG42T1JvYkpqTFg?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Heineken is investing in Monterrey to preserve water basins, according to MEXICONOW.",
-   "excerpt": "Heineken invests in Monterrey to preserve water basins MEXICONOW"
-  },
-  {
-   "title": "Heineken hit with $124M antitrust judgment - Business Insurance",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW5URVZlWnBZYS03OWNyT3RDNVpJSDRCdURqMExVUGFCRmtPT2FOUTMxMmllb29KUlMyY2poU0xFcGVmQ3ZONFhBOEN3QU11MTJwTThFWXdiQjU4S05mQU9FMlpiU2FCSkxFRlFoYVJQMk9BN19EN1BaQlk0Ym5QdzR3?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Heineken hit with $124M antitrust judgment",
-   "excerpt": "Heineken hit with $124M antitrust judgment Business Insurance"
-  },
-  {
-   "title": "Cognac maker Maison Boinaud granted judicial protection",
-   "url": "https://www.just-drinks.com/news/cognac-maker-maison-boinaud-granted-judicial-protection/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "Cognac maker Maison Boinaud granted judicial protection.",
-   "excerpt": "French Cognac house Maison Boinaud has been placed under judicial protection in a bid to restructure its debt."
-  },
-  {
-   "title": "LMB strikes absinthe distribution deal in UK",
-   "url": "https://www.just-drinks.com/news/lmb-absinthe-uk-distribution-deal/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "LMB strikes absinthe distribution deal in UK.",
-   "excerpt": "La Martiniquaise-Bardinet has secured UK distribution rights for French absinthe label La Fée."
-  },
-  {
-   "title": "González Byass picks new distributor for sherry, brandy in Germany",
-   "url": "https://www.just-drinks.com/news/gonzalez-byass-picks-new-distributor-in-germany/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "González Byass picks new distributor for sherry, brandy in Germany.",
-   "excerpt": "González Byass has named local wholesaler Schlumberger as its new distributor for some of the Spanish group's spirits and sherries."
-  },
-  {
-   "title": "Goldman Sachs, Houlihan Lokey top consumer M&A charts in Q1–Q3 – data",
-   "url": "https://www.just-drinks.com/news/top-consumer-ma-advisers-q1-2-26/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "Goldman Sachs, Houlihan Lokey top consumer M&A charts in Q1–Q3 – data.",
-   "excerpt": "Goldman Sachs and Houlihan Lokey were the leading financial advisers for consumer-sector M&A during the first nine months of 2026."
-  },
-  {
-   "title": "US judge rejects bid to halt possible Uncle Nearest assets sale",
-   "url": "https://www.just-drinks.com/news/us-judge-rejects-bid-to-halt-possible-uncle-nearest-assets-sale/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "US judge rejects bid to halt possible Uncle Nearest assets sale",
-   "excerpt": "A judge in the US has rejected an attempt by Uncle Nearest's former CEO to halt the potential sale of most of the whiskey business' assets."
-  },
-  {
-   "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path - Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYk1VSEFUMFVLbmRvRV9zZ29KVUVoX3FaMFBWRW1idFVUemozNVZsa1FmSkdrZk9zNVVITzU5T0c5bWtHbVBmd1pUclFpQ3d5azVWN29YR2JfalZHcXVCcVJYWW53WFBOWGJiQUV6X3FJbGZ0UUQzVklheVp0aFhMNkx4NzhYdi1kTXhoczJHb2FNLTExX2dFTFVMeVpRY0gyMkx2dDE3Zw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path",
-   "excerpt": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path Bitcoin Magazine"
-  },
-  {
-   "title": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing - Total Licensing",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWFjVkNjNlU2cUQ5QTZjaHRKV3BiMEFqQVFHT0x6ZTI1OXJvRnFaem5qSnpXTDdYMDBWQzM4RzViX2Vvd2JIbDJvYjNzSk9fV1FXQ1JnMWpOeFMwaG83UURIRjJmRm9yUVpod1kwWWgxNWoxaktOYWZRTUVfb20xVWQ1X3U3RjRrZVJjS1YzWHVtdWZQTjdFSFV4cHBiY2hjb3NmaUxUZEZhbWJ2dTZHOGRuUW1WT3dZ?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing",
-   "excerpt": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing Total Licensing"
-  },
-  {
-   "title": "Grades: Lions earn early season statement win over division rival - Macomb Daily",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURFWG5wTnBHZk9PYXc3TXdoOFMyanZsMk96YmZDRVRNdmVnbmJVbXNfb0lLeXJBdFRvVHRZcUd0c2k3Zmw3U3NMNWZ5RFhyVUgxYVdQcXF6REZwRFFPd2ZPWnUzXzJnSV80UkhSRGZyUnRMOWlBNkxFVzZkbWdzb21BU29JbjlEZ3dqT3NIVU5ndkJPOUZxZ0k3cnVFMnJsMUtBeHo4dw?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Grades: Lions earn early season statement win over division rival",
-   "excerpt": "Grades: Lions earn early season statement win over division rival Macomb Daily"
-  },
-  {
-   "title": "Rules protect Irish whiskey – but flexibility offers category benefits",
-   "url": "https://www.just-drinks.com/comment/rules-protect-irish-whiskey-but-flexibility-offers-benefits/",
-   "source": "Just Drinks",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "Proposed amendments to Irish whiskey's technical file will give the category greater diversity, writes Richard Woodard. Rules protect Irish whiskey – but flexibility offers category benefits.",
-   "excerpt": "Proposed amendments to Irish whiskey's technical file will give the category greater diversity, writes Richard Woodard."
-  },
-  {
-   "title": "UBS Sees 'Slight Upside' for Heineken's Q3 Volume Growth - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktqRGtqaEhBYmpXRGdXak9kX3k2eXF2bmtnMXY4MEVCVTF6TF9adnBPMUhiWVRTUjcxU0l0ZXJCeUlmcU1OaWxreV9aeFdoWmJtdnJsbHRudEtvdVVCXzBwR0NKYWp5MmVwYWoyWWdNT01hekNLanMyQUpza0I4M3RCOERBLXJxTThyTjIzWWgzRTF3eEV4c015Q1VCQktDVnVfa0FaR2YzOU0?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "UBS sees a slight upside for Heineken's Q3 volume growth. The assessment is reported by marketscreener.com.",
-   "excerpt": "UBS Sees 'Slight Upside' for Heineken's Q3 Volume Growth marketscreener.com"
-  },
-  {
-   "title": "Quote 500: Crypto billionaire passes Heineken heiress for richest person in Netherlands - NL Times",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelE5Tm1lOW1lenJDaUhWNHljanVpX0dZU0tQUXlYcUhEQXZ6dDB4dzBkZmNtWlBEV1JEZEhER2JlX0NubFItVzZJbkRlSlRqazhGeTZDeVpDUG5LWEdnNzRCMDF4bDZzV2JRSy1oZGFSekdFR3RKUFZjam41bkJmRnQ3T1ZsZjNwMFJJWDlLRWVWWmh2TkEzZGtXT0M5RU16aGxPZUVCZWpfS0FveXc?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Crypto billionaire surpasses Heineken heiress to become richest person in Netherlands. The change in ranking is reported by NL Times.",
-   "excerpt": "Quote 500: Crypto billionaire passes Heineken heiress for richest person in Netherlands NL Times"
-  },
-  {
-   "title": "Heineken Partners With Amazon For 'Pubscription' Streaming Service 10/26/2026 - MediaPost",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3oyRVYtNmR6NVM2QjJmaFM1cG5zSTZGTGJpeXVvdzRLRHhXRU92TUdpZlRDem9WZXVoM3FUNW16UlFHTS1mckktVTI4a1ZUQTVXYzVpVklGbEI5YVRydF8zWHJoT2swSkM1aGxjbXhRNEJoZW1mdkJKRU5qV1JfZF9ReUVHQXd1b2tJTTVPTDBHOUtjUDViV3ZubWREandkNzF1MXBoMldZQW8?oc=5",
-   "source": "Pernod Ricard & Heineken Watch (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "",
-   "excerpt": "Heineken Partners With Amazon For 'Pubscription' Streaming Service 10/26/2026 MediaPost"
   }
  ]
 }

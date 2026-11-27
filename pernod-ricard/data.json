@@ -1,17 +1,80 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/pernod-ricard/",
- "updated": "2026-11-26T22:52:00Z",
+ "updated": "2026-11-27T07:18:00Z",
  "briefing": {
-  "date": "2026-11-26",
-  "hook": "Pernod Ricard focuses on digital innovation, brand partnerships, and market positioning amid pricing concerns.",
+  "date": "2026-11-27",
+  "hook": "Pernod Ricard focuses on pricing transparency for pubs and boosts Christmas spirits sales amid retail support.",
   "categories": {
-   "🤝 Strategy & M&A": "Pernod Ricard warns pubs of ‘bill shock’ pricing, urges standout Christmas serves, and backs retailers to boost spirits sales.",
-   "🥃 Spirits & Brands": "Jameson continues its Other Voices festival partnership with an Irish-language poem, reinforcing its brand engagement.",
-   "📈 Market": "Pernod Ricard’s Francesco Ottaviano notes mixed global gin demand, targeting younger adults and the aperitif boom.",
-   "💡 Innovation & RTD": "Pernod Ricard joins NIQ’s ConnectAI program alongside Arthēa, expanding its data-driven innovation efforts."
+   "🤝 Strategy & M&A": "Pernod Ricard warns pubs about pricing shock while encouraging standout serves in its Christmas on‑trade programme and supporting retailers to drive sales.",
+   "🥃 Spirits & Brands": null,
+   "📈 Market": null,
+   "💡 Innovation & RTD": null
   }
  },
  "articles": [
+  {
+   "title": "From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving - WXYZ Channel 7",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGJJZTgzOXc0ZE9mVHBYVGVCd2JYbWJXOVJSeGw5MmF2Z2tsbzhlSHZuQjlILXJ0cElfdmxTWFdONzJXWUJUNVU3Z2lSUnk3bDJJWGxYTEM5ZEZQeUZUaU1lakJQT1hwdlRsaHBtRDlMaXlnQlppMUUzSjB4WGxQNEFiNFhGQVVsWHlUZ1hSWW1ISWZvcjMzeXNET1dzSlFjOXd3SEZ6eFhjZUxjSHFDMjd2Z1l0eF9tVFE?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving - WXYZ Channel 7 — From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving WXYZ Channel 7",
+   "excerpt": "From the field to the dinner table: Jameson Williams and his family give back on Thanksgiving WXYZ Channel 7"
+  },
+  {
+   "title": "Jameson Williams spreads Thanksgiving joy to families in need - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXN4VEJwZFc4U3dnV1paNmwzRGFwTzFaM2F0cWIwM3JEV0lXUnhoUjE1ZjF4elc0V0tRYjRweE5Md0RHMU9DcDJCbmFGZzI1Q3JhZ3dobF94VzVzYzRtVFRxMXhySk9FaWRHejNxdlh6U1dCbDVSbFJla3hYcHF5YVQ2cEhuazU3Ukg3dFJSc183Q193S3FIdnlQbjVsMk4zMEE?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams spreads Thanksgiving joy to families in need - CBS News — Jameson Williams spreads Thanksgiving joy to families in need CBS News",
+   "excerpt": "Jameson Williams spreads Thanksgiving joy to families in need CBS News"
+  },
+  {
+   "title": "Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ - ClickOnDetroit | WDIV Local 4",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTZFdjhRRWZZR3lCTHNSTkJ6cFh2LWUzSGRwQzY4OGc3alFrajBrU2NRM0VuNjJGQ3NkUGx1eE9mYlNEdmhpckFzaUtHV01sNkE2dkd5Wk02UzVkSWxBYVNTTTV3UUJzU1JXOTJQZlBWRHoyQ1lrMEI5alFxWWVJeHBHMm1iTmxIZTR3ZGVYLWtFMUE0NGktSW5TX3hFR0V5VEZYTEJ4TDZ0NkRyVEZteUVqeEt6MVJaSFZPRjlGWXJCLWRjdURVWVBtYnBlcmJHcE9Qa1FmOUZQZw?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ - ClickOnDetroit | WDIV Local 4 — Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ ClickOnDetroit | WDIV Local 4",
+   "excerpt": "Detroit Lions’ Jameson Williams continues Thanksgiving tradition: ‘I just want to give back’ ClickOnDetroit | WDIV Local 4"
+  },
+  {
+   "title": "Jameson Williams has up-and-down day in loss - NBC Sports",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREZwWmttWl9pQkZ1aWhOSjRycmNNNTlnQ2lia1hZdTEyN3Izd0JNLTNWMUozLXJwNHVnempkbUNXcDNOdmZBSnRabi1sejBvV1VBdnltTnJULUtxdG02VWF6YlhMdTBLNGo5dUJudWtHVUVoZHZvSnFnanFwbDhfQjE4RFNPaTBWaENkQ1hfdnVYamtOclBQc3lBSlNIVlZGb1QwODVnWG1XX3hzcF9Z?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams has up-and-down day in loss - NBC Sports — Jameson Williams has up-and-down day in loss NBC Sports",
+   "excerpt": "Jameson Williams has up-and-down day in loss NBC Sports"
+  },
+  {
+   "title": "Jameson Williams hauls in six passes in Week 12 loss to Bears - FantasyPros",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGF6QU5zRTE3QWZDV0h5SXFmRjZWN2FDYTJQb29lM1FaSExlSWg1QjctbDFmbWp4YTlUcElRdzBKcmJ5dWhsMDY4N3prU25sZDR2Q0VVM21FcllPR1lrT0NlOExzbjBjZUtvZm1ucnlNYlljb3ZiTXdrdGQ1a1prMWEzVGM1Ymh3X1h4ejZkZTRrQjQtNXlORWczb2VWSnpGcmNraGdn0gGrAUFVX3lxTE5uck1Vd25KWnBHRktfdXE2QXJtOFN0MVBiSDdXODhMZ1VMbXpZa3l1NndQRjNVeWNhc1Y2MklTcUtKU1NGdVVEVm5XaUF5bEdLNlBPbVljdEQxR3Z0RVcxdmZOdDZBTmw3Vk5CNXpPRTllZUhjMm94RWR4cU81YnZMLXY3am03ejl0aWU4NjJxZjV1NEVub3RIbE1XbnN1ZXRSLXFqZUxFY2NKUQ?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams recorded six receptions in a Week 12 defeat against the Bears, according to FantasyPros.",
+   "excerpt": "Jameson Williams hauls in six passes in Week 12 loss to Bears FantasyPros"
+  },
+  {
+   "title": "Thursday’s football roundup: What a rush for Jameson O’Keefe and Swampscott to finally beat Marblehead - The Boston Globe",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVlVbERHbE11M3pfY1ZoM0NFQ3Y2WjlRa0J4clJrNXRWMzVtTlZyRUZWZWhxVUg1RnJ1dXhJam5ESHFINVVrSFJnTU43WURiTFBya2xLLVEwY25BeE5uZkVMRUVKd2Q3OGw5Q1laeHFTUTVJb2VLbnU5a0lhaWxnaVliazNyMmdCVGt0WDA2VnBBOGl3aW5QXzZpSzJGQWM?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "The Boston Globe reports that Jameson O’Keefe and Swampscott celebrated a decisive victory over Marblehead in Thursday’s football roundup.",
+   "excerpt": "Thursday’s football roundup: What a rush for Jameson O’Keefe and Swampscott to finally beat Marblehead The Boston Globe"
+  },
+  {
+   "title": "Jameson Williams Six grabs on Thanksgiving - Fantasy Footballers Podcast",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkV5Zkhsa1RGOUVNSlh4RzNGR05oLS1sYTFmcWIyVFBGU2xlV2pueTM5LV9Yc0ZkdGZXcWdvSHZWWk9KUzBNVjJIT0pXNXA1RExwc0dIakhDN1pKZ3dwVW01d3VhODQ0bzVIRHkxekdZdzJ5MDE2LW8zeG9uOVBPQzhmV25MbEl4d2QxVkRTS3NVNkc1bzJSbg?oc=5",
+   "source": "Pernod Ricard Premium Brands (Google News)",
+   "category": "🥃 Spirits & Brands",
+   "date": "2026-11-27",
+   "ai_summary": "Jameson Williams Six grabs on Thanksgiving - Fantasy Footballers Podcast — Jameson Williams Six grabs on Thanksgiving Fantasy Footballers Podcast",
+   "excerpt": "Jameson Williams Six grabs on Thanksgiving Fantasy Footballers Podcast"
+  },
   {
    "title": "Goff dials launch codes to Jameson Williams for 39-yard gain and near-red-zone access - NFL.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW9qNW94X1BlOHpIeVA3ZjkxWUNRNnJzdS1zd0JSZ0psWngxYzFEXzdoTlZuTVZqX09GUm51VGN0aHNwRHU5VmtZck1iREZaWmZZb1hRRmhlNW4tZXhSdmk4NnY3LXVjV3VFT0ZBaWRhRENoWGZQbmFyZlp5QkY4SzRFd0JyMUY4aXp0QlRVTTFUb01uRUJNc01FVVJPQzVONkp5MGxwRXRBNDhIQWNvRDJR?oc=5",
@@ -41,7 +104,7 @@
   },
   {
    "title": "Pitch Update: Pernod Ricard, Lidl, McCain, We Buy Any Car, Suzuki, Amazon, Polestar, Loveholidays and more - Campaign UK",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdktQVUs2UEtuR0VpVHE3STBwc21YdHV1eldZdGZiNjB3RWNiYmJKWXZlYTRTS1QwQWZtU2IxYndiNl9oR2dBb0J4amhyQ1dsS1ZYdzlTem5lcEpsYnVRNEN1ZVhQeDBuTFc2TGhBRXF1b2tHS0ZrbjlURXRIVXNGcjJCZXhPTUlTcV80U3RQUUFwQ0kxNERmODhaZXBpeDlqU0hOSWJTcmtSMmttVVBJMEZyNDJEU3FZclR2ZkExTVNlQ3E1TnRULWhVazNWcWd6OVpsQWVfTk1meWZOX2phVlhxdzl2YUNOa0pJQzVMNmZkMTVfVVE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbkFObkpXS180enA5STg2dW1LRFI5OF9yMXRrOW1iYUFla1VnV2RiaW5ockVWb1p4OXl4OFBGMnBLcDFSTnFwa2ZWa1R0cXM1SWttVU9YakVPVWFpbXdFV3FaUGxneFNCeTlud3N6MWlkSzVsUG9LWGpCX2R1bVRpS3AzSHVjM2lPaTZ2dnF4eWl3SDVjc2Njb3dtZ1cxSFJMVzBIMzZNSFhFY19wU1ZxNnpxUjJfc2F5TGsxNXNlWVVnQ2lzZmxzSndPaUJyNmJLd2NuTEdYaWVrVG1zWnpYTDJvdi0xOUE5MGJaTDkxQnhEdnNPV1Q0?oc=5",
    "source": "Pernod Ricard Corporate & M&A (Google News)",
    "category": "🤝 Strategy & M&A",
    "date": "2026-11-26",
@@ -3287,69 +3350,6 @@
    "date": "2026-10-28",
    "ai_summary": "Jameson Geers is cut from the Cardinals' injured reserve. The news is reported by CBS Sports.",
    "excerpt": "Jameson Geers: Gets cut from Cards' IR CBS Sports"
-  },
-  {
-   "title": "Davido Teams With Martell for Afrobeats-Inspired Cognac Bottle: ‘It’s Been a Blessing to Help Push the Sound of Afrobeats to the World’ - K-Jewel 99.3 FM",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUEQ3TFdUYy10eTBvb1hXbjhTSHBodlFJUzRjV2l0N2s1NWtpdnB1bEFQZF9tbHNUY2FYRnVxYnhvOTRWVlVtUHZ0b2NHc3BsUUhhMklKYXZDMi00Uk1zMEpDc3RlTHJaVFV5aWs1ckFiUWhrVzlCUTV1MmpncmF3OXBlOTRibW5hbE93aDJ0Uml6OUVzc3Y1Uk9tVmZ6TmV1ZlY3M1ItSWNJRnNpTGxxRWZiX2JadUlJZWVCbXU4YkhEZWx0VkFuY2l1Rjh2bHZMQ0FTNWtpcFE4R3NDQ3BKXzdpZG1jaU9BTGRmRkU1TnY3TWhSSEM4?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-27",
-   "ai_summary": "Davido partners with Martell to launch an Afrobeats-inspired cognac bottle, celebrating the fusion of music and spirits. The collaboration highlights the brand’s commitment to cultural innovation and global reach.",
-   "excerpt": "Davido Teams With Martell for Afrobeats-Inspired Cognac Bottle: ‘It’s Been a Blessing to Help Push the Sound of Afrobeats to the World’ K-Jewel 99.3 FM"
-  },
-  {
-   "title": "Davido Teams With Martell for Afrobeats-Inspired Cognac Bottle: ‘It’s Been a Blessing to Help Push the Sound of Afrobeats to the World’ - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWN3M3NBQjlmeG9jSHkzcEhwdFl1TUR3Z0w4aWpPcmJMeGNwSTZhNjFLc2xBRFlraHFuTS12UG1qanc3NFA2VG55eFpwZTdIMGllN2ZWc2llLUlLeHRaelZCTFJlQ1VJdlJMSVVaTFUwZ2Rmc2hkcDhaRHBibEVXWDlGRUxuU2k4TEZ6MjU5dnFJZkZvSFhONFI2VXgtUjl6TFk2VFFRY0Y?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-27",
-   "ai_summary": "Davido Teams With Martell for Afrobeats-Inspired Cognac Bottle: ‘It’s Been a Blessing to Help Push the Sound of Afrobeats to the World’",
-   "excerpt": "Davido Teams With Martell for Afrobeats-Inspired Cognac Bottle: ‘It’s Been a Blessing to Help Push the Sound of Afrobeats to the World’ Yahoo"
-  },
-  {
-   "title": "Brandcraft Conference 2026: CMOs From MG Motors, Motorola, Pernod Ricard, Bisleri & More To Convene - BW Marketing World",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmtwTXBieklIQVJ1bHpRMEJITGJqb0xSRHh6Tnl0UjFjeUw3aGoyb2dsbnNFMDA1LUdjVjcxa3JoVXlST01NQVRGVDdLR3ZmZjc4NlNnRjRUZTFWN1NKOHRDZ2VCeTZiNkllbEZsbU9iaWJTcXdrbnRqbU1Zd2U4SUZOQkZMRWl4ME9LNWJNU3h1ZlJnbXdhTlctcW5Sa01EanZ4N0t3UTh3TXBLU25CNlVOc0t4Rl9zSTctSFhuTndkRzhBbkRSQ05YVU5YWU1ELUlDd2V5ZFU?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Brandcraft Conference 2026: CMOs From MG Motors, Motorola, Pernod Ricard, Bisleri & More To Convene",
-   "excerpt": "Brandcraft Conference 2026: CMOs From MG Motors, Motorola, Pernod Ricard, Bisleri & More To Convene BW Marketing World"
-  },
-  {
-   "title": "RBC raises target for Pernod Ricard stock from EUR 69 to EUR 71 - ad-hoc-news.de",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUhnSzVyVXBLY3RRSGZOa01QYU4zeEV6YWJhMTlzRzhtekxzZ084TVhMOVBTdHloYVNNQzhEY3V4b1dqbURwVGlRZndfXzFaSzcxOFNTSWNuSnRscjB6aG1sdXlsT294YVpabTAzRGlVNHdOS24ydnlaWHFFSGVrRUl1MU1fdVBNUnpETGVodW52Sm1ueWJRVVhNUVBGTlpwQm94WWJWa09qbmthY1VXcGtmWlNhVmNKZ3NldVcwcTVJNnNt?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "RBC raises its target for Pernod Ricard stock from EUR 69 to EUR 71.",
-   "excerpt": "RBC raises target for Pernod Ricard stock from EUR 69 to EUR 71 ad-hoc-news.de"
-  },
-  {
-   "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path - Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYk1VSEFUMFVLbmRvRV9zZ29KVUVoX3FaMFBWRW1idFVUemozNVZsa1FmSkdrZk9zNVVITzU5T0c5bWtHbVBmd1pUclFpQ3d5azVWN29YR2JfalZHcXVCcVJYWW53WFBOWGJiQUV6X3FJbGZ0UUQzVklheVp0aFhMNkx4NzhYdi1kTXhoczJHb2FNLTExX2dFTFVMeVpRY0gyMkx2dDE3Zw?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-27",
-   "ai_summary": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path",
-   "excerpt": "Bitcoin Security Expert Jameson Lopp: Cyberattacks On “Exponential” Path Bitcoin Magazine"
-  },
-  {
-   "title": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing - Total Licensing",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWFjVkNjNlU2cUQ5QTZjaHRKV3BiMEFqQVFHT0x6ZTI1OXJvRnFaem5qSnpXTDdYMDBWQzM4RzViX2Vvd2JIbDJvYjNzSk9fV1FXQ1JnMWpOeFMwaG83UURIRjJmRm9yUVpod1kwWWgxNWoxaktOYWZRTUVfb20xVWQ1X3U3RjRrZVJjS1YzWHVtdWZQTjdFSFV4cHBiY2hjb3NmaUxUZEZhbWJ2dTZHOGRuUW1WT3dZ?oc=5",
-   "source": "Pernod Ricard Premium Brands (Google News)",
-   "category": "🥃 Spirits & Brands",
-   "date": "2026-10-27",
-   "ai_summary": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing",
-   "excerpt": "Brand Central Appoints Haven Global to Grow Absolut Vodka, Malibu and Kahlúa Licensing Total Licensing"
-  },
-  {
-   "title": "Pernod Ricard completes EUR 1.5 billion issue. Pernod Ricard stock falls 1.39 percent - ad-hoc-news.de",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXZtRlBxTmJKOVhDcTBjUFhTU2JTU2t5YXpodUZlbW1JY0J5Ums1T0NCWlFMTFRsLUlETVl3YXZiVEVfeUNsNzhia29QU3lyVS0wdGVwNGd1Zi1XN2hXU1BOQXFBZTRiMTN4NVlPaHBYYjRlZ1lEa1ZjYmJWRnZoNkdwdGhXOGZmX0Rjc0JwUUN6T092MEdFYmdOUzZaVFJ4YXFNdUFiMGZXZDNKQm5fUDBtWjN6T3BCb01hdTZXb0NmclhoMXRrcGIwbFdSZnVuYm5QQ25WS29PcWhaT0FVLQ?oc=5",
-   "source": "Pernod Ricard Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Pernod Ricard completes a EUR 1.5 billion issue, with its stock falling 1.39 percent.",
-   "excerpt": "Pernod Ricard completes EUR 1.5 billion issue. Pernod Ricard stock falls 1.39 percent ad-hoc-news.de"
   }
  ]
 }

@@ -1,17 +1,26 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-26T22:52:00Z",
+ "updated": "2026-11-27T07:18:00Z",
  "briefing": {
-  "date": "2026-11-26",
-  "hook": "Pet food firms celebrate awards and profit growth while inflation pressures loom.",
+  "date": "2026-11-27",
+  "hook": "Mars appoints new president, pets at home profit surge, and FDA rule debate highlight market, regulation, and innovation shifts.",
   "categories": {
-   "📈 Market": "Purina wins Emmy awards and Pets at Home reports a 44% profit jump, yet U.S. and U.K. pet owners face renewed price pressure.",
-   "⚖️ Regulation": null,
-   "💡 Innovation": "Consumers increasingly demand skin‑health benefits in daily diets, and companies highlight sustainability and new production partnerships.",
-   "🤝 M&A": "Industry stakeholders weigh FDA proposed GRAS rule changes, while Mars names a new president for its science and diagnostics unit."
+   "📈 Market": "Pets at Home reports a 44% profit jump in H1, signaling strong consumer demand despite rising prices.",
+   "⚖️ Regulation": "Industry stakeholders weigh the FDA’s proposed GRAS rule on pet food ingredients amid a looming December 9 deadline.",
+   "💡 Innovation": "Consumers increasingly expect daily diets to address skin and coat health, as a glossy coat signals pet wellbeing.",
+   "🤝 M&A": "Mars names Carlos Andres‑Luna president of its Science & Diagnostics unit, signaling a strategic shift in the pet‑care giant."
   }
  },
  "articles": [
+  {
+   "title": "Carlos Andres-Luna To Redefine Mars Petcare - Supermarket News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGxaaEVmTEhCUVlVR3RKS1hBUkVjUDdYNk01bU1yeHoyUWZNSVdKWUlFVXF1QlFnUHAwVUNtSk9NcERyUFhpdHpFQ3pIdWJZZDhFWVVvRE5jb0VpSEJpeFg2dndjeFptYUpsWDFlZVJvcnBEZE5nZnZRODRzeTA3d1ROM3NVSl95?oc=5",
+   "source": "Mars Petcare (Google News)",
+   "category": "🤝 M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Carlos Andres-Luna will redefine Mars Petcare. The news is reported by Supermarket News.",
+   "excerpt": "Carlos Andres-Luna To Redefine Mars Petcare Supermarket News"
+  },
   {
    "title": "Purina docuseries earns three Daytime Emmy Awards",
    "url": "https://www.petfoodprocessing.net/articles/21115-purina-docuseries-earns-three-daytime-emmy-awards",
@@ -1748,60 +1757,6 @@
    "date": "2026-10-28",
    "ai_summary": "More pet companies have earned B Corp certification, recognizing their adherence to social and environmental performance, accountability, and transparency standards.",
    "excerpt": "More pet companies have earned B Corp certification, which recognizes businesses that meet standards for social and environmental performance, accountability and transparency. The B Corp community now includes more than …"
-  },
-  {
-   "title": "Analysis: Pet food makers step up in quality assurance and food safety",
-   "url": "https://globalpetindustry.com/news/analysis-pet-food-makers-step-up-in-quality-assurance-and-food-safety/",
-   "source": "Global Pet Industry",
-   "category": "🤝 M&A",
-   "date": "2026-10-27",
-   "ai_summary": "Pet food makers are increasing investment in food safety and quality controls, focusing on traceability, testing, and operational improvements across the industry.",
-   "excerpt": "Food safety and quality controls are attracting greater investment across the food and beverage industry, with manufacturers allocating more resources to traceability, testing and operational improvements. A 2026 report …"
-  },
-  {
-   "title": "Tractor Supply’s pet business grows 5% in Q3 as sales trends improve",
-   "url": "https://globalpetindustry.com/news/tractor-supplys-pet-business-grows-5-in-q3-as-sales-trends-improve/",
-   "source": "Global Pet Industry",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-27",
-   "ai_summary": "Tractor Supply’s pet business experienced a 5% growth in Q3, reflecting improved sales trends for the company.",
-   "excerpt": "Tractor Supply’s net sales rose 5.1% year on year (YoY) to $3.91 billion (€3.40B) in the third quarter (Q3) of fiscal year (FY) 2026, ended 26 September. For Hal Lawton, President and Chief Executive Officer of Tractor S…"
-  },
-  {
-   "title": "PFI announces board officers for 2027-28",
-   "url": "https://www.petfoodprocessing.net/articles/21024-pfi-announces-board-officers-for-2027-28",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "PFI announces board officers for 2027-28 — Wellness Pet Company CEO Reed Howlett will serve as chair.",
-   "excerpt": "Wellness Pet Company CEO Reed Howlett will serve as chair."
-  },
-  {
-   "title": "PACK EXPO celebrates 70 years",
-   "url": "https://www.petfoodprocessing.net/articles/21023-pack-expo-celebrates-70-years",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "PACK EXPO celebrates 70 years — The packaging and processing trade show marked its largest event in its history.",
-   "excerpt": "The packaging and processing trade show marked its largest event in its history."
-  },
-  {
-   "title": "Selective growth: State of the pet food, treat industry in 2026",
-   "url": "https://www.petfoodprocessing.net/articles/21022-selective-growth-state-of-the-pet-food-treat-industry-in-2026",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-27",
-   "ai_summary": "Selective growth: State of the pet food, treat industry in 2026 — Pet food sales continue to rise, with the biggest opportunities from cat nutrition, premium products and younger consumers.",
-   "excerpt": "Pet food sales continue to rise, with the biggest opportunities from cat nutrition, premium products and younger consumers."
-  },
-  {
-   "title": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day - 파이낸셜뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMEcwX0VXVlNvZUxzQnhjUjBqbllkbmFUM0ZaTU9Vam5mNy1BWW1tU2x1Q05DajVIOUxZaEgxbjAyQ0hNYXd6LVdSZnFlWFJ6ZEJic3Zkdjc?oc=5",
-   "source": "Royal Canin (Google News)",
-   "category": "💡 Innovation",
-   "date": "2026-10-27",
-   "ai_summary": "Royal Canin Korea donated 8 tons of pet food for Animal Protection Day. The donation was reported by 파이낸셜뉴스.",
-   "excerpt": "Royal Canin Korea donates 8 tons of pet food for Animal Protection Day 파이낸셜뉴스"
   }
  ]
 }
