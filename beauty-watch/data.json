@@ -1,17 +1,62 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/beauty-watch/",
- "updated": "2026-11-27T07:18:00Z",
+ "updated": "2026-11-27T17:55:00Z",
  "briefing": {
   "date": "2026-11-27",
-  "hook": "Today’s focus spans luxury sales tactics, tech‑driven beauty expansion, and strategic fragrance deals amid regulatory scrutiny.",
+  "hook": "New fragrance launches, M&A moves, and market campaigns shape today’s beauty landscape.",
   "categories": {
-   "📈 Market": "E.l.f. launches a pop‑up at Art Basel Miami while Givaudan, Firmenich and IFF face a €500 million fine for collusion, and Missha opens a Bristol pop‑up to showcase its K‑beauty range.",
-   "💄 Brands & Retail": "Luxury retailers extend Black Friday into November, discounting heavily, while brands like Ring Concierge and Aerin Glazer emphasize intentional buying and accessibility in makeup.",
-   "🤝 Strategy & M&A": "Puig nears a US$2 billion acquisition of Parfums de Marly, and Weinberg Capital Partners adds Etat Libre d'Orange to its fragrance portfolio, underscoring consolidation in the sector.",
-   "💡 Innovation & Regulation": "Dubai’s Armaf partners with Neymar Jr. for Amazon and TikTok promotion, and the Beauty Tech Group highlights London’s growth platform for tech‑driven beauty solutions."
+   "📈 Market": "L’Oréal Paris partners with Ariana Greenblatt for a street harassment campaign, while Givaudan, Firmenich and IFF face a €500 million fine for sharing sensitive data.",
+   "💄 Brands & Retail": "Luxury retailers extend Black Friday sales and reimagine founders through creative media, while college students allocate a large share of holiday budgets to beauty.",
+   "🤝 Strategy & M&A": "Weinberg Capital Partners acquires Etat Libre d’Orange, and Puig nears a US$2 B deal for Parfums de Marly amid growing fragrance competition.",
+   "💡 Innovation & Regulation": "Prada Beauty launches a new perfume with a VIP performer, Essential Parfums opens its first London flagship, and several new beauty products debut across the market."
   }
  },
  "articles": [
+  {
+   "title": "Cosmetics Business picks: 7 November beauty launches to know",
+   "url": "https://www.cosmeticsbusiness.com/cb-picks-7-beauty-launches-nov26",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-27",
+   "ai_summary": "Cosmetics Business highlights seven new beauty launches, featuring Mielle’s body care, Ayesha Curry’s Sweet July lip shades, Rodial and Innisfree skincare, and Memo Paris’s new scent.",
+   "excerpt": "This week’s best new-in beauty includes Mielle’s entry into body care, fresh Lip Treatment shades from Ayesha Curry’s Sweet July, skin care from Rodial and Innisfree and a new scent from Memo Paris"
+  },
+  {
+   "title": "État Libre D'Orange acquired by Weinberg Capital Partners opening ‘new chapter’ for niche fragrance brand",
+   "url": "https://www.cosmeticsbusiness.com/%C3%A9tat-libre-d-orange-acquired-by-weinberg-capital-partners",
+   "source": "Cosmetics Business",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "The acquisition of État Libre D'Orange by Weinberg Capital Partners marks a new chapter for the niche fragrance brand, with former Chanel executive Hélène Lévy stepping in as CEO.",
+   "excerpt": "As part of the deal, former Chanel Parfums Beauté and Editions de Parfums Frédéric Malle executive Hélène Lévy will take on the role of CEO"
+  },
+  {
+   "title": "Prada Beauty teases VIP performer for Prada Piano pop-up in London",
+   "url": "https://www.cosmeticsbusiness.com/prada-beauty-teases-vip-performer-for-prada-piano-pop-up",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-27",
+   "ai_summary": "Prada Beauty announces a VIP performer for its London pop-up, celebrating the launch of Prada Paradigme Le Parfum with a special guest to be revealed.",
+   "excerpt": "The pop-up celebrates the launch of Prada Paradigme Le Parfum, which debuted in summer 2026, with a special guest set to be unveiled"
+  },
+  {
+   "title": "Essential Parfums opens debut London flagship boutique",
+   "url": "https://www.cosmeticsbusiness.com/essential-parfums-opens-debut-london-flagship-boutique",
+   "source": "Cosmetics Business",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-27",
+   "ai_summary": "Essential Parfums opens its first London flagship on Carnaby Street, expanding its UK presence and planning 20 more global stores over the next three years.",
+   "excerpt": "The boutique, which has opened in the heart of London shopping destination Carnaby Street, builds on Essential Parfums' launch into the UK – with plans to open in 20 more global doors in the next three years"
+  },
+  {
+   "title": "L’Oréal Paris and Ariana Greenblatt spotlight street harassment in new campaign",
+   "url": "https://www.cosmeticsbusiness.com/l-or%C3%A9al-paris-and-ariana-greenblatt-spotlight-street-harassment",
+   "source": "Cosmetics Business",
+   "category": "📈 Market",
+   "date": "2026-11-27",
+   "ai_summary": "L’Oréal Paris and Ariana Greenblatt launch a campaign on street harassment during the UN’s 16 Days of Activism Against Gender-Based Violence, promoting the brand’s Stand Up Against Street Harassment programme.",
+   "excerpt": "As part of the United Nations’ (UN) 16 Days of Activism Against Gender-Based Violence, L’Oréal Paris and actress Ariana Greenblatt will spotlight the beauty brand’s Stand Up Against Street Harassment programme"
+  },
   {
    "title": "Unpacking Spate’s 2026 Culture Report: Maximalism is here to stay",
    "url": "https://www.glossy.co/pop/unpacking-spates-2026-culture-report-maximalism-is-here-to-stay/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -29,6 +74,15 @@
    "date": "2026-11-27",
    "ai_summary": "Luxury Briefing: Why luxury retailers keep going back on sale — Black Friday now stretches across much of November. This week, Glossy looks at which luxury brands are discounting and what a longer sale season means for full-price sales. Plus, how Harvey Nichols’ five-day office manda…",
    "excerpt": "Black Friday now stretches across much of November. This week, Glossy looks at which luxury brands are discounting and what a longer sale season means for full-price sales. Plus, how Harvey Nichols’ five-day office manda…"
+  },
+  {
+   "title": "Rawy Baranco, Mach4Food: “The impact of equipment deserves greater attention”",
+   "url": "https://www.premiumbeautynews.com/en/rawy-baranco-mach4food-the-impact,28605",
+   "source": "Premium Beauty News",
+   "category": "💡 Innovation & Regulation",
+   "date": "2026-11-27",
+   "ai_summary": "Rawy José Baranco, Manager of Sales and Co-Founder at Mach4Food, discusses the importance of equipment impact in the international trade of used and refurbished machinery for the metal packaging industry.",
+   "excerpt": "Rawy José Baranco is Manager of Sales and Co-Founder at Mach4Food, a family-owned company based in the Netherlands specialising in the international trade of used and refurbished machinery for the metal packaging industr…"
   },
   {
    "title": "The Clean Beauty and Fragrance Black Friday Deals That Are Actually Worth Shopping This Weekend - https://the-ethos.co/",
