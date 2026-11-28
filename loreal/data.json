@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-28T01:14:00Z",
+ "updated": "2026-11-28T09:55:00Z",
  "briefing": {
   "date": "2026-11-28",
-  "hook": "L’Oréal moves on strategic stake, new beauty tech win, and a street‑harassment campaign, while shares dip slightly.",
+  "hook": "Today L'Oréal’s focus spans a potential Armani stake, new beauty tech win, and fresh brand campaigns amid market shifts.",
   "categories": {
-   "🤝 Strategy & M&A": "Armani’s Will sets up L’Oréal to buy a 10% stake, while other deals and a neutral rating highlight the group’s ongoing M&A activity.",
-   "💄 Brands & Launches": null,
-   "💡 Beauty Tech & ESG": "Indian startup Intrinsic Foundries wins L’Oréal’s 2026 Big Bang Beauty Tech Innovation Program, earning a special mention.",
-   "📈 Market": "L’Oréal Paris partners with Ariana Greenblatt in a street‑harassment campaign aligned with the UN’s 16 Days of Activism, while Prada Beauty teases a VIP performer for a London pop‑up."
+   "🤝 Strategy & M&A": "Armani’s will could enable L'Oréal to acquire a 10% stake, while the group highlights other attractive deals, a UNESCO science event, a neutral rating, and new packaging rules, though shares slipped slightly.",
+   "💄 Brands & Launches": "L'Oréal Paris partners with Ariana Greenblatt to spotlight street harassment in a campaign tied to the UN’s 16 Days of Activism, while Prada Beauty previews a VIP pop‑up in London.",
+   "💡 Beauty Tech & ESG": "Indian startup Intrinsic Foundries won L'Oréal’s 2026 Big Bang Beauty Tech Innovation Program, earning a special mention for its work.",
+   "📈 Market": "Prada Beauty teases a VIP performer for a London pop‑up, and L'Oréal Paris launches a street‑harassment campaign aligned with UN activism."
   }
  },
  "articles": [
@@ -29,6 +29,15 @@
    "date": "2026-11-27",
    "ai_summary": "From glass-skin masks to cult mascara, these are the L'Oréal deals worth buying",
    "excerpt": "From glass-skin masks to cult mascara, these are the L'Oréal deals worth buying Metro.co.uk"
+  },
+  {
+   "title": "L’Oréal-UNESCO For Women in Science Canada ceremony - La France au Canada",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDk5d2ZJSko1LWIzUFN0bERfQVc5MmdnTGZqNExTa3MtbUV1dEZKbGpORWVmNEs3aG40T0lyWmRkbkxEMXVEWVRDZ2dfZHdJMG1ZQlREcWVmczdaeHpKOU5WTU9sMDdtT2NqWG5CUU1kLVFUMHMzeFQyeV9YVGdXSFZB?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "L’Oréal-UNESCO For Women in Science Canada ceremony",
+   "excerpt": "L’Oréal-UNESCO For Women in Science Canada ceremony La France au Canada"
   },
   {
    "title": "L'Oréal : Bernstein reiterates its Neutral rating - marketscreener.com",
@@ -191,6 +200,15 @@
    "date": "2026-11-25",
    "ai_summary": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention Yahoo Finance UK",
    "excerpt": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention Yahoo Finance UK"
+  },
+  {
+   "title": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDNSMDVXdWVfM3NqUk0tdV9VeDF5UnRWakFKX0hkcm5lTXI4ZWZSMTQwUE1pd0p6ZGFWUjEtRkxQSmZoekxnMC13ekt1VWUyZmYwaWpNalNOWTdmdFhfZDFobnNKWG1kTUZCbHJqdW9kcndjOElrcHZRZUI0TkpFSVdBQWNuRkp3cmt5bV9PdmhPdVV5NENpYnJYMVYwMTZKdjJpSndYemtyNUU?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-25",
+   "ai_summary": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention",
+   "excerpt": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention Yahoo Finance"
   },
   {
    "title": "L'Oréal : Bernstein is Neutral - marketscreener.com",
