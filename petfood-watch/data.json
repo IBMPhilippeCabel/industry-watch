@@ -1,14 +1,14 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/petfood-watch/",
- "updated": "2026-11-27T17:55:00Z",
+ "updated": "2026-11-28T01:14:00Z",
  "briefing": {
-  "date": "2026-11-27",
-  "hook": "Today’s highlights show Amazon dominance for pet brands, French market expansion, innovative pet treats, Royal Canin’s training push, and Mars’s leadership shift.",
+  "date": "2026-11-28",
+  "hook": "Amazon remains the dominant platform for pet brands, outpacing TikTok Shop in revenue for most sellers.",
   "categories": {
-   "📈 Market": "Amazon remains the top platform for pet brands, with 80% earning more revenue there than on TikTok Shop, while the French market’s size signals growth opportunities.",
-   "⚖️ Regulation": "Royal Canin India partners with PPAM and Brihad Veterinary Academy to launch a milestone animal care assistant training program.",
-   "💡 Innovation": "Pet food companies are pushing boundaries with new product launches such as bourbon‑inspired dog treats, black pudding sausages, venison‑based nutrition, and luxury crystal bowls.",
-   "🤝 M&A": "Mars has appointed Carlos Andres‑Luna as president of its Science & Diagnostics division, signaling a leadership shift within the pet‑care giant."
+   "📈 Market": "Amazon dominates pet brand revenue, with 80% earning more there than on TikTok Shop, though the gap varies by seller and product.",
+   "⚖️ Regulation": null,
+   "💡 Innovation": "Royal Canin India launches a training program for animal care assistants and pet brands are pushing boundaries with novel treats and luxury items.",
+   "🤝 M&A": "Mars Petcare will be reshaped by Carlos Andres-Luna, according to Supermarket News."
   }
  },
  "articles": [
@@ -20,6 +20,15 @@
    "date": "2026-11-27",
    "ai_summary": "Data shows that 80% of pet brands earn more revenue on Amazon than on TikTok Shop, with the difference varying by seller and product category.",
    "excerpt": "Amazon generates more revenue than TikTok Shop for 81% of a selection of pet brands operating on both platforms. The gap, however, varies significantly by seller and product category. The figures come data analytics plat…"
+  },
+  {
+   "title": "Royal Canin India Partners With PPAM And Brihad Veterinary Academy To Launch Milestone Animal Care Assistant Training Program - Outlook Business",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRFpxRkx3NTNNSjBrV1VDMlNHZWExTVliaVRwYUtMR19fUTl6MVdvTzU1YjNoaWo2bU5kaE9qeFlPbHRzbFFmamxwdXByZnY4dzQ4UmJRTkg3SHpwNzVlWFpMSWVhSm15cVRhT3RxaGhHZ3pyWlVUcEhtY3Fab3pmcmNPanZaekhYeTNJME5SRHQ1ZjNDN3pwSkpjSjQ3QmczZHplMGYyUzM3MEVIZnVqYVlveUhFOTdwQkpLa2NudmptSi0xMG14eHZaczJEUjdnWW9Ocy1PN05LRXhEWHZFQVJ4N1lNdXN2UVhjQzZuWllhNXIzWGtUWnV5dk8tNV9idmpQU1Bn0gGTAkFVX3lxTE95Q0x1MFdUanY4cTVmZ21Bd0U3dmFkVnR4OTVEbUFNLTVHSkpmSG5zSDIwR1ZEM3hXOU9NcUhkUUJ1T01EU3dJczJtZks5M015d2l2YnpmSlpVaHlfUnJQcnZ6bGxBejRJcWJ1R0Z5ZmxzRXBSTjg4WjVJSUtsWmNjNzJkcUt6NnNzeGE0V0JLdmdpUFpmWUJIZzhmb1VYZ3pNMHNqam5VNmdYbE1QS1hscVNRQ0kzajRLbnlDM2liaWFRQkQyREE0YTBPTURuaFBNemZqR2hwRlNDM1RMb3pNMjdIU1o5UGtPUU9pWXA3TE1ORVFmOFE1dzhWZEktZy1YSThnVlRDWUNuSThzTkdBby1F?oc=5",
+   "source": "Royal Canin (Google News)",
+   "category": "💡 Innovation",
+   "date": "2026-11-27",
+   "ai_summary": "Royal Canin India has partnered with PPAM and Brihad Veterinary Academy to launch a new training program for animal care assistants. The initiative aims to enhance skills and support milestone animal care services.",
+   "excerpt": "Royal Canin India Partners With PPAM And Brihad Veterinary Academy To Launch Milestone Animal Care Assistant Training Program Outlook Business"
   },
   {
    "title": "Kibbles ‘n Bits launches action film trailer starring dogs",
@@ -1766,69 +1775,6 @@
    "date": "2026-10-29",
    "ai_summary": "Amazon’s first‑party vendors now account for 23.4% of the monthly average revenue in the US pet category on the platform, equating to about $322 million per month. This represents a significant share of the overall pet sales captured by Amazon’s direct sales channel.",
    "excerpt": "First-party (1P) vendors selling pet products directly to Amazon account for 23.4% of the monthly average revenue for the pet category on the platform in the US. This represents a monthly income of $322 million (€279M), …"
-  },
-  {
-   "title": "PSC names new CEO, executive director",
-   "url": "https://www.petfoodprocessing.net/articles/21028-psc-names-new-ceo-executive-director",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-28",
-   "ai_summary": "PSC names new CEO, executive director — Heather Pfahl brings two decades of leadership experience across business, environmental and social impact segments.",
-   "excerpt": "Heather Pfahl brings two decades of leadership experience across business, environmental and social impact segments."
-  },
-  {
-   "title": "Beggin’ unveils new holiday treats",
-   "url": "https://www.petfoodprocessing.net/articles/21027-beggin-unveils-new-holiday-treats",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-28",
-   "ai_summary": "Beggin’ unveils new holiday treats — The launch encourages pet parents to give their dogs treats instead of table scraps during the holidays.",
-   "excerpt": "The launch encourages pet parents to give their dogs treats instead of table scraps during the holidays."
-  },
-  {
-   "title": "K9 Natural brings Baked & Coated dog food to Canada through Pet Valu",
-   "url": "https://www.petfoodprocessing.net/articles/21026-k9-natural-brings-baked-and-coated-dog-food-to-canada-through-pet-valu",
-   "source": "Pet Food Processing",
-   "category": "📈 Market",
-   "date": "2026-10-28",
-   "ai_summary": "K9 Natural brings Baked & Coated dog food to Canada through Pet Valu — The line is now available exclusively at the Pet Valu family of stores until May 2027.",
-   "excerpt": "The line is now available exclusively at the Pet Valu family of stores until May 2027."
-  },
-  {
-   "title": "Volare completes insect protein production facility",
-   "url": "https://www.petfoodprocessing.net/articles/21025-volare-completes-insect-protein-production-facility",
-   "source": "Pet Food Processing",
-   "category": "💡 Innovation",
-   "date": "2026-10-28",
-   "ai_summary": "Volare completes insect protein production facility — The new plant in Finland will provide BSFL-derived protein for use in pet food, aquafeed and poultry feed.",
-   "excerpt": "The new plant in Finland will provide BSFL-derived protein for use in pet food, aquafeed and poultry feed."
-  },
-  {
-   "title": "Shiitake mushrooms may lower cholesterol in dogs",
-   "url": "https://www.petfoodindustry.com/nutrition/dog-and-cat-food-nutrition/article/16050245/shiitake-mushrooms-may-lower-cholesterol-in-dogs",
-   "source": "Petfood Industry",
-   "category": "💡 Innovation",
-   "date": "2026-10-28",
-   "ai_summary": "Shiitake mushrooms may lower cholesterol in dogs — The researchers examined whether blood lipid responses differed between younger and older dogs.",
-   "excerpt": "The researchers examined whether blood lipid responses differed between younger and older dogs."
-  },
-  {
-   "title": "Symrise: pet food growth remains in the low single digits in Q3",
-   "url": "https://globalpetindustry.com/news/symrise-pet-food-growth-remains-in-the-low-single-digits-in-q3/",
-   "source": "Global Pet Industry",
-   "category": "📈 Market",
-   "date": "2026-10-28",
-   "ai_summary": "Symrise’s pet portfolio achieved low‑single‑digit organic sales growth in Q3 2026, driven by positive volume development in its palatability and nutrition businesses.",
-   "excerpt": "Symrise’s pet portfolio posted low-single-digit organic sales growth in Q3 2026, supported by positive volume development in its palatability and nutrition businesses. The Taste, Nutrition & Health segment, which include…"
-  },
-  {
-   "title": "Clean label, B Corp: Pet companies gain new sustainability credentials",
-   "url": "https://globalpetindustry.com/news/clean-label-b-corp-pet-companies-gain-new-sustainability-credentials/",
-   "source": "Global Pet Industry",
-   "category": "⚖️ Regulation",
-   "date": "2026-10-28",
-   "ai_summary": "More pet companies have earned B Corp certification, recognizing their adherence to social and environmental performance, accountability, and transparency standards.",
-   "excerpt": "More pet companies have earned B Corp certification, which recognizes businesses that meet standards for social and environmental performance, accountability and transparency. The B Corp community now includes more than …"
   }
  ]
 }

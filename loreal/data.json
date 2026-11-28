@@ -1,17 +1,35 @@
 {
  "site": "https://ibmphilippecabel.github.io/industry-watch/loreal/",
- "updated": "2026-11-27T17:55:00Z",
+ "updated": "2026-11-28T01:14:00Z",
  "briefing": {
-  "date": "2026-11-27",
-  "hook": "L'Oréal balances a neutral rating, sustainability moves in Mexico, a share dip, influencer deal in India, and a street‑harassment campaign, all while advancing circular economy initiatives.",
+  "date": "2026-11-28",
+  "hook": "L’Oréal moves on strategic stake, new beauty tech win, and a street‑harassment campaign, while shares dip slightly.",
   "categories": {
-   "🤝 Strategy & M&A": "L'Oréal balances a neutral rating, sustainability moves in Mexico, a share dip, influencer deal in India, and a street‑harassment campaign, all while advancing circular economy initiatives.",
-   "💄 Brands & Launches": "CeraVe’s NBA partnership continues to deliver momentum for the brand.",
-   "💡 Beauty Tech & ESG": "Intrinsic Foundries wins L'Oréal’s 2026 Big Bang Beauty Tech Innovation Program and L'Oréal Vietnam unlocks new AI opportunities.",
-   "📈 Market": null
+   "🤝 Strategy & M&A": "Armani’s Will sets up L’Oréal to buy a 10% stake, while other deals and a neutral rating highlight the group’s ongoing M&A activity.",
+   "💄 Brands & Launches": null,
+   "💡 Beauty Tech & ESG": "Indian startup Intrinsic Foundries wins L’Oréal’s 2026 Big Bang Beauty Tech Innovation Program, earning a special mention.",
+   "📈 Market": "L’Oréal Paris partners with Ariana Greenblatt in a street‑harassment campaign aligned with the UN’s 16 Days of Activism, while Prada Beauty teases a VIP performer for a London pop‑up."
   }
  },
  "articles": [
+  {
+   "title": "Armani’s Will Sets Up L’Oréal To Buy A 10% Stake - Finimize",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclVzTTF0dGUtREc4bl9iWHR4QW9LUlVWaWNaNWh2S2xnSjZQMHJEQTBsMGY1VmcyX0E5NXV5VktZbFhIRzMzUVRiNFBZYUdZZXp0YzlLMGZIakZYV3VYclJnYWF6cGtVVF9ncjY0TnBySHRETkt2ZlNsSHlmOFVURUlVTU1hZw?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "Armani’s Will Sets Up L’Oréal To Buy A 10% Stake",
+   "excerpt": "Armani’s Will Sets Up L’Oréal To Buy A 10% Stake Finimize"
+  },
+  {
+   "title": "From glass-skin masks to cult mascara, these are the L'Oréal deals worth buying - Metro.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXJWQjJ5WFFjaVZTOWJYTlMwVXhqR0d0bndKV21OTzlITlFJdVJLbkEwbnRDQ09MaEJZMS1pZzZ5SDdTRV9rMEdBNllWbDN0cWpmVEpOYmNKaUVkUEFuaXRWMWRZS3ZYa1kwU0tXbzcySFBWX3pxUEJTVWd6N01aUkxoSUdrS2picjUwRmtMR1BIQW9ibm13c0RDNEREUWFf?oc=5",
+   "source": "L'Oréal Corporate & M&A (Google News)",
+   "category": "🤝 Strategy & M&A",
+   "date": "2026-11-27",
+   "ai_summary": "From glass-skin masks to cult mascara, these are the L'Oréal deals worth buying",
+   "excerpt": "From glass-skin masks to cult mascara, these are the L'Oréal deals worth buying Metro.co.uk"
+  },
   {
    "title": "L'Oréal : Bernstein reiterates its Neutral rating - marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGtBM1hub3NQOEZIVWtCcjcxeVFtMTFhanhRdU9nTWstaWdOQXUxTlVNbE0wNlJnbUM2ZkNWYkV6ZXNfeGVrQUdESlB5SlZtZVJWQjcxNGRtZVNBQ2xfRlFNNy01YTBFdW5wa25tMTNNbWlVbkprcWJHNmdBcDBXb0x0Ynl1amlYLXZzVDNJMzR3V0toeE42dy1hZndBQ2Etbnc?oc=5",
@@ -2270,78 +2288,6 @@
    "date": "2026-10-29",
    "ai_summary": "RBC revises its financial estimates for L’Oréal following the company's Q3 results.",
    "excerpt": "RBC Adjusts Estimates for L'Oréal Post-Q3 Results marketscreener.com"
-  },
-  {
-   "title": "L’Oréal Paris Names Adria Arjona Its Newest Global Ambassador - Oui Speak Fashion (OSF)",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UbTRmN2NhdEF3OEVCS3B4b1dmMy1TRDA5R1lUQXpONjNOMWF6R0d5bDN6ZVdXY1JyQWpJcWh6X09paGxQa1ozLTlhV0RsVm5BUVg3TmU5R2pxaUJPbzZVejBocTlnZXlHdHFLOXNVR0sxN2dVQTdHbFpWdGM?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "L’Oréal Paris has appointed Adria Arjona as a new global ambassador. This move highlights the brand’s focus on diverse representation.",
-   "excerpt": "L’Oréal Paris Names Adria Arjona Its Newest Global Ambassador Oui Speak Fashion (OSF)"
-  },
-  {
-   "title": "Minnesota sues L’Oréal over hair relaxer cancer risks - Minnesota Lawyer",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZi13THVqN1B4Z2lpYTZQeVBXMnVDc2V5VEpVLUdmQ2p3b3czSlpVdEZvMmJ2YVVKSk1CMzZkWGJBOV9hSVFOb3NTS0hLQ2V6WWpYNGJ4Q1Z6cFFIT2tOZ1pCU1czb2VoQlZxT1RpcjhfLVlEVzZ0elBlU0VsVjdkcTlRNXFLNzJoNXc?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "Minnesota has filed a lawsuit against L’Oréal alleging that its hair relaxer poses cancer risks.",
-   "excerpt": "Minnesota sues L’Oréal over hair relaxer cancer risks Minnesota Lawyer"
-  },
-  {
-   "title": "After quarterly revenue, RBC raises its target on L'Oréal - www.marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0F0LXo0WDhhR1JWSlVGUWpNZDZQTW00d04tUVJBRFQtNFpRcjNGTXpacVpuR1ZRaVQxbE9OT0xUYVZCU1AxM0NzOVVnYi1UaUdnVlByN3d3UjZJVndOV2dvV0VEendyT09LWGRELTFJZFR1REY2Qk9EanRqRFpncHdfVXBfbnRITnl6MEVqTWQzeS1CWk9QZGhaWmpodTd3UDl4OEEyUjNfaXcwX2c?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "After quarterly revenue, RBC raises its target on L'Oréal. The article discusses the impact of the latest earnings on the company's valuation.",
-   "excerpt": "After quarterly revenue, RBC raises its target on L'Oréal www.marketscreener.com"
-  },
-  {
-   "title": "Adria Arjona named L’Oréal Paris global ambassador - Drug Store News",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd081Y0RiTWNLLUZCa0NKZlQzYXpnNTlmLVRSaGlvaVJwWVJYLUxOUkZ0TWtlNl9BVmVLZ0dhU0JpWklwRVRsN3Y4Zmc4X25TVFJvVklITmgzYWEwRUd0bVI5eEtidTNxTGlnM3NlQ1dTZnZNT0NMdzVGRTMyZlhtQg?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "Adria Arjona has been appointed as the global ambassador for L’Oréal Paris.",
-   "excerpt": "Adria Arjona named L’Oréal Paris global ambassador Drug Store News"
-  },
-  {
-   "title": "L’Oréal Paris appoints Adria Arjona Global Ambassador as it enters ‘vibrant new chapter’ - Cosmetics Business",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkhxajAzSUVSZFpyRTNGT19OZmhyYTRmSlFsZUtzWTFTVVNwdzBmdzQyaDNZYUdOcFpuVVF5UWNsVElDVHp3dklSMjFnTDMyOE9Bc2NjanJFVi10aXFwaXBaZzdnSUlOY3N3YXlLemtfbHFfd1NDdDRyVGxjb212VVF4Z21hV1hPdTUyd2JBRTVWUQ?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "L’Oréal Paris appoints Adria Arjona Global Ambassador as it enters ‘vibrant new chapter’.",
-   "excerpt": "L’Oréal Paris appoints Adria Arjona Global Ambassador as it enters ‘vibrant new chapter’ Cosmetics Business"
-  },
-  {
-   "title": "L’Oréal Paris appoints Adria Arjona Global Ambassador as it enters ‘vibrant new chapter’",
-   "url": "https://www.cosmeticsbusiness.com/loreal-paris-appoints-adria-arjona-global-brand-ambassador",
-   "source": "Cosmetics Business",
-   "category": "📈 Market",
-   "date": "2026-10-28",
-   "ai_summary": "The French beauty brand has appointed Adria Arjona Global Ambassador to show what its famous ‘I'm Worth It’ slogan means in 2026, with the Puerto Rican actress starring in a new L’Oréal Paris campaign that celebrates cul…",
-   "excerpt": "The French beauty brand has appointed Adria Arjona Global Ambassador to show what its famous ‘I'm Worth It’ slogan means in 2026, with the Puerto Rican actress starring in a new L’Oréal Paris campaign that celebrates cul…"
-  },
-  {
-   "title": "L'Oréal marks 9th CIIE with The Beauty Odyssey, global art and new brand debuts - China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQXpvZU8yR0hsX21sUkhxcFJaVER4NFRaRG1BODRnLXpfZ202UkZqUGJ6LTB6ZXliWkFfU2dMVmRQTmZaWGJvNHU3V2lxUlZpVVgyV3RXZnZKczAzZXpXandESEw3ZEJxWnpfSHJfYThwbk9qTkdCaGFldDM5Zw?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "L'Oréal celebrated its 9th China International Import Expo with The Beauty Odyssey, showcasing global art and new brand launches. The event highlighted the company's commitment to innovation and international expansion.",
-   "excerpt": "L'Oréal marks 9th CIIE with The Beauty Odyssey, global art and new brand debuts China Daily"
-  },
-  {
-   "title": "Nicolas Hieronimus: Experienced Executive, Brand Builder, and Chief Executive Officer of L'Oréal - BBN Times",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2QzWXE3eVU5OFE4SEQzeHZpcy1jaHdVbzAxZjJ0MjhJdjQ3cTFDQm9ZbU1nRDZSNlNzeHNUd0NhUE9jMG8tZlMtZkpaZXZBaVBRTGI1V3p6SHVLTV8zT2lkN0h5NV94bkh0czRXcVRWbXFTQmhqUUdvb1NuMHFCcUczdTZSUHhrQ2hGVDV5TVMtamtXdG0zU2RoSGZ0OVcxZUE3TzBGWVVxc2ZMUFdLcUVic1lDOW5aUllibVhBNWxMMWFtdzRJ?oc=5",
-   "source": "L'Oréal Corporate & M&A (Google News)",
-   "category": "🤝 Strategy & M&A",
-   "date": "2026-10-28",
-   "ai_summary": "Nicolas Hieronimus: Experienced Executive, Brand Builder, and Chief Executive Officer of L'Oréal",
-   "excerpt": "Nicolas Hieronimus: Experienced Executive, Brand Builder, and Chief Executive Officer of L'Oréal BBN Times"
   }
  ]
 }
